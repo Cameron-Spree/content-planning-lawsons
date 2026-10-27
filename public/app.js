@@ -1,21 +1,42 @@
 /**
  * Lawsons Content Engine & Editorial Planner
- * Interactive Decision Deck (Tinder Style), Kanban, and 52-Week Roadmap
+ * Interactive Decision Deck with Editable Titles & Dynamic Live 52-Week Roadmap
  */
 
 let allArticles = [];
 let allWeeks = [];
 let allCandidates = {};
-let currentView = 'tinder'; // default to Tinder decision deck
+let currentView = 'tinder';
 let selectedBrief = null;
 
-// Tinder Mode State
+// Tinder Deck State
 let tinderMonth = 'Jan';
+let tinderPillar = 'Fencing';
 let tinderDeck = [];
 let tinderIndex = 0;
-let approvedCount = {};
+
+// Approved Roadmap State (starts empty, persisted in localStorage)
+// Structure: { [weekNumber]: { [pillar]: articleObj } }
+let approvedRoadmap = {};
 
 const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+
+const MONTH_WEEKS = {
+  'Jan': [1, 2, 3, 4],
+  'Feb': [5, 6, 7, 8],
+  'Mar': [9, 10, 11, 12, 13],
+  'Apr': [14, 15, 16, 17],
+  'May': [18, 19, 20, 21],
+  'Jun': [22, 23, 24, 25, 26],
+  'Jul': [27, 28, 29, 30],
+  'Aug': [31, 32, 33, 34],
+  'Sep': [35, 36, 37, 38, 39],
+  'Oct': [40, 41, 42, 43],
+  'Nov': [44, 45, 46, 47],
+  'Dec': [48, 49, 50, 51, 52]
+};
+
+const PILLARS = ['Fencing', 'Power Tools', 'Building Materials'];
 
 const KANBAN_STAGES = [
   { id: 'Briefing', label: 'Briefing / Backlog', color: '#3b82f6' },
@@ -41,18 +62,17 @@ async function loadData() {
     allWeeks = data.weeks || [];
     allCandidates = data.candidates || {};
 
-    // Restore saved statuses from localStorage
-    const savedStatuses = JSON.parse(localStorage.getItem('lawsons_card_statuses') || '{}');
-    allArticles.forEach(a => {
-      if (savedStatuses[a.id]) {
-        a.status = savedStatuses[a.id];
+    // Load saved approved roadmap from localStorage (starts empty if none)
+    const saved = localStorage.getItem('lawsons_approved_roadmap');
+    if (saved) {
+      try {
+        approvedRoadmap = JSON.parse(saved);
+      } catch (e) {
+        approvedRoadmap = {};
       }
-    });
-
-    // Count approved per month
-    MONTHS.forEach(m => {
-      approvedCount[m] = allArticles.filter(a => a.scheduledMonth === m && a.status === 'Scheduled').length;
-    });
+    } else {
+      approvedRoadmap = {};
+    }
 
     updateStats();
     initTinderDeck();
@@ -68,11 +88,48 @@ async function loadData() {
   }
 }
 
+function getApprovedCount() {
+  let count = 0;
+  Object.values(approvedRoadmap).forEach(weekObj => {
+    if (weekObj) {
+      PILLARS.forEach(p => {
+        if (weekObj[p]) count++;
+      });
+    }
+  });
+  return count;
+}
+
+function getPillarApprovedInMonth(pillar, month) {
+  const weeks = MONTH_WEEKS[month] || [];
+  let count = 0;
+  weeks.forEach(w => {
+    if (approvedRoadmap[w] && approvedRoadmap[w][pillar]) {
+      count++;
+    }
+  });
+  return count;
+}
+
 function updateStats() {
-  document.getElementById('stat-total-articles').textContent = allArticles.length;
-  const totalVol = allArticles.reduce((sum, a) => sum + (a.primaryVolume || 0), 0);
+  const approved = getApprovedCount();
+  document.getElementById('stat-total-articles').textContent = `${approved} / 156`;
+
+  let totalVol = 0;
+  let easyCount = 0;
+  Object.values(approvedRoadmap).forEach(weekObj => {
+    if (weekObj) {
+      PILLARS.forEach(p => {
+        const item = weekObj[p];
+        if (item) {
+          totalVol += (item.primaryVolume || 0);
+          if (item.difficultyLevel === 'Easy to Rank') easyCount++;
+        }
+      });
+    }
+  });
+
   document.getElementById('stat-total-vol').textContent = totalVol.toLocaleString() + '/mo';
-  const easyCount = allArticles.filter(a => a.difficultyLevel === 'Easy to Rank').length;
   document.getElementById('stat-easy-count').textContent = easyCount;
 }
 
@@ -86,36 +143,6 @@ function switchView(view) {
     initTinderDeck();
   }
   render();
-}
-
-function getFilteredArticles() {
-  const pillarFilter = document.getElementById('filter-pillar').value;
-  const diffFilter = document.getElementById('filter-difficulty').value;
-  const sortBy = document.getElementById('sort-by').value;
-  const searchKw = (document.getElementById('search-kw').value || '').toLowerCase().trim();
-
-  let list = allArticles.filter(a => {
-    if (pillarFilter !== 'all' && a.pillar !== pillarFilter) return false;
-    if (diffFilter !== 'all' && a.difficultyLevel !== diffFilter) return false;
-    if (searchKw) {
-      const matchPrimary = (a.primaryKeyword || '').toLowerCase().includes(searchKw);
-      const matchTitle = (a.recommendedTitle || '').toLowerCase().includes(searchKw);
-      const matchGrouped = (a.groupedKeywords || []).some(k => k.keyword.toLowerCase().includes(searchKw));
-      if (!matchPrimary && !matchTitle && !matchGrouped) return false;
-    }
-    return true;
-  });
-
-  // Sort
-  if (sortBy === 'rankability') {
-    list.sort((a, b) => (b.rankabilityScore || 0) - (a.rankabilityScore || 0));
-  } else if (sortBy === 'volume') {
-    list.sort((a, b) => (b.primaryVolume || 0) - (a.primaryVolume || 0));
-  } else if (sortBy === 'priority') {
-    list.sort((a, b) => (b.priorityScore || 0) - (a.priorityScore || 0));
-  }
-
-  return list;
 }
 
 function applyFilters() {
@@ -136,22 +163,36 @@ function render() {
   }
 }
 
-/* ==================== TINDER / MONTHLY DECISION DECK ==================== */
+/* ==================== TINDER DECISION DECK ==================== */
 function initTinderDeck() {
-  const pillarFilter = document.getElementById('filter-pillar').value;
   const diffFilter = document.getElementById('filter-difficulty').value;
   const sortBy = document.getElementById('sort-by').value;
+  const searchKw = (document.getElementById('search-kw').value || '').toLowerCase().trim();
 
-  // Grab articles scheduled for the selected month or candidates
-  let deck = allArticles.filter(a => a.scheduledMonth === tinderMonth);
+  // Candidate pool for the active pillar
+  let candidates = allCandidates[tinderPillar] || allArticles.filter(a => a.pillar === tinderPillar);
 
-  if (pillarFilter !== 'all') {
-    deck = deck.filter(a => a.pillar === pillarFilter);
-  }
-  if (diffFilter !== 'all') {
-    deck = deck.filter(a => a.difficultyLevel === diffFilter);
-  }
+  // Filter candidates whose target month matches or have seasonal relevance
+  let deck = candidates.filter(c => {
+    // Exclude already approved articles
+    let isAlreadyApproved = false;
+    Object.values(approvedRoadmap).forEach(weekObj => {
+      if (weekObj && weekObj[tinderPillar] && weekObj[tinderPillar].id === c.id) {
+        isAlreadyApproved = true;
+      }
+    });
+    if (isAlreadyApproved) return false;
 
+    if (diffFilter !== 'all' && c.difficultyLevel !== diffFilter) return false;
+    if (searchKw) {
+      const matchPrimary = (c.primaryKeyword || '').toLowerCase().includes(searchKw);
+      const matchTitle = (c.recommendedTitle || '').toLowerCase().includes(searchKw);
+      if (!matchPrimary && !matchTitle) return false;
+    }
+    return true;
+  });
+
+  // Sort candidates
   if (sortBy === 'rankability') {
     deck.sort((a, b) => (b.rankabilityScore || 0) - (a.rankabilityScore || 0));
   } else if (sortBy === 'volume') {
@@ -170,39 +211,87 @@ function setTinderMonth(m) {
   render();
 }
 
+function setTinderPillar(p) {
+  tinderPillar = p;
+  initTinderDeck();
+  render();
+}
+
 function renderTinderView(container) {
+  const monthWeeks = MONTH_WEEKS[tinderMonth] || [1, 2, 3, 4];
+  const quotaPerPillar = monthWeeks.length; // e.g. 4 or 5
+  const approvedInPillar = getPillarApprovedInMonth(tinderPillar, tinderMonth);
   const currentCard = tinderDeck[tinderIndex];
 
   let html = `
     <div class="tinder-container">
       <div class="tinder-header">
-        <div class="tinder-month-select">
-          <span>📅 Month to Review:</span>
-          <select onchange="setTinderMonth(this.value)">
-            ${MONTHS.map(m => `<option value="${m}" ${m === tinderMonth ? 'selected' : ''}>${m} 2026</option>`).join('')}
-          </select>
+        <div class="tinder-header-top">
+          <div class="tinder-month-select">
+            <span>📅 <strong>Month to Plan:</strong></span>
+            <select onchange="setTinderMonth(this.value)">
+              ${MONTHS.map(m => `<option value="${m}" ${m === tinderMonth ? 'selected' : ''}>${m} 2026 (${(MONTH_WEEKS[m]||[]).length} Weeks)</option>`).join('')}
+            </select>
+          </div>
+          <div class="tinder-progress">
+            Candidate <strong>${tinderDeck.length > 0 ? tinderIndex + 1 : 0}</strong> of <strong>${tinderDeck.length}</strong>
+          </div>
         </div>
-        <div class="tinder-progress">
-          Card <strong>${tinderDeck.length > 0 ? tinderIndex + 1 : 0}</strong> of <strong>${tinderDeck.length}</strong> in queue
+
+        <!-- Pillar Quota Tabs -->
+        <div class="tinder-pillar-tabs">
+          ${PILLARS.map(p => {
+            const count = getPillarApprovedInMonth(p, tinderMonth);
+            const isDone = count >= quotaPerPillar;
+            const icon = p === 'Fencing' ? '🌿' : p === 'Power Tools' ? '⚡' : '🧱';
+            return `
+              <div class="pillar-tab ${p === tinderPillar ? 'active' : ''}" onclick="setTinderPillar('${p}')">
+                <span class="pillar-tab-title">${icon} ${p}</span>
+                <span class="pillar-tab-count ${isDone ? 'complete' : ''}">${count} / ${quotaPerPillar} Approved</span>
+              </div>
+            `;
+          }).join('')}
         </div>
       </div>
 
       <div class="tinder-card-wrapper" id="tinder-card-box">
   `;
 
-  if (!currentCard) {
+  if (approvedInPillar >= quotaPerPillar) {
+    const nextPillar = PILLARS.find(p => getPillarApprovedInMonth(p, tinderMonth) < quotaPerPillar);
+
     html += `
-      <div class="tinder-card" style="text-align:center; padding: 4rem 2rem;">
-        <h2>🎉 All Caught Up for ${tinderMonth}!</h2>
+      <div class="tinder-card" style="text-align:center; padding: 3.5rem 2rem;">
+        <h2 style="color:#10b981;">🎉 ${tinderPillar} for ${tinderMonth} is Fully Filled!</h2>
+        <p style="color:var(--text-muted); margin-top:0.75rem; font-size:1rem;">
+          You have approved all <strong>${quotaPerPillar}</strong> weekly articles for this pillar in ${tinderMonth}.
+        </p>
+        <div style="margin-top:2rem; display:flex; justify-content:center; gap:1rem; flex-wrap:wrap;">
+          ${nextPillar ? `
+            <button class="btn-action" style="padding:0.75rem 1.5rem; font-size:0.95rem" onclick="setTinderPillar('${nextPillar}')">
+              Next: Review ${nextPillar} &rarr;
+            </button>
+          ` : `
+            <button class="btn-action" style="background:#10b981; padding:0.75rem 1.5rem; font-size:0.95rem" onclick="switchView('calendar')">
+              🚀 View Complete ${tinderMonth} in 52-Week Roadmap
+            </button>
+            <button class="btn-action btn-secondary" onclick="setTinderMonth(MONTHS[(MONTHS.indexOf(tinderMonth)+1)%12])">
+              Plan Next Month (${MONTHS[(MONTHS.indexOf(tinderMonth)+1)%12]}) &rarr;
+            </button>
+          `}
+        </div>
+      </div>
+    `;
+  } else if (!currentCard) {
+    html += `
+      <div class="tinder-card" style="text-align:center; padding: 3.5rem 2rem;">
+        <h2>🔍 No More Candidates Matching Filters</h2>
         <p style="color:var(--text-muted); margin-top:0.75rem;">
-          You have reviewed all available topic candidates for this month.
+          Try adjusting difficulty or search filters to view more topics.
         </p>
         <div style="margin-top:1.5rem; display:flex; justify-content:center; gap:1rem;">
-          <button class="btn-action" onclick="setTinderMonth(MONTHS[(MONTHS.indexOf(tinderMonth)+1)%12])">
-            Review Next Month (${MONTHS[(MONTHS.indexOf(tinderMonth)+1)%12]}) &rarr;
-          </button>
-          <button class="btn-action btn-secondary" onclick="initTinderDeck(); render();">
-            Reset & Re-review
+          <button class="btn-action btn-secondary" onclick="document.getElementById('filter-difficulty').value='all'; applyFilters();">
+            Reset Filters
           </button>
         </div>
       </div>
@@ -219,13 +308,26 @@ function renderTinderView(container) {
             ${currentCard.difficultyLevel === 'Easy to Rank' ? '🟢' : currentCard.difficultyLevel === 'Moderate' ? '🟡' : '🔴'}
             ${currentCard.difficultyLevel} (Comp: ${currentCard.difficulty || 0}/100)
           </span>
-          <span class="week-tag">Week ${currentCard.weekNumber} (${currentCard.scheduledMonth})</span>
+          <span class="week-tag">Next Slot: Week ${getNextOpenWeek(tinderPillar, tinderMonth)}</span>
         </div>
 
-        <div class="tinder-title">${escapeHtml(currentCard.recommendedTitle || currentCard.primaryKeyword)}</div>
+        <!-- Editable Content Title -->
+        <div class="title-edit-container">
+          <label class="title-edit-label" for="card-title-input">
+            ✏️ Content Title (Click below to edit before approving):
+          </label>
+          <input
+            type="text"
+            id="card-title-input"
+            class="title-edit-input"
+            value="${escapeHtml(currentCard.recommendedTitle || currentCard.primaryKeyword)}"
+            placeholder="Enter custom article title..."
+            oninput="currentCardTitleEdited(this.value)"
+          />
+        </div>
 
         <div class="tinder-primary-kw">
-          🎯 Primary Target: <span>${escapeHtml(currentCard.primaryKeyword)}</span>
+          🎯 Target Keyword: <span>${escapeHtml(currentCard.primaryKeyword)}</span>
         </div>
 
         <div class="tinder-meta-grid">
@@ -247,7 +349,7 @@ function renderTinderView(container) {
           </div>
         </div>
 
-        <!-- Grouped Keywords Section under Content Title -->
+        <!-- Grouped Keywords Section -->
         <div class="grouped-keywords-container">
           <div class="grouped-kw-header">
             <span>Grouped Similar Keywords (${(currentCard.groupedKeywords || []).length})</span>
@@ -285,17 +387,17 @@ function renderTinderView(container) {
       </div>
 
       <div class="tinder-actions">
-        <button class="btn-tinder btn-tinder-no" onclick="handleTinderDecision(false)" title="No / Skip & Swap (Left Arrow or N)">
+        <button class="btn-tinder btn-tinder-no" onclick="handleTinderDecision(false)" title="No / Skip (Left Arrow or N)">
           ✕
         </button>
-        <button class="btn-tinder btn-tinder-yes" onclick="handleTinderDecision(true)" title="Yes / Approve for Month (Right Arrow or Y)">
+        <button class="btn-tinder btn-tinder-yes" onclick="handleTinderDecision(true)" title="Yes / Approve for Slot (Right Arrow or Y)">
           ✓
         </button>
       </div>
 
       <div class="tinder-hints">
         Press <span class="key-hint">Y</span> or <span class="key-hint">&rarr;</span> to Approve |
-        Press <span class="key-hint">N</span> or <span class="key-hint">&larr;</span> to Skip/Swap
+        Press <span class="key-hint">N</span> or <span class="key-hint">&larr;</span> to Skip
       </div>
     `;
   }
@@ -308,6 +410,23 @@ function renderTinderView(container) {
   container.innerHTML = html;
 }
 
+function currentCardTitleEdited(val) {
+  const currentCard = tinderDeck[tinderIndex];
+  if (currentCard) {
+    currentCard.recommendedTitle = val.trim();
+  }
+}
+
+function getNextOpenWeek(pillar, month) {
+  const weeks = MONTH_WEEKS[month] || [1, 2, 3, 4];
+  for (const w of weeks) {
+    if (!approvedRoadmap[w] || !approvedRoadmap[w][pillar]) {
+      return w;
+    }
+  }
+  return weeks[0];
+}
+
 function handleTinderDecision(approved) {
   const cardEl = document.getElementById('active-card');
   if (!cardEl) return;
@@ -315,10 +434,31 @@ function handleTinderDecision(approved) {
   const currentCard = tinderDeck[tinderIndex];
 
   if (approved) {
+    // Read current title from input if present
+    const inputEl = document.getElementById('card-title-input');
+    if (inputEl && inputEl.value.trim().length > 0) {
+      currentCard.recommendedTitle = inputEl.value.trim();
+    }
+
     cardEl.classList.add('swipe-right');
-    currentCard.status = 'Scheduled';
-    saveStatus(currentCard.id, 'Scheduled');
-    showToast(`Approved: "${currentCard.recommendedTitle || currentCard.primaryKeyword}"`);
+
+    // Assign to next open week in this month
+    const targetWeek = getNextOpenWeek(tinderPillar, tinderMonth);
+    if (!approvedRoadmap[targetWeek]) {
+      approvedRoadmap[targetWeek] = {};
+    }
+
+    const assignedItem = {
+      ...currentCard,
+      weekNumber: targetWeek,
+      scheduledMonth: tinderMonth,
+      status: 'Scheduled'
+    };
+
+    approvedRoadmap[targetWeek][tinderPillar] = assignedItem;
+    saveRoadmap();
+    updateStats();
+    showToast(`Approved for Week ${targetWeek}: "${assignedItem.recommendedTitle}"`);
   } else {
     cardEl.classList.add('swipe-left');
     showToast(`Skipped candidate`);
@@ -334,6 +474,7 @@ function setupKeyboardShortcuts() {
   window.addEventListener('keydown', (e) => {
     if (currentView !== 'tinder') return;
     if (document.getElementById('brief-modal').classList.contains('active')) return;
+    if (document.activeElement && document.activeElement.tagName === 'INPUT') return;
 
     if (e.key === 'y' || e.key === 'Y' || e.key === 'ArrowRight') {
       handleTinderDecision(true);
@@ -343,20 +484,159 @@ function setupKeyboardShortcuts() {
   });
 }
 
-function saveStatus(id, status) {
-  const saved = JSON.parse(localStorage.getItem('lawsons_card_statuses') || '{}');
-  saved[id] = status;
-  localStorage.setItem('lawsons_card_statuses', JSON.stringify(saved));
+function saveRoadmap() {
+  localStorage.setItem('lawsons_approved_roadmap', JSON.stringify(approvedRoadmap));
 }
 
-/* ==================== KANBAN BOARD ==================== */
+function removeApprovedSlot(weekNum, pillar, event) {
+  if (event) event.stopPropagation();
+  if (approvedRoadmap[weekNum] && approvedRoadmap[weekNum][pillar]) {
+    delete approvedRoadmap[weekNum][pillar];
+    saveRoadmap();
+    updateStats();
+    render();
+    showToast(`Removed ${pillar} from Week ${weekNum}`);
+  }
+}
+
+function jumpToDecisionDeck(month, pillar) {
+  tinderMonth = month;
+  tinderPillar = pillar;
+  switchView('tinder');
+}
+
+/* ==================== 52-WEEK ROADMAP VIEW ==================== */
+function renderCalendar(container) {
+  let html = `
+    <div class="calendar-view">
+      <div style="display:flex; justify-content:space-between; align-items:center; background:var(--bg-secondary); padding:0.85rem 1.25rem; border-radius:10px; border:1px solid var(--border-color);">
+        <div>
+          <strong style="color:#38bdf8; font-size:1.1rem;">52-Week Editorial Roadmap</strong>
+          <span style="color:var(--text-muted); font-size:0.85rem; margin-left:0.5rem;">
+            (${getApprovedCount()} / 156 Approved Slots Filled)
+          </span>
+        </div>
+        <div style="display:flex; gap:0.65rem;">
+          <button class="btn-action" style="padding:0.4rem 0.8rem; font-size:0.8rem;" onclick="switchView('tinder')">
+            🔥 Open Decision Deck to Fill Slots
+          </button>
+          <button class="btn-action btn-danger" style="padding:0.4rem 0.8rem; font-size:0.8rem;" onclick="clearRoadmap()">
+            Reset All Slots
+          </button>
+          <button class="btn-action btn-secondary" style="padding:0.4rem 0.8rem; font-size:0.8rem;" onclick="autoFillRoadmap()">
+            ⚡ Pre-fill All Defaults
+          </button>
+        </div>
+      </div>
+  `;
+
+  MONTHS.forEach(m => {
+    const monthWeeks = MONTH_WEEKS[m] || [];
+    let monthApprovedCount = 0;
+    monthWeeks.forEach(w => {
+      PILLARS.forEach(p => {
+        if (approvedRoadmap[w] && approvedRoadmap[w][p]) monthApprovedCount++;
+      });
+    });
+
+    html += `
+      <div class="month-block">
+        <div class="month-header">
+          <div class="month-title">
+            <span>📅 ${m} 2026</span>
+          </div>
+          <span class="month-cadence-pill" style="${monthApprovedCount === monthWeeks.length * 3 ? 'background:#10b981; color:white;' : ''}">
+            ${monthApprovedCount} / ${monthWeeks.length * 3} Slots Approved
+          </span>
+        </div>
+        <div class="weeks-grid">
+          ${monthWeeks.map(w => {
+            const fencingArticle = approvedRoadmap[w] ? approvedRoadmap[w]['Fencing'] : null;
+            const toolsArticle = approvedRoadmap[w] ? approvedRoadmap[w]['Power Tools'] : null;
+            const materialsArticle = approvedRoadmap[w] ? approvedRoadmap[w]['Building Materials'] : null;
+
+            return `
+              <div class="week-row">
+                <div class="week-label">Week ${w}</div>
+                <div>${fencingArticle ? renderSlotCard(fencingArticle, 'slot-fencing', w, 'Fencing') : renderEmptySlot(m, 'Fencing', w)}</div>
+                <div>${toolsArticle ? renderSlotCard(toolsArticle, 'slot-tools', w, 'Power Tools') : renderEmptySlot(m, 'Power Tools', w)}</div>
+                <div>${materialsArticle ? renderSlotCard(materialsArticle, 'slot-materials', w, 'Building Materials') : renderEmptySlot(m, 'Building Materials', w)}</div>
+              </div>
+            `;
+          }).join('')}
+        </div>
+      </div>
+    `;
+  });
+
+  html += `</div>`;
+  container.innerHTML = html;
+}
+
+function renderEmptySlot(month, pillar, weekNum) {
+  const icon = pillar === 'Fencing' ? '🌿' : pillar === 'Power Tools' ? '⚡' : '🧱';
+  return `
+    <div class="slot-empty" onclick="jumpToDecisionDeck('${month}', '${pillar}')" title="Click to review and approve an article for this slot">
+      <span>+ ${icon} Approve ${pillar} (Wk ${weekNum})</span>
+    </div>
+  `;
+}
+
+function renderSlotCard(a, slotClass, weekNum, pillar) {
+  const diffClass = a.difficultyLevel === 'Easy to Rank' ? 'diff-easy' : a.difficultyLevel === 'Moderate' ? 'diff-moderate' : 'diff-hard';
+
+  return `
+    <div class="slot-card ${slotClass}" onclick="openBriefModal('${a.id}')">
+      <div class="slot-top-row">
+        <span class="slot-pillar">${a.pillar}</span>
+        <div style="display:flex; align-items:center; gap:0.4rem;">
+          <span class="diff-badge ${diffClass}" style="font-size:0.62rem; padding:0.1rem 0.35rem">
+            ${a.difficultyLevel}
+          </span>
+          <button class="slot-remove-btn" onclick="removeApprovedSlot(${weekNum}, '${pillar}', event)" title="Remove from Roadmap">&times;</button>
+        </div>
+      </div>
+      <div class="slot-title">${escapeHtml(a.recommendedTitle || a.primaryKeyword)}</div>
+      <div class="slot-metrics">
+        <span>🎯 ${escapeHtml(a.primaryKeyword)}</span> &bull;
+        <span>${(a.primaryVolume || 0).toLocaleString()} vol</span> &bull;
+        <span>Score: ${a.rankabilityScore || 0}</span>
+      </div>
+    </div>
+  `;
+}
+
+/* ==================== KANBAN BOARD VIEW ==================== */
 function renderKanban(container) {
-  const filtered = getFilteredArticles();
+  // Collect all approved articles
+  const approvedList = [];
+  Object.values(approvedRoadmap).forEach(weekObj => {
+    if (weekObj) {
+      PILLARS.forEach(p => {
+        if (weekObj[p]) approvedList.push(weekObj[p]);
+      });
+    }
+  });
+
+  if (approvedList.length === 0) {
+    container.innerHTML = `
+      <div style="text-align:center; padding: 4rem 2rem; background:var(--bg-secondary); border-radius:12px; border:1px solid var(--border-color); max-width:650px; margin:2rem auto;">
+        <h2>📋 Kanban Board is Currently Empty</h2>
+        <p style="color:var(--text-muted); margin-top:0.75rem;">
+          Use the <strong>Decision Deck</strong> to approve articles for each month. Approved articles will automatically appear here!
+        </p>
+        <button class="btn-action" style="margin:1.5rem auto 0; padding:0.65rem 1.25rem;" onclick="switchView('tinder')">
+          🔥 Open Decision Deck &rarr;
+        </button>
+      </div>
+    `;
+    return;
+  }
 
   let html = `<div class="kanban-board">`;
 
   KANBAN_STAGES.forEach(stage => {
-    const stageArticles = filtered.filter(a => (a.status || 'Briefing') === stage.id);
+    const stageArticles = approvedList.filter(a => (a.status || 'Scheduled') === stage.id);
 
     html += `
       <div class="kanban-column" data-stage="${stage.id}">
@@ -392,7 +672,6 @@ function renderKanbanCard(a) {
       <div class="card-target-kw">🎯 Primary: ${escapeHtml(a.primaryKeyword)}</div>
       <div style="display:flex; justify-content:space-between; align-items:center;">
         <span class="diff-badge ${diffClass}">
-          ${a.difficultyLevel === 'Easy to Rank' ? '🟢' : a.difficultyLevel === 'Moderate' ? '🟡' : '🔴'}
           ${a.difficultyLevel}
         </span>
         <span class="card-grouped-pill">${(a.groupedKeywords || []).length} similar kw</span>
@@ -400,78 +679,10 @@ function renderKanbanCard(a) {
       <div class="card-meta-row">
         <div class="meta-stats">
           <span class="meta-stat">Vol: <span>${(a.primaryVolume || 0).toLocaleString()}</span></span>
-          <span class="meta-stat">Rank Score: <span>${a.rankabilityScore || 0}</span></span>
+          <span class="meta-stat">Rank: <span>${a.rankabilityScore || 0}</span></span>
         </div>
       </div>
       <button class="btn-card-view" onclick="openBriefModal('${a.id}')">🔍 View Brief & Grouped Keywords</button>
-    </div>
-  `;
-}
-
-/* ==================== 52-WEEK ROADMAP ==================== */
-function renderCalendar(container) {
-  const filtered = getFilteredArticles();
-  const filterMap = new Set(filtered.map(a => a.id));
-
-  let html = `<div class="calendar-view">`;
-
-  MONTHS.forEach(m => {
-    const monthWeeks = allWeeks.filter(w => w.month === m);
-    if (monthWeeks.length === 0) return;
-
-    html += `
-      <div class="month-block">
-        <div class="month-header">
-          <div class="month-title">
-            <span>📅 ${m} 2026</span>
-          </div>
-          <span class="month-cadence-pill">${monthWeeks.length * 3} Articles (3/wk balanced)</span>
-        </div>
-        <div class="weeks-grid">
-          ${monthWeeks.map(w => {
-            const fencingArticle = w.articles.find(a => a.pillar === 'Fencing');
-            const toolsArticle = w.articles.find(a => a.pillar === 'Power Tools');
-            const materialsArticle = w.articles.find(a => a.pillar === 'Building Materials');
-
-            const isFencingVisible = fencingArticle && filterMap.has(fencingArticle.id);
-            const isToolsVisible = toolsArticle && filterMap.has(toolsArticle.id);
-            const isMaterialsVisible = materialsArticle && filterMap.has(materialsArticle.id);
-
-            return `
-              <div class="week-row">
-                <div class="week-label">Week ${w.weekNumber}</div>
-                <div>${fencingArticle && isFencingVisible ? renderSlotCard(fencingArticle, 'slot-fencing') : '<div style="color:#64748b; font-size:0.75rem;">No match</div>'}</div>
-                <div>${toolsArticle && isToolsVisible ? renderSlotCard(toolsArticle, 'slot-tools') : '<div style="color:#64748b; font-size:0.75rem;">No match</div>'}</div>
-                <div>${materialsArticle && isMaterialsVisible ? renderSlotCard(materialsArticle, 'slot-materials') : '<div style="color:#64748b; font-size:0.75rem;">No match</div>'}</div>
-              </div>
-            `;
-          }).join('')}
-        </div>
-      </div>
-    `;
-  });
-
-  html += `</div>`;
-  container.innerHTML = html;
-}
-
-function renderSlotCard(a, slotClass) {
-  const diffClass = a.difficultyLevel === 'Easy to Rank' ? 'diff-easy' : a.difficultyLevel === 'Moderate' ? 'diff-moderate' : 'diff-hard';
-
-  return `
-    <div class="slot-card ${slotClass}" onclick="openBriefModal('${a.id}')">
-      <div class="slot-top-row">
-        <span class="slot-pillar">${a.pillar}</span>
-        <span class="diff-badge ${diffClass}" style="font-size:0.62rem; padding:0.1rem 0.35rem">
-          ${a.difficultyLevel}
-        </span>
-      </div>
-      <div class="slot-title">${escapeHtml(a.recommendedTitle || a.primaryKeyword)}</div>
-      <div class="slot-metrics">
-        <span>🎯 ${escapeHtml(a.primaryKeyword)}</span> &bull;
-        <span>${(a.primaryVolume || 0).toLocaleString()} vol</span> &bull;
-        <span>Score: ${a.rankabilityScore || 0}</span>
-      </div>
     </div>
   `;
 }
@@ -498,18 +709,59 @@ function onDrop(e, newStage) {
   e.currentTarget.classList.remove('drag-over');
   if (!draggedCardId) return;
 
-  const article = allArticles.find(a => a.id === draggedCardId);
-  if (article) {
-    article.status = newStage;
-    saveStatus(article.id, newStage);
+  Object.values(approvedRoadmap).forEach(weekObj => {
+    if (weekObj) {
+      PILLARS.forEach(p => {
+        if (weekObj[p] && weekObj[p].id === draggedCardId) {
+          weekObj[p].status = newStage;
+        }
+      });
+    }
+  });
+
+  saveRoadmap();
+  render();
+  showToast(`Updated to ${newStage}`);
+}
+
+/* ==================== CLEAR & AUTO-FILL ==================== */
+function clearRoadmap() {
+  if (confirm('Are you sure you want to clear all approved roadmap slots?')) {
+    approvedRoadmap = {};
+    saveRoadmap();
+    updateStats();
     render();
-    showToast(`Updated to ${newStage}`);
+    showToast('Roadmap cleared');
+  }
+}
+
+function autoFillRoadmap() {
+  if (confirm('Pre-fill all 52 weeks with the AI recommended schedule?')) {
+    approvedRoadmap = {};
+    allArticles.forEach(a => {
+      const w = a.weekNumber;
+      if (!approvedRoadmap[w]) approvedRoadmap[w] = {};
+      approvedRoadmap[w][a.pillar] = { ...a, status: 'Scheduled' };
+    });
+    saveRoadmap();
+    updateStats();
+    render();
+    showToast('Pre-filled all 156 slots');
   }
 }
 
 /* ==================== MODAL ==================== */
 function openBriefModal(id) {
-  const a = allArticles.find(item => item.id === id);
+  // Look in approved or allArticles
+  let a = null;
+  Object.values(approvedRoadmap).forEach(wObj => {
+    if (wObj) {
+      PILLARS.forEach(p => {
+        if (wObj[p] && wObj[p].id === id) a = wObj[p];
+      });
+    }
+  });
+  if (!a) a = allArticles.find(item => item.id === id);
   if (!a) return;
 
   selectedBrief = a;
@@ -541,13 +793,12 @@ function openBriefModal(id) {
     </div>
 
     <div>
-      <div class="brief-section-title">Content Title</div>
-      <div style="font-size:1.1rem; font-weight:700; color:#f8fafc; padding:0.5rem; background:rgba(255,255,255,0.03); border-radius:6px;">
+      <div class="brief-section-title">Approved Content Title</div>
+      <div style="font-size:1.15rem; font-weight:700; color:#f8fafc; padding:0.65rem 0.85rem; background:rgba(255,255,255,0.04); border-radius:8px; border:1px solid var(--border-color);">
         ${escapeHtml(a.recommendedTitle || a.primaryKeyword)}
       </div>
     </div>
 
-    <!-- Grouped Similar Keywords Table -->
     <div>
       <div class="brief-section-title">Similar Keywords Grouped Under This Title (${(a.groupedKeywords || []).length})</div>
       <table class="grouped-kw-table" style="max-height:220px">
@@ -623,19 +874,57 @@ function copyBriefPayload() {
 
 /* ==================== EXPORT UTILS ==================== */
 function exportCSV() {
-  window.open('content_calendar_master.csv', '_blank');
-  showToast('Downloaded CSV Calendar');
-}
+  const approvedList = [];
+  Object.values(approvedRoadmap).forEach(wObj => {
+    if (wObj) {
+      PILLARS.forEach(p => {
+        if (wObj[p]) approvedList.push(wObj[p]);
+      });
+    }
+  });
 
-function exportJSON() {
-  const dataStr = 'data:text/json;charset=utf-8,' + encodeURIComponent(JSON.stringify(allArticles, null, 2));
+  const listToExport = approvedList.length > 0 ? approvedList : allArticles;
+
+  const rows = [
+    ['Week', 'Month', 'Pillar', 'Content Title', 'Target Keyword', 'Difficulty Level', 'Difficulty', 'Rankability Score', 'Volume', 'CPC', 'Status']
+  ];
+
+  listToExport.forEach(a => {
+    rows.push([
+      a.weekNumber,
+      `"${a.scheduledMonth}"`,
+      `"${a.pillar}"`,
+      `"${(a.recommendedTitle || '').replace(/"/g, '""')}"`,
+      `"${(a.primaryKeyword || '').replace(/"/g, '""')}"`,
+      `"${a.difficultyLevel}"`,
+      a.difficulty,
+      a.rankabilityScore,
+      a.primaryVolume,
+      a.cpc,
+      `"${a.status || 'Scheduled'}"`
+    ]);
+  });
+
+  const csvContent = 'data:text/csv;charset=utf-8,' + rows.map(e => e.join(',')).join('\n');
+  const encodedUri = encodeURI(csvContent);
   const link = document.createElement('a');
-  link.setAttribute('href', dataStr);
-  link.setAttribute('download', 'lawsons_content_calendar_master.json');
+  link.setAttribute('href', encodedUri);
+  link.setAttribute('download', 'lawsons_content_calendar_approved.csv');
   document.body.appendChild(link);
   link.click();
   document.body.removeChild(link);
-  showToast('Downloaded JSON Calendar');
+  showToast(`Exported ${listToExport.length} articles to CSV`);
+}
+
+function exportJSON() {
+  const dataStr = 'data:text/json;charset=utf-8,' + encodeURIComponent(JSON.stringify(approvedRoadmap, null, 2));
+  const link = document.createElement('a');
+  link.setAttribute('href', dataStr);
+  link.setAttribute('download', 'lawsons_approved_roadmap.json');
+  document.body.appendChild(link);
+  link.click();
+  document.body.removeChild(link);
+  showToast('Exported approved roadmap JSON');
 }
 
 function showToast(msg) {

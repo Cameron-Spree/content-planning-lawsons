@@ -161,7 +161,7 @@ header {
 }
 
 .search-input {
-  min-width: 220px;
+  min-width: 200px;
 }
 
 .search-input:focus, .filter-select:focus {
@@ -193,6 +193,15 @@ header {
 }
 .btn-secondary:hover {
   background: var(--bg-hover);
+}
+
+.btn-danger {
+  background: rgba(239, 68, 68, 0.15);
+  color: #ef4444;
+  border: 1px solid rgba(239, 68, 68, 0.3);
+}
+.btn-danger:hover {
+  background: rgba(239, 68, 68, 0.25);
 }
 
 /* Main */
@@ -262,7 +271,7 @@ main {
 
 /* ==================== TINDER / MONTHLY DECISION DECK ==================== */
 .tinder-container {
-  max-width: 780px;
+  max-width: 820px;
   margin: 0 auto;
   display: flex;
   flex-direction: column;
@@ -273,7 +282,13 @@ main {
   background: var(--bg-secondary);
   border: 1px solid var(--border-color);
   border-radius: 12px;
-  padding: 1rem 1.5rem;
+  padding: 1.15rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.tinder-header-top {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -297,18 +312,62 @@ main {
   font-weight: 700;
 }
 
-.tinder-progress {
+/* Pillar Quota Tabs */
+.tinder-pillar-tabs {
+  display: flex;
+  gap: 0.65rem;
+  flex-wrap: wrap;
+}
+
+.pillar-tab {
+  flex: 1;
+  min-width: 210px;
+  background: var(--bg-primary);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  padding: 0.65rem 0.85rem;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: all 0.2s;
+}
+
+.pillar-tab:hover {
+  border-color: #38bdf8;
+}
+
+.pillar-tab.active {
+  border-color: #38bdf8;
+  background: rgba(56, 189, 248, 0.08);
+}
+
+.pillar-tab-title {
   font-size: 0.85rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.pillar-tab-count {
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 0.15rem 0.5rem;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.08);
   color: var(--text-muted);
 }
 
-.tinder-progress strong {
-  color: #38bdf8;
+.pillar-tab-count.complete {
+  background: rgba(16, 185, 129, 0.2);
+  color: #10b981;
 }
 
+/* Tinder Card */
 .tinder-card-wrapper {
   perspective: 1000px;
-  min-height: 480px;
+  min-height: 520px;
   position: relative;
 }
 
@@ -342,11 +401,43 @@ main {
   gap: 0.5rem;
 }
 
-.tinder-title {
-  font-size: 1.35rem;
+/* Editable Title Field */
+.title-edit-container {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.title-edit-label {
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #38bdf8;
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.title-edit-input {
+  width: 100%;
+  background: var(--bg-primary);
+  border: 2px solid #3b82f6;
+  border-radius: 8px;
+  color: #f8fafc;
+  font-size: 1.25rem;
   font-weight: 700;
   line-height: 1.35;
-  color: #f8fafc;
+  padding: 0.65rem 0.85rem;
+  outline: none;
+  font-family: inherit;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.title-edit-input:focus {
+  border-color: #60a5fa;
+  background: rgba(15, 23, 42, 0.9);
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.25);
 }
 
 .tinder-primary-kw {
@@ -414,7 +505,7 @@ main {
   width: 100%;
   border-collapse: collapse;
   font-size: 0.82rem;
-  max-height: 180px;
+  max-height: 160px;
   overflow-y: auto;
   display: block;
 }
@@ -708,7 +799,7 @@ main {
 
 .week-row {
   display: grid;
-  grid-template-columns: 100px 1fr 1fr 1fr;
+  grid-template-columns: 90px 1fr 1fr 1fr;
   gap: 1rem;
   padding: 0.85rem 1.25rem;
   border-bottom: 1px solid rgba(255, 255, 255, 0.05);
@@ -725,6 +816,31 @@ main {
   color: #38bdf8;
 }
 
+/* Empty Slot Placeholder */
+.slot-empty {
+  background: rgba(255, 255, 255, 0.02);
+  border: 2px dashed rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  padding: 0.85rem 1rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4rem;
+  color: var(--text-muted);
+  font-size: 0.78rem;
+  font-weight: 600;
+  transition: all 0.2s;
+  min-height: 78px;
+}
+
+.slot-empty:hover {
+  background: rgba(56, 189, 248, 0.05);
+  border-color: #38bdf8;
+  color: #38bdf8;
+}
+
+/* Filled Slot Card */
 .slot-card {
   background: var(--bg-card);
   border-radius: 8px;
@@ -735,6 +851,8 @@ main {
   display: flex;
   flex-direction: column;
   gap: 0.35rem;
+  position: relative;
+  min-height: 78px;
 }
 
 .slot-card:hover {
@@ -781,6 +899,20 @@ main {
   gap: 0.5rem;
   align-items: center;
   flex-wrap: wrap;
+}
+
+.slot-remove-btn {
+  background: none;
+  border: none;
+  color: #94a3b8;
+  font-size: 0.9rem;
+  cursor: pointer;
+  padding: 0 0.25rem;
+  line-height: 1;
+}
+
+.slot-remove-btn:hover {
+  color: #ef4444;
 }
 
 /* ==================== MODAL ==================== */
