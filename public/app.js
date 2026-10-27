@@ -749,14 +749,23 @@ function onDrop(e, newStage) {
 }
 
 /* ==================== CLEAR & AUTO-FILL ==================== */
-function clearRoadmap() {
-  if (confirm('Are you sure you want to clear all approved roadmap slots?')) {
+function startFresh() {
+  if (confirm('Start fresh? This will clear all approved articles in your 52-week roadmap, reset your review queues, and start from the beginning.')) {
     approvedRoadmap = {};
-    saveRoadmap();
+    localStorage.removeItem('lawsons_approved_roadmap');
+    localStorage.removeItem('lawsons_card_statuses');
+    tinderMonth = 'Jan';
+    tinderPillar = 'Fencing';
+    tinderIndex = 0;
     updateStats();
+    initTinderDeck();
     render();
-    showToast('Roadmap cleared');
+    showToast('✨ Started fresh! All roadmap slots and review queues reset.');
   }
+}
+
+function clearRoadmap() {
+  startFresh();
 }
 
 function autoFillRoadmap() {
