@@ -1,0 +1,45 @@
+{
+  "id": "building-materials-building-supplies-online",
+  "pillar": "Building Materials",
+  "weekNumber": 23,
+  "scheduledMonth": "Jun",
+  "scheduledDate": "2026-06-W23",
+  "status": "Backlog",
+  "priorityScore": 72.3,
+  "targetKeyword": "building supplies online",
+  "recommendedTitle": "Building Supplies Online: Complete Step-by-Step Guide",
+  "intent": "Informational / How-To",
+  "audience": "Trade & DIY",
+  "metrics": {
+    "primaryVolume": 480,
+    "totalClusterVolume": 1540,
+    "cpc": 1.9,
+    "competition": 100,
+    "peakSearchMonth": "Sep"
+  },
+  "secondaryKeywords": [
+    "building suppliers online",
+    "building materials online",
+    "trade building supplies",
+    "building plastic online",
+    "gutter supplies online",
+    "roofing supplies online",
+    "building trade supplies",
+    "discount building supplies online",
+    "building supplies online ltd",
+    "online insulation supplies",
+    "metal supplies online",
+    "fence supplies online",
+    "construction supplies online",
+    "building supplies online limited"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is building supplies online? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

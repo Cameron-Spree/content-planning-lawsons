@@ -1,0 +1,33 @@
+{
+  "id": "building-materials-underground-pipework",
+  "pillar": "Building Materials",
+  "weekNumber": 35,
+  "scheduledMonth": "Sep",
+  "scheduledDate": "2026-09-W35",
+  "status": "Backlog",
+  "priorityScore": 70.3,
+  "targetKeyword": "underground pipework",
+  "recommendedTitle": "Underground Pipework: Trade Specifications, Types & Uses Explained",
+  "intent": "Informational / Guide",
+  "audience": "Trade & DIY",
+  "metrics": {
+    "primaryVolume": 880,
+    "totalClusterVolume": 910,
+    "cpc": 1.98,
+    "competition": 100,
+    "peakSearchMonth": "Sep"
+  },
+  "secondaryKeywords": [
+    "floplast underground",
+    "polypipe underground"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is underground pipework? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

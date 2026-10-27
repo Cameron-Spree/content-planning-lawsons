@@ -1,0 +1,35 @@
+{
+  "id": "building-materials-under-ground-drain-pipe",
+  "pillar": "Building Materials",
+  "weekNumber": 26,
+  "scheduledMonth": "Jun",
+  "scheduledDate": "2026-06-W26",
+  "status": "Backlog",
+  "priorityScore": 71.1,
+  "targetKeyword": "under ground drain pipe",
+  "recommendedTitle": "Under Ground Drain Pipe: Trade Specifications, Types & Uses Explained",
+  "intent": "Informational / Guide",
+  "audience": "Trade & DIY",
+  "metrics": {
+    "primaryVolume": 1000,
+    "totalClusterVolume": 1920,
+    "cpc": 1.67,
+    "competition": 100,
+    "peakSearchMonth": "Sep"
+  },
+  "secondaryKeywords": [
+    "under ground drain",
+    "under ground drainage pipe",
+    "gutter drain pipe in ground",
+    "land drain to 110mm"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is under ground drain pipe? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

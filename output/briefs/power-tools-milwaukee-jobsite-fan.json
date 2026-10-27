@@ -1,0 +1,43 @@
+{
+  "id": "power-tools-milwaukee-jobsite-fan",
+  "pillar": "Power Tools",
+  "weekNumber": 14,
+  "scheduledMonth": "Apr",
+  "scheduledDate": "2026-04-W14",
+  "status": "Backlog",
+  "priorityScore": 65.2,
+  "targetKeyword": "milwaukee jobsite fan",
+  "recommendedTitle": "Ultimate Milwaukee Jobsite Fan Guide: Features, Choosing & Maintenance",
+  "intent": "Informational / Guide",
+  "audience": "Trade & Contractors",
+  "metrics": {
+    "primaryVolume": 2900,
+    "totalClusterVolume": 7130,
+    "cpc": 0.4,
+    "competition": 100,
+    "peakSearchMonth": "Jun"
+  },
+  "secondaryKeywords": [
+    "jobsite fan",
+    "milwaukee fan m18",
+    "milwaukee 18v fan",
+    "milwaukee battery fan",
+    "milwaukee cordless fan",
+    "dewalt jobsite fan",
+    "milwaukee battery powered fan",
+    "milwaukee m18 fan with battery",
+    "milwaukee rechargeable fan",
+    "best cordless jobsite fan",
+    "greenworks 40v fan",
+    "worx 20v fan"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is milwaukee jobsite fan? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

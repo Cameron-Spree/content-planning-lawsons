@@ -1,0 +1,33 @@
+{
+  "id": "building-materials-grit-sand-bulk-bag-near-me",
+  "pillar": "Building Materials",
+  "weekNumber": 12,
+  "scheduledMonth": "Mar",
+  "scheduledDate": "2026-03-W12",
+  "status": "Backlog",
+  "priorityScore": 42.1,
+  "targetKeyword": "grit sand bulk bag near me",
+  "recommendedTitle": "Grit Sand Bulk Bag Near Me: Trade Specifications, Types & Uses Explained",
+  "intent": "Transactional / Product Focus",
+  "audience": "Trade & Contractors",
+  "metrics": {
+    "primaryVolume": 40,
+    "totalClusterVolume": 70,
+    "cpc": 0.5,
+    "competition": 100,
+    "peakSearchMonth": "Mar"
+  },
+  "secondaryKeywords": [
+    "bulk grit sand",
+    "horticultural grit sand bulk bag"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is grit sand bulk bag near me? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

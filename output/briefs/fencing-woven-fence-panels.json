@@ -1,0 +1,32 @@
+{
+  "id": "fencing-woven-fence-panels",
+  "pillar": "Fencing",
+  "weekNumber": 49,
+  "scheduledMonth": "Dec",
+  "scheduledDate": "2026-12-W49",
+  "status": "Backlog",
+  "priorityScore": 61.6,
+  "targetKeyword": "woven fence panels",
+  "recommendedTitle": "The Complete Guide to Woven Fence Panels: Types, Costs & Installation",
+  "intent": "Informational / Guide",
+  "audience": "Domestic & DIY",
+  "metrics": {
+    "primaryVolume": 720,
+    "totalClusterVolume": 730,
+    "cpc": 1.22,
+    "competition": 100,
+    "peakSearchMonth": "Apr"
+  },
+  "secondaryKeywords": [
+    "woven wire fence supplies"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is woven fence panels? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

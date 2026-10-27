@@ -1,0 +1,45 @@
+{
+  "id": "power-tools-petrol-lawn-mowers",
+  "pillar": "Power Tools",
+  "weekNumber": 8,
+  "scheduledMonth": "Feb",
+  "scheduledDate": "2026-02-W8",
+  "status": "Backlog",
+  "priorityScore": 79.2,
+  "targetKeyword": "petrol lawn mowers",
+  "recommendedTitle": "Ultimate Petrol Lawn Mowers Guide: Features, Choosing & Maintenance",
+  "intent": "Informational / Guide",
+  "audience": "DIY & Professionals",
+  "metrics": {
+    "primaryVolume": 14800,
+    "totalClusterVolume": 85440,
+    "cpc": 0.5,
+    "competition": 100,
+    "peakSearchMonth": "Apr"
+  },
+  "secondaryKeywords": [
+    "petrol lawn cutter",
+    "argos lawn mowers",
+    "makita lawn mowers",
+    "battery driven lawn mowers",
+    "husqvarna lawn mowers",
+    "top rated battery operated lawn mowers",
+    "petrol lawn mowers for sale",
+    "top ten battery lawn mowers",
+    "greenworks lawn mowers",
+    "second hand ride on lawn mowers",
+    "recommended petrol lawn mowers",
+    "top rated petrol lawn mowers",
+    "the range lawn mowers",
+    "argos battery lawn mowers"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is petrol lawn mowers? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

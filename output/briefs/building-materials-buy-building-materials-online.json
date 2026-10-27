@@ -1,0 +1,45 @@
+{
+  "id": "building-materials-buy-building-materials-online",
+  "pillar": "Building Materials",
+  "weekNumber": 21,
+  "scheduledMonth": "May",
+  "scheduledDate": "2026-05-W21",
+  "status": "Backlog",
+  "priorityScore": 76.3,
+  "targetKeyword": "buy building materials online",
+  "recommendedTitle": "Buy Building Materials Online: Complete Step-by-Step Guide",
+  "intent": "Informational / How-To",
+  "audience": "Trade & DIY",
+  "metrics": {
+    "primaryVolume": 30,
+    "totalClusterVolume": 210,
+    "cpc": 3.34,
+    "competition": 100,
+    "peakSearchMonth": "Sep"
+  },
+  "secondaryKeywords": [
+    "building materials online purchase",
+    "order building materials online",
+    "selling building materials online",
+    "online quotation for building materials",
+    "building materials online store",
+    "building and plumbing materials online",
+    "best online building materials website",
+    "building materials online shopping",
+    "buy roofing materials online",
+    "cheap building materials online",
+    "discount building materials online",
+    "online store for building materials",
+    "second hand building materials online",
+    "used building materials online"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is buy building materials online? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

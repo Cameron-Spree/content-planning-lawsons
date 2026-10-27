@@ -1,0 +1,40 @@
+{
+  "id": "fencing-6-foot-by-6-foot-fence-panels",
+  "pillar": "Fencing",
+  "weekNumber": 16,
+  "scheduledMonth": "Apr",
+  "scheduledDate": "2026-04-W16",
+  "status": "Backlog",
+  "priorityScore": 58.4,
+  "targetKeyword": "6 foot by 6 foot fence panels",
+  "recommendedTitle": "The Complete Guide to 6 Foot By 6 Foot Fence Panels: Types, Costs & Installation",
+  "intent": "Informational / Guide",
+  "audience": "Domestic & DIY",
+  "metrics": {
+    "primaryVolume": 1300,
+    "totalClusterVolume": 1380,
+    "cpc": 0.57,
+    "competition": 100,
+    "peakSearchMonth": "Mar"
+  },
+  "secondaryKeywords": [
+    "8 foot tall privacy fence",
+    "4 foot white vinyl fence",
+    "6 foot white vinyl fence",
+    "6 foot vinyl privacy fence",
+    "8 foot high privacy fence",
+    "10 foot tall vinyl privacy fence",
+    "cost per linear foot split rail fence",
+    "8 foot split rail fence",
+    "8 foot tall fence boards"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is 6 foot by 6 foot fence panels? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "building-materials-plasterboard-sizes",
+  "pillar": "Building Materials",
+  "weekNumber": 39,
+  "scheduledMonth": "Sep",
+  "scheduledDate": "2026-09-W39",
+  "status": "Backlog",
+  "priorityScore": 66.9,
+  "targetKeyword": "plasterboard sizes",
+  "recommendedTitle": "Plasterboard Sizes: Trade Specifications, Types & Uses Explained",
+  "intent": "Informational / Guide",
+  "audience": "Trade & DIY",
+  "metrics": {
+    "primaryVolume": 2900,
+    "totalClusterVolume": 15140,
+    "cpc": 0.17,
+    "competition": 100,
+    "peakSearchMonth": "Sep"
+  },
+  "secondaryKeywords": [
+    "plaster sizes",
+    "plasterboard dimensions",
+    "plasterboard sheets",
+    "plasterboard sheet price",
+    "standard plasterboard sheet sizes",
+    "plasterboard sheet sizes",
+    "plasterboard sizes for ceilings",
+    "plasterboard panels",
+    "insulated plasterboard sizes",
+    "plasterboard sizes wickes",
+    "b&q plasterboard sizes",
+    "b and q plasterboard sizes",
+    "plasterboard measurements",
+    "plasterboard online"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is plasterboard sizes? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

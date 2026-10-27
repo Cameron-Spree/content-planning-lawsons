@@ -1,0 +1,45 @@
+{
+  "id": "fencing-fence-panels",
+  "pillar": "Fencing",
+  "weekNumber": 6,
+  "scheduledMonth": "Feb",
+  "scheduledDate": "2026-02-W6",
+  "status": "Backlog",
+  "priorityScore": 88.1,
+  "targetKeyword": "fence panels",
+  "recommendedTitle": "The Complete Guide to Fence Panels: Types, Costs & Installation",
+  "intent": "Informational / Guide",
+  "audience": "Domestic & DIY",
+  "metrics": {
+    "primaryVolume": 90500,
+    "totalClusterVolume": 341500,
+    "cpc": 0.67,
+    "competition": 100,
+    "peakSearchMonth": "Apr"
+  },
+  "secondaryKeywords": [
+    "composite fence panels",
+    "trellis panels",
+    "garden fence panels",
+    "fence panels near me",
+    "slatted fence panels",
+    "wickes fence panels",
+    "b&q fence panels",
+    "b and q fence panels",
+    "vinyl fence panels",
+    "picket fence panels",
+    "plastic fence panels",
+    "pvc fence panels",
+    "fence slats",
+    "6ft fence panels"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is fence panels? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

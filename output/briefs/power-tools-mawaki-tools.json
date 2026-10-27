@@ -1,0 +1,45 @@
+{
+  "id": "power-tools-mawaki-tools",
+  "pillar": "Power Tools",
+  "weekNumber": 52,
+  "scheduledMonth": "Dec",
+  "scheduledDate": "2026-12-W52",
+  "status": "Backlog",
+  "priorityScore": 79.2,
+  "targetKeyword": "mawaki tools",
+  "recommendedTitle": "Ultimate Mawaki Tools Guide: Features, Choosing & Maintenance",
+  "intent": "Informational / Guide",
+  "audience": "DIY & Professionals",
+  "metrics": {
+    "primaryVolume": 22200,
+    "totalClusterVolume": 73490,
+    "cpc": 0.58,
+    "competition": 100,
+    "peakSearchMonth": "Sep"
+  },
+  "secondaryKeywords": [
+    "power tools",
+    "ryobi tools uk",
+    "woodworking tools",
+    "einhell tools",
+    "bricklaying tools",
+    "carpenters tools",
+    "mawaki power tools",
+    "hikoki tools",
+    "ryobi tools co uk",
+    "stihl tools",
+    "festool tools",
+    "electronic tools",
+    "caterpillar tools",
+    "electricians tools"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is mawaki tools? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

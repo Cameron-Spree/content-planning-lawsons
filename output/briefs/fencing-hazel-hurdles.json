@@ -1,0 +1,40 @@
+{
+  "id": "fencing-hazel-hurdles",
+  "pillar": "Fencing",
+  "weekNumber": 5,
+  "scheduledMonth": "Feb",
+  "scheduledDate": "2026-02-W5",
+  "status": "Backlog",
+  "priorityScore": 91.1,
+  "targetKeyword": "hazel hurdles",
+  "recommendedTitle": "The Complete Guide to Hazel Hurdles: Types, Costs & Installation",
+  "intent": "Informational / Guide",
+  "audience": "Domestic & DIY",
+  "metrics": {
+    "primaryVolume": 1600,
+    "totalClusterVolume": 2320,
+    "cpc": 3.57,
+    "competition": 100,
+    "peakSearchMonth": "Apr"
+  },
+  "secondaryKeywords": [
+    "hazel hurdles near me",
+    "hazel hurdles 6ft",
+    "hazel hurdles 3ft",
+    "hazel hurdles 4ft",
+    "wattle hurdles",
+    "wicker hurdles",
+    "willow hurdles near me",
+    "hazel hurdles 5ft",
+    "split chestnut hurdles"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is hazel hurdles? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

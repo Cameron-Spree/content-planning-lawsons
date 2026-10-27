@@ -1,0 +1,45 @@
+{
+  "id": "power-tools-cordless-power-washer",
+  "pillar": "Power Tools",
+  "weekNumber": 4,
+  "scheduledMonth": "Jan",
+  "scheduledDate": "2026-01-W4",
+  "status": "Briefing",
+  "priorityScore": 76.1,
+  "targetKeyword": "cordless power washer",
+  "recommendedTitle": "Ultimate Cordless Power Washer Guide: Features, Choosing & Maintenance",
+  "intent": "Informational / Guide",
+  "audience": "DIY & Professionals",
+  "metrics": {
+    "primaryVolume": 12100,
+    "totalClusterVolume": 72150,
+    "cpc": 0.28,
+    "competition": 100,
+    "peakSearchMonth": "Mar"
+  },
+  "secondaryKeywords": [
+    "best power washer",
+    "petrol power washer",
+    "cordless power saw",
+    "portable power washer",
+    "battery power washer",
+    "battery powered power washer",
+    "bosch power washer",
+    "power washer for sale",
+    "stihl power washer",
+    "best cordless power washer",
+    "best cordless power washers",
+    "worx power washer",
+    "best power drill cordless",
+    "ryobi cordless power washer"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is cordless power washer? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "building-materials-terram-1000",
+  "pillar": "Building Materials",
+  "weekNumber": 34,
+  "scheduledMonth": "Aug",
+  "scheduledDate": "2026-08-W34",
+  "status": "Backlog",
+  "priorityScore": 70.6,
+  "targetKeyword": "terram 1000",
+  "recommendedTitle": "Terram 1000: Trade Specifications, Types & Uses Explained",
+  "intent": "Informational / Guide",
+  "audience": "Trade & DIY",
+  "metrics": {
+    "primaryVolume": 720,
+    "totalClusterVolume": 2880,
+    "cpc": 1.41,
+    "competition": 100,
+    "peakSearchMonth": "Sep"
+  },
+  "secondaryKeywords": [
+    "terram t1000",
+    "roll of terram",
+    "terram 1000 geotextile",
+    "white terram",
+    "t1000 terram",
+    "terram sheeting",
+    "terram matting",
+    "woven terram",
+    "garden terram",
+    "terram 1000 datasheet",
+    "terram garden",
+    "terram pegs",
+    "terram 1000 mini pack",
+    "terram 1000 geotextile fabric"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is terram 1000? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "power-tools-garden-machinery",
+  "pillar": "Power Tools",
+  "weekNumber": 50,
+  "scheduledMonth": "Dec",
+  "scheduledDate": "2026-12-W50",
+  "status": "Backlog",
+  "priorityScore": 79.8,
+  "targetKeyword": "garden machinery",
+  "recommendedTitle": "Ultimate Garden Machinery Guide: Features, Choosing & Maintenance",
+  "intent": "Informational / Guide",
+  "audience": "Domestic & DIY",
+  "metrics": {
+    "primaryVolume": 2900,
+    "totalClusterVolume": 25300,
+    "cpc": 1.2,
+    "competition": 100,
+    "peakSearchMonth": "Sep"
+  },
+  "secondaryKeywords": [
+    "garden machinery near me",
+    "garden rotavator",
+    "graham's garden machinery",
+    "garden scarifier",
+    "sims garden machinery ltd",
+    "steam & moorland garden centre & machinery centre",
+    "cobra garden machinery",
+    "garden machinery services",
+    "leigh garden machinery",
+    "leigh park garden machinery",
+    "longham machinery",
+    "bryan hynds garden machinery",
+    "christchurch garden machinery",
+    "mansfield garden machinery"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is garden machinery? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

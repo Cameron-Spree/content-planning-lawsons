@@ -1,0 +1,45 @@
+{
+  "id": "fencing-privacy-fence-panels",
+  "pillar": "Fencing",
+  "weekNumber": 12,
+  "scheduledMonth": "Mar",
+  "scheduledDate": "2026-03-W12",
+  "status": "Backlog",
+  "priorityScore": 61,
+  "targetKeyword": "privacy fence panels",
+  "recommendedTitle": "The Complete Guide to Privacy Fence Panels: Types, Costs & Installation",
+  "intent": "Informational / Guide",
+  "audience": "Domestic & DIY",
+  "metrics": {
+    "primaryVolume": 1000,
+    "totalClusterVolume": 2870,
+    "cpc": 0.45,
+    "competition": 100,
+    "peakSearchMonth": "May"
+  },
+  "secondaryKeywords": [
+    "garden privacy fence",
+    "privacy deck panels",
+    "outdoor privacy panels",
+    "outdoor metal privacy panels",
+    "fence privacy slats",
+    "metal privacy fence",
+    "chain link fence privacy slats",
+    "composite privacy fence",
+    "wood privacy panels",
+    "metal privacy panels",
+    "6 ft privacy fence",
+    "6 ft privacy fence cost",
+    "privacy wall panels",
+    "8 ft privacy fence"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is privacy fence panels? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

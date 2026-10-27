@@ -1,0 +1,35 @@
+{
+  "id": "building-materials-drainage-below-ground",
+  "pillar": "Building Materials",
+  "weekNumber": 31,
+  "scheduledMonth": "Aug",
+  "scheduledDate": "2026-08-W31",
+  "status": "Backlog",
+  "priorityScore": 74.4,
+  "targetKeyword": "drainage below ground",
+  "recommendedTitle": "Drainage Below Ground: Trade Specifications, Types & Uses Explained",
+  "intent": "Informational / Guide",
+  "audience": "Trade & DIY",
+  "metrics": {
+    "primaryVolume": 210,
+    "totalClusterVolume": 320,
+    "cpc": 2.93,
+    "competition": 100,
+    "peakSearchMonth": "Oct"
+  },
+  "secondaryKeywords": [
+    "polypipe below ground drainage",
+    "below ground drainage pipe",
+    "osma below ground drainage",
+    "plastic below ground drainage"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is drainage below ground? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "power-tools-orbital-sander",
+  "pillar": "Power Tools",
+  "weekNumber": 46,
+  "scheduledMonth": "Nov",
+  "scheduledDate": "2026-11-W46",
+  "status": "Backlog",
+  "priorityScore": 81.9,
+  "targetKeyword": "orbital sander",
+  "recommendedTitle": "Ultimate Orbital Sander Guide: Features, Choosing & Maintenance",
+  "intent": "Informational / Guide",
+  "audience": "DIY & Professionals",
+  "metrics": {
+    "primaryVolume": 22200,
+    "totalClusterVolume": 227190,
+    "cpc": 0.26,
+    "competition": 100,
+    "peakSearchMonth": "Sep"
+  },
+  "secondaryKeywords": [
+    "sander",
+    "random orbital sander",
+    "circular sander",
+    "belt sander",
+    "electric sander",
+    "mirka sander",
+    "wall sander",
+    "drywall sander",
+    "festool sander",
+    "makita sander",
+    "mouse sander",
+    "dewalt orbital sander",
+    "milwaukee sander",
+    "cordless sander"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is orbital sander? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

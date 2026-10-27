@@ -1,0 +1,42 @@
+{
+  "id": "building-materials-postcrete-how-much-per-post",
+  "pillar": "Building Materials",
+  "weekNumber": 7,
+  "scheduledMonth": "Feb",
+  "scheduledDate": "2026-02-W7",
+  "status": "Backlog",
+  "priorityScore": 47.4,
+  "targetKeyword": "postcrete how much per post",
+  "recommendedTitle": "Postcrete How Much Per Post: Complete Step-by-Step Guide",
+  "intent": "Informational / How-To",
+  "audience": "Trade & DIY",
+  "metrics": {
+    "primaryVolume": 480,
+    "totalClusterVolume": 600,
+    "cpc": 0.36,
+    "competition": 40,
+    "peakSearchMonth": "Apr"
+  },
+  "secondaryKeywords": [
+    "postcrete how many bags per post",
+    "postcrete per post",
+    "postcrete bags per post",
+    "bags of postcrete per post",
+    "postcrete how many bags",
+    "postcrete price per bag",
+    "gib price per sheet"
+  ],
+  "paaQuestions": [
+    "postcrete how much per post",
+    "postcrete how many bags per post",
+    "postcrete how many bags"
+  ],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is postcrete how much per post? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

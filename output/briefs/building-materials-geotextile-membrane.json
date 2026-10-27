@@ -1,0 +1,45 @@
+{
+  "id": "building-materials-geotextile-membrane",
+  "pillar": "Building Materials",
+  "weekNumber": 20,
+  "scheduledMonth": "May",
+  "scheduledDate": "2026-05-W20",
+  "status": "Backlog",
+  "priorityScore": 76.5,
+  "targetKeyword": "geotextile membrane",
+  "recommendedTitle": "Geotextile Membrane: Trade Specifications, Types & Uses Explained",
+  "intent": "Informational / Guide",
+  "audience": "Trade & DIY",
+  "metrics": {
+    "primaryVolume": 5400,
+    "totalClusterVolume": 24970,
+    "cpc": 0.87,
+    "competition": 100,
+    "peakSearchMonth": "Sep"
+  },
+  "secondaryKeywords": [
+    "geotech membrane",
+    "geotex membrane",
+    "terram membrane",
+    "non woven geotextile membrane",
+    "membrane for driveways",
+    "geotextile weed membrane",
+    "geotextile membrane screwfix",
+    "terram geotextile",
+    "woven geotextile membrane",
+    "soakaway membrane",
+    "geotextile membrane for driveways",
+    "heavy duty geotextile membrane",
+    "terram t1000 non woven geotextile membrane",
+    "terram geotextile membrane"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is geotextile membrane? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

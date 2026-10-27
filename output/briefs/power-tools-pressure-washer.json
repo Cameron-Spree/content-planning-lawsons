@@ -1,0 +1,45 @@
+{
+  "id": "power-tools-pressure-washer",
+  "pillar": "Power Tools",
+  "weekNumber": 1,
+  "scheduledMonth": "Jan",
+  "scheduledDate": "2026-01-W1",
+  "status": "Briefing",
+  "priorityScore": 85,
+  "targetKeyword": "pressure washer",
+  "recommendedTitle": "Ultimate Pressure Washer Guide: Features, Choosing & Maintenance",
+  "intent": "Informational / Guide",
+  "audience": "DIY & Professionals",
+  "metrics": {
+    "primaryVolume": 60500,
+    "totalClusterVolume": 246120,
+    "cpc": 0.53,
+    "competition": 100,
+    "peakSearchMonth": "Mar"
+  },
+  "secondaryKeywords": [
+    "jet washer",
+    "power washer",
+    "cordless pressure washer",
+    "best pressure washer",
+    "petrol pressure washer",
+    "ryobi pressure washer",
+    "portable pressure washer",
+    "battery powered pressure washer",
+    "bosch pressure washer",
+    "pressure washer hire",
+    "battery operated pressure washer",
+    "screwfix pressure washer",
+    "titan pressure washer",
+    "battery power pressure washer"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is pressure washer? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

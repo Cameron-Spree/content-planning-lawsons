@@ -1,0 +1,45 @@
+{
+  "id": "power-tools-milwaukee-lawn-mower",
+  "pillar": "Power Tools",
+  "weekNumber": 32,
+  "scheduledMonth": "Aug",
+  "scheduledDate": "2026-08-W32",
+  "status": "Backlog",
+  "priorityScore": 61,
+  "targetKeyword": "milwaukee lawn mower",
+  "recommendedTitle": "Ultimate Milwaukee Lawn Mower Guide: Features, Choosing & Maintenance",
+  "intent": "Informational / Guide",
+  "audience": "DIY & Professionals",
+  "metrics": {
+    "primaryVolume": 1900,
+    "totalClusterVolume": 2210,
+    "cpc": 0.59,
+    "competition": 100,
+    "peakSearchMonth": "Apr"
+  },
+  "secondaryKeywords": [
+    "milwaukee battery lawn mower",
+    "milwaukee m18 lawn mower",
+    "milwaukee m18 mower",
+    "battery lawn mower milwaukee",
+    "milwaukee lawn mower tool only",
+    "milwaukee battery powered lawn mower",
+    "milwaukee tool lawn mower",
+    "milwaukee lawn mower uk price",
+    "milwaukee 18v lawn mower",
+    "milwaukee fuel lawn mower",
+    "milwaukee 18v mower",
+    "battery powered lawn mower milwaukee",
+    "milwaukee battery lawn mower price",
+    "milwaukee m18 lawn mower price"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is milwaukee lawn mower? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

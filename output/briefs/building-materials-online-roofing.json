@@ -1,0 +1,33 @@
+{
+  "id": "building-materials-online-roofing",
+  "pillar": "Building Materials",
+  "weekNumber": 28,
+  "scheduledMonth": "Jul",
+  "scheduledDate": "2026-07-W28",
+  "status": "Backlog",
+  "priorityScore": 104.8,
+  "targetKeyword": "online roofing",
+  "recommendedTitle": "Online Roofing: Trade Specifications, Types & Uses Explained",
+  "intent": "Transactional / Product Focus",
+  "audience": "Trade & DIY",
+  "metrics": {
+    "primaryVolume": 20,
+    "totalClusterVolume": 40,
+    "cpc": 7.06,
+    "competition": 100,
+    "peakSearchMonth": "Sep"
+  },
+  "secondaryKeywords": [
+    "online metal roofing",
+    "roofing materials online"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is online roofing? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "building-materials-cement-bags-25kg",
+  "pillar": "Building Materials",
+  "weekNumber": 46,
+  "scheduledMonth": "Nov",
+  "scheduledDate": "2026-11-W46",
+  "status": "Backlog",
+  "priorityScore": 61.4,
+  "targetKeyword": "cement bags 25kg",
+  "recommendedTitle": "Cement Bags 25kg: Trade Specifications, Types & Uses Explained",
+  "intent": "Informational / Guide",
+  "audience": "Trade & DIY",
+  "metrics": {
+    "primaryVolume": 1000,
+    "totalClusterVolume": 4150,
+    "cpc": 0.3,
+    "competition": 100,
+    "peakSearchMonth": "Sep"
+  },
+  "secondaryKeywords": [
+    "cement 25kg",
+    "ready mix sand and cement 25kg",
+    "cheap cement bags 25kg",
+    "25kg cement bag price",
+    "25kg bag of cement price",
+    "mastercrete cement 25kg",
+    "rugby cement 25kg",
+    "25kg bags of ballast b&q",
+    "mannok cement 25kg",
+    "cement 25kg price",
+    "general purpose cement 25kg",
+    "multicem cement 25kg",
+    "ready mix concrete 25kg bags",
+    "b&q cement 25kg"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is cement bags 25kg? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

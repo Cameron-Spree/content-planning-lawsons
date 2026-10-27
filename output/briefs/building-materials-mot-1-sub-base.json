@@ -1,0 +1,45 @@
+{
+  "id": "building-materials-mot-1-sub-base",
+  "pillar": "Building Materials",
+  "weekNumber": 9,
+  "scheduledMonth": "Mar",
+  "scheduledDate": "2026-03-W9",
+  "status": "Backlog",
+  "priorityScore": 65.7,
+  "targetKeyword": "mot 1 sub base",
+  "recommendedTitle": "Mot 1 Sub Base: Trade Specifications, Types & Uses Explained",
+  "intent": "Informational / Guide",
+  "audience": "Trade & Contractors",
+  "metrics": {
+    "primaryVolume": 1600,
+    "totalClusterVolume": 3100,
+    "cpc": 0.88,
+    "competition": 100,
+    "peakSearchMonth": "May"
+  },
+  "secondaryKeywords": [
+    "mot sub base",
+    "sub base bulk bag",
+    "sub base bags",
+    "bag of sub base",
+    "type 1 sub base bulk bag",
+    "mot 1 sub base bulk bag",
+    "mot sub base bulk bag",
+    "1 tonne sub base",
+    "tarmac granular sub base mot 1 jumbo bag",
+    "tarmac granular sub base mot 1",
+    "sub base mot 1 jumbo bag",
+    "granular sub base mot 1",
+    "1 ton bag of sub base",
+    "bulk bag of sub base"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is mot 1 sub base? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

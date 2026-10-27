@@ -1,0 +1,30 @@
+{
+  "id": "fencing-heras-fence",
+  "pillar": "Fencing",
+  "weekNumber": 30,
+  "scheduledMonth": "Jul",
+  "scheduledDate": "2026-07-W30",
+  "status": "Backlog",
+  "priorityScore": 86.6,
+  "targetKeyword": "heras fence",
+  "recommendedTitle": "The Complete Guide to Heras Fence: Types, Costs & Installation",
+  "intent": "Informational / Guide",
+  "audience": "Domestic & DIY",
+  "metrics": {
+    "primaryVolume": 1000,
+    "totalClusterVolume": 1000,
+    "cpc": 3.56,
+    "competition": 100,
+    "peakSearchMonth": "Sep"
+  },
+  "secondaryKeywords": [],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is heras fence? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

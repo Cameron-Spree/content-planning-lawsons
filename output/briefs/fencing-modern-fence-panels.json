@@ -1,0 +1,36 @@
+{
+  "id": "fencing-modern-fence-panels",
+  "pillar": "Fencing",
+  "weekNumber": 50,
+  "scheduledMonth": "Dec",
+  "scheduledDate": "2026-12-W50",
+  "status": "Backlog",
+  "priorityScore": 61.4,
+  "targetKeyword": "modern fence panels",
+  "recommendedTitle": "The Complete Guide to Modern Fence Panels: Types, Costs & Installation",
+  "intent": "Informational / Guide",
+  "audience": "Domestic & DIY",
+  "metrics": {
+    "primaryVolume": 1600,
+    "totalClusterVolume": 1840,
+    "cpc": 0.72,
+    "competition": 100,
+    "peakSearchMonth": "Apr"
+  },
+  "secondaryKeywords": [
+    "modern slat fence",
+    "modern fence trellis",
+    "modern trellis fence",
+    "modern wire mesh fence",
+    "modern fence supplies"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is modern fence panels? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

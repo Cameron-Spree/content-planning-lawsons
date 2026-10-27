@@ -1,0 +1,39 @@
+{
+  "id": "building-materials-plaster-boards-sizes",
+  "pillar": "Building Materials",
+  "weekNumber": 49,
+  "scheduledMonth": "Dec",
+  "scheduledDate": "2026-12-W49",
+  "status": "Backlog",
+  "priorityScore": 59.6,
+  "targetKeyword": "plaster boards sizes",
+  "recommendedTitle": "Plaster Boards Sizes: Trade Specifications, Types & Uses Explained",
+  "intent": "Informational / Guide",
+  "audience": "Trade & DIY",
+  "metrics": {
+    "primaryVolume": 2900,
+    "totalClusterVolume": 3790,
+    "cpc": 0.17,
+    "competition": 100,
+    "peakSearchMonth": "Sep"
+  },
+  "secondaryKeywords": [
+    "standard plaster sheet sizes",
+    "plaster sheet sizes",
+    "8x4 plaster boards",
+    "plaster cornice sizes",
+    "plaster sizes gyprock",
+    "plaster stop bead sizes",
+    "size of plaster boards",
+    "plaster battens sizes"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is plaster boards sizes? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

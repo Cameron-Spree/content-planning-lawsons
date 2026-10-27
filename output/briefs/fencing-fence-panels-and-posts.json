@@ -1,0 +1,30 @@
+{
+  "id": "fencing-fence-panels-and-posts",
+  "pillar": "Fencing",
+  "weekNumber": 17,
+  "scheduledMonth": "Apr",
+  "scheduledDate": "2026-04-W17",
+  "status": "Backlog",
+  "priorityScore": 58.1,
+  "targetKeyword": "fence panels and posts",
+  "recommendedTitle": "Fence Panels And Posts: Complete Step-by-Step Guide",
+  "intent": "Informational / How-To",
+  "audience": "Domestic & DIY",
+  "metrics": {
+    "primaryVolume": 1000,
+    "totalClusterVolume": 1000,
+    "cpc": 0.71,
+    "competition": 100,
+    "peakSearchMonth": "Mar"
+  },
+  "secondaryKeywords": [],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is fence panels and posts? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

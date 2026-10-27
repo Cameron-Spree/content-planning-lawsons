@@ -1,0 +1,45 @@
+{
+  "id": "power-tools-impact-driver",
+  "pillar": "Power Tools",
+  "weekNumber": 45,
+  "scheduledMonth": "Nov",
+  "scheduledDate": "2026-11-W45",
+  "status": "Backlog",
+  "priorityScore": 82,
+  "targetKeyword": "impact driver",
+  "recommendedTitle": "Ultimate Impact Driver Guide: Features, Choosing & Maintenance",
+  "intent": "Informational / Guide",
+  "audience": "DIY & Professionals",
+  "metrics": {
+    "primaryVolume": 27100,
+    "totalClusterVolume": 200920,
+    "cpc": 0.34,
+    "competition": 100,
+    "peakSearchMonth": "Sep"
+  },
+  "secondaryKeywords": [
+    "dewalt impact driver",
+    "screw driver",
+    "makita impact driver",
+    "impact wrench",
+    "milwaukee impact driver",
+    "milwaukee fuel impact driver",
+    "impact driver drill",
+    "drill and impact driver",
+    "milwaukee m12 impact driver",
+    "m12 impact driver",
+    "milwaukee m12 fuel impact driver",
+    "ryobi impact driver",
+    "ryobi one impact driver",
+    "dewalt impact"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is impact driver? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

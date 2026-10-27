@@ -1,0 +1,30 @@
+{
+  "id": "building-materials-selco-sharp-sand-bulk-bag",
+  "pillar": "Building Materials",
+  "weekNumber": 10,
+  "scheduledMonth": "Mar",
+  "scheduledDate": "2026-03-W10",
+  "status": "Backlog",
+  "priorityScore": 64.2,
+  "targetKeyword": "selco sharp sand bulk bag",
+  "recommendedTitle": "Selco Sharp Sand Bulk Bag: Trade Specifications, Types & Uses Explained",
+  "intent": "Transactional / Product Focus",
+  "audience": "Trade & Contractors",
+  "metrics": {
+    "primaryVolume": 30,
+    "totalClusterVolume": 30,
+    "cpc": 3.15,
+    "competition": 100,
+    "peakSearchMonth": "May"
+  },
+  "secondaryKeywords": [],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is selco sharp sand bulk bag? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

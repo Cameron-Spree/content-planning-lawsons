@@ -1,0 +1,45 @@
+{
+  "id": "building-materials-insulated-plaster-board",
+  "pillar": "Building Materials",
+  "weekNumber": 24,
+  "scheduledMonth": "Jun",
+  "scheduledDate": "2026-06-W24",
+  "status": "Backlog",
+  "priorityScore": 71.2,
+  "targetKeyword": "insulated plaster board",
+  "recommendedTitle": "Insulated Plaster Board: Trade Specifications, Types & Uses Explained",
+  "intent": "Informational / Guide",
+  "audience": "Trade & DIY",
+  "metrics": {
+    "primaryVolume": 18100,
+    "totalClusterVolume": 19090,
+    "cpc": 0.48,
+    "competition": 100,
+    "peakSearchMonth": "Sep"
+  },
+  "secondaryKeywords": [
+    "insulation backed plaster board",
+    "plaster board width",
+    "insulated plaster board sizes",
+    "sheet of plaster board",
+    "plaster board sheet size",
+    "8 x 4 plaster board",
+    "plaster ceiling board size",
+    "knauf multi finish plaster",
+    "insulated beam and block floor system",
+    "knauf multi finish plaster 25kg",
+    "gibson board size",
+    "gyproc board size",
+    "gypsum board ceiling dimensions",
+    "gib board sheets"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is insulated plaster board? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

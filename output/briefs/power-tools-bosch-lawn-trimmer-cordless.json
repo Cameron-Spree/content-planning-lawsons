@@ -1,0 +1,45 @@
+{
+  "id": "power-tools-bosch-lawn-trimmer-cordless",
+  "pillar": "Power Tools",
+  "weekNumber": 41,
+  "scheduledMonth": "Oct",
+  "scheduledDate": "2026-10-W41",
+  "status": "Backlog",
+  "priorityScore": 64.1,
+  "targetKeyword": "bosch lawn trimmer cordless",
+  "recommendedTitle": "Ultimate Bosch Lawn Trimmer Cordless Guide: Features, Choosing & Maintenance",
+  "intent": "Informational / Guide",
+  "audience": "DIY & Professionals",
+  "metrics": {
+    "primaryVolume": 2400,
+    "totalClusterVolume": 7500,
+    "cpc": 0.26,
+    "competition": 100,
+    "peakSearchMonth": "May"
+  },
+  "secondaryKeywords": [
+    "gtech lawn trimmer",
+    "ryobi cordless lawn trimmer",
+    "bosch 18v line trimmer",
+    "bosch string trimmer 18v",
+    "best lawn trimmer cordless",
+    "best cordless lawn trimmer",
+    "lawn edge trimmer cordless",
+    "worx lawn trimmer",
+    "milwaukee lawn trimmer",
+    "greenworks lawn trimmer",
+    "cordless lawn edge trimmer",
+    "gtech lawn edge trimmer",
+    "bosch trimmer cordless",
+    "rechargeable lawn trimmer"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is bosch lawn trimmer cordless? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

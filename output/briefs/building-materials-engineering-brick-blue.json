@@ -1,0 +1,45 @@
+{
+  "id": "building-materials-engineering-brick-blue",
+  "pillar": "Building Materials",
+  "weekNumber": 40,
+  "scheduledMonth": "Oct",
+  "scheduledDate": "2026-10-W40",
+  "status": "Backlog",
+  "priorityScore": 66.4,
+  "targetKeyword": "engineering brick blue",
+  "recommendedTitle": "Engineering Brick Blue: Trade Specifications, Types & Uses Explained",
+  "intent": "Informational / Guide",
+  "audience": "Trade & DIY",
+  "metrics": {
+    "primaryVolume": 1600,
+    "totalClusterVolume": 8030,
+    "cpc": 0.45,
+    "competition": 100,
+    "peakSearchMonth": "Sep"
+  },
+  "secondaryKeywords": [
+    "class b engineering brick",
+    "engineering brick red",
+    "dimensions of an engineering brick",
+    "dimensions of engineering brick",
+    "size of an engineering brick",
+    "class engineering brick",
+    "solid engineering brick",
+    "engineering brick grey",
+    "semi engineering brick",
+    "bullnose engineering brick",
+    "perforated engineering brick",
+    "engineering brick slips",
+    "class b red engineering brick",
+    "jewson engineering brick"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is engineering brick blue? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "power-tools-cordless-grass-trimmer",
+  "pillar": "Power Tools",
+  "weekNumber": 34,
+  "scheduledMonth": "Aug",
+  "scheduledDate": "2026-08-W34",
+  "status": "Backlog",
+  "priorityScore": 74.3,
+  "targetKeyword": "cordless grass trimmer",
+  "recommendedTitle": "Ultimate Cordless Grass Trimmer Guide: Features, Choosing & Maintenance",
+  "intent": "Informational / Guide",
+  "audience": "DIY & Professionals",
+  "metrics": {
+    "primaryVolume": 5400,
+    "totalClusterVolume": 55650,
+    "cpc": 0.24,
+    "competition": 100,
+    "peakSearchMonth": "May"
+  },
+  "secondaryKeywords": [
+    "cordless string trimmer",
+    "weed trimmer cordless",
+    "grass trimmer at argos",
+    "cordless grass blower",
+    "bosch cordless grass trimmer",
+    "makita grass trimmer",
+    "gtech grass trimmer",
+    "argos grass trimmer cordless",
+    "grass trimmer edger",
+    "bosch grass trimmer",
+    "makita cordless trimmer",
+    "cordless grass trimmer b&q",
+    "gtech grass trimmer blades",
+    "stihl cordless trimmer"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is cordless grass trimmer? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

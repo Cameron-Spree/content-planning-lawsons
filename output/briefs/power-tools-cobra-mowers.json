@@ -1,0 +1,45 @@
+{
+  "id": "power-tools-cobra-mowers",
+  "pillar": "Power Tools",
+  "weekNumber": 17,
+  "scheduledMonth": "Apr",
+  "scheduledDate": "2026-04-W17",
+  "status": "Backlog",
+  "priorityScore": 69.5,
+  "targetKeyword": "cobra mowers",
+  "recommendedTitle": "Ultimate Cobra Mowers Guide: Features, Choosing & Maintenance",
+  "intent": "Informational / Guide",
+  "audience": "DIY & Professionals",
+  "metrics": {
+    "primaryVolume": 4400,
+    "totalClusterVolume": 19580,
+    "cpc": 0.3,
+    "competition": 100,
+    "peakSearchMonth": "Mar"
+  },
+  "secondaryKeywords": [
+    "cobra lawnmowers",
+    "cobra lawn mowers",
+    "top cordless mowers",
+    "stiga mowers",
+    "westwood mowers",
+    "cobra rm40spc",
+    "commercial mowers",
+    "cobra mx534sph",
+    "cobra mx484spce",
+    "greenworks mowers",
+    "cobra rm46sph",
+    "cobra rotavator",
+    "coastal mowers",
+    "top 10 robot mowers"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is cobra mowers? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

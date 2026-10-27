@@ -1,0 +1,45 @@
+{
+  "id": "power-tools-petrol-strimmer",
+  "pillar": "Power Tools",
+  "weekNumber": 9,
+  "scheduledMonth": "Mar",
+  "scheduledDate": "2026-03-W9",
+  "status": "Backlog",
+  "priorityScore": 82.2,
+  "targetKeyword": "petrol strimmer",
+  "recommendedTitle": "Ultimate Petrol Strimmer Guide: Features, Choosing & Maintenance",
+  "intent": "Informational / Guide",
+  "audience": "DIY & Professionals",
+  "metrics": {
+    "primaryVolume": 18100,
+    "totalClusterVolume": 157680,
+    "cpc": 0.48,
+    "competition": 100,
+    "peakSearchMonth": "May"
+  },
+  "secondaryKeywords": [
+    "cordless strimmer",
+    "petrol for strimmer",
+    "stihl strimmer",
+    "ryobi strimmer",
+    "garden strimmer",
+    "petrol chainsaw",
+    "petrol leafblower",
+    "makita strimmer",
+    "stihl petrol strimmer",
+    "stihl petrol grass strimmer",
+    "strimmer stihl petrol",
+    "flymo strimmer",
+    "petrol strimmer and hedge cutter",
+    "petrol strimmer hedge cutter"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is petrol strimmer? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

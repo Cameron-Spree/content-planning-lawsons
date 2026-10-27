@@ -1,0 +1,30 @@
+{
+  "id": "building-materials-sharp-sand-bulk-bag-bq",
+  "pillar": "Building Materials",
+  "weekNumber": 19,
+  "scheduledMonth": "May",
+  "scheduledDate": "2026-05-W19",
+  "status": "Backlog",
+  "priorityScore": 36.4,
+  "targetKeyword": "sharp sand bulk bag b&q",
+  "recommendedTitle": "Sharp Sand Bulk Bag B&Q: Trade Specifications, Types & Uses Explained",
+  "intent": "Transactional / Product Focus",
+  "audience": "Trade & Contractors",
+  "metrics": {
+    "primaryVolume": 30,
+    "totalClusterVolume": 30,
+    "cpc": 0.37,
+    "competition": 100,
+    "peakSearchMonth": "Jul"
+  },
+  "secondaryKeywords": [],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is sharp sand bulk bag b&q? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

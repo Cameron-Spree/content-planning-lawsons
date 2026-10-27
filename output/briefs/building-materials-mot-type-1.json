@@ -1,0 +1,47 @@
+{
+  "id": "building-materials-mot-type-1",
+  "pillar": "Building Materials",
+  "weekNumber": 5,
+  "scheduledMonth": "Feb",
+  "scheduledDate": "2026-02-W5",
+  "status": "Backlog",
+  "priorityScore": 78.4,
+  "targetKeyword": "mot type 1",
+  "recommendedTitle": "Mot Type 1: Complete Step-by-Step Guide",
+  "intent": "Informational / How-To",
+  "audience": "Trade & Contractors",
+  "metrics": {
+    "primaryVolume": 9900,
+    "totalClusterVolume": 23820,
+    "cpc": 0.94,
+    "competition": 100,
+    "peakSearchMonth": "Apr"
+  },
+  "secondaryKeywords": [
+    "type 1 mot sub base",
+    "mot type 1 bulk bag",
+    "type 1 mot bulk bag",
+    "mot type 1 price per tonne near me",
+    "mot type 1 25kg bags",
+    "bags of mot",
+    "mot type 1 bags",
+    "1 tonne mot type 1",
+    "mot type 1 sub base bulk bag",
+    "mot type 1 bulk bag near me",
+    "mot type 1 tonne bag",
+    "mot type",
+    "bag of mot type 1",
+    "mot type 1 delivery"
+  ],
+  "paaQuestions": [
+    "mot type 1 what is it"
+  ],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is mot type 1? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

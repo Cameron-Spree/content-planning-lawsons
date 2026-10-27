@@ -1,0 +1,33 @@
+{
+  "id": "fencing-willow-hurdle",
+  "pillar": "Fencing",
+  "weekNumber": 2,
+  "scheduledMonth": "Jan",
+  "scheduledDate": "2026-01-W2",
+  "status": "Briefing",
+  "priorityScore": 64.5,
+  "targetKeyword": "willow hurdle",
+  "recommendedTitle": "The Complete Guide to Willow Hurdle: Types, Costs & Installation",
+  "intent": "Informational / Guide",
+  "audience": "Domestic & DIY",
+  "metrics": {
+    "primaryVolume": 590,
+    "totalClusterVolume": 810,
+    "cpc": 1.46,
+    "competition": 100,
+    "peakSearchMonth": "Mar"
+  },
+  "secondaryKeywords": [
+    "willow hurdle fencing",
+    "willow hurdle fencing near me"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is willow hurdle? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

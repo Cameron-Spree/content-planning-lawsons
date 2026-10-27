@@ -1,0 +1,48 @@
+{
+  "id": "power-tools-robotic-grass-mower",
+  "pillar": "Power Tools",
+  "weekNumber": 5,
+  "scheduledMonth": "Feb",
+  "scheduledDate": "2026-02-W5",
+  "status": "Backlog",
+  "priorityScore": 84.9,
+  "targetKeyword": "robotic grass mower",
+  "recommendedTitle": "Robotic Grass Mower: Complete Step-by-Step Guide",
+  "intent": "Informational / How-To",
+  "audience": "DIY & Professionals",
+  "metrics": {
+    "primaryVolume": 33100,
+    "totalClusterVolume": 144900,
+    "cpc": 0.5,
+    "competition": 100,
+    "peakSearchMonth": "Apr"
+  },
+  "secondaryKeywords": [
+    "cordless grass mower",
+    "grass mower cordless",
+    "petrol grass mower",
+    "grass mower petrol",
+    "battery grass mower",
+    "automower robotic mower",
+    "robotic mower",
+    "kress robotic mower",
+    "best electric grass mower",
+    "grass mower tractor",
+    "worx robotic lawn mower",
+    "worx landroid robotic lawn mower",
+    "worx robotic mower",
+    "husqvarna robotic lawn mower"
+  ],
+  "paaQuestions": [
+    "petrol for lawn mower where to buy",
+    "cordless lawn mower which best buy"
+  ],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is robotic grass mower? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

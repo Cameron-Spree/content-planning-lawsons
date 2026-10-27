@@ -1,0 +1,45 @@
+{
+  "id": "building-materials-bag-of-ballast",
+  "pillar": "Building Materials",
+  "weekNumber": 43,
+  "scheduledMonth": "Oct",
+  "scheduledDate": "2026-10-W43",
+  "status": "Backlog",
+  "priorityScore": 64.7,
+  "targetKeyword": "bag of ballast",
+  "recommendedTitle": "Bag Of Ballast: Trade Specifications, Types & Uses Explained",
+  "intent": "Informational / Guide",
+  "audience": "Trade & DIY",
+  "metrics": {
+    "primaryVolume": 1900,
+    "totalClusterVolume": 5690,
+    "cpc": 0.46,
+    "competition": 100,
+    "peakSearchMonth": "Sep"
+  },
+  "secondaryKeywords": [
+    "ton bag of ballast",
+    "tonne bag of ballast",
+    "jumbo bag ballast",
+    "ballast jumbo bag",
+    "20mm ballast",
+    "ballast bulk bag near me",
+    "bulk ballast",
+    "wickes ballast bulk bag",
+    "1 ton bag of ballast",
+    "ballast 1 ton bag",
+    "ballast bulk bag wickes",
+    "wickes jumbo bag ballast",
+    "all in ballast bulk bag",
+    "20mm ballast bulk bag"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is bag of ballast? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

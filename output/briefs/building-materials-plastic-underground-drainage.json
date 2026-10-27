@@ -1,0 +1,33 @@
+{
+  "id": "building-materials-plastic-underground-drainage",
+  "pillar": "Building Materials",
+  "weekNumber": 14,
+  "scheduledMonth": "Apr",
+  "scheduledDate": "2026-04-W14",
+  "status": "Backlog",
+  "priorityScore": 87.8,
+  "targetKeyword": "plastic underground drainage",
+  "recommendedTitle": "Plastic Underground Drainage: Trade Specifications, Types & Uses Explained",
+  "intent": "Informational / Guide",
+  "audience": "Trade & Contractors",
+  "metrics": {
+    "primaryVolume": 30,
+    "totalClusterVolume": 50,
+    "cpc": 5.24,
+    "competition": 100,
+    "peakSearchMonth": "Sep"
+  },
+  "secondaryKeywords": [
+    "plastic underground drainage fittings",
+    "underground drainage clay to plastic"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is plastic underground drainage? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

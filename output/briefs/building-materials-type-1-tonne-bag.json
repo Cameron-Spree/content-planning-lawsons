@@ -1,0 +1,45 @@
+{
+  "id": "building-materials-type-1-tonne-bag",
+  "pillar": "Building Materials",
+  "weekNumber": 6,
+  "scheduledMonth": "Feb",
+  "scheduledDate": "2026-02-W6",
+  "status": "Backlog",
+  "priorityScore": 61.2,
+  "targetKeyword": "type 1 tonne bag",
+  "recommendedTitle": "Type 1 Tonne Bag: Trade Specifications, Types & Uses Explained",
+  "intent": "Informational / Guide",
+  "audience": "Trade & DIY",
+  "metrics": {
+    "primaryVolume": 390,
+    "totalClusterVolume": 1730,
+    "cpc": 0.73,
+    "competition": 100,
+    "peakSearchMonth": "Apr"
+  },
+  "secondaryKeywords": [
+    "tonne bag type 1",
+    "1 ton bag of type 1",
+    "ton bag of type 1",
+    "mot tonne bag",
+    "mot 1 tonne bag",
+    "type one bulk bag",
+    "bulk bag type 1 coverage",
+    "type 1 bulk bag coverage",
+    "type 1 jumbo bag",
+    "type 1 aggregate bulk bag",
+    "jumbo bag type 1",
+    "type 1 price per tonne near me",
+    "1 tonne bag hardcore",
+    "1 tonne bag of sand travis perkins"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is type 1 tonne bag? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "power-tools-petrol-push-mower",
+  "pillar": "Power Tools",
+  "weekNumber": 7,
+  "scheduledMonth": "Feb",
+  "scheduledDate": "2026-02-W7",
+  "status": "Backlog",
+  "priorityScore": 79.3,
+  "targetKeyword": "petrol push mower",
+  "recommendedTitle": "Ultimate Petrol Push Mower Guide: Features, Choosing & Maintenance",
+  "intent": "Informational / Guide",
+  "audience": "DIY & Professionals",
+  "metrics": {
+    "primaryVolume": 12100,
+    "totalClusterVolume": 84850,
+    "cpc": 0.52,
+    "competition": 100,
+    "peakSearchMonth": "Apr"
+  },
+  "secondaryKeywords": [
+    "petrol motor mower",
+    "push mower petrol",
+    "mountfield push mower",
+    "petrol mower",
+    "battery powered push mower",
+    "petrol mower self propelled",
+    "best battery push mower",
+    "mountfield petrol mower",
+    "best petrol mower",
+    "hyundai petrol mower",
+    "cheap petrol mower",
+    "self propelled battery push mower",
+    "electric start petrol mower",
+    "stihl petrol mower"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is petrol push mower? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

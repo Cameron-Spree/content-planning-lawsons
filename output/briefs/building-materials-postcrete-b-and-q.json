@@ -1,0 +1,48 @@
+{
+  "id": "building-materials-postcrete-b-and-q",
+  "pillar": "Building Materials",
+  "weekNumber": 45,
+  "scheduledMonth": "Nov",
+  "scheduledDate": "2026-11-W45",
+  "status": "Backlog",
+  "priorityScore": 61.9,
+  "targetKeyword": "postcrete b and q",
+  "recommendedTitle": "Postcrete B And Q: Complete Step-by-Step Guide",
+  "intent": "Informational / How-To",
+  "audience": "Trade & DIY",
+  "metrics": {
+    "primaryVolume": 1900,
+    "totalClusterVolume": 3480,
+    "cpc": 0.14,
+    "competition": 100,
+    "peakSearchMonth": "Sep"
+  },
+  "secondaryKeywords": [
+    "postcrete bags",
+    "bag postcrete",
+    "postcrete 20kg",
+    "pallet of postcrete",
+    "20kg postcrete",
+    "bulk postcrete",
+    "25kg postcrete",
+    "best price for postcrete 20kg",
+    "cost of bag of postcrete",
+    "lbs postcrete",
+    "mix postcrete",
+    "postcrete 20 kg",
+    "postcrete 25kg",
+    "20kg postcrete coverage"
+  ],
+  "paaQuestions": [
+    "20kg postcrete how many posts",
+    "postcrete 20kg how many posts"
+  ],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is postcrete b and q? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

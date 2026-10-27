@@ -1,0 +1,30 @@
+{
+  "id": "fencing-fence-panels-delivered",
+  "pillar": "Fencing",
+  "weekNumber": 3,
+  "scheduledMonth": "Jan",
+  "scheduledDate": "2026-01-W3",
+  "status": "Briefing",
+  "priorityScore": 63,
+  "targetKeyword": "fence panels delivered",
+  "recommendedTitle": "The Complete Guide to Fence Panels Delivered: Types, Costs & Installation",
+  "intent": "Informational / Guide",
+  "audience": "Domestic & DIY",
+  "metrics": {
+    "primaryVolume": 480,
+    "totalClusterVolume": 480,
+    "cpc": 1.58,
+    "competition": 100,
+    "peakSearchMonth": "Mar"
+  },
+  "secondaryKeywords": [],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is fence panels delivered? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

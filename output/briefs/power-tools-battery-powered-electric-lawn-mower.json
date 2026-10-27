@@ -1,0 +1,45 @@
+{
+  "id": "power-tools-battery-powered-electric-lawn-mower",
+  "pillar": "Power Tools",
+  "weekNumber": 3,
+  "scheduledMonth": "Jan",
+  "scheduledDate": "2026-01-W3",
+  "status": "Briefing",
+  "priorityScore": 77.5,
+  "targetKeyword": "battery powered electric lawn mower",
+  "recommendedTitle": "Ultimate Battery Powered Electric Lawn Mower Guide: Features, Choosing & Maintenance",
+  "intent": "Informational / Guide",
+  "audience": "DIY & Professionals",
+  "metrics": {
+    "primaryVolume": 2400,
+    "totalClusterVolume": 53180,
+    "cpc": 0.58,
+    "competition": 100,
+    "peakSearchMonth": "Mar"
+  },
+  "secondaryKeywords": [
+    "battery mower",
+    "stihl battery lawn mower",
+    "lawn blower battery",
+    "flymo battery lawn mower",
+    "battery lawn mower stihl",
+    "best electric lawn mower",
+    "best rated electric lawn mower",
+    "good electric lawn mower",
+    "bosch battery mower",
+    "gtech battery lawn mower",
+    "gtech mower battery",
+    "electric cylinder lawn mower",
+    "cylinder electric lawn mower",
+    "electric riding lawn mower"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is battery powered electric lawn mower? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

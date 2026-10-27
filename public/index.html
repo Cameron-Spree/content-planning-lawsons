@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lawsons Content Calendar & Topic Clusters</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <div class="brand">
+      <div class="brand-icon">📐</div>
+      <div>
+        <h1>Lawsons Content Engine & Editorial Calendar</h1>
+        <p>Automated Semantic Clusters & Seasonality Pipeline (3 Articles / Week)</p>
+      </div>
+    </div>
+    <div class="stats-bar">
+      <div class="stat-pill">
+        <span class="val" id="stat-total-articles">156</span>
+        <span class="lbl">Articles Planned</span>
+      </div>
+      <div class="stat-pill">
+        <span class="val">3 / Week</span>
+        <span class="lbl">Cadence (1 per Pillar)</span>
+      </div>
+      <div class="stat-pill">
+        <span class="val" id="stat-total-vol">--</span>
+        <span class="lbl">Search Demand</span>
+      </div>
+      <div class="stat-pill">
+        <span class="val" id="stat-total-paa">--</span>
+        <span class="lbl">PAA Questions</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- Toolbar Controls -->
+  <div class="toolbar">
+    <div class="controls-left">
+      <div class="view-toggle">
+        <button class="view-btn active" id="btn-view-kanban" onclick="switchView('kanban')">📋 Kanban Board</button>
+        <button class="view-btn" id="btn-view-calendar" onclick="switchView('calendar')">📅 52-Week Roadmap</button>
+      </div>
+
+      <select class="filter-select" id="filter-pillar" onchange="applyFilters()">
+        <option value="all">All Pillars (Fencing, Tools, Materials)</option>
+        <option value="Fencing">Fencing (52)</option>
+        <option value="Power Tools">Power Tools (52)</option>
+        <option value="Building Materials">Building Materials (52)</option>
+      </select>
+
+      <select class="filter-select" id="filter-audience" onchange="applyFilters()">
+        <option value="all">All Audiences</option>
+        <option value="Domestic & DIY">Domestic & DIY</option>
+        <option value="Trade & Contractors">Trade & Contractors</option>
+        <option value="DIY & Professionals">DIY & Professionals</option>
+      </select>
+
+      <input type="text" class="search-input" id="search-kw" placeholder="Search keywords or topics..." oninput="applyFilters()">
+    </div>
+
+    <div class="controls-right">
+      <button class="btn-action btn-secondary" onclick="exportCSV()">📥 Export CSV</button>
+      <button class="btn-action btn-secondary" onclick="exportJSON()">💾 Export JSON</button>
+    </div>
+  </div>
+
+  <!-- Main View -->
+  <main id="main-content">
+    <!-- Rendered dynamically via app.js -->
+  </main>
+
+  <!-- Brief Details Modal -->
+  <div class="modal-overlay" id="brief-modal" onclick="closeModalOnOutsideClick(event)">
+    <div class="modal">
+      <div class="modal-header">
+        <h2 id="modal-title">Article Brief</h2>
+        <button class="btn-close" onclick="closeModal()">&times;</button>
+      </div>
+      <div class="modal-body" id="modal-body">
+        <!-- Rendered dynamically -->
+      </div>
+      <div class="modal-footer">
+        <button class="btn-action btn-secondary" onclick="closeModal()">Close</button>
+        <button class="btn-action" id="btn-copy-brief" onclick="copyBriefPayload()">📋 Copy Brief JSON for Generator</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast -->
+  <div class="toast" id="toast">Copied to clipboard!</div>
+
+  <script src="app.js"></script>
+</body>
+</html>

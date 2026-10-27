@@ -1,0 +1,45 @@
+{
+  "id": "fencing-wood-panel-trellis",
+  "pillar": "Fencing",
+  "weekNumber": 45,
+  "scheduledMonth": "Nov",
+  "scheduledDate": "2026-11-W45",
+  "status": "Backlog",
+  "priorityScore": 62.1,
+  "targetKeyword": "wood panel trellis",
+  "recommendedTitle": "The Complete Guide to Wood Panel Trellis: Types, Costs & Installation",
+  "intent": "Informational / Guide",
+  "audience": "Domestic & DIY",
+  "metrics": {
+    "primaryVolume": 1600,
+    "totalClusterVolume": 4260,
+    "cpc": 0.35,
+    "competition": 100,
+    "peakSearchMonth": "Apr"
+  },
+  "secondaryKeywords": [
+    "metal panel trellis",
+    "expanding wood trellis",
+    "curved trellis panel",
+    "wall panel trellis",
+    "fan trellis panel",
+    "freestanding trellis panel",
+    "gate wood panel",
+    "curved top trellis panel",
+    "trellis panel with planter",
+    "wickes wood trellis",
+    "6ft x 3ft diamond trellis panel",
+    "cedar trellis panel",
+    "thin trellis panel",
+    "180 x 180 trellis panel"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is wood panel trellis? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

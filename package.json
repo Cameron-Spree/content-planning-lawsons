@@ -1,0 +1,20 @@
+{
+  "name": "content-creation-calendar",
+  "version": "1.0.0",
+  "description": "Automated Content Calendar & Topic Cluster Kanban for Fencing, Power Tools, and Building Materials",
+  "main": "api/calendar.js",
+  "scripts": {
+    "process": "node scripts/process_data.js",
+    "start": "node -e \"const http=require('http'),fs=require('fs'),path=require('path');http.createServer((req,res)=>{let p=req.url==='/'?'/index.html':req.url;let f=path.join(__dirname,'public',p);if(fs.existsSync(f)&&fs.statSync(f).isFile()){res.writeHead(200,{'Content-Type':f.endsWith('.css')?'text/css':f.endsWith('.js')?'application/javascript':f.endsWith('.json')?'application/json':'text/html'});fs.createReadStream(f).pipe(res)}else{res.writeHead(404);res.end('Not Found')}}).listen(3002,()=>console.log('Server running at http://localhost:3002'))\""
+  },
+  "keywords": [
+    "content-calendar",
+    "seo",
+    "topic-clusters",
+    "fencing",
+    "power-tools",
+    "building-materials"
+  ],
+  "author": "Lawsons / Briants",
+  "license": "MIT"
+}

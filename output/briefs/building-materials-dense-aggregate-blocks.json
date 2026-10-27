@@ -1,0 +1,34 @@
+{
+  "id": "building-materials-dense-aggregate-blocks",
+  "pillar": "Building Materials",
+  "weekNumber": 52,
+  "scheduledMonth": "Dec",
+  "scheduledDate": "2026-12-W52",
+  "status": "Backlog",
+  "priorityScore": 58.6,
+  "targetKeyword": "dense aggregate blocks",
+  "recommendedTitle": "Dense Aggregate Blocks: Trade Specifications, Types & Uses Explained",
+  "intent": "Informational / Guide",
+  "audience": "Trade & DIY",
+  "metrics": {
+    "primaryVolume": 40,
+    "totalClusterVolume": 80,
+    "cpc": 2.09,
+    "competition": 99,
+    "peakSearchMonth": "Sep"
+  },
+  "secondaryKeywords": [
+    "dense aggregate concrete blocks",
+    "7n dense blocks",
+    "medium dense aggregate block"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is dense aggregate blocks? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

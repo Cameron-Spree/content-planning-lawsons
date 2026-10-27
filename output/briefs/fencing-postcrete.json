@@ -1,0 +1,45 @@
+{
+  "id": "fencing-postcrete",
+  "pillar": "Fencing",
+  "weekNumber": 37,
+  "scheduledMonth": "Sep",
+  "scheduledDate": "2026-09-W37",
+  "status": "Backlog",
+  "priorityScore": 71.5,
+  "targetKeyword": "postcrete",
+  "recommendedTitle": "The Complete Guide to Postcrete: Types, Costs & Installation",
+  "intent": "Informational / Guide",
+  "audience": "Domestic & DIY",
+  "metrics": {
+    "primaryVolume": 18100,
+    "totalClusterVolume": 26520,
+    "cpc": 0.34,
+    "competition": 100,
+    "peakSearchMonth": "Apr"
+  },
+  "secondaryKeywords": [
+    "postcrete wickes",
+    "postcrete bq",
+    "bq postcrete",
+    "postcrete near me",
+    "cheap postcrete",
+    "postcrete price",
+    "price of postcrete",
+    "cheapest postcrete near me",
+    "cheapest postcrete",
+    "selco postcrete",
+    "postcrete b and m",
+    "mixing postcrete",
+    "fence postcrete",
+    "fencemate postcrete"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is postcrete? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

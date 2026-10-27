@@ -1,0 +1,45 @@
+{
+  "id": "building-materials-engineering-bricks",
+  "pillar": "Building Materials",
+  "weekNumber": 22,
+  "scheduledMonth": "Jun",
+  "scheduledDate": "2026-06-W22",
+  "status": "Backlog",
+  "priorityScore": 73,
+  "targetKeyword": "engineering bricks",
+  "recommendedTitle": "Engineering Bricks: Trade Specifications, Types & Uses Explained",
+  "intent": "Informational / Guide",
+  "audience": "Trade & DIY",
+  "metrics": {
+    "primaryVolume": 6600,
+    "totalClusterVolume": 22100,
+    "cpc": 0.59,
+    "competition": 100,
+    "peakSearchMonth": "Sep"
+  },
+  "secondaryKeywords": [
+    "eng bricks",
+    "blue engineering bricks",
+    "red engineering bricks",
+    "engineering bricks size",
+    "class a engineering bricks",
+    "black engineering bricks",
+    "engineering bricks price",
+    "cost of engineering bricks",
+    "engineering bricks wickes",
+    "solid engineering bricks",
+    "grey engineering bricks",
+    "solid blue engineering bricks",
+    "brown engineering bricks",
+    "selco engineering bricks"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is engineering bricks? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

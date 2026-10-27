@@ -1,0 +1,38 @@
+{
+  "id": "power-tools-lawn-mower-automated",
+  "pillar": "Power Tools",
+  "weekNumber": 43,
+  "scheduledMonth": "Oct",
+  "scheduledDate": "2026-10-W43",
+  "status": "Backlog",
+  "priorityScore": 63.4,
+  "targetKeyword": "lawn mower automated",
+  "recommendedTitle": "Ultimate Lawn Mower Automated Guide: Features, Choosing & Maintenance",
+  "intent": "Informational / Guide",
+  "audience": "DIY & Professionals",
+  "metrics": {
+    "primaryVolume": 2400,
+    "totalClusterVolume": 4390,
+    "cpc": 0.47,
+    "competition": 100,
+    "peakSearchMonth": "May"
+  },
+  "secondaryKeywords": [
+    "best automated lawn mower",
+    "diy automated lawn mower",
+    "self automated lawn mower",
+    "commercial automated lawn mower",
+    "automated commercial lawn mower",
+    "fully automated lawn mower",
+    "automated lawn mower husqvarna"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is lawn mower automated? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "building-materials-160mm-black-soil-pipe",
+  "pillar": "Building Materials",
+  "weekNumber": 33,
+  "scheduledMonth": "Aug",
+  "scheduledDate": "2026-08-W33",
+  "status": "Backlog",
+  "priorityScore": 71,
+  "targetKeyword": "160mm black soil pipe",
+  "recommendedTitle": "160mm Black Soil Pipe: Trade Specifications, Types & Uses Explained",
+  "intent": "Informational / Guide",
+  "audience": "Trade & DIY",
+  "metrics": {
+    "primaryVolume": 30,
+    "totalClusterVolume": 30,
+    "cpc": 3.87,
+    "competition": 97,
+    "peakSearchMonth": "Sep"
+  },
+  "secondaryKeywords": [],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is 160mm black soil pipe? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

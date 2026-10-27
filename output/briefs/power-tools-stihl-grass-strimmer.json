@@ -1,0 +1,45 @@
+{
+  "id": "power-tools-stihl-grass-strimmer",
+  "pillar": "Power Tools",
+  "weekNumber": 12,
+  "scheduledMonth": "Mar",
+  "scheduledDate": "2026-03-W12",
+  "status": "Backlog",
+  "priorityScore": 75.2,
+  "targetKeyword": "stihl grass strimmer",
+  "recommendedTitle": "Ultimate Stihl Grass Strimmer Guide: Features, Choosing & Maintenance",
+  "intent": "Informational / Guide",
+  "audience": "DIY & Professionals",
+  "metrics": {
+    "primaryVolume": 12100,
+    "totalClusterVolume": 37000,
+    "cpc": 0.54,
+    "competition": 100,
+    "peakSearchMonth": "May"
+  },
+  "secondaryKeywords": [
+    "grass strimmer",
+    "cordless grass strimmer",
+    "stihl battery strimmer",
+    "argos cordless grass strimmer",
+    "stihl cordless strimmer",
+    "stihl electric strimmer",
+    "stihl battery grass trimmer",
+    "stihl fs 55 strimmer",
+    "electric strimmer stihl",
+    "fs55 stihl strimmer",
+    "stihl strimmer fs55r",
+    "strimmer stihl electric",
+    "stihl strimmer cord",
+    "stihl fs40 strimmer"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is stihl grass strimmer? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "building-materials-100mm-celotex",
+  "pillar": "Building Materials",
+  "weekNumber": 25,
+  "scheduledMonth": "Jun",
+  "scheduledDate": "2026-06-W25",
+  "status": "Backlog",
+  "priorityScore": 71.2,
+  "targetKeyword": "100mm celotex",
+  "recommendedTitle": "100mm Celotex: Trade Specifications, Types & Uses Explained",
+  "intent": "Informational / Guide",
+  "audience": "Trade & DIY",
+  "metrics": {
+    "primaryVolume": 4400,
+    "totalClusterVolume": 9800,
+    "cpc": 0.83,
+    "competition": 100,
+    "peakSearchMonth": "Sep"
+  },
+  "secondaryKeywords": [
+    "celotex insulation 100mm",
+    "insulation celotex 100mm",
+    "100mm insulation celotex",
+    "100mm pir",
+    "100mm blockwork",
+    "celotex ga4100",
+    "celotex insulation board 100mm",
+    "ecotherm 100mm",
+    "100mm celotex ga4000",
+    "100mm celotex price",
+    "100mm celotex floor insulation",
+    "celotex 100mm 2400 x 1200",
+    "cheap celotex 100mm",
+    "100 celotex"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is 100mm celotex? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

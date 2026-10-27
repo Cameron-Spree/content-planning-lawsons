@@ -1,0 +1,45 @@
+{
+  "id": "power-tools-bosch-cordless-strimmer",
+  "pillar": "Power Tools",
+  "weekNumber": 35,
+  "scheduledMonth": "Sep",
+  "scheduledDate": "2026-09-W35",
+  "status": "Backlog",
+  "priorityScore": 72.9,
+  "targetKeyword": "bosch cordless strimmer",
+  "recommendedTitle": "Ultimate Bosch Cordless Strimmer Guide: Features, Choosing & Maintenance",
+  "intent": "Informational / Guide",
+  "audience": "DIY & Professionals",
+  "metrics": {
+    "primaryVolume": 2400,
+    "totalClusterVolume": 40200,
+    "cpc": 0.26,
+    "competition": 100,
+    "peakSearchMonth": "May"
+  },
+  "secondaryKeywords": [
+    "bosch cordless grass strimmer",
+    "bosch battery powered strimmer",
+    "bosch rechargeable strimmer",
+    "strimmer bosch cordless",
+    "cordless strimmer with battery and charger",
+    "bosch cordless drill",
+    "best cordless strimmer",
+    "best strimmer cordless",
+    "argos cordless strimmer",
+    "makita cordless strimmer",
+    "cordless strimmer b&q",
+    "b and q cordless strimmer",
+    "b&q cordless strimmer",
+    "ryobi cordless strimmer"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is bosch cordless strimmer? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

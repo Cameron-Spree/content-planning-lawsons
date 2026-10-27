@@ -1,0 +1,45 @@
+{
+  "id": "power-tools-long-reach-hedge-cutter",
+  "pillar": "Power Tools",
+  "weekNumber": 51,
+  "scheduledMonth": "Dec",
+  "scheduledDate": "2026-12-W51",
+  "status": "Backlog",
+  "priorityScore": 79.6,
+  "targetKeyword": "long reach hedge cutter",
+  "recommendedTitle": "Ultimate Long Reach Hedge Cutter Guide: Features, Choosing & Maintenance",
+  "intent": "Informational / Guide",
+  "audience": "DIY & Professionals",
+  "metrics": {
+    "primaryVolume": 8100,
+    "totalClusterVolume": 95610,
+    "cpc": 0.48,
+    "competition": 100,
+    "peakSearchMonth": "Sep"
+  },
+  "secondaryKeywords": [
+    "long reach hedge cutters",
+    "long reach hedge clippers",
+    "long reach hedge shears",
+    "long reach hedgecutter",
+    "long reach hedge pruner",
+    "long reach hedgecutters",
+    "petrol hedge cutter",
+    "telescopic hedge cutter",
+    "hedge cutter petrol",
+    "milwaukee hedge cutter",
+    "hedge cutter on pole",
+    "long reach petrol hedge cutter",
+    "cordless long reach hedge cutters",
+    "cordless long reach hedge cutter"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is long reach hedge cutter? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

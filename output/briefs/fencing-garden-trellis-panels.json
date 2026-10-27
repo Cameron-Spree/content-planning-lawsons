@@ -1,0 +1,45 @@
+{
+  "id": "fencing-garden-trellis-panels",
+  "pillar": "Fencing",
+  "weekNumber": 35,
+  "scheduledMonth": "Sep",
+  "scheduledDate": "2026-09-W35",
+  "status": "Backlog",
+  "priorityScore": 74.2,
+  "targetKeyword": "garden trellis panels",
+  "recommendedTitle": "The Complete Guide to Garden Trellis Panels: Types, Costs & Installation",
+  "intent": "Informational / Guide",
+  "audience": "Domestic & DIY",
+  "metrics": {
+    "primaryVolume": 3600,
+    "totalClusterVolume": 41610,
+    "cpc": 0.38,
+    "competition": 100,
+    "peakSearchMonth": "Apr"
+  },
+  "secondaryKeywords": [
+    "trellis panels garden",
+    "garden panels",
+    "trellis panels b&q",
+    "bq trellis panels",
+    "b and q trellis panels",
+    "wooden trellis panels",
+    "garden wall panels",
+    "trellis panels wood",
+    "slatted garden trellis",
+    "metal trellis panels",
+    "decorative garden panels",
+    "decorative garden trellis panels",
+    "wickes trellis panels",
+    "garden wood panels"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is garden trellis panels? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

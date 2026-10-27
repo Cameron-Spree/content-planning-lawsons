@@ -1,0 +1,45 @@
+{
+  "id": "building-materials-block-and-beam-floor",
+  "pillar": "Building Materials",
+  "weekNumber": 36,
+  "scheduledMonth": "Sep",
+  "scheduledDate": "2026-09-W36",
+  "status": "Backlog",
+  "priorityScore": 69.1,
+  "targetKeyword": "block and beam floor",
+  "recommendedTitle": "Block And Beam Floor: Trade Specifications, Types & Uses Explained",
+  "intent": "Informational / Guide",
+  "audience": "Trade & DIY",
+  "metrics": {
+    "primaryVolume": 5400,
+    "totalClusterVolume": 26410,
+    "cpc": 0.37,
+    "competition": 82,
+    "peakSearchMonth": "Sep"
+  },
+  "secondaryKeywords": [
+    "block & beam floor",
+    "blocks for beam and block floor",
+    "blocks for block and beam floor",
+    "beam and block",
+    "beam and block sizes",
+    "block and beam suppliers",
+    "block and beam manufacturers",
+    "beam and block foundations",
+    "block & beam suppliers",
+    "concrete beam and block",
+    "concrete block and beam floor",
+    "beam and pot floor",
+    "block and beam floor cost per m2",
+    "concrete beam block"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is block and beam floor? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

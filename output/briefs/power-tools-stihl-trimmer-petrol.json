@@ -1,0 +1,45 @@
+{
+  "id": "power-tools-stihl-trimmer-petrol",
+  "pillar": "Power Tools",
+  "weekNumber": 38,
+  "scheduledMonth": "Sep",
+  "scheduledDate": "2026-09-W38",
+  "status": "Backlog",
+  "priorityScore": 69.3,
+  "targetKeyword": "stihl trimmer petrol",
+  "recommendedTitle": "Ultimate Stihl Trimmer Petrol Guide: Features, Choosing & Maintenance",
+  "intent": "Informational / Guide",
+  "audience": "DIY & Professionals",
+  "metrics": {
+    "primaryVolume": 4400,
+    "totalClusterVolume": 10700,
+    "cpc": 0.59,
+    "competition": 100,
+    "peakSearchMonth": "May"
+  },
+  "secondaryKeywords": [
+    "stihl petrol chainsaws",
+    "stihl battery trimmer",
+    "stihl battery string trimmer",
+    "stihl battery line trimmer",
+    "stihl battery lawn trimmer",
+    "stihl battery powered line trimmer",
+    "stihl petrol",
+    "petrol edge trimmer",
+    "stihl petrol can",
+    "stihl petrol hedge cutter",
+    "garden trimmer petrol",
+    "petrol pole trimmer",
+    "stihl petrol strimmers for sale near me",
+    "stihl fsa 45 trimmer"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is stihl trimmer petrol? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

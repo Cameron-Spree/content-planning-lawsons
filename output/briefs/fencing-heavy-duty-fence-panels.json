@@ -1,0 +1,45 @@
+{
+  "id": "fencing-heavy-duty-fence-panels",
+  "pillar": "Fencing",
+  "weekNumber": 42,
+  "scheduledMonth": "Oct",
+  "scheduledDate": "2026-10-W42",
+  "status": "Backlog",
+  "priorityScore": 63.9,
+  "targetKeyword": "heavy duty fence panels",
+  "recommendedTitle": "The Complete Guide to Heavy Duty Fence Panels: Types, Costs & Installation",
+  "intent": "Informational / Guide",
+  "audience": "Trade & Contractors",
+  "metrics": {
+    "primaryVolume": 720,
+    "totalClusterVolume": 1390,
+    "cpc": 1.12,
+    "competition": 100,
+    "peakSearchMonth": "Apr"
+  },
+  "secondaryKeywords": [
+    "heavy duty metal trellis panels",
+    "heavy duty trellis panels",
+    "heavy duty diamond trellis panels",
+    "heavy duty mesh panels",
+    "heavy duty trellis b&q",
+    "heavy duty diamond trellis",
+    "heavy duty square trellis",
+    "heavy duty trellis 6 x 6",
+    "heavy duty vinyl lattice",
+    "heavy duty diamond trellis near me",
+    "forest heavy duty trellis",
+    "heavy duty fence trellis",
+    "heavy duty timber gate",
+    "heavy duty trellis fencing"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is heavy duty fence panels? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

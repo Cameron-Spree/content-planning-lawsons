@@ -1,0 +1,45 @@
+{
+  "id": "power-tools-drill",
+  "pillar": "Power Tools",
+  "weekNumber": 29,
+  "scheduledMonth": "Jul",
+  "scheduledDate": "2026-07-W29",
+  "status": "Backlog",
+  "priorityScore": 83.3,
+  "targetKeyword": "drill",
+  "recommendedTitle": "Ultimate Drill Guide: Features, Choosing & Maintenance",
+  "intent": "Informational / Guide",
+  "audience": "DIY & Professionals",
+  "metrics": {
+    "primaryVolume": 33100,
+    "totalClusterVolume": 266560,
+    "cpc": 0.32,
+    "competition": 100,
+    "peakSearchMonth": "Sep"
+  },
+  "secondaryKeywords": [
+    "sds drill",
+    "dewalt drill",
+    "cordless drill",
+    "makita drill",
+    "drill bits",
+    "hammer drill",
+    "pillar drill",
+    "milwaukee drill",
+    "mawaki drill",
+    "impact drill",
+    "core drill",
+    "drill set",
+    "drill press",
+    "electric drill"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is drill? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

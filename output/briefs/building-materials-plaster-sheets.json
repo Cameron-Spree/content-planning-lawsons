@@ -1,0 +1,45 @@
+{
+  "id": "building-materials-plaster-sheets",
+  "pillar": "Building Materials",
+  "weekNumber": 41,
+  "scheduledMonth": "Oct",
+  "scheduledDate": "2026-10-W41",
+  "status": "Backlog",
+  "priorityScore": 64.9,
+  "targetKeyword": "plaster sheets",
+  "recommendedTitle": "Plaster Sheets: Trade Specifications, Types & Uses Explained",
+  "intent": "Informational / Guide",
+  "audience": "Trade & DIY",
+  "metrics": {
+    "primaryVolume": 2400,
+    "totalClusterVolume": 7730,
+    "cpc": 0.32,
+    "competition": 100,
+    "peakSearchMonth": "Sep"
+  },
+  "secondaryKeywords": [
+    "sheet plaster",
+    "plaster sheet price",
+    "plaster sheet cost",
+    "plaster board sheets",
+    "gyprock sheets",
+    "thin plaster sheets",
+    "gyproc sheets",
+    "6m gyprock sheets",
+    "6m plaster sheet",
+    "cheap gyprock sheets",
+    "cost of gyprock sheets",
+    "gyprock sheets cost",
+    "joining plaster sheets",
+    "plaster sheets for sale"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is plaster sheets? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

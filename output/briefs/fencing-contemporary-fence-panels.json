@@ -1,0 +1,33 @@
+{
+  "id": "fencing-contemporary-fence-panels",
+  "pillar": "Fencing",
+  "weekNumber": 13,
+  "scheduledMonth": "Mar",
+  "scheduledDate": "2026-03-W13",
+  "status": "Backlog",
+  "priorityScore": 60.7,
+  "targetKeyword": "contemporary fence panels",
+  "recommendedTitle": "The Complete Guide to Contemporary Fence Panels: Types, Costs & Installation",
+  "intent": "Informational / Guide",
+  "audience": "Domestic & DIY",
+  "metrics": {
+    "primaryVolume": 1600,
+    "totalClusterVolume": 1610,
+    "cpc": 0.72,
+    "competition": 100,
+    "peakSearchMonth": "May"
+  },
+  "secondaryKeywords": [
+    "contemporary fence trellis",
+    "goodhome lemhi contemporary closeboard venetian fence"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is contemporary fence panels? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "building-materials-buy-construction-material-onlin",
+  "pillar": "Building Materials",
+  "weekNumber": 1,
+  "scheduledMonth": "Jan",
+  "scheduledDate": "2026-01-W1",
+  "status": "Briefing",
+  "priorityScore": 68.8,
+  "targetKeyword": "buy construction material online",
+  "recommendedTitle": "Buy Construction Material Online: Trade Specifications, Types & Uses Explained",
+  "intent": "Transactional / Product Focus",
+  "audience": "Trade & DIY",
+  "metrics": {
+    "primaryVolume": 30,
+    "totalClusterVolume": 50,
+    "cpc": 3.34,
+    "competition": 100,
+    "peakSearchMonth": "Mar"
+  },
+  "secondaryKeywords": [
+    "construction material online purchase",
+    "construction material online buy",
+    "home construction material online",
+    "online construction material supply",
+    "hardware material online",
+    "home material online shopping"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is buy construction material online? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "power-tools-hedge-trimmer",
+  "pillar": "Power Tools",
+  "weekNumber": 47,
+  "scheduledMonth": "Nov",
+  "scheduledDate": "2026-11-W47",
+  "status": "Backlog",
+  "priorityScore": 81.4,
+  "targetKeyword": "hedge trimmer",
+  "recommendedTitle": "Ultimate Hedge Trimmer Guide: Features, Choosing & Maintenance",
+  "intent": "Informational / Guide",
+  "audience": "DIY & Professionals",
+  "metrics": {
+    "primaryVolume": 40500,
+    "totalClusterVolume": 174200,
+    "cpc": 0.35,
+    "competition": 100,
+    "peakSearchMonth": "Sep"
+  },
+  "secondaryKeywords": [
+    "cordless hedge trimmer",
+    "long reach hedge trimmer",
+    "dewalt hedge trimmer",
+    "battery hedge trimmer",
+    "door trimmer",
+    "petrolhedge trimmer",
+    "makita hedge trimmer",
+    "extendable hedge trimmer",
+    "telescopic hedge trimmer",
+    "petrol strimmer hedge trimmer",
+    "hedge petrol trimmer",
+    "petrol engine hedge trimmer",
+    "petrol for hedge trimmer",
+    "milwaukee hedge trimmer"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is hedge trimmer? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

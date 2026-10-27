@@ -1,0 +1,45 @@
+{
+  "id": "power-tools-lawn-mowers-electric-cordless",
+  "pillar": "Power Tools",
+  "weekNumber": 16,
+  "scheduledMonth": "Apr",
+  "scheduledDate": "2026-04-W16",
+  "status": "Backlog",
+  "priorityScore": 69.9,
+  "targetKeyword": "lawn mowers electric cordless",
+  "recommendedTitle": "Ultimate Lawn Mowers Electric Cordless Guide: Features, Choosing & Maintenance",
+  "intent": "Informational / Guide",
+  "audience": "DIY & Professionals",
+  "metrics": {
+    "primaryVolume": 2400,
+    "totalClusterVolume": 12260,
+    "cpc": 0.58,
+    "competition": 100,
+    "peakSearchMonth": "Mar"
+  },
+  "secondaryKeywords": [
+    "top electric lawn mowers",
+    "electric lawn mowers for sale",
+    "electric chainsaw cordless",
+    "argos electric lawn mowers",
+    "cordless electric chainsaw",
+    "discount electric lawn mowers",
+    "best electric mowers",
+    "mountfield mowers cordless",
+    "amazon cordless mowers",
+    "top rated cordless electric lawn mowers",
+    "cordless electric scissors",
+    "cordless lawn mowers for sale",
+    "screwfix cordless lawn mowers",
+    "makita cordless lawn mowers"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is lawn mowers electric cordless? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

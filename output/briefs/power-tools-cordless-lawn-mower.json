@@ -1,0 +1,45 @@
+{
+  "id": "power-tools-cordless-lawn-mower",
+  "pillar": "Power Tools",
+  "weekNumber": 6,
+  "scheduledMonth": "Feb",
+  "scheduledDate": "2026-02-W6",
+  "status": "Backlog",
+  "priorityScore": 83.9,
+  "targetKeyword": "cordless lawn mower",
+  "recommendedTitle": "Ultimate Cordless Lawn Mower Guide: Features, Choosing & Maintenance",
+  "intent": "Informational / Guide",
+  "audience": "DIY & Professionals",
+  "metrics": {
+    "primaryVolume": 22200,
+    "totalClusterVolume": 279100,
+    "cpc": 0.36,
+    "competition": 100,
+    "peakSearchMonth": "Apr"
+  },
+  "secondaryKeywords": [
+    "cordless push mower",
+    "cordless lawn",
+    "ryobi lawn mower",
+    "electric lawn mower",
+    "battery lawn mower",
+    "electric battery lawn mower",
+    "lawn mower sales",
+    "lawn trimmer cordless",
+    "battery powered lawn mower",
+    "worx lawn mower",
+    "remote control lawn mower",
+    "cordless mower",
+    "remote lawn mower",
+    "ryobi cordless lawn mower"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is cordless lawn mower? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

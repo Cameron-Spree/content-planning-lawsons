@@ -1,0 +1,32 @@
+{
+  "id": "building-materials-ceiling-tiles-online",
+  "pillar": "Building Materials",
+  "weekNumber": 29,
+  "scheduledMonth": "Jul",
+  "scheduledDate": "2026-07-W29",
+  "status": "Backlog",
+  "priorityScore": 104,
+  "targetKeyword": "ceiling tiles online",
+  "recommendedTitle": "Ceiling Tiles Online: Trade Specifications, Types & Uses Explained",
+  "intent": "Transactional / Product Focus",
+  "audience": "Trade & DIY",
+  "metrics": {
+    "primaryVolume": 90,
+    "totalClusterVolume": 110,
+    "cpc": 6.45,
+    "competition": 100,
+    "peakSearchMonth": "Sep"
+  },
+  "secondaryKeywords": [
+    "buy ceiling tiles"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is ceiling tiles online? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "building-materials-160mm-drainage",
+  "pillar": "Building Materials",
+  "weekNumber": 47,
+  "scheduledMonth": "Nov",
+  "scheduledDate": "2026-11-W47",
+  "status": "Backlog",
+  "priorityScore": 61.3,
+  "targetKeyword": "160mm drainage",
+  "recommendedTitle": "160mm Drainage: Trade Specifications, Types & Uses Explained",
+  "intent": "Informational / Guide",
+  "audience": "Trade & DIY",
+  "metrics": {
+    "primaryVolume": 50,
+    "totalClusterVolume": 140,
+    "cpc": 2.05,
+    "competition": 100,
+    "peakSearchMonth": "Sep"
+  },
+  "secondaryKeywords": [
+    "160mm drainage pipe fittings",
+    "160mm underground drainage",
+    "160mm drainage pipe wickes",
+    "160mm drainage fittings",
+    "160mm underground drainage fittings",
+    "160mm drainage pipe 6m",
+    "160mm drainage pipe b&q",
+    "160mm plastic drainage pipe"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is 160mm drainage? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

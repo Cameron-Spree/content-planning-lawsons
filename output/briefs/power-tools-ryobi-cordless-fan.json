@@ -1,0 +1,45 @@
+{
+  "id": "power-tools-ryobi-cordless-fan",
+  "pillar": "Power Tools",
+  "weekNumber": 15,
+  "scheduledMonth": "Apr",
+  "scheduledDate": "2026-04-W15",
+  "status": "Backlog",
+  "priorityScore": 64.6,
+  "targetKeyword": "ryobi cordless fan",
+  "recommendedTitle": "Ultimate Ryobi Cordless Fan Guide: Features, Choosing & Maintenance",
+  "intent": "Informational / Guide",
+  "audience": "DIY & Professionals",
+  "metrics": {
+    "primaryVolume": 1900,
+    "totalClusterVolume": 7680,
+    "cpc": 0.31,
+    "competition": 99,
+    "peakSearchMonth": "Jun"
+  },
+  "secondaryKeywords": [
+    "ryobi cordless lawnmower",
+    "ryobi cordless weed eater",
+    "ryobi cordless saw",
+    "ryobi cordless jigsaw",
+    "ryobi skill saw cordless",
+    "ryobi cordless chainsaw",
+    "ryobi cordless chainsaw chain",
+    "ryobi cordless screwdriver",
+    "ryobi 18v fan",
+    "ryobi cordless tools",
+    "ryobi cordless",
+    "ryobi lawnmower cordless",
+    "makita cordless fan",
+    "ryobi cordless grinder"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is ryobi cordless fan? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

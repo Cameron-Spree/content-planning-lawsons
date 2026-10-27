@@ -1,0 +1,30 @@
+{
+  "id": "fencing-grey-fence-panels",
+  "pillar": "Fencing",
+  "weekNumber": 18,
+  "scheduledMonth": "May",
+  "scheduledDate": "2026-05-W18",
+  "status": "Backlog",
+  "priorityScore": 56.7,
+  "targetKeyword": "grey fence panels",
+  "recommendedTitle": "The Complete Guide to Grey Fence Panels: Types, Costs & Installation",
+  "intent": "Informational / Guide",
+  "audience": "Domestic & DIY",
+  "metrics": {
+    "primaryVolume": 720,
+    "totalClusterVolume": 720,
+    "cpc": 0.74,
+    "competition": 100,
+    "peakSearchMonth": "Mar"
+  },
+  "secondaryKeywords": [],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is grey fence panels? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

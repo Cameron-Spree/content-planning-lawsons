@@ -1,0 +1,45 @@
+{
+  "id": "power-tools-husqvarna-robot-mower",
+  "pillar": "Power Tools",
+  "weekNumber": 11,
+  "scheduledMonth": "Mar",
+  "scheduledDate": "2026-03-W11",
+  "status": "Backlog",
+  "priorityScore": 78.4,
+  "targetKeyword": "husqvarna robot mower",
+  "recommendedTitle": "Ultimate Husqvarna Robot Mower Guide: Features, Choosing & Maintenance",
+  "intent": "Informational / Guide",
+  "audience": "DIY & Professionals",
+  "metrics": {
+    "primaryVolume": 6600,
+    "totalClusterVolume": 30020,
+    "cpc": 0.97,
+    "competition": 100,
+    "peakSearchMonth": "May"
+  },
+  "secondaryKeywords": [
+    "husqvarna auto mower",
+    "best robot mower",
+    "husqvarna sit on mower",
+    "worx robot mower",
+    "flymo robot mower",
+    "worx mower robot",
+    "worx landroid robot mower",
+    "bosch robot mower",
+    "lawnmaster robot mower",
+    "robot mower garage",
+    "segway robot mower",
+    "stiga robot mower",
+    "honda robot mower",
+    "cheapest robot mower"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is husqvarna robot mower? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

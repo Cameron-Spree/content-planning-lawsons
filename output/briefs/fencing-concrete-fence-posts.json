@@ -1,0 +1,45 @@
+{
+  "id": "fencing-concrete-fence-posts",
+  "pillar": "Fencing",
+  "weekNumber": 7,
+  "scheduledMonth": "Feb",
+  "scheduledDate": "2026-02-W7",
+  "status": "Backlog",
+  "priorityScore": 77.9,
+  "targetKeyword": "concrete fence posts",
+  "recommendedTitle": "Concrete Fence Posts: Complete Step-by-Step Guide",
+  "intent": "Informational / How-To",
+  "audience": "Domestic & DIY",
+  "metrics": {
+    "primaryVolume": 22200,
+    "totalClusterVolume": 74370,
+    "cpc": 0.44,
+    "competition": 100,
+    "peakSearchMonth": "Apr"
+  },
+  "secondaryKeywords": [
+    "concrete posts",
+    "wooden fence posts",
+    "fence with wood posts",
+    "wooden fence and posts",
+    "8ft concrete fence posts",
+    "8 foot concrete fence posts",
+    "concrete 8ft fence posts",
+    "8ft fence posts concrete",
+    "concrete for fencing posts",
+    "concrete fence posts near me",
+    "extending concrete fence posts",
+    "fence panel posts",
+    "9ft concrete fence posts",
+    "9 foot concrete fence posts"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is concrete fence posts? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

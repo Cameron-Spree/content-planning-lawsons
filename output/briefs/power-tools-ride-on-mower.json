@@ -1,0 +1,45 @@
+{
+  "id": "power-tools-ride-on-mower",
+  "pillar": "Power Tools",
+  "weekNumber": 22,
+  "scheduledMonth": "Jun",
+  "scheduledDate": "2026-06-W22",
+  "status": "Backlog",
+  "priorityScore": 74.2,
+  "targetKeyword": "ride on mower",
+  "recommendedTitle": "Ultimate Ride On Mower Guide: Features, Choosing & Maintenance",
+  "intent": "Informational / Guide",
+  "audience": "DIY & Professionals",
+  "metrics": {
+    "primaryVolume": 6600,
+    "totalClusterVolume": 33110,
+    "cpc": 0.5,
+    "competition": 100,
+    "peakSearchMonth": "Apr"
+  },
+  "secondaryKeywords": [
+    "gtech mower",
+    "sit on mower",
+    "mountfield ride on mower",
+    "stiga ride on mower",
+    "stiga ride on lawn mower",
+    "ryobi mower",
+    "honda ride on mower",
+    "ride on mower clearance sale",
+    "tractor mower",
+    "hyundai mower",
+    "countax ride on mower",
+    "standing mower",
+    "stihl ride on mower",
+    "etesia mower"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is ride on mower? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

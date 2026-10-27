@@ -1,0 +1,33 @@
+{
+  "id": "fencing-hazel-fence-panels",
+  "pillar": "Fencing",
+  "weekNumber": 8,
+  "scheduledMonth": "Feb",
+  "scheduledDate": "2026-02-W8",
+  "status": "Backlog",
+  "priorityScore": 76.9,
+  "targetKeyword": "hazel fence panels",
+  "recommendedTitle": "The Complete Guide to Hazel Fence Panels: Types, Costs & Installation",
+  "intent": "Informational / Guide",
+  "audience": "Domestic & DIY",
+  "metrics": {
+    "primaryVolume": 720,
+    "totalClusterVolume": 850,
+    "cpc": 2.67,
+    "competition": 100,
+    "peakSearchMonth": "Apr"
+  },
+  "secondaryKeywords": [
+    "hazel panels",
+    "split hazel fence"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is hazel fence panels? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

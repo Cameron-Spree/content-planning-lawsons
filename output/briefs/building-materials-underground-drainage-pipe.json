@@ -1,0 +1,45 @@
+{
+  "id": "building-materials-underground-drainage-pipe",
+  "pillar": "Building Materials",
+  "weekNumber": 16,
+  "scheduledMonth": "Apr",
+  "scheduledDate": "2026-04-W16",
+  "status": "Backlog",
+  "priorityScore": 79.3,
+  "targetKeyword": "underground drainage pipe",
+  "recommendedTitle": "Underground Drainage Pipe: Trade Specifications, Types & Uses Explained",
+  "intent": "Informational / Guide",
+  "audience": "Trade & Contractors",
+  "metrics": {
+    "primaryVolume": 1000,
+    "totalClusterVolume": 9190,
+    "cpc": 1.67,
+    "competition": 100,
+    "peakSearchMonth": "Sep"
+  },
+  "secondaryKeywords": [
+    "underground drainage",
+    "underground pipe",
+    "110mm drainage pipe",
+    "underground drainage fittings",
+    "underground drainage pipe fittings",
+    "110mm underground pipe",
+    "twinwall drainage pipe",
+    "160mm drainage pipe",
+    "underground soil pipe",
+    "underground pipe fittings",
+    "underground pipe and fittings",
+    "200mm drainage pipe",
+    "underground waste pipe",
+    "110 drainage pipe"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is underground drainage pipe? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

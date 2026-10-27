@@ -1,0 +1,45 @@
+{
+  "id": "power-tools-flymo-cordless-lawn-mower",
+  "pillar": "Power Tools",
+  "weekNumber": 33,
+  "scheduledMonth": "Aug",
+  "scheduledDate": "2026-08-W33",
+  "status": "Backlog",
+  "priorityScore": 57.8,
+  "targetKeyword": "flymo cordless lawn mower",
+  "recommendedTitle": "Ultimate Flymo Cordless Lawn Mower Guide: Features, Choosing & Maintenance",
+  "intent": "Informational / Guide",
+  "audience": "DIY & Professionals",
+  "metrics": {
+    "primaryVolume": 1900,
+    "totalClusterVolume": 2100,
+    "cpc": 0.29,
+    "competition": 100,
+    "peakSearchMonth": "Apr"
+  },
+  "secondaryKeywords": [
+    "flymo easilife 150 go robotic lawn mower",
+    "flymo easilife go robotic lawn mower",
+    "flymo easilife 350 robotic lawn mower",
+    "flymo easilife 200 robotic lawn mower",
+    "flymo chevron 420 gl petrol lawn mower",
+    "flymo chevron petrol lawn mower",
+    "flymo electrolux petrol lawn mower",
+    "flymo husqvarna petrol lawn mower",
+    "flymo xl500 petrol hover lawn mower",
+    "flymo easilife 500 go robotic lawn mower",
+    "flymo easilife 500 robotic lawn mower",
+    "flymo 1200 r lithium ion robotic lawn mower",
+    "flymo robotic lawn mower troubleshooting",
+    "flymo self cutting lawn mower"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is flymo cordless lawn mower? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "building-materials-online-builders-merchants",
+  "pillar": "Building Materials",
+  "weekNumber": 50,
+  "scheduledMonth": "Dec",
+  "scheduledDate": "2026-12-W50",
+  "status": "Backlog",
+  "priorityScore": 58.8,
+  "targetKeyword": "online builders merchants",
+  "recommendedTitle": "Online Builders Merchants: Complete Step-by-Step Guide",
+  "intent": "Informational / How-To",
+  "audience": "Trade & DIY",
+  "metrics": {
+    "primaryVolume": 110,
+    "totalClusterVolume": 140,
+    "cpc": 1.8,
+    "competition": 100,
+    "peakSearchMonth": "Sep"
+  },
+  "secondaryKeywords": [
+    "joinery merchants near me",
+    "trade builders merchants"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is online builders merchants? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "power-tools-auto-robot-lawn-mower",
+  "pillar": "Power Tools",
+  "weekNumber": 39,
+  "scheduledMonth": "Sep",
+  "scheduledDate": "2026-09-W39",
+  "status": "Backlog",
+  "priorityScore": 68.3,
+  "targetKeyword": "auto robot lawn mower",
+  "recommendedTitle": "Ultimate Auto Robot Lawn Mower Guide: Features, Choosing & Maintenance",
+  "intent": "Informational / Guide",
+  "audience": "DIY & Professionals",
+  "metrics": {
+    "primaryVolume": 2400,
+    "totalClusterVolume": 11310,
+    "cpc": 0.47,
+    "competition": 100,
+    "peakSearchMonth": "May"
+  },
+  "secondaryKeywords": [
+    "robot lawn mower garage",
+    "bosch auto lawn mower",
+    "robot lawn mower without perimeter wire",
+    "best robot lawn mower without perimeter wire",
+    "robot lawn mower no perimeter wire",
+    "honda robot lawn mower",
+    "honda auto lawn mower",
+    "stihl lawn mower robot",
+    "segway robot lawn mower",
+    "amazon robot lawn mower",
+    "robot lawn mower price",
+    "best budget robot lawn mower",
+    "macallister robot lawn mower",
+    "auto lawn mower price"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is auto robot lawn mower? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

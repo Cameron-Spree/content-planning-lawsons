@@ -1,0 +1,33 @@
+{
+  "id": "fencing-wickes-fence-panels-6x6",
+  "pillar": "Fencing",
+  "weekNumber": 34,
+  "scheduledMonth": "Aug",
+  "scheduledDate": "2026-08-W34",
+  "status": "Backlog",
+  "priorityScore": 51,
+  "targetKeyword": "wickes fence panels 6x6",
+  "recommendedTitle": "The Complete Guide to Wickes Fence Panels 6x6: Types, Costs & Installation",
+  "intent": "Informational / Guide",
+  "audience": "Domestic & DIY",
+  "metrics": {
+    "primaryVolume": 480,
+    "totalClusterVolume": 540,
+    "cpc": 0.32,
+    "competition": 100,
+    "peakSearchMonth": "Mar"
+  },
+  "secondaryKeywords": [
+    "fence rails wickes",
+    "wooden fence stakes wickes"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is wickes fence panels 6x6? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

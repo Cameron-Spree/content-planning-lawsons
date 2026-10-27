@@ -1,0 +1,32 @@
+{
+  "id": "fencing-hazel-hurdle-fencing",
+  "pillar": "Fencing",
+  "weekNumber": 1,
+  "scheduledMonth": "Jan",
+  "scheduledDate": "2026-01-W1",
+  "status": "Briefing",
+  "priorityScore": 84.2,
+  "targetKeyword": "hazel hurdle fencing",
+  "recommendedTitle": "The Complete Guide to Hazel Hurdle Fencing: Types, Costs & Installation",
+  "intent": "Informational / Guide",
+  "audience": "Domestic & DIY",
+  "metrics": {
+    "primaryVolume": 480,
+    "totalClusterVolume": 510,
+    "cpc": 3.67,
+    "competition": 100,
+    "peakSearchMonth": "Mar"
+  },
+  "secondaryKeywords": [
+    "hazel hurdle fencing near me"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is hazel hurdle fencing? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "fencing-bq-trellis",
+  "pillar": "Fencing",
+  "weekNumber": 10,
+  "scheduledMonth": "Mar",
+  "scheduledDate": "2026-03-W10",
+  "status": "Backlog",
+  "priorityScore": 69.6,
+  "targetKeyword": "b&q trellis",
+  "recommendedTitle": "The Complete Guide to B&Q Trellis: Types, Costs & Installation",
+  "intent": "Informational / Guide",
+  "audience": "Domestic & DIY",
+  "metrics": {
+    "primaryVolume": 3600,
+    "totalClusterVolume": 27540,
+    "cpc": 0.13,
+    "competition": 100,
+    "peakSearchMonth": "May"
+  },
+  "secondaryKeywords": [
+    "trellis b&q",
+    "wickes trellis",
+    "expanding trellis",
+    "privacy trellis",
+    "slatted trellis",
+    "fencing and trellis",
+    "trellis on fencing",
+    "artificial trellis",
+    "b & m trellis",
+    "trellis screening",
+    "trellis and screening",
+    "trellis screwfix",
+    "trellis decoration",
+    "square trellis"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is b&q trellis? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

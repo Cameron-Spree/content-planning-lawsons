@@ -1,0 +1,45 @@
+{
+  "id": "power-tools-automated-lawnmower",
+  "pillar": "Power Tools",
+  "weekNumber": 20,
+  "scheduledMonth": "May",
+  "scheduledDate": "2026-05-W20",
+  "status": "Backlog",
+  "priorityScore": 78,
+  "targetKeyword": "automated lawnmower",
+  "recommendedTitle": "Ultimate Automated Lawnmower Guide: Features, Choosing & Maintenance",
+  "intent": "Informational / Guide",
+  "audience": "DIY & Professionals",
+  "metrics": {
+    "primaryVolume": 33100,
+    "totalClusterVolume": 68740,
+    "cpc": 0.5,
+    "competition": 100,
+    "peakSearchMonth": "Apr"
+  },
+  "secondaryKeywords": [
+    "robotic lawnmower",
+    "lawnmower ride on",
+    "cordless lawnmower",
+    "gtech lawnmower",
+    "cordless lawnmower best",
+    "g tech lawnmower",
+    "best cordless lawnmower",
+    "makita lawnmower",
+    "karcher lawnmower",
+    "lawnmower cordless",
+    "lawnmower battery",
+    "lawnmower robot",
+    "segway lawnmower",
+    "best robot lawnmower"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is automated lawnmower? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

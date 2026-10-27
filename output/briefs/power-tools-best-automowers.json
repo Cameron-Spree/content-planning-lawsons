@@ -1,0 +1,30 @@
+{
+  "id": "power-tools-best-automowers",
+  "pillar": "Power Tools",
+  "weekNumber": 24,
+  "scheduledMonth": "Jun",
+  "scheduledDate": "2026-06-W24",
+  "status": "Backlog",
+  "priorityScore": 65.8,
+  "targetKeyword": "best automowers",
+  "recommendedTitle": "Best Best Automowers: Buying Guide & Comparisons (2026)",
+  "intent": "Commercial / Buying Guide",
+  "audience": "DIY & Professionals",
+  "metrics": {
+    "primaryVolume": 1900,
+    "totalClusterVolume": 1900,
+    "cpc": 1.15,
+    "competition": 100,
+    "peakSearchMonth": "Apr"
+  },
+  "secondaryKeywords": [],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is best automowers? Overview & Specifications",
+    "Key Comparison & Selection Criteria",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

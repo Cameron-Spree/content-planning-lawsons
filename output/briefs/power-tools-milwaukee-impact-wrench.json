@@ -1,0 +1,45 @@
+{
+  "id": "power-tools-milwaukee-impact-wrench",
+  "pillar": "Power Tools",
+  "weekNumber": 48,
+  "scheduledMonth": "Dec",
+  "scheduledDate": "2026-12-W48",
+  "status": "Backlog",
+  "priorityScore": 80.5,
+  "targetKeyword": "milwaukee impact wrench",
+  "recommendedTitle": "Ultimate Milwaukee Impact Wrench Guide: Features, Choosing & Maintenance",
+  "intent": "Informational / Guide",
+  "audience": "DIY & Professionals",
+  "metrics": {
+    "primaryVolume": 5400,
+    "totalClusterVolume": 76620,
+    "cpc": 0.69,
+    "competition": 100,
+    "peakSearchMonth": "Sep"
+  },
+  "secondaryKeywords": [
+    "dewalt impact wrench",
+    "milwaukee fuel impact wrench",
+    "dewalt wrench impact",
+    "milwaukee impact wrenches",
+    "makita impact wrench",
+    "milwaukee wrench impact",
+    "milwaukee tools impact wrench",
+    "milwaukee electric impact wrench",
+    "milwaukee 1 2 inch impact wrench",
+    "milwaukee cordless impact wrench 1 2",
+    "dewalt impact wrench 1 2",
+    "cordless impact wrench",
+    "battery impact wrench",
+    "milwaukee fuel 3 8 impact"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is milwaukee impact wrench? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

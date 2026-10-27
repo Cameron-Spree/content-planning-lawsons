@@ -1,0 +1,45 @@
+{
+  "id": "building-materials-standard-plasterboard-size",
+  "pillar": "Building Materials",
+  "weekNumber": 48,
+  "scheduledMonth": "Dec",
+  "scheduledDate": "2026-12-W48",
+  "status": "Backlog",
+  "priorityScore": 60.2,
+  "targetKeyword": "standard plasterboard size",
+  "recommendedTitle": "Standard Plasterboard Size: Trade Specifications, Types & Uses Explained",
+  "intent": "Informational / Guide",
+  "audience": "Trade & DIY",
+  "metrics": {
+    "primaryVolume": 720,
+    "totalClusterVolume": 4050,
+    "cpc": 0.28,
+    "competition": 94,
+    "peakSearchMonth": "Sep"
+  },
+  "secondaryKeywords": [
+    "plasterboard standard size",
+    "standard plasterboard dimensions",
+    "standard plasterboard width",
+    "ceiling plasterboard size",
+    "sheet of plasterboard size",
+    "plasterboard size in mm",
+    "plasterboard small size",
+    "small size plasterboard",
+    "handy board plasterboard size",
+    "small plasterboard size",
+    "batten size for plasterboard",
+    "half size plasterboard",
+    "6x3 plasterboard size",
+    "best size plasterboard for ceilings"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is standard plasterboard size? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

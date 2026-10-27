@@ -1,0 +1,33 @@
+{
+  "id": "building-materials-build-and-plumb-materials-onlin",
+  "pillar": "Building Materials",
+  "weekNumber": 3,
+  "scheduledMonth": "Jan",
+  "scheduledDate": "2026-01-W3",
+  "status": "Briefing",
+  "priorityScore": 49.2,
+  "targetKeyword": "build and plumb materials online",
+  "recommendedTitle": "Build And Plumb Materials Online: Complete Step-by-Step Guide",
+  "intent": "Informational / How-To",
+  "audience": "Trade & DIY",
+  "metrics": {
+    "primaryVolume": 70,
+    "totalClusterVolume": 90,
+    "cpc": 1.13,
+    "competition": 96,
+    "peakSearchMonth": "Mar"
+  },
+  "secondaryKeywords": [
+    "build & plumb materials online",
+    "plumbing materials online shopping"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is build and plumb materials online? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

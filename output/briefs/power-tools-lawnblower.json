@@ -1,0 +1,30 @@
+{
+  "id": "power-tools-lawnblower",
+  "pillar": "Power Tools",
+  "weekNumber": 31,
+  "scheduledMonth": "Aug",
+  "scheduledDate": "2026-08-W31",
+  "status": "Backlog",
+  "priorityScore": 72.2,
+  "targetKeyword": "lawnblower",
+  "recommendedTitle": "Ultimate Lawnblower Guide: Features, Choosing & Maintenance",
+  "intent": "Informational / Guide",
+  "audience": "DIY & Professionals",
+  "metrics": {
+    "primaryVolume": 27100,
+    "totalClusterVolume": 27100,
+    "cpc": 0.4,
+    "competition": 100,
+    "peakSearchMonth": "Oct"
+  },
+  "secondaryKeywords": [],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is lawnblower? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

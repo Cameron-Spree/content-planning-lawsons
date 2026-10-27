@@ -1,0 +1,30 @@
+{
+  "id": "fencing-buy-fence-panels",
+  "pillar": "Fencing",
+  "weekNumber": 15,
+  "scheduledMonth": "Apr",
+  "scheduledDate": "2026-04-W15",
+  "status": "Backlog",
+  "priorityScore": 61,
+  "targetKeyword": "buy fence panels",
+  "recommendedTitle": "The Complete Guide to Buy Fence Panels: Types, Costs & Installation",
+  "intent": "Transactional / Product Focus",
+  "audience": "Domestic & DIY",
+  "metrics": {
+    "primaryVolume": 590,
+    "totalClusterVolume": 590,
+    "cpc": 1.27,
+    "competition": 100,
+    "peakSearchMonth": "Mar"
+  },
+  "secondaryKeywords": [],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is buy fence panels? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

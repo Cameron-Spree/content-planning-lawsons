@@ -1,0 +1,47 @@
+{
+  "id": "fencing-composite-fencing",
+  "pillar": "Fencing",
+  "weekNumber": 28,
+  "scheduledMonth": "Jul",
+  "scheduledDate": "2026-07-W28",
+  "status": "Backlog",
+  "priorityScore": 101.4,
+  "targetKeyword": "composite fencing",
+  "recommendedTitle": "Composite Fencing: Complete Step-by-Step Guide",
+  "intent": "Informational / How-To",
+  "audience": "Trade & Contractors",
+  "metrics": {
+    "primaryVolume": 14800,
+    "totalClusterVolume": 60200,
+    "cpc": 2.75,
+    "competition": 100,
+    "peakSearchMonth": "Sep"
+  },
+  "secondaryKeywords": [
+    "fencing supplies near me",
+    "fencing materials near me",
+    "fencing products near me",
+    "av fencing",
+    "fencing supplies",
+    "slat fencing",
+    "stock fencing",
+    "composite fencing panels",
+    "composite fencing near me",
+    "featherboard fencing",
+    "fencing timber",
+    "composite fencing and gates",
+    "fencing materials",
+    "wickes composite fencing"
+  ],
+  "paaQuestions": [
+    "feather edge fencing which way round"
+  ],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is composite fencing? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

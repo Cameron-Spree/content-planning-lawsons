@@ -1,0 +1,45 @@
+{
+  "id": "power-tools-battery-powered-grass-mowers",
+  "pillar": "Power Tools",
+  "weekNumber": 19,
+  "scheduledMonth": "May",
+  "scheduledDate": "2026-05-W19",
+  "status": "Backlog",
+  "priorityScore": 78.7,
+  "targetKeyword": "battery powered grass mowers",
+  "recommendedTitle": "Ultimate Battery Powered Grass Mowers Guide: Features, Choosing & Maintenance",
+  "intent": "Informational / Guide",
+  "audience": "DIY & Professionals",
+  "metrics": {
+    "primaryVolume": 22200,
+    "totalClusterVolume": 101660,
+    "cpc": 0.36,
+    "competition": 100,
+    "peakSearchMonth": "Apr"
+  },
+  "secondaryKeywords": [
+    "battery powered drill",
+    "battery powered strimmer",
+    "battery powered mower",
+    "battery powered sander",
+    "ryobi battery powered mower",
+    "battery powered grass cutter",
+    "battery motor mowers",
+    "best battery powered mower",
+    "good battery powered lawn mowers",
+    "battery powered blower",
+    "battery grass blower",
+    "battery powered screwdriver",
+    "best battery powered strimmer",
+    "best battery powered drill"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is battery powered grass mowers? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

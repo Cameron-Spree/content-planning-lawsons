@@ -1,0 +1,35 @@
+{
+  "id": "fencing-willow-fence-panels",
+  "pillar": "Fencing",
+  "weekNumber": 41,
+  "scheduledMonth": "Oct",
+  "scheduledDate": "2026-10-W41",
+  "status": "Backlog",
+  "priorityScore": 64.7,
+  "targetKeyword": "willow fence panels",
+  "recommendedTitle": "The Complete Guide to Willow Fence Panels: Types, Costs & Installation",
+  "intent": "Informational / Guide",
+  "audience": "Domestic & DIY",
+  "metrics": {
+    "primaryVolume": 1600,
+    "totalClusterVolume": 1950,
+    "cpc": 1.02,
+    "competition": 100,
+    "peakSearchMonth": "Apr"
+  },
+  "secondaryKeywords": [
+    "willow panels",
+    "willow panels near me",
+    "willow fence trellis",
+    "willow lattice panels"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is willow fence panels? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

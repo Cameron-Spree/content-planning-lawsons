@@ -1,0 +1,39 @@
+{
+  "id": "building-materials-postcrete-small-bag",
+  "pillar": "Building Materials",
+  "weekNumber": 8,
+  "scheduledMonth": "Feb",
+  "scheduledDate": "2026-02-W8",
+  "status": "Backlog",
+  "priorityScore": 47.1,
+  "targetKeyword": "postcrete small bag",
+  "recommendedTitle": "Postcrete Small Bag: Complete Step-by-Step Guide",
+  "intent": "Informational / How-To",
+  "audience": "Domestic & DIY",
+  "metrics": {
+    "primaryVolume": 110,
+    "totalClusterVolume": 310,
+    "cpc": 0.1,
+    "competition": 98,
+    "peakSearchMonth": "Apr"
+  },
+  "secondaryKeywords": [
+    "small bag of postcrete",
+    "postcrete 20kg bag",
+    "small bag postcrete",
+    "20kg bag of postcrete",
+    "blue circle ready mixed postcrete 20kg bag",
+    "postcrete how many posts per bag"
+  ],
+  "paaQuestions": [
+    "postcrete how many posts per bag"
+  ],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is postcrete small bag? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

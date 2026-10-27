@@ -1,0 +1,45 @@
+{
+  "id": "power-tools-dewalt-circular-saw",
+  "pillar": "Power Tools",
+  "weekNumber": 49,
+  "scheduledMonth": "Dec",
+  "scheduledDate": "2026-12-W49",
+  "status": "Backlog",
+  "priorityScore": 80.4,
+  "targetKeyword": "dewalt circular saw",
+  "recommendedTitle": "Ultimate Dewalt Circular Saw Guide: Features, Choosing & Maintenance",
+  "intent": "Informational / Guide",
+  "audience": "DIY & Professionals",
+  "metrics": {
+    "primaryVolume": 14800,
+    "totalClusterVolume": 143100,
+    "cpc": 0.35,
+    "competition": 100,
+    "peakSearchMonth": "Sep"
+  },
+  "secondaryKeywords": [
+    "makita circular saw",
+    "dewalt chop saw",
+    "milwaukee circular saw",
+    "dewalt reciprocating saw",
+    "dewalt table saw",
+    "cordless circular saw",
+    "circular saw blades",
+    "battery circular saw",
+    "dewalt mitre saw",
+    "mini circular saw",
+    "dewalt plunge saw",
+    "dewalt track saw",
+    "dewalt saw",
+    "dewalt circular saw 18v"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is dewalt circular saw? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}
