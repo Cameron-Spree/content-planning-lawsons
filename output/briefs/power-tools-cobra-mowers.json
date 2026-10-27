@@ -1,28 +1,201 @@
 {
   "id": "power-tools-cobra-mowers",
   "pillar": "Power Tools",
-  "weekNumber": 17,
+  "weekNumber": 16,
   "scheduledMonth": "Apr",
-  "scheduledDate": "2026-04-W17",
+  "scheduledDate": "2026-04-W16",
   "status": "Backlog",
-  "priorityScore": 69.5,
+  "contentTitle": "Ultimate Cobra Mowers Guide: Features, Battery Systems & Maintenance (2026)",
   "targetKeyword": "cobra mowers",
-  "recommendedTitle": "Ultimate Cobra Mowers Guide: Features, Choosing & Maintenance",
   "intent": "Informational / Guide",
   "audience": "DIY & Professionals",
-  "metrics": {
-    "primaryVolume": 4400,
-    "totalClusterVolume": 19580,
+  "seoMetrics": {
+    "searchVolume": 4400,
+    "totalClusterVolume": 16160,
     "cpc": 0.3,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 66.5,
     "peakSearchMonth": "Mar"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "cobra lawnmowers",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.3,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cobra lawn mowers",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.3,
+      "isQuestion": false
+    },
+    {
+      "keyword": "coastal mowers",
+      "volume": 70,
+      "competition": 7,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stiga mowers",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.32,
+      "isQuestion": false
+    },
+    {
+      "keyword": "irish mowers",
+      "volume": 20,
+      "competition": 19,
+      "cpc": 0.23,
+      "isQuestion": false
+    },
+    {
+      "keyword": "westwood mowers",
+      "volume": 390,
+      "competition": 100,
+      "cpc": 0.11,
+      "isQuestion": false
+    },
+    {
+      "keyword": "ride on mowers near me",
+      "volume": 210,
+      "competition": 100,
+      "cpc": 0.91,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cobra rm40spc",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 0.78,
+      "isQuestion": false
+    },
+    {
+      "keyword": "commercial mowers",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 0.52,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cobra mx534sph",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 0.76,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cobra mx484spce",
+      "volume": 110,
+      "competition": 100,
+      "cpc": 0.71,
+      "isQuestion": false
+    },
+    {
+      "keyword": "greenworks mowers",
+      "volume": 90,
+      "competition": 100,
+      "cpc": 0.71,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cobra rm46sph",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 1.01,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cobra rotavator",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 0.62,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cobra lrh26c",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 0.78,
+      "isQuestion": false
+    },
+    {
+      "keyword": "ferris mowers near me",
+      "volume": 10,
+      "competition": 50,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "0 turn mowers near me",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "gas mowers near me",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "kalehurst mowers",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cobra mowers with rear roller",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cobra rm48spk",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "greenworks mowers near me",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "beaconsfield mowers",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "gsa mowers",
+      "volume": 0,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "cobra lawnmowers",
     "cobra lawn mowers",
-    "top cordless mowers",
+    "coastal mowers",
     "stiga mowers",
+    "irish mowers",
     "westwood mowers",
+    "ride on mowers near me",
     "cobra rm40spc",
     "commercial mowers",
     "cobra mx534sph",
@@ -30,8 +203,16 @@
     "greenworks mowers",
     "cobra rm46sph",
     "cobra rotavator",
-    "coastal mowers",
-    "top 10 robot mowers"
+    "cobra lrh26c",
+    "ferris mowers near me",
+    "0 turn mowers near me",
+    "gas mowers near me",
+    "kalehurst mowers",
+    "cobra mowers with rear roller",
+    "cobra rm48spk",
+    "greenworks mowers near me",
+    "beaconsfield mowers",
+    "gsa mowers"
   ],
   "paaQuestions": [],
   "suggestedSections": [

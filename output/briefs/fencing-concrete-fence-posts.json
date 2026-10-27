@@ -1,22 +1,193 @@
 {
   "id": "fencing-concrete-fence-posts",
   "pillar": "Fencing",
-  "weekNumber": 7,
+  "weekNumber": 6,
   "scheduledMonth": "Feb",
-  "scheduledDate": "2026-02-W7",
+  "scheduledDate": "2026-02-W6",
   "status": "Backlog",
-  "priorityScore": 77.9,
+  "contentTitle": "Concrete Fence Posts: Complete Step-by-Step UK Trade Guide",
   "targetKeyword": "concrete fence posts",
-  "recommendedTitle": "Concrete Fence Posts: Complete Step-by-Step Guide",
   "intent": "Informational / How-To",
   "audience": "Domestic & DIY",
-  "metrics": {
-    "primaryVolume": 22200,
-    "totalClusterVolume": 74370,
+  "seoMetrics": {
+    "searchVolume": 22200,
+    "totalClusterVolume": 74960,
     "cpc": 0.44,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 79.6,
     "peakSearchMonth": "Apr"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "concrete posts",
+      "volume": 5400,
+      "competition": 100,
+      "cpc": 0.52,
+      "isQuestion": false
+    },
+    {
+      "keyword": "wooden fence posts",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.27,
+      "isQuestion": false
+    },
+    {
+      "keyword": "fence with wood posts",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.27,
+      "isQuestion": false
+    },
+    {
+      "keyword": "wooden fence and posts",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.27,
+      "isQuestion": false
+    },
+    {
+      "keyword": "8ft concrete fence posts",
+      "volume": 1900,
+      "competition": 100,
+      "cpc": 0.45,
+      "isQuestion": false
+    },
+    {
+      "keyword": "8 foot concrete fence posts",
+      "volume": 1900,
+      "competition": 100,
+      "cpc": 0.45,
+      "isQuestion": false
+    },
+    {
+      "keyword": "concrete 8ft fence posts",
+      "volume": 1900,
+      "competition": 100,
+      "cpc": 0.45,
+      "isQuestion": false
+    },
+    {
+      "keyword": "8ft fence posts concrete",
+      "volume": 1900,
+      "competition": 100,
+      "cpc": 0.45,
+      "isQuestion": false
+    },
+    {
+      "keyword": "concrete for fencing posts",
+      "volume": 1600,
+      "competition": 100,
+      "cpc": 0.52,
+      "isQuestion": false
+    },
+    {
+      "keyword": "removing cemented fence posts",
+      "volume": 170,
+      "competition": 41,
+      "cpc": 0.11,
+      "isQuestion": false
+    },
+    {
+      "keyword": "removing concrete from fence posts",
+      "volume": 170,
+      "competition": 41,
+      "cpc": 0.11,
+      "isQuestion": false
+    },
+    {
+      "keyword": "removing fence post concrete",
+      "volume": 170,
+      "competition": 41,
+      "cpc": 0.11,
+      "isQuestion": false
+    },
+    {
+      "keyword": "concrete fence posts near me",
+      "volume": 1300,
+      "competition": 100,
+      "cpc": 0.43,
+      "isQuestion": false
+    },
+    {
+      "keyword": "extending concrete fence posts",
+      "volume": 1300,
+      "competition": 100,
+      "cpc": 0.15,
+      "isQuestion": false
+    },
+    {
+      "keyword": "installing a fence post in concrete",
+      "volume": 170,
+      "competition": 46,
+      "cpc": 0.71,
+      "isQuestion": false
+    },
+    {
+      "keyword": "concrete fence post fitting",
+      "volume": 170,
+      "competition": 46,
+      "cpc": 0.71,
+      "isQuestion": false
+    },
+    {
+      "keyword": "concrete fence post installation",
+      "volume": 170,
+      "competition": 46,
+      "cpc": 0.71,
+      "isQuestion": false
+    },
+    {
+      "keyword": "leaning concrete fence post",
+      "volume": 30,
+      "competition": 4,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "fence panel posts",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.71,
+      "isQuestion": false
+    },
+    {
+      "keyword": "9ft concrete fence posts",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.74,
+      "isQuestion": false
+    },
+    {
+      "keyword": "9 foot concrete fence posts",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.74,
+      "isQuestion": false
+    },
+    {
+      "keyword": "post and rail fence posts",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.46,
+      "isQuestion": false
+    },
+    {
+      "keyword": "9ft fence post concrete",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.74,
+      "isQuestion": false
+    },
+    {
+      "keyword": "fence post supports concrete",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.21,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "concrete posts",
     "wooden fence posts",
@@ -27,11 +198,21 @@
     "concrete 8ft fence posts",
     "8ft fence posts concrete",
     "concrete for fencing posts",
+    "removing cemented fence posts",
+    "removing concrete from fence posts",
+    "removing fence post concrete",
     "concrete fence posts near me",
     "extending concrete fence posts",
+    "installing a fence post in concrete",
+    "concrete fence post fitting",
+    "concrete fence post installation",
+    "leaning concrete fence post",
     "fence panel posts",
     "9ft concrete fence posts",
-    "9 foot concrete fence posts"
+    "9 foot concrete fence posts",
+    "post and rail fence posts",
+    "9ft fence post concrete",
+    "fence post supports concrete"
   ],
   "paaQuestions": [],
   "suggestedSections": [

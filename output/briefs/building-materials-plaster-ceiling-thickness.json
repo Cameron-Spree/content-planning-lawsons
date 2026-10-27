@@ -1,0 +1,50 @@
+{
+  "id": "building-materials-plaster-ceiling-thickness",
+  "pillar": "Building Materials",
+  "weekNumber": 23,
+  "scheduledMonth": "Jun",
+  "scheduledDate": "2026-06-W23",
+  "status": "Backlog",
+  "contentTitle": "Plaster Ceiling Thickness: Trade Specifications, Sizing & Underground Installation",
+  "targetKeyword": "plaster ceiling thickness",
+  "intent": "Informational / Guide",
+  "audience": "Trade & DIY",
+  "seoMetrics": {
+    "searchVolume": 320,
+    "totalClusterVolume": 340,
+    "cpc": 0.13,
+    "difficulty": 53,
+    "difficultyLevel": "Moderate",
+    "rankabilityScore": 66.6,
+    "peakSearchMonth": "Sep"
+  },
+  "groupedKeywords": [
+    {
+      "keyword": "plaster thickness on plasterboard",
+      "volume": 20,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "plaster ceiling dimension",
+      "volume": 0,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    }
+  ],
+  "secondaryKeywords": [
+    "plaster thickness on plasterboard",
+    "plaster ceiling dimension"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is plaster ceiling thickness? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

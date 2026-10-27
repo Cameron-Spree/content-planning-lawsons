@@ -5,18 +5,189 @@
   "scheduledMonth": "Mar",
   "scheduledDate": "2026-03-W12",
   "status": "Backlog",
-  "priorityScore": 75.2,
+  "contentTitle": "Ultimate Stihl Grass Strimmer Guide: Features, Battery Systems & Maintenance (2026)",
   "targetKeyword": "stihl grass strimmer",
-  "recommendedTitle": "Ultimate Stihl Grass Strimmer Guide: Features, Choosing & Maintenance",
   "intent": "Informational / Guide",
   "audience": "DIY & Professionals",
-  "metrics": {
-    "primaryVolume": 12100,
-    "totalClusterVolume": 37000,
+  "seoMetrics": {
+    "searchVolume": 12100,
+    "totalClusterVolume": 37050,
     "cpc": 0.54,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 75.1,
     "peakSearchMonth": "May"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "grass strimmer",
+      "volume": 5400,
+      "competition": 100,
+      "cpc": 0.21,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cordless grass strimmer",
+      "volume": 5400,
+      "competition": 100,
+      "cpc": 0.24,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl battery strimmer",
+      "volume": 1600,
+      "competition": 100,
+      "cpc": 0.35,
+      "isQuestion": false
+    },
+    {
+      "keyword": "argos cordless grass strimmer",
+      "volume": 1600,
+      "competition": 100,
+      "cpc": 0.13,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl cordless strimmer",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.37,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl electric strimmer",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.47,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl battery grass trimmer",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.46,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl fs 55 strimmer",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.7,
+      "isQuestion": false
+    },
+    {
+      "keyword": "electric strimmer stihl",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.47,
+      "isQuestion": false
+    },
+    {
+      "keyword": "fs55 stihl strimmer",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.7,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl strimmer fs55r",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.7,
+      "isQuestion": false
+    },
+    {
+      "keyword": "strimmer stihl electric",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.47,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl strimmer servicing near me",
+      "volume": 20,
+      "competition": 7,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl strimmer cord",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 0.26,
+      "isQuestion": false
+    },
+    {
+      "keyword": "amazon cordless grass strimmer",
+      "volume": 390,
+      "competition": 92,
+      "cpc": 0.13,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl fs40 strimmer",
+      "volume": 480,
+      "competition": 100,
+      "cpc": 0.21,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl strimmer string",
+      "volume": 390,
+      "competition": 100,
+      "cpc": 0.26,
+      "isQuestion": false
+    },
+    {
+      "keyword": "grass strimmer amazon",
+      "volume": 320,
+      "competition": 97,
+      "cpc": 0.11,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl fs 38 strimmer",
+      "volume": 260,
+      "competition": 100,
+      "cpc": 0.44,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl strimmer fs 38",
+      "volume": 260,
+      "competition": 100,
+      "cpc": 0.44,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl cordless strimmer with battery and charger",
+      "volume": 210,
+      "competition": 100,
+      "cpc": 0.46,
+      "isQuestion": false
+    },
+    {
+      "keyword": "grass strimmer electric",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 0.25,
+      "isQuestion": false
+    },
+    {
+      "keyword": "strimmer for long grass",
+      "volume": 140,
+      "competition": 98,
+      "cpc": 0.27,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl kombi strimmer",
+      "volume": 110,
+      "competition": 100,
+      "cpc": 0.93,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "grass strimmer",
     "cordless grass strimmer",
@@ -30,8 +201,18 @@
     "fs55 stihl strimmer",
     "stihl strimmer fs55r",
     "strimmer stihl electric",
+    "stihl strimmer servicing near me",
     "stihl strimmer cord",
-    "stihl fs40 strimmer"
+    "amazon cordless grass strimmer",
+    "stihl fs40 strimmer",
+    "stihl strimmer string",
+    "grass strimmer amazon",
+    "stihl fs 38 strimmer",
+    "stihl strimmer fs 38",
+    "stihl cordless strimmer with battery and charger",
+    "grass strimmer electric",
+    "strimmer for long grass",
+    "stihl kombi strimmer"
   ],
   "paaQuestions": [],
   "suggestedSections": [

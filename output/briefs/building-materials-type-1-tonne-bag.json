@@ -1,37 +1,218 @@
 {
   "id": "building-materials-type-1-tonne-bag",
   "pillar": "Building Materials",
-  "weekNumber": 6,
+  "weekNumber": 8,
   "scheduledMonth": "Feb",
-  "scheduledDate": "2026-02-W6",
+  "scheduledDate": "2026-02-W8",
   "status": "Backlog",
-  "priorityScore": 61.2,
+  "contentTitle": "Type 1 Tonne Bag: Trade Specifications, Sizing & Underground Installation",
   "targetKeyword": "type 1 tonne bag",
-  "recommendedTitle": "Type 1 Tonne Bag: Trade Specifications, Types & Uses Explained",
   "intent": "Informational / Guide",
   "audience": "Trade & DIY",
-  "metrics": {
-    "primaryVolume": 390,
-    "totalClusterVolume": 1730,
+  "seoMetrics": {
+    "searchVolume": 390,
+    "totalClusterVolume": 1760,
     "cpc": 0.73,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 48.8,
     "peakSearchMonth": "Apr"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "tonne bag type 1",
+      "volume": 390,
+      "competition": 100,
+      "cpc": 0.73,
+      "isQuestion": false
+    },
+    {
+      "keyword": "1 ton bag of type 1",
+      "volume": 390,
+      "competition": 100,
+      "cpc": 0.73,
+      "isQuestion": false
+    },
+    {
+      "keyword": "ton bag of type 1",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 0.49,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mot tonne bag",
+      "volume": 90,
+      "competition": 100,
+      "cpc": 1.12,
+      "isQuestion": false
+    },
+    {
+      "keyword": "1 tonne bag of plastering sand",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "1 tonne bag type 1 coverage",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "1 tonne bag of sand travis perkins",
+      "volume": 10,
+      "competition": 57,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mot 1 tonne bag",
+      "volume": 40,
+      "competition": 100,
+      "cpc": 0.9,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bulk bag type 1 coverage",
+      "volume": 30,
+      "competition": 97,
+      "cpc": 0.34,
+      "isQuestion": false
+    },
+    {
+      "keyword": "type 1 bulk bag coverage",
+      "volume": 30,
+      "competition": 97,
+      "cpc": 0.34,
+      "isQuestion": false
+    },
+    {
+      "keyword": "type one bulk bag",
+      "volume": 30,
+      "competition": 100,
+      "cpc": 2.22,
+      "isQuestion": false
+    },
+    {
+      "keyword": "type 1 hardcore bulk bag",
+      "volume": 10,
+      "competition": 80,
+      "cpc": 0.35,
+      "isQuestion": false
+    },
+    {
+      "keyword": "type 1 jumbo bag",
+      "volume": 20,
+      "competition": 100,
+      "cpc": 2.82,
+      "isQuestion": false
+    },
+    {
+      "keyword": "type 1 aggregate bulk bag",
+      "volume": 20,
+      "competition": 100,
+      "cpc": 1.31,
+      "isQuestion": false
+    },
+    {
+      "keyword": "jumbo bag type 1",
+      "volume": 20,
+      "competition": 100,
+      "cpc": 0.51,
+      "isQuestion": false
+    },
+    {
+      "keyword": "type 1 price per tonne near me",
+      "volume": 20,
+      "competition": 100,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "ton bag of type 1 coverage",
+      "volume": 10,
+      "competition": 84,
+      "cpc": 0.32,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bulk bag type 1 weight",
+      "volume": 10,
+      "competition": 89,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "1 tonne bag hardcore",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.36,
+      "isQuestion": false
+    },
+    {
+      "keyword": "1 tonne bag type 1",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.4,
+      "isQuestion": false
+    },
+    {
+      "keyword": "plastering sand tonne bag",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.77,
+      "isQuestion": false
+    },
+    {
+      "keyword": "tonne bag of plastering sand",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.47,
+      "isQuestion": false
+    },
+    {
+      "keyword": "type 1 1 tonne bag",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 1.39,
+      "isQuestion": false
+    },
+    {
+      "keyword": "wickes bulk bag type 1",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.07,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "tonne bag type 1",
     "1 ton bag of type 1",
     "ton bag of type 1",
     "mot tonne bag",
+    "1 tonne bag of plastering sand",
+    "1 tonne bag type 1 coverage",
+    "1 tonne bag of sand travis perkins",
     "mot 1 tonne bag",
-    "type one bulk bag",
     "bulk bag type 1 coverage",
     "type 1 bulk bag coverage",
+    "type one bulk bag",
+    "type 1 hardcore bulk bag",
     "type 1 jumbo bag",
     "type 1 aggregate bulk bag",
     "jumbo bag type 1",
     "type 1 price per tonne near me",
+    "ton bag of type 1 coverage",
+    "bulk bag type 1 weight",
     "1 tonne bag hardcore",
-    "1 tonne bag of sand travis perkins"
+    "1 tonne bag type 1",
+    "plastering sand tonne bag",
+    "tonne bag of plastering sand",
+    "type 1 1 tonne bag",
+    "wickes bulk bag type 1"
   ],
   "paaQuestions": [],
   "suggestedSections": [

@@ -1,0 +1,42 @@
+{
+  "id": "building-materials-independent-groundworks-supplie",
+  "pillar": "Building Materials",
+  "weekNumber": 28,
+  "scheduledMonth": "Jul",
+  "scheduledDate": "2026-07-W28",
+  "status": "Backlog",
+  "contentTitle": "Independent Groundworks Supplies Ltd: Trade Specifications, Sizing & Underground Installation",
+  "targetKeyword": "independent groundworks supplies ltd",
+  "intent": "Transactional / Product Focus",
+  "audience": "Trade & Contractors",
+  "seoMetrics": {
+    "searchVolume": 140,
+    "totalClusterVolume": 160,
+    "cpc": 0,
+    "difficulty": 2,
+    "difficultyLevel": "Easy to Rank",
+    "rankabilityScore": 82.7,
+    "peakSearchMonth": "Sep"
+  },
+  "groupedKeywords": [
+    {
+      "keyword": "groundworks supplies",
+      "volume": 20,
+      "competition": 31,
+      "cpc": 0.67,
+      "isQuestion": false
+    }
+  ],
+  "secondaryKeywords": [
+    "groundworks supplies"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is independent groundworks supplies ltd? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

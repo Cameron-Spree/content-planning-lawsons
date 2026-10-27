@@ -1,22 +1,193 @@
 {
   "id": "power-tools-drill",
   "pillar": "Power Tools",
-  "weekNumber": 29,
-  "scheduledMonth": "Jul",
-  "scheduledDate": "2026-07-W29",
+  "weekNumber": 46,
+  "scheduledMonth": "Nov",
+  "scheduledDate": "2026-11-W46",
   "status": "Backlog",
-  "priorityScore": 83.3,
+  "contentTitle": "Ultimate Drill Guide: Features, Battery Systems & Maintenance (2026)",
   "targetKeyword": "drill",
-  "recommendedTitle": "Ultimate Drill Guide: Features, Choosing & Maintenance",
   "intent": "Informational / Guide",
   "audience": "DIY & Professionals",
-  "metrics": {
-    "primaryVolume": 33100,
-    "totalClusterVolume": 266560,
+  "seoMetrics": {
+    "searchVolume": 33100,
+    "totalClusterVolume": 270400,
     "cpc": 0.32,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 82.3,
     "peakSearchMonth": "Sep"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "sds drill",
+      "volume": 27100,
+      "competition": 100,
+      "cpc": 0.33,
+      "isQuestion": false
+    },
+    {
+      "keyword": "dewalt drill",
+      "volume": 18100,
+      "competition": 100,
+      "cpc": 0.44,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cordless drill",
+      "volume": 14800,
+      "competition": 100,
+      "cpc": 0.29,
+      "isQuestion": false
+    },
+    {
+      "keyword": "makita drill",
+      "volume": 14800,
+      "competition": 100,
+      "cpc": 0.46,
+      "isQuestion": false
+    },
+    {
+      "keyword": "drill bits",
+      "volume": 14800,
+      "competition": 100,
+      "cpc": 0.4,
+      "isQuestion": false
+    },
+    {
+      "keyword": "hammer drill",
+      "volume": 12100,
+      "competition": 100,
+      "cpc": 0.29,
+      "isQuestion": false
+    },
+    {
+      "keyword": "pillar drill",
+      "volume": 12100,
+      "competition": 100,
+      "cpc": 0.44,
+      "isQuestion": false
+    },
+    {
+      "keyword": "milwaukee drill",
+      "volume": 9900,
+      "competition": 100,
+      "cpc": 0.6,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mawaki drill",
+      "volume": 9900,
+      "competition": 100,
+      "cpc": 0.6,
+      "isQuestion": false
+    },
+    {
+      "keyword": "impact drill",
+      "volume": 8100,
+      "competition": 100,
+      "cpc": 0.33,
+      "isQuestion": false
+    },
+    {
+      "keyword": "core drill",
+      "volume": 6600,
+      "competition": 100,
+      "cpc": 0.77,
+      "isQuestion": false
+    },
+    {
+      "keyword": "drill set",
+      "volume": 6600,
+      "competition": 100,
+      "cpc": 0.34,
+      "isQuestion": false
+    },
+    {
+      "keyword": "pneumatic drill",
+      "volume": 2400,
+      "competition": 75,
+      "cpc": 0.46,
+      "isQuestion": false
+    },
+    {
+      "keyword": "drill press",
+      "volume": 5400,
+      "competition": 100,
+      "cpc": 0.23,
+      "isQuestion": false
+    },
+    {
+      "keyword": "electric drill",
+      "volume": 5400,
+      "competition": 100,
+      "cpc": 0.29,
+      "isQuestion": false
+    },
+    {
+      "keyword": "combi drill",
+      "volume": 5400,
+      "competition": 100,
+      "cpc": 0.35,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mag drill",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 2.18,
+      "isQuestion": false
+    },
+    {
+      "keyword": "power drill",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.34,
+      "isQuestion": false
+    },
+    {
+      "keyword": "ryobi drill",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.41,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bosch drill",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.36,
+      "isQuestion": false
+    },
+    {
+      "keyword": "hand drill",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.24,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery drill",
+      "volume": 2900,
+      "competition": 100,
+      "cpc": 0.32,
+      "isQuestion": false
+    },
+    {
+      "keyword": "argos drill",
+      "volume": 2900,
+      "competition": 100,
+      "cpc": 0.19,
+      "isQuestion": false
+    },
+    {
+      "keyword": "1 4 drill bit in mm",
+      "volume": 140,
+      "competition": 18,
+      "cpc": 0.12,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "sds drill",
     "dewalt drill",
@@ -30,8 +201,18 @@
     "impact drill",
     "core drill",
     "drill set",
+    "pneumatic drill",
     "drill press",
-    "electric drill"
+    "electric drill",
+    "combi drill",
+    "mag drill",
+    "power drill",
+    "ryobi drill",
+    "bosch drill",
+    "hand drill",
+    "battery drill",
+    "argos drill",
+    "1 4 drill bit in mm"
   ],
   "paaQuestions": [],
   "suggestedSections": [

@@ -5,18 +5,28 @@
   "scheduledMonth": "Jan",
   "scheduledDate": "2026-01-W1",
   "status": "Briefing",
-  "priorityScore": 84.2,
+  "contentTitle": "The Complete Guide to Hazel Hurdle Fencing: Types, Board Calculations & Installation",
   "targetKeyword": "hazel hurdle fencing",
-  "recommendedTitle": "The Complete Guide to Hazel Hurdle Fencing: Types, Costs & Installation",
   "intent": "Informational / Guide",
   "audience": "Domestic & DIY",
-  "metrics": {
-    "primaryVolume": 480,
+  "seoMetrics": {
+    "searchVolume": 480,
     "totalClusterVolume": 510,
     "cpc": 3.67,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 59.3,
     "peakSearchMonth": "Mar"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "hazel hurdle fencing near me",
+      "volume": 30,
+      "competition": 80,
+      "cpc": 1.53,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "hazel hurdle fencing near me"
   ],

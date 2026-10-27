@@ -5,18 +5,189 @@
   "scheduledMonth": "Jan",
   "scheduledDate": "2026-01-W1",
   "status": "Briefing",
-  "priorityScore": 85,
+  "contentTitle": "Ultimate Pressure Washer Guide: Features, Battery Systems & Maintenance (2026)",
   "targetKeyword": "pressure washer",
-  "recommendedTitle": "Ultimate Pressure Washer Guide: Features, Choosing & Maintenance",
   "intent": "Informational / Guide",
   "audience": "DIY & Professionals",
-  "metrics": {
-    "primaryVolume": 60500,
-    "totalClusterVolume": 246120,
+  "seoMetrics": {
+    "searchVolume": 60500,
+    "totalClusterVolume": 248750,
     "cpc": 0.53,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 87.7,
     "peakSearchMonth": "Mar"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "jet washer",
+      "volume": 60500,
+      "competition": 100,
+      "cpc": 0.61,
+      "isQuestion": false
+    },
+    {
+      "keyword": "power washer",
+      "volume": 18100,
+      "competition": 100,
+      "cpc": 0.58,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cordless pressure washer",
+      "volume": 12100,
+      "competition": 100,
+      "cpc": 0.28,
+      "isQuestion": false
+    },
+    {
+      "keyword": "best pressure washer",
+      "volume": 6600,
+      "competition": 100,
+      "cpc": 0.87,
+      "isQuestion": false
+    },
+    {
+      "keyword": "petrol pressure washer",
+      "volume": 6600,
+      "competition": 100,
+      "cpc": 0.97,
+      "isQuestion": false
+    },
+    {
+      "keyword": "ryobi pressure washer",
+      "volume": 5400,
+      "competition": 100,
+      "cpc": 0.5,
+      "isQuestion": false
+    },
+    {
+      "keyword": "portable pressure washer",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.32,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery powered pressure washer",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.31,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bosch pressure washer",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.27,
+      "isQuestion": false
+    },
+    {
+      "keyword": "pressure washer hire",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 1.15,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery operated pressure washer",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.31,
+      "isQuestion": false
+    },
+    {
+      "keyword": "screwfix pressure washer",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.32,
+      "isQuestion": false
+    },
+    {
+      "keyword": "titan pressure washer",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.24,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery power pressure washer",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.31,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl pressure washer",
+      "volume": 2900,
+      "competition": 100,
+      "cpc": 0.57,
+      "isQuestion": false
+    },
+    {
+      "keyword": "kranzle pressure washer",
+      "volume": 2900,
+      "competition": 100,
+      "cpc": 1.26,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery pressure washer",
+      "volume": 2400,
+      "competition": 100,
+      "cpc": 0.32,
+      "isQuestion": false
+    },
+    {
+      "keyword": "aldi pressure washer",
+      "volume": 2400,
+      "competition": 100,
+      "cpc": 0.29,
+      "isQuestion": false
+    },
+    {
+      "keyword": "high pressure washer",
+      "volume": 1900,
+      "competition": 100,
+      "cpc": 0.66,
+      "isQuestion": false
+    },
+    {
+      "keyword": "hyundai pressure washer",
+      "volume": 1900,
+      "competition": 100,
+      "cpc": 1.04,
+      "isQuestion": false
+    },
+    {
+      "keyword": "makita pressure washer",
+      "volume": 1900,
+      "competition": 100,
+      "cpc": 0.37,
+      "isQuestion": false
+    },
+    {
+      "keyword": "best cordless pressure washer",
+      "volume": 1900,
+      "competition": 100,
+      "cpc": 0.39,
+      "isQuestion": false
+    },
+    {
+      "keyword": "best battery powered pressure washer",
+      "volume": 1900,
+      "competition": 100,
+      "cpc": 0.39,
+      "isQuestion": false
+    },
+    {
+      "keyword": "dewalt pressure washer",
+      "volume": 1600,
+      "competition": 100,
+      "cpc": 0.44,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "jet washer",
     "power washer",
@@ -31,7 +202,17 @@
     "battery operated pressure washer",
     "screwfix pressure washer",
     "titan pressure washer",
-    "battery power pressure washer"
+    "battery power pressure washer",
+    "stihl pressure washer",
+    "kranzle pressure washer",
+    "battery pressure washer",
+    "aldi pressure washer",
+    "high pressure washer",
+    "hyundai pressure washer",
+    "makita pressure washer",
+    "best cordless pressure washer",
+    "best battery powered pressure washer",
+    "dewalt pressure washer"
   ],
   "paaQuestions": [],
   "suggestedSections": [

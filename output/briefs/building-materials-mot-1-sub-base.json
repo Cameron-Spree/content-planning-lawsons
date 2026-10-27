@@ -1,37 +1,218 @@
 {
   "id": "building-materials-mot-1-sub-base",
   "pillar": "Building Materials",
-  "weekNumber": 9,
+  "weekNumber": 10,
   "scheduledMonth": "Mar",
-  "scheduledDate": "2026-03-W9",
+  "scheduledDate": "2026-03-W10",
   "status": "Backlog",
-  "priorityScore": 65.7,
+  "contentTitle": "Mot 1 Sub Base: Trade Specifications, Sizing & Underground Installation",
   "targetKeyword": "mot 1 sub base",
-  "recommendedTitle": "Mot 1 Sub Base: Trade Specifications, Types & Uses Explained",
   "intent": "Informational / Guide",
   "audience": "Trade & Contractors",
-  "metrics": {
-    "primaryVolume": 1600,
+  "seoMetrics": {
+    "searchVolume": 1600,
     "totalClusterVolume": 3100,
     "cpc": 0.88,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 60.3,
     "peakSearchMonth": "May"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "mot sub base",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.93,
+      "isQuestion": false
+    },
+    {
+      "keyword": "sub base bulk bag",
+      "volume": 110,
+      "competition": 100,
+      "cpc": 1.21,
+      "isQuestion": false
+    },
+    {
+      "keyword": "sub base bags",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 0.39,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bag of sub base",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 0.39,
+      "isQuestion": false
+    },
+    {
+      "keyword": "tarmac granular sub base mot 1",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "granular sub base mot 1",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "granular sub base mot 1 jumbo bag",
+      "volume": 0,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "jumbo bag sub base",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "sub base jumbo bag",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "sub base mot 1 major bag",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "tarmac granular sub base mot 1 major bag",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "type 1 sub base bulk bag",
+      "volume": 40,
+      "competition": 100,
+      "cpc": 1.02,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mot 1 sub base bulk bag",
+      "volume": 40,
+      "competition": 100,
+      "cpc": 1.09,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mot sub base bulk bag",
+      "volume": 30,
+      "competition": 100,
+      "cpc": 0.69,
+      "isQuestion": false
+    },
+    {
+      "keyword": "ton bag of sub base",
+      "volume": 10,
+      "competition": 71,
+      "cpc": 0.32,
+      "isQuestion": false
+    },
+    {
+      "keyword": "1 tonne sub base",
+      "volume": 20,
+      "competition": 100,
+      "cpc": 0.62,
+      "isQuestion": false
+    },
+    {
+      "keyword": "tarmac granular sub base mot 1 jumbo bag",
+      "volume": 10,
+      "competition": 86,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "sub base mot 1 jumbo bag",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.22,
+      "isQuestion": false
+    },
+    {
+      "keyword": "1 ton bag of sub base",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bulk bag of sub base",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 1.05,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bulk sub base",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 3.06,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mot 1 base",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.16,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mot 1 sub base bags",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.84,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mot 1 sub base delivery",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 2.18,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "mot sub base",
     "sub base bulk bag",
     "sub base bags",
     "bag of sub base",
+    "tarmac granular sub base mot 1",
+    "granular sub base mot 1",
+    "granular sub base mot 1 jumbo bag",
+    "jumbo bag sub base",
+    "sub base jumbo bag",
+    "sub base mot 1 major bag",
+    "tarmac granular sub base mot 1 major bag",
     "type 1 sub base bulk bag",
     "mot 1 sub base bulk bag",
     "mot sub base bulk bag",
+    "ton bag of sub base",
     "1 tonne sub base",
     "tarmac granular sub base mot 1 jumbo bag",
-    "tarmac granular sub base mot 1",
     "sub base mot 1 jumbo bag",
-    "granular sub base mot 1",
     "1 ton bag of sub base",
-    "bulk bag of sub base"
+    "bulk bag of sub base",
+    "bulk sub base",
+    "mot 1 base",
+    "mot 1 sub base bags",
+    "mot 1 sub base delivery"
   ],
   "paaQuestions": [],
   "suggestedSections": [

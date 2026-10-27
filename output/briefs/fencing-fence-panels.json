@@ -1,22 +1,193 @@
 {
   "id": "fencing-fence-panels",
   "pillar": "Fencing",
-  "weekNumber": 6,
+  "weekNumber": 5,
   "scheduledMonth": "Feb",
-  "scheduledDate": "2026-02-W6",
+  "scheduledDate": "2026-02-W5",
   "status": "Backlog",
-  "priorityScore": 88.1,
+  "contentTitle": "The Complete Guide to Fence Panels: Types, Board Calculations & Installation",
   "targetKeyword": "fence panels",
-  "recommendedTitle": "The Complete Guide to Fence Panels: Types, Costs & Installation",
   "intent": "Informational / Guide",
   "audience": "Domestic & DIY",
-  "metrics": {
-    "primaryVolume": 90500,
-    "totalClusterVolume": 341500,
+  "seoMetrics": {
+    "searchVolume": 90500,
+    "totalClusterVolume": 349820,
     "cpc": 0.67,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 91.2,
     "peakSearchMonth": "Apr"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "composite fence panels",
+      "volume": 18100,
+      "competition": 100,
+      "cpc": 2.43,
+      "isQuestion": false
+    },
+    {
+      "keyword": "trellis panels",
+      "volume": 18100,
+      "competition": 100,
+      "cpc": 0.4,
+      "isQuestion": false
+    },
+    {
+      "keyword": "garden fence panels",
+      "volume": 9900,
+      "competition": 100,
+      "cpc": 0.67,
+      "isQuestion": false
+    },
+    {
+      "keyword": "fence panels near me",
+      "volume": 8100,
+      "competition": 100,
+      "cpc": 0.66,
+      "isQuestion": false
+    },
+    {
+      "keyword": "slatted fence panels",
+      "volume": 8100,
+      "competition": 100,
+      "cpc": 0.61,
+      "isQuestion": false
+    },
+    {
+      "keyword": "wickes fence panels",
+      "volume": 8100,
+      "competition": 100,
+      "cpc": 0.25,
+      "isQuestion": false
+    },
+    {
+      "keyword": "b&q fence panels",
+      "volume": 8100,
+      "competition": 100,
+      "cpc": 0.22,
+      "isQuestion": false
+    },
+    {
+      "keyword": "b and q fence panels",
+      "volume": 8100,
+      "competition": 100,
+      "cpc": 0.22,
+      "isQuestion": false
+    },
+    {
+      "keyword": "vinyl fence panels",
+      "volume": 6600,
+      "competition": 100,
+      "cpc": 0.83,
+      "isQuestion": false
+    },
+    {
+      "keyword": "picket fence panels",
+      "volume": 6600,
+      "competition": 100,
+      "cpc": 0.42,
+      "isQuestion": false
+    },
+    {
+      "keyword": "plastic fence panels",
+      "volume": 6600,
+      "competition": 100,
+      "cpc": 0.83,
+      "isQuestion": false
+    },
+    {
+      "keyword": "pvc fence panels",
+      "volume": 6600,
+      "competition": 100,
+      "cpc": 0.83,
+      "isQuestion": false
+    },
+    {
+      "keyword": "fence slats",
+      "volume": 6600,
+      "competition": 100,
+      "cpc": 0.38,
+      "isQuestion": false
+    },
+    {
+      "keyword": "6ft fence panels",
+      "volume": 6600,
+      "competition": 100,
+      "cpc": 0.58,
+      "isQuestion": false
+    },
+    {
+      "keyword": "6x6 fence panels",
+      "volume": 6600,
+      "competition": 100,
+      "cpc": 0.62,
+      "isQuestion": false
+    },
+    {
+      "keyword": "6ft by 6ft fence panels",
+      "volume": 6600,
+      "competition": 100,
+      "cpc": 0.58,
+      "isQuestion": false
+    },
+    {
+      "keyword": "fence panels 6x6",
+      "volume": 6600,
+      "competition": 100,
+      "cpc": 0.62,
+      "isQuestion": false
+    },
+    {
+      "keyword": "homefield fence panels",
+      "volume": 320,
+      "competition": 18,
+      "cpc": 2.59,
+      "isQuestion": false
+    },
+    {
+      "keyword": "wood fence panels",
+      "volume": 5400,
+      "competition": 100,
+      "cpc": 0.53,
+      "isQuestion": false
+    },
+    {
+      "keyword": "feather edge fence panels",
+      "volume": 5400,
+      "competition": 100,
+      "cpc": 0.5,
+      "isQuestion": false
+    },
+    {
+      "keyword": "fence feather edge panels",
+      "volume": 5400,
+      "competition": 100,
+      "cpc": 0.5,
+      "isQuestion": false
+    },
+    {
+      "keyword": "closeboard fence panels",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.98,
+      "isQuestion": false
+    },
+    {
+      "keyword": "metal fence panels",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 1.14,
+      "isQuestion": false
+    },
+    {
+      "keyword": "fence screening",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.55,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "composite fence panels",
     "trellis panels",
@@ -31,7 +202,17 @@
     "plastic fence panels",
     "pvc fence panels",
     "fence slats",
-    "6ft fence panels"
+    "6ft fence panels",
+    "6x6 fence panels",
+    "6ft by 6ft fence panels",
+    "fence panels 6x6",
+    "homefield fence panels",
+    "wood fence panels",
+    "feather edge fence panels",
+    "fence feather edge panels",
+    "closeboard fence panels",
+    "metal fence panels",
+    "fence screening"
   ],
   "paaQuestions": [],
   "suggestedSections": [

@@ -5,18 +5,189 @@
   "scheduledMonth": "Jan",
   "scheduledDate": "2026-01-W4",
   "status": "Briefing",
-  "priorityScore": 76.1,
+  "contentTitle": "Ultimate Cordless Power Washer Guide: Features, Battery Systems & Maintenance (2026)",
   "targetKeyword": "cordless power washer",
-  "recommendedTitle": "Ultimate Cordless Power Washer Guide: Features, Choosing & Maintenance",
   "intent": "Informational / Guide",
   "audience": "DIY & Professionals",
-  "metrics": {
-    "primaryVolume": 12100,
-    "totalClusterVolume": 72150,
+  "seoMetrics": {
+    "searchVolume": 12100,
+    "totalClusterVolume": 72180,
     "cpc": 0.28,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 74.3,
     "peakSearchMonth": "Mar"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "best power washer",
+      "volume": 6600,
+      "competition": 100,
+      "cpc": 0.87,
+      "isQuestion": false
+    },
+    {
+      "keyword": "petrol power washer",
+      "volume": 6600,
+      "competition": 100,
+      "cpc": 0.97,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cordless power saw",
+      "volume": 5400,
+      "competition": 100,
+      "cpc": 0.23,
+      "isQuestion": false
+    },
+    {
+      "keyword": "portable power washer",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.32,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery power washer",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.31,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery powered power washer",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.31,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bosch power washer",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.27,
+      "isQuestion": false
+    },
+    {
+      "keyword": "power washer for sale",
+      "volume": 2900,
+      "competition": 100,
+      "cpc": 0.46,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl power washer",
+      "volume": 2900,
+      "competition": 100,
+      "cpc": 0.57,
+      "isQuestion": false
+    },
+    {
+      "keyword": "best cordless power washer",
+      "volume": 1900,
+      "competition": 100,
+      "cpc": 0.39,
+      "isQuestion": false
+    },
+    {
+      "keyword": "best cordless power washers",
+      "volume": 1900,
+      "competition": 100,
+      "cpc": 0.39,
+      "isQuestion": false
+    },
+    {
+      "keyword": "worx power washer",
+      "volume": 1600,
+      "competition": 100,
+      "cpc": 0.33,
+      "isQuestion": false
+    },
+    {
+      "keyword": "best power drill cordless",
+      "volume": 1300,
+      "competition": 100,
+      "cpc": 0.58,
+      "isQuestion": false
+    },
+    {
+      "keyword": "ryobi cordless power washer",
+      "volume": 1300,
+      "competition": 100,
+      "cpc": 0.39,
+      "isQuestion": false
+    },
+    {
+      "keyword": "ryobi power washer",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.42,
+      "isQuestion": false
+    },
+    {
+      "keyword": "small power washer",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.32,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cordless power drill",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.41,
+      "isQuestion": false
+    },
+    {
+      "keyword": "power drill cordless",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.41,
+      "isQuestion": false
+    },
+    {
+      "keyword": "milwaukee power washer",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.29,
+      "isQuestion": false
+    },
+    {
+      "keyword": "dewalt cordless power washer",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.29,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cordless power tools",
+      "volume": 480,
+      "competition": 100,
+      "cpc": 0.33,
+      "isQuestion": false
+    },
+    {
+      "keyword": "honda power washer",
+      "volume": 480,
+      "competition": 100,
+      "cpc": 0.58,
+      "isQuestion": false
+    },
+    {
+      "keyword": "makita cordless power tools",
+      "volume": 480,
+      "competition": 100,
+      "cpc": 0.28,
+      "isQuestion": false
+    },
+    {
+      "keyword": "power tools cordless",
+      "volume": 480,
+      "competition": 100,
+      "cpc": 0.33,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "best power washer",
     "petrol power washer",
@@ -31,7 +202,17 @@
     "best cordless power washers",
     "worx power washer",
     "best power drill cordless",
-    "ryobi cordless power washer"
+    "ryobi cordless power washer",
+    "ryobi power washer",
+    "small power washer",
+    "cordless power drill",
+    "power drill cordless",
+    "milwaukee power washer",
+    "dewalt cordless power washer",
+    "cordless power tools",
+    "honda power washer",
+    "makita cordless power tools",
+    "power tools cordless"
   ],
   "paaQuestions": [],
   "suggestedSections": [

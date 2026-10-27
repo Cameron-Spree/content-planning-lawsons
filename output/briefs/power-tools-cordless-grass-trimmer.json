@@ -1,22 +1,193 @@
 {
   "id": "power-tools-cordless-grass-trimmer",
   "pillar": "Power Tools",
-  "weekNumber": 34,
+  "weekNumber": 32,
   "scheduledMonth": "Aug",
-  "scheduledDate": "2026-08-W34",
+  "scheduledDate": "2026-08-W32",
   "status": "Backlog",
-  "priorityScore": 74.3,
+  "contentTitle": "Ultimate Cordless Grass Trimmer Guide: Features, Battery Systems & Maintenance (2026)",
   "targetKeyword": "cordless grass trimmer",
-  "recommendedTitle": "Ultimate Cordless Grass Trimmer Guide: Features, Choosing & Maintenance",
   "intent": "Informational / Guide",
   "audience": "DIY & Professionals",
-  "metrics": {
-    "primaryVolume": 5400,
-    "totalClusterVolume": 55650,
+  "seoMetrics": {
+    "searchVolume": 5400,
+    "totalClusterVolume": 57480,
     "cpc": 0.24,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 67.9,
     "peakSearchMonth": "May"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "cordless string trimmer",
+      "volume": 5400,
+      "competition": 100,
+      "cpc": 0.24,
+      "isQuestion": false
+    },
+    {
+      "keyword": "weed trimmer cordless",
+      "volume": 5400,
+      "competition": 100,
+      "cpc": 0.24,
+      "isQuestion": false
+    },
+    {
+      "keyword": "grass trimmer at argos",
+      "volume": 5400,
+      "competition": 100,
+      "cpc": 0.12,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cordless grass blower",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.37,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bosch cordless grass trimmer",
+      "volume": 2400,
+      "competition": 100,
+      "cpc": 0.26,
+      "isQuestion": false
+    },
+    {
+      "keyword": "makita grass trimmer",
+      "volume": 1600,
+      "competition": 100,
+      "cpc": 0.43,
+      "isQuestion": false
+    },
+    {
+      "keyword": "gtech grass trimmer",
+      "volume": 1600,
+      "competition": 100,
+      "cpc": 0.39,
+      "isQuestion": false
+    },
+    {
+      "keyword": "argos grass trimmer cordless",
+      "volume": 1600,
+      "competition": 100,
+      "cpc": 0.13,
+      "isQuestion": false
+    },
+    {
+      "keyword": "grass trimmer edger",
+      "volume": 1300,
+      "competition": 100,
+      "cpc": 0.21,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bosch grass trimmer",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.23,
+      "isQuestion": false
+    },
+    {
+      "keyword": "makita cordless trimmer",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.4,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cordless grass trimmer b&q",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.11,
+      "isQuestion": false
+    },
+    {
+      "keyword": "gtech grass trimmer blades",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.17,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl cordless trimmer",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.46,
+      "isQuestion": false
+    },
+    {
+      "keyword": "ryobi cordless trimmer",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.42,
+      "isQuestion": false
+    },
+    {
+      "keyword": "ryobi grass trimmer cordless",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.42,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl cordless grass trimmer",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.37,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl cordless string trimmer",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.37,
+      "isQuestion": false
+    },
+    {
+      "keyword": "ryobi cordless string trimmer",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.42,
+      "isQuestion": false
+    },
+    {
+      "keyword": "ryobi cordless weed trimmer",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.42,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl cordless line trimmer",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.37,
+      "isQuestion": false
+    },
+    {
+      "keyword": "ryobi cordless line trimmer",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.42,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cordless string trimmer ryobi",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.42,
+      "isQuestion": false
+    },
+    {
+      "keyword": "dewalt grass trimmer",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 0.33,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "cordless string trimmer",
     "weed trimmer cordless",
@@ -31,7 +202,17 @@
     "makita cordless trimmer",
     "cordless grass trimmer b&q",
     "gtech grass trimmer blades",
-    "stihl cordless trimmer"
+    "stihl cordless trimmer",
+    "ryobi cordless trimmer",
+    "ryobi grass trimmer cordless",
+    "stihl cordless grass trimmer",
+    "stihl cordless string trimmer",
+    "ryobi cordless string trimmer",
+    "ryobi cordless weed trimmer",
+    "stihl cordless line trimmer",
+    "ryobi cordless line trimmer",
+    "cordless string trimmer ryobi",
+    "dewalt grass trimmer"
   ],
   "paaQuestions": [],
   "suggestedSections": [

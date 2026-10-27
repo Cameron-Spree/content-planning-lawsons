@@ -5,18 +5,189 @@
   "scheduledMonth": "Sep",
   "scheduledDate": "2026-09-W37",
   "status": "Backlog",
-  "priorityScore": 69.6,
+  "contentTitle": "Ultimate Riding Mowers For Sale Guide: Features, Battery Systems & Maintenance (2026)",
   "targetKeyword": "riding mowers for sale",
-  "recommendedTitle": "Ultimate Riding Mowers For Sale Guide: Features, Choosing & Maintenance",
   "intent": "Transactional / Product Focus",
   "audience": "DIY & Professionals",
-  "metrics": {
-    "primaryVolume": 2400,
-    "totalClusterVolume": 18120,
+  "seoMetrics": {
+    "searchVolume": 2400,
+    "totalClusterVolume": 17240,
     "cpc": 0.35,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 61.9,
     "peakSearchMonth": "May"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "sit on mowers for sale",
+      "volume": 2400,
+      "competition": 100,
+      "cpc": 0.35,
+      "isQuestion": false
+    },
+    {
+      "keyword": "small ride on mowers for sale",
+      "volume": 2400,
+      "competition": 100,
+      "cpc": 0.35,
+      "isQuestion": false
+    },
+    {
+      "keyword": "riding mower sale clearance",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.33,
+      "isQuestion": false
+    },
+    {
+      "keyword": "riding mower clearance sale",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.33,
+      "isQuestion": false
+    },
+    {
+      "keyword": "used riding mowers for sale",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.18,
+      "isQuestion": false
+    },
+    {
+      "keyword": "used ride on mowers for sale",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.18,
+      "isQuestion": false
+    },
+    {
+      "keyword": "second hand ride on mowers for sale",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.18,
+      "isQuestion": false
+    },
+    {
+      "keyword": "2nd hand ride on mowers for sale",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.18,
+      "isQuestion": false
+    },
+    {
+      "keyword": "riding mowers for sale near me",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 0.39,
+      "isQuestion": false
+    },
+    {
+      "keyword": "ride on mowers for sale near me",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 0.39,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cheap riding mowers",
+      "volume": 480,
+      "competition": 100,
+      "cpc": 0.26,
+      "isQuestion": false
+    },
+    {
+      "keyword": "robotic mowers for sale",
+      "volume": 480,
+      "competition": 100,
+      "cpc": 0.77,
+      "isQuestion": false
+    },
+    {
+      "keyword": "toro riding mowers",
+      "volume": 390,
+      "competition": 100,
+      "cpc": 0.22,
+      "isQuestion": false
+    },
+    {
+      "keyword": "used ride on mowers for sale near me",
+      "volume": 390,
+      "competition": 100,
+      "cpc": 0.17,
+      "isQuestion": false
+    },
+    {
+      "keyword": "riding lawn mowers for sale near me",
+      "volume": 260,
+      "competition": 100,
+      "cpc": 0.42,
+      "isQuestion": false
+    },
+    {
+      "keyword": "used riding lawn mowers for sale",
+      "volume": 260,
+      "competition": 100,
+      "cpc": 0.15,
+      "isQuestion": false
+    },
+    {
+      "keyword": "used riding mowers",
+      "volume": 210,
+      "competition": 99,
+      "cpc": 0.19,
+      "isQuestion": false
+    },
+    {
+      "keyword": "riding lawn mowers for sale",
+      "volume": 210,
+      "competition": 100,
+      "cpc": 0.38,
+      "isQuestion": false
+    },
+    {
+      "keyword": "riding lawn tractors for sale",
+      "volume": 210,
+      "competition": 100,
+      "cpc": 0.38,
+      "isQuestion": false
+    },
+    {
+      "keyword": "john deere riding mowers",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 0.48,
+      "isQuestion": false
+    },
+    {
+      "keyword": "new riding mowers",
+      "volume": 110,
+      "competition": 100,
+      "cpc": 0.4,
+      "isQuestion": false
+    },
+    {
+      "keyword": "riding mowers near me",
+      "volume": 10,
+      "competition": 40,
+      "cpc": 0.33,
+      "isQuestion": false
+    },
+    {
+      "keyword": "john deere riding mowers for sale",
+      "volume": 90,
+      "competition": 100,
+      "cpc": 0.42,
+      "isQuestion": false
+    },
+    {
+      "keyword": "scag mowers for sale",
+      "volume": 90,
+      "competition": 100,
+      "cpc": 0.07,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "sit on mowers for sale",
     "small ride on mowers for sale",
@@ -31,7 +202,17 @@
     "cheap riding mowers",
     "robotic mowers for sale",
     "toro riding mowers",
-    "used ride on mowers for sale near me"
+    "used ride on mowers for sale near me",
+    "riding lawn mowers for sale near me",
+    "used riding lawn mowers for sale",
+    "used riding mowers",
+    "riding lawn mowers for sale",
+    "riding lawn tractors for sale",
+    "john deere riding mowers",
+    "new riding mowers",
+    "riding mowers near me",
+    "john deere riding mowers for sale",
+    "scag mowers for sale"
   ],
   "paaQuestions": [],
   "suggestedSections": [

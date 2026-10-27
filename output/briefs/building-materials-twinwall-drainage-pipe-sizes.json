@@ -1,0 +1,50 @@
+{
+  "id": "building-materials-twinwall-drainage-pipe-sizes",
+  "pillar": "Building Materials",
+  "weekNumber": 2,
+  "scheduledMonth": "Jan",
+  "scheduledDate": "2026-01-W2",
+  "status": "Briefing",
+  "contentTitle": "Twinwall Drainage Pipe Sizes: Trade Specifications, Sizing & Underground Installation",
+  "targetKeyword": "twinwall drainage pipe sizes",
+  "intent": "Informational / Guide",
+  "audience": "Trade & Contractors",
+  "seoMetrics": {
+    "searchVolume": 0,
+    "totalClusterVolume": 30,
+    "cpc": 0,
+    "difficulty": 0,
+    "difficultyLevel": "Easy to Rank",
+    "rankabilityScore": 63,
+    "peakSearchMonth": "Mar"
+  },
+  "groupedKeywords": [
+    {
+      "keyword": "twinwall drainage pipe price",
+      "volume": 0,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "twinwall drainage",
+      "volume": 30,
+      "competition": 83,
+      "cpc": 1.52,
+      "isQuestion": false
+    }
+  ],
+  "secondaryKeywords": [
+    "twinwall drainage pipe price",
+    "twinwall drainage"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is twinwall drainage pipe sizes? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

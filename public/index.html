@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Lawsons Content Calendar & Topic Clusters</title>
+  <title>Lawsons Content Engine & Topic Clusters</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -12,8 +12,8 @@
     <div class="brand">
       <div class="brand-icon">📐</div>
       <div>
-        <h1>Lawsons Content Engine & Editorial Calendar</h1>
-        <p>Automated Semantic Clusters & Seasonality Pipeline (3 Articles / Week)</p>
+        <h1>Lawsons Content Engine & Editorial Planner</h1>
+        <p>Topic Clustering, Difficulty & Seasonality (3 Articles / Week)</p>
       </div>
     </div>
     <div class="stats-bar">
@@ -26,12 +26,12 @@
         <span class="lbl">Cadence (1 per Pillar)</span>
       </div>
       <div class="stat-pill">
-        <span class="val" id="stat-total-vol">--</span>
-        <span class="lbl">Search Demand</span>
+        <span class="val" id="stat-easy-count">--</span>
+        <span class="lbl">Easy to Rank</span>
       </div>
       <div class="stat-pill">
-        <span class="val" id="stat-total-paa">--</span>
-        <span class="lbl">PAA Questions</span>
+        <span class="val" id="stat-total-vol">--</span>
+        <span class="lbl">Monthly Search Vol</span>
       </div>
     </div>
   </header>
@@ -40,25 +40,32 @@
   <div class="toolbar">
     <div class="controls-left">
       <div class="view-toggle">
-        <button class="view-btn active" id="btn-view-kanban" onclick="switchView('kanban')">📋 Kanban Board</button>
+        <button class="view-btn active" id="btn-view-tinder" onclick="switchView('tinder')">🔥 Decision Deck (Yes/No)</button>
+        <button class="view-btn" id="btn-view-kanban" onclick="switchView('kanban')">📋 Kanban Board</button>
         <button class="view-btn" id="btn-view-calendar" onclick="switchView('calendar')">📅 52-Week Roadmap</button>
       </div>
 
       <select class="filter-select" id="filter-pillar" onchange="applyFilters()">
-        <option value="all">All Pillars (Fencing, Tools, Materials)</option>
-        <option value="Fencing">Fencing (52)</option>
-        <option value="Power Tools">Power Tools (52)</option>
-        <option value="Building Materials">Building Materials (52)</option>
+        <option value="all">All Pillars</option>
+        <option value="Fencing">Fencing</option>
+        <option value="Power Tools">Power Tools</option>
+        <option value="Building Materials">Building Materials</option>
       </select>
 
-      <select class="filter-select" id="filter-audience" onchange="applyFilters()">
-        <option value="all">All Audiences</option>
-        <option value="Domestic & DIY">Domestic & DIY</option>
-        <option value="Trade & Contractors">Trade & Contractors</option>
-        <option value="DIY & Professionals">DIY & Professionals</option>
+      <select class="filter-select" id="filter-difficulty" onchange="applyFilters()">
+        <option value="all">All Difficulties</option>
+        <option value="Easy to Rank">🟢 Easy to Rank (Low Comp)</option>
+        <option value="Moderate">🟡 Moderate Competition</option>
+        <option value="Challenging">🔴 High Competition</option>
       </select>
 
-      <input type="text" class="search-input" id="search-kw" placeholder="Search keywords or topics..." oninput="applyFilters()">
+      <select class="filter-select" id="sort-by" onchange="applyFilters()">
+        <option value="rankability">Sort: 🌟 Best Rankability First</option>
+        <option value="volume">Sort: 📈 Search Volume</option>
+        <option value="priority">Sort: 🎯 Priority Score</option>
+      </select>
+
+      <input type="text" class="search-input" id="search-kw" placeholder="Search titles or keywords..." oninput="applyFilters()">
     </div>
 
     <div class="controls-right">
@@ -89,8 +96,8 @@
     </div>
   </div>
 
-  <!-- Toast -->
-  <div class="toast" id="toast">Copied to clipboard!</div>
+  <!-- Toast Notification -->
+  <div class="toast" id="toast">Action completed!</div>
 
   <script src="app.js"></script>
 </body>

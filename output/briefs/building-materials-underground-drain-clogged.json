@@ -1,0 +1,58 @@
+{
+  "id": "building-materials-underground-drain-clogged",
+  "pillar": "Building Materials",
+  "weekNumber": 34,
+  "scheduledMonth": "Aug",
+  "scheduledDate": "2026-08-W34",
+  "status": "Backlog",
+  "contentTitle": "Underground Drain Clogged: Trade Specifications, Sizing & Underground Installation",
+  "targetKeyword": "underground drain clogged",
+  "intent": "Informational / Guide",
+  "audience": "Trade & DIY",
+  "seoMetrics": {
+    "searchVolume": 10,
+    "totalClusterVolume": 40,
+    "cpc": 0,
+    "difficulty": 0,
+    "difficultyLevel": "Easy to Rank",
+    "rankabilityScore": 63,
+    "peakSearchMonth": "Sep"
+  },
+  "groupedKeywords": [
+    {
+      "keyword": "clogged underground drain pipe",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "pvc underground gutter drain",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "finding drain pipes underground",
+      "volume": 10,
+      "competition": 96,
+      "cpc": 0.24,
+      "isQuestion": false
+    }
+  ],
+  "secondaryKeywords": [
+    "clogged underground drain pipe",
+    "pvc underground gutter drain",
+    "finding drain pipes underground"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is underground drain clogged? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

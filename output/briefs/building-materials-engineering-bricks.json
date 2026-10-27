@@ -1,28 +1,200 @@
 {
   "id": "building-materials-engineering-bricks",
   "pillar": "Building Materials",
-  "weekNumber": 22,
-  "scheduledMonth": "Jun",
-  "scheduledDate": "2026-06-W22",
+  "weekNumber": 13,
+  "scheduledMonth": "Mar",
+  "scheduledDate": "2026-03-W13",
   "status": "Backlog",
-  "priorityScore": 73,
+  "contentTitle": "Engineering Bricks: Trade Specifications, Sizing & Underground Installation",
   "targetKeyword": "engineering bricks",
-  "recommendedTitle": "Engineering Bricks: Trade Specifications, Types & Uses Explained",
   "intent": "Informational / Guide",
   "audience": "Trade & DIY",
-  "metrics": {
-    "primaryVolume": 6600,
-    "totalClusterVolume": 22100,
+  "seoMetrics": {
+    "searchVolume": 6600,
+    "totalClusterVolume": 22170,
     "cpc": 0.59,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 70.5,
     "peakSearchMonth": "Sep"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "eng bricks",
+      "volume": 6600,
+      "competition": 100,
+      "cpc": 0.59,
+      "isQuestion": false
+    },
+    {
+      "keyword": "blue engineering bricks",
+      "volume": 1600,
+      "competition": 100,
+      "cpc": 0.45,
+      "isQuestion": false
+    },
+    {
+      "keyword": "red engineering bricks",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.6,
+      "isQuestion": false
+    },
+    {
+      "keyword": "engineering bricks size",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.3,
+      "isQuestion": false
+    },
+    {
+      "keyword": "class a engineering bricks",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 0.69,
+      "isQuestion": false
+    },
+    {
+      "keyword": "difference between class a and class b engineering bricks",
+      "volume": 30,
+      "competition": 27,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "black engineering bricks",
+      "volume": 390,
+      "competition": 100,
+      "cpc": 0.51,
+      "isQuestion": false
+    },
+    {
+      "keyword": "engineering bricks price",
+      "volume": 390,
+      "competition": 100,
+      "cpc": 0.32,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cost of engineering bricks",
+      "volume": 390,
+      "competition": 100,
+      "cpc": 0.32,
+      "isQuestion": false
+    },
+    {
+      "keyword": "engineering bricks wickes",
+      "volume": 320,
+      "competition": 100,
+      "cpc": 0.1,
+      "isQuestion": false
+    },
+    {
+      "keyword": "solid engineering bricks",
+      "volume": 320,
+      "competition": 100,
+      "cpc": 0.59,
+      "isQuestion": false
+    },
+    {
+      "keyword": "grey engineering bricks",
+      "volume": 260,
+      "competition": 100,
+      "cpc": 0.44,
+      "isQuestion": false
+    },
+    {
+      "keyword": "solid blue engineering bricks",
+      "volume": 260,
+      "competition": 100,
+      "cpc": 0.32,
+      "isQuestion": false
+    },
+    {
+      "keyword": "engineering bricks uses",
+      "volume": 10,
+      "competition": 23,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "b and q engineering bricks",
+      "volume": 140,
+      "competition": 99,
+      "cpc": 0.15,
+      "isQuestion": false
+    },
+    {
+      "keyword": "b&q engineering bricks",
+      "volume": 140,
+      "competition": 99,
+      "cpc": 0.15,
+      "isQuestion": false
+    },
+    {
+      "keyword": "brown engineering bricks",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 0.38,
+      "isQuestion": false
+    },
+    {
+      "keyword": "selco engineering bricks",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 0.38,
+      "isQuestion": false
+    },
+    {
+      "keyword": "class b bricks",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 0.58,
+      "isQuestion": false
+    },
+    {
+      "keyword": "73mm engineering bricks",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 0.29,
+      "isQuestion": false
+    },
+    {
+      "keyword": "semi engineering bricks",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 0.54,
+      "isQuestion": false
+    },
+    {
+      "keyword": "solid red engineering bricks",
+      "volume": 110,
+      "competition": 100,
+      "cpc": 0.36,
+      "isQuestion": false
+    },
+    {
+      "keyword": "yellow engineering bricks",
+      "volume": 110,
+      "competition": 100,
+      "cpc": 0.35,
+      "isQuestion": false
+    },
+    {
+      "keyword": "engineering bricks travis perkins",
+      "volume": 110,
+      "competition": 100,
+      "cpc": 0.35,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "eng bricks",
     "blue engineering bricks",
     "red engineering bricks",
     "engineering bricks size",
     "class a engineering bricks",
+    "difference between class a and class b engineering bricks",
     "black engineering bricks",
     "engineering bricks price",
     "cost of engineering bricks",
@@ -30,8 +202,17 @@
     "solid engineering bricks",
     "grey engineering bricks",
     "solid blue engineering bricks",
+    "engineering bricks uses",
+    "b and q engineering bricks",
+    "b&q engineering bricks",
     "brown engineering bricks",
-    "selco engineering bricks"
+    "selco engineering bricks",
+    "class b bricks",
+    "73mm engineering bricks",
+    "semi engineering bricks",
+    "solid red engineering bricks",
+    "yellow engineering bricks",
+    "engineering bricks travis perkins"
   ],
   "paaQuestions": [],
   "suggestedSections": [

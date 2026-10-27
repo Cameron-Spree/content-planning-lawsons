@@ -1,22 +1,193 @@
 {
   "id": "fencing-postcrete",
   "pillar": "Fencing",
-  "weekNumber": 37,
-  "scheduledMonth": "Sep",
-  "scheduledDate": "2026-09-W37",
+  "weekNumber": 7,
+  "scheduledMonth": "Feb",
+  "scheduledDate": "2026-02-W7",
   "status": "Backlog",
-  "priorityScore": 71.5,
+  "contentTitle": "The Complete Guide to Postcrete: Types, Board Calculations & Installation",
   "targetKeyword": "postcrete",
-  "recommendedTitle": "The Complete Guide to Postcrete: Types, Costs & Installation",
   "intent": "Informational / Guide",
   "audience": "Domestic & DIY",
-  "metrics": {
-    "primaryVolume": 18100,
-    "totalClusterVolume": 26520,
+  "seoMetrics": {
+    "searchVolume": 18100,
+    "totalClusterVolume": 26630,
     "cpc": 0.34,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 77.7,
     "peakSearchMonth": "Apr"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "postcrete wickes",
+      "volume": 2400,
+      "competition": 99,
+      "cpc": 0.1,
+      "isQuestion": false
+    },
+    {
+      "keyword": "postcrete bq",
+      "volume": 1900,
+      "competition": 100,
+      "cpc": 0.14,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bq postcrete",
+      "volume": 1900,
+      "competition": 100,
+      "cpc": 0.14,
+      "isQuestion": false
+    },
+    {
+      "keyword": "postcrete near me",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.21,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cheap postcrete",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 0.33,
+      "isQuestion": false
+    },
+    {
+      "keyword": "postcrete price",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 0.11,
+      "isQuestion": false
+    },
+    {
+      "keyword": "price of postcrete",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 0.11,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cheapest postcrete near me",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 0.2,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cheapest postcrete",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 0.33,
+      "isQuestion": false
+    },
+    {
+      "keyword": "selco postcrete",
+      "volume": 110,
+      "competition": 96,
+      "cpc": 0.25,
+      "isQuestion": false
+    },
+    {
+      "keyword": "postcrete b and m",
+      "volume": 110,
+      "competition": 99,
+      "cpc": 0.18,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mixing postcrete",
+      "volume": 70,
+      "competition": 98,
+      "cpc": 0.2,
+      "isQuestion": false
+    },
+    {
+      "keyword": "fence postcrete",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 0.32,
+      "isQuestion": false
+    },
+    {
+      "keyword": "postcrete delivered near me",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "fencemate postcrete",
+      "volume": 50,
+      "competition": 100,
+      "cpc": 0.13,
+      "isQuestion": false
+    },
+    {
+      "keyword": "buy postcrete",
+      "volume": 50,
+      "competition": 100,
+      "cpc": 0.25,
+      "isQuestion": false
+    },
+    {
+      "keyword": "best price for postcrete",
+      "volume": 40,
+      "competition": 100,
+      "cpc": 0.57,
+      "isQuestion": false
+    },
+    {
+      "keyword": "tarmac postcrete",
+      "volume": 20,
+      "competition": 86,
+      "cpc": 0.13,
+      "isQuestion": false
+    },
+    {
+      "keyword": "postcrete concrete",
+      "volume": 30,
+      "competition": 100,
+      "cpc": 0.14,
+      "isQuestion": false
+    },
+    {
+      "keyword": "buy postcrete near me",
+      "volume": 30,
+      "competition": 100,
+      "cpc": 0.2,
+      "isQuestion": false
+    },
+    {
+      "keyword": "carlton postcrete",
+      "volume": 30,
+      "competition": 100,
+      "cpc": 0.6,
+      "isQuestion": false
+    },
+    {
+      "keyword": "postcrete delivered",
+      "volume": 30,
+      "competition": 100,
+      "cpc": 1.5,
+      "isQuestion": false
+    },
+    {
+      "keyword": "postcrete cheapest price",
+      "volume": 20,
+      "competition": 95,
+      "cpc": 0.25,
+      "isQuestion": false
+    },
+    {
+      "keyword": "postcrete for sale",
+      "volume": 20,
+      "competition": 100,
+      "cpc": 0.46,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "postcrete wickes",
     "postcrete bq",
@@ -31,7 +202,17 @@
     "postcrete b and m",
     "mixing postcrete",
     "fence postcrete",
-    "fencemate postcrete"
+    "postcrete delivered near me",
+    "fencemate postcrete",
+    "buy postcrete",
+    "best price for postcrete",
+    "tarmac postcrete",
+    "postcrete concrete",
+    "buy postcrete near me",
+    "carlton postcrete",
+    "postcrete delivered",
+    "postcrete cheapest price",
+    "postcrete for sale"
   ],
   "paaQuestions": [],
   "suggestedSections": [

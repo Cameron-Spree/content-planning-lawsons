@@ -1,22 +1,193 @@
 {
   "id": "power-tools-petrol-lawn-mowers",
   "pillar": "Power Tools",
-  "weekNumber": 8,
-  "scheduledMonth": "Feb",
-  "scheduledDate": "2026-02-W8",
+  "weekNumber": 21,
+  "scheduledMonth": "May",
+  "scheduledDate": "2026-05-W21",
   "status": "Backlog",
-  "priorityScore": 79.2,
+  "contentTitle": "Ultimate Petrol Lawn Mowers Guide: Features, Battery Systems & Maintenance (2026)",
   "targetKeyword": "petrol lawn mowers",
-  "recommendedTitle": "Ultimate Petrol Lawn Mowers Guide: Features, Choosing & Maintenance",
   "intent": "Informational / Guide",
   "audience": "DIY & Professionals",
-  "metrics": {
-    "primaryVolume": 14800,
-    "totalClusterVolume": 85440,
+  "seoMetrics": {
+    "searchVolume": 14800,
+    "totalClusterVolume": 90200,
     "cpc": 0.5,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 76.6,
     "peakSearchMonth": "Apr"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "petrol lawn cutter",
+      "volume": 12100,
+      "competition": 100,
+      "cpc": 0.52,
+      "isQuestion": false
+    },
+    {
+      "keyword": "argos lawn mowers",
+      "volume": 9900,
+      "competition": 100,
+      "cpc": 0.19,
+      "isQuestion": false
+    },
+    {
+      "keyword": "makita lawn mowers",
+      "volume": 5400,
+      "competition": 100,
+      "cpc": 0.58,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery driven lawn mowers",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.44,
+      "isQuestion": false
+    },
+    {
+      "keyword": "husqvarna lawn mowers",
+      "volume": 3600,
+      "competition": 100,
+      "cpc": 0.54,
+      "isQuestion": false
+    },
+    {
+      "keyword": "top rated battery operated lawn mowers",
+      "volume": 3600,
+      "competition": 100,
+      "cpc": 0.49,
+      "isQuestion": false
+    },
+    {
+      "keyword": "petrol lawn mowers for sale",
+      "volume": 3600,
+      "competition": 100,
+      "cpc": 0.43,
+      "isQuestion": false
+    },
+    {
+      "keyword": "top ten battery lawn mowers",
+      "volume": 2900,
+      "competition": 100,
+      "cpc": 0.57,
+      "isQuestion": false
+    },
+    {
+      "keyword": "greenworks lawn mowers",
+      "volume": 1900,
+      "competition": 100,
+      "cpc": 0.89,
+      "isQuestion": false
+    },
+    {
+      "keyword": "top electric lawn mowers",
+      "volume": 1600,
+      "competition": 100,
+      "cpc": 0.57,
+      "isQuestion": false
+    },
+    {
+      "keyword": "second hand ride on lawn mowers",
+      "volume": 1600,
+      "competition": 100,
+      "cpc": 0.16,
+      "isQuestion": false
+    },
+    {
+      "keyword": "recommended petrol lawn mowers",
+      "volume": 1600,
+      "competition": 100,
+      "cpc": 0.54,
+      "isQuestion": false
+    },
+    {
+      "keyword": "top rated petrol lawn mowers",
+      "volume": 1600,
+      "competition": 100,
+      "cpc": 0.54,
+      "isQuestion": false
+    },
+    {
+      "keyword": "electric lawn mowers for sale",
+      "volume": 1300,
+      "competition": 100,
+      "cpc": 0.26,
+      "isQuestion": false
+    },
+    {
+      "keyword": "the range lawn mowers",
+      "volume": 1300,
+      "competition": 100,
+      "cpc": 0.13,
+      "isQuestion": false
+    },
+    {
+      "keyword": "argos electric lawn mowers",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.19,
+      "isQuestion": false
+    },
+    {
+      "keyword": "argos battery lawn mowers",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.17,
+      "isQuestion": false
+    },
+    {
+      "keyword": "screwfix petrol mowers",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.23,
+      "isQuestion": false
+    },
+    {
+      "keyword": "rear roller lawn mowers",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.39,
+      "isQuestion": false
+    },
+    {
+      "keyword": "petrol mowers at screwfix",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.23,
+      "isQuestion": false
+    },
+    {
+      "keyword": "clearance petrol lawn mowers",
+      "volume": 880,
+      "competition": 99,
+      "cpc": 0.27,
+      "isQuestion": false
+    },
+    {
+      "keyword": "argos petrol mowers",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.33,
+      "isQuestion": false
+    },
+    {
+      "keyword": "hawksmoor lawn mowers",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.23,
+      "isQuestion": false
+    },
+    {
+      "keyword": "light weight lawn mowers",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.21,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "petrol lawn cutter",
     "argos lawn mowers",
@@ -27,11 +198,21 @@
     "petrol lawn mowers for sale",
     "top ten battery lawn mowers",
     "greenworks lawn mowers",
+    "top electric lawn mowers",
     "second hand ride on lawn mowers",
     "recommended petrol lawn mowers",
     "top rated petrol lawn mowers",
+    "electric lawn mowers for sale",
     "the range lawn mowers",
-    "argos battery lawn mowers"
+    "argos electric lawn mowers",
+    "argos battery lawn mowers",
+    "screwfix petrol mowers",
+    "rear roller lawn mowers",
+    "petrol mowers at screwfix",
+    "clearance petrol lawn mowers",
+    "argos petrol mowers",
+    "hawksmoor lawn mowers",
+    "light weight lawn mowers"
   ],
   "paaQuestions": [],
   "suggestedSections": [

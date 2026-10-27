@@ -1,22 +1,24 @@
 {
   "id": "fencing-6x6-fence-panels-pack-of-10",
   "pillar": "Fencing",
-  "weekNumber": 23,
+  "weekNumber": 25,
   "scheduledMonth": "Jun",
-  "scheduledDate": "2026-06-W23",
+  "scheduledDate": "2026-06-W25",
   "status": "Backlog",
-  "priorityScore": 54.9,
+  "contentTitle": "Contractor's Guide to 6x6 Fence Panels Pack Of 10: Specifications, Installation & Spacing",
   "targetKeyword": "6x6 fence panels pack of 10",
-  "recommendedTitle": "The Complete Guide to 6x6 Fence Panels Pack Of 10: Types, Costs & Installation",
   "intent": "Informational / Guide",
   "audience": "Trade & Contractors",
-  "metrics": {
-    "primaryVolume": 590,
+  "seoMetrics": {
+    "searchVolume": 590,
     "totalClusterVolume": 590,
     "cpc": 0.66,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 51.9,
     "peakSearchMonth": "Mar"
   },
+  "groupedKeywords": [],
   "secondaryKeywords": [],
   "paaQuestions": [],
   "suggestedSections": [

@@ -1,37 +1,218 @@
 {
   "id": "power-tools-electric-lawn-equipment",
   "pillar": "Power Tools",
-  "weekNumber": 21,
-  "scheduledMonth": "May",
-  "scheduledDate": "2026-05-W21",
-  "status": "Backlog",
-  "priorityScore": 74.5,
+  "weekNumber": 3,
+  "scheduledMonth": "Jan",
+  "scheduledDate": "2026-01-W3",
+  "status": "Briefing",
+  "contentTitle": "Ultimate Electric Lawn Equipment Guide: Features, Battery Systems & Maintenance (2026)",
   "targetKeyword": "electric lawn equipment",
-  "recommendedTitle": "Ultimate Electric Lawn Equipment Guide: Features, Choosing & Maintenance",
   "intent": "Informational / Guide",
   "audience": "DIY & Professionals",
-  "metrics": {
-    "primaryVolume": 12100,
-    "totalClusterVolume": 44520,
+  "seoMetrics": {
+    "searchVolume": 12100,
+    "totalClusterVolume": 45260,
     "cpc": 0.37,
-    "competition": 100,
-    "peakSearchMonth": "Apr"
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 74.6,
+    "peakSearchMonth": "Mar"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "battery lawn equipment",
+      "volume": 12100,
+      "competition": 100,
+      "cpc": 0.43,
+      "isQuestion": false
+    },
+    {
+      "keyword": "electric lawn cutter",
+      "volume": 12100,
+      "competition": 100,
+      "cpc": 0.37,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery powered lawn equipment",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.44,
+      "isQuestion": false
+    },
+    {
+      "keyword": "best electric lawn equipment",
+      "volume": 1600,
+      "competition": 100,
+      "cpc": 0.57,
+      "isQuestion": false
+    },
+    {
+      "keyword": "electric lawn blower",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.51,
+      "isQuestion": false
+    },
+    {
+      "keyword": "best battery powered lawn equipment",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.73,
+      "isQuestion": false
+    },
+    {
+      "keyword": "electric trimmer lawn",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 0.2,
+      "isQuestion": false
+    },
+    {
+      "keyword": "john deere electric lawn tractor",
+      "volume": 10,
+      "competition": 14,
+      "cpc": 0.91,
+      "isQuestion": false
+    },
+    {
+      "keyword": "electric lawn tractor",
+      "volume": 110,
+      "competition": 100,
+      "cpc": 0.55,
+      "isQuestion": false
+    },
+    {
+      "keyword": "electric lawn edge trimmer",
+      "volume": 110,
+      "competition": 100,
+      "cpc": 0.19,
+      "isQuestion": false
+    },
+    {
+      "keyword": "best electric lawn blower",
+      "volume": 110,
+      "competition": 100,
+      "cpc": 1.96,
+      "isQuestion": false
+    },
+    {
+      "keyword": "electric lawn tools",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "best battery lawn equipment",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "milwaukee lawn equipment",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "pro lawn self propelled electric start hyundai lawnmower 53cm",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "pro lawn 53cm self propelled electric start hyundai lawnmower",
+      "volume": 0,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "commercial battery powered lawn equipment",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl battery powered lawn equipment",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cub cadet electric lawn tractor",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl electric lawn equipment",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl battery lawn equipment",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "electric lawn grass cutting machine",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "best battery powered commercial lawn equipment",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "best battery powered lawn equipment 2021",
+      "volume": 0,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "battery lawn equipment",
     "electric lawn cutter",
     "battery powered lawn equipment",
     "best electric lawn equipment",
     "electric lawn blower",
+    "best battery powered lawn equipment",
     "electric trimmer lawn",
+    "john deere electric lawn tractor",
     "electric lawn tractor",
     "electric lawn edge trimmer",
     "best electric lawn blower",
-    "electric lawn edge cutter",
-    "ryobi electric lawn trimmer",
-    "best electric lawn tractor",
-    "best electric lawn trimmer",
-    "electric lawn tools"
+    "electric lawn tools",
+    "best battery lawn equipment",
+    "milwaukee lawn equipment",
+    "pro lawn self propelled electric start hyundai lawnmower 53cm",
+    "pro lawn 53cm self propelled electric start hyundai lawnmower",
+    "commercial battery powered lawn equipment",
+    "stihl battery powered lawn equipment",
+    "cub cadet electric lawn tractor",
+    "stihl electric lawn equipment",
+    "stihl battery lawn equipment",
+    "electric lawn grass cutting machine",
+    "best battery powered commercial lawn equipment",
+    "best battery powered lawn equipment 2021"
   ],
   "paaQuestions": [],
   "suggestedSections": [

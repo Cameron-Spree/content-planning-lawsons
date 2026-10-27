@@ -1,22 +1,193 @@
 {
   "id": "power-tools-battery-powered-grass-mowers",
   "pillar": "Power Tools",
-  "weekNumber": 19,
+  "weekNumber": 20,
   "scheduledMonth": "May",
-  "scheduledDate": "2026-05-W19",
+  "scheduledDate": "2026-05-W20",
   "status": "Backlog",
-  "priorityScore": 78.7,
+  "contentTitle": "Ultimate Battery Powered Grass Mowers Guide: Features, Battery Systems & Maintenance (2026)",
   "targetKeyword": "battery powered grass mowers",
-  "recommendedTitle": "Ultimate Battery Powered Grass Mowers Guide: Features, Choosing & Maintenance",
   "intent": "Informational / Guide",
   "audience": "DIY & Professionals",
-  "metrics": {
-    "primaryVolume": 22200,
-    "totalClusterVolume": 101660,
+  "seoMetrics": {
+    "searchVolume": 22200,
+    "totalClusterVolume": 100580,
     "cpc": 0.36,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 79.3,
     "peakSearchMonth": "Apr"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "battery powered drill",
+      "volume": 14800,
+      "competition": 100,
+      "cpc": 0.29,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery powered strimmer",
+      "volume": 9900,
+      "competition": 100,
+      "cpc": 0.28,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery powered mower",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.44,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery powered sander",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.27,
+      "isQuestion": false
+    },
+    {
+      "keyword": "ryobi battery powered mower",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.49,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery powered grass cutter",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.44,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery motor mowers",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.44,
+      "isQuestion": false
+    },
+    {
+      "keyword": "best battery powered mower",
+      "volume": 3600,
+      "competition": 100,
+      "cpc": 0.49,
+      "isQuestion": false
+    },
+    {
+      "keyword": "good battery powered lawn mowers",
+      "volume": 3600,
+      "competition": 100,
+      "cpc": 0.49,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery powered blower",
+      "volume": 1900,
+      "competition": 100,
+      "cpc": 0.45,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery grass blower",
+      "volume": 1900,
+      "competition": 100,
+      "cpc": 0.45,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery powered screwdriver",
+      "volume": 1600,
+      "competition": 100,
+      "cpc": 0.25,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery powered chainsaws uk",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.23,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery powered chainsaw",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.29,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery powered saw",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.29,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery powered sawzall",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.29,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery powered pruning saw",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.3,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery powered pruning saws",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.3,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery grass trimmer",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.29,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery powered tools",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.42,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery powered grass trimmers",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.29,
+      "isQuestion": false
+    },
+    {
+      "keyword": "top rated battery powered lawn mowers",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.73,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery powered lawn trimmer",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.29,
+      "isQuestion": false
+    },
+    {
+      "keyword": "top battery powered lawn mowers",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.73,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "battery powered drill",
     "battery powered strimmer",
@@ -30,8 +201,18 @@
     "battery powered blower",
     "battery grass blower",
     "battery powered screwdriver",
-    "best battery powered strimmer",
-    "best battery powered drill"
+    "battery powered chainsaws uk",
+    "battery powered chainsaw",
+    "battery powered saw",
+    "battery powered sawzall",
+    "battery powered pruning saw",
+    "battery powered pruning saws",
+    "battery grass trimmer",
+    "battery powered tools",
+    "battery powered grass trimmers",
+    "top rated battery powered lawn mowers",
+    "battery powered lawn trimmer",
+    "top battery powered lawn mowers"
   ],
   "paaQuestions": [],
   "suggestedSections": [

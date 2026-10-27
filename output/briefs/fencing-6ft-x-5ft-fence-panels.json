@@ -1,37 +1,218 @@
 {
   "id": "fencing-6ft-x-5ft-fence-panels",
   "pillar": "Fencing",
-  "weekNumber": 48,
-  "scheduledMonth": "Dec",
-  "scheduledDate": "2026-12-W48",
+  "weekNumber": 43,
+  "scheduledMonth": "Oct",
+  "scheduledDate": "2026-10-W43",
   "status": "Backlog",
-  "priorityScore": 61.6,
+  "contentTitle": "The Complete Guide to 6ft X 5ft Fence Panels: Types, Board Calculations & Installation",
   "targetKeyword": "6ft x 5ft fence panels",
-  "recommendedTitle": "The Complete Guide to 6ft X 5ft Fence Panels: Types, Costs & Installation",
   "intent": "Informational / Guide",
   "audience": "Domestic & DIY",
-  "metrics": {
-    "primaryVolume": 1300,
-    "totalClusterVolume": 1750,
+  "seoMetrics": {
+    "searchVolume": 1300,
+    "totalClusterVolume": 4810,
     "cpc": 0.77,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 58.4,
     "peakSearchMonth": "Apr"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "6ft fence slats",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 0.41,
+      "isQuestion": false
+    },
+    {
+      "keyword": "6ft fence",
+      "volume": 480,
+      "competition": 100,
+      "cpc": 0.54,
+      "isQuestion": false
+    },
+    {
+      "keyword": "6ft by 6ft trellis",
+      "volume": 480,
+      "competition": 100,
+      "cpc": 0.52,
+      "isQuestion": false
+    },
+    {
+      "keyword": "fence boards 6ft",
+      "volume": 390,
+      "competition": 100,
+      "cpc": 0.27,
+      "isQuestion": false
+    },
+    {
+      "keyword": "6ft x 6ft trellis panels",
+      "volume": 320,
+      "competition": 100,
+      "cpc": 0.74,
+      "isQuestion": false
+    },
+    {
+      "keyword": "6ft garden fence",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 0.62,
+      "isQuestion": false
+    },
+    {
+      "keyword": "5ft fence",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 0.48,
+      "isQuestion": false
+    },
+    {
+      "keyword": "trellis 6ft x 6ft",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 1.3,
+      "isQuestion": false
+    },
+    {
+      "keyword": "6ft fence slats b&q",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 0.17,
+      "isQuestion": false
+    },
+    {
+      "keyword": "6ft x 6ft fencing",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "6ft x 6ft lattice trellis",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "6ft x 6ft trellis fencing",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "featheredge fence panel 6ft x 6ft",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "5ft privacy fence",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "overlap fence panel 6ft x 5ft",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "6ft x 5ft diamond trellis",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "6ft x 5ft featheredge fence panel",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "6ft x 5ft trellis panels",
+      "volume": 50,
+      "competition": 100,
+      "cpc": 0.63,
+      "isQuestion": false
+    },
+    {
+      "keyword": "trellis 5ft x 6ft",
+      "volume": 50,
+      "competition": 100,
+      "cpc": 0.64,
+      "isQuestion": false
+    },
+    {
+      "keyword": "expanding trellis 6ft x 6ft",
+      "volume": 40,
+      "competition": 97,
+      "cpc": 0.31,
+      "isQuestion": false
+    },
+    {
+      "keyword": "6ft fence slats near me",
+      "volume": 40,
+      "competition": 99,
+      "cpc": 0.28,
+      "isQuestion": false
+    },
+    {
+      "keyword": "5ft fence boards",
+      "volume": 40,
+      "competition": 100,
+      "cpc": 1.06,
+      "isQuestion": false
+    },
+    {
+      "keyword": "fence boards 6ft near me",
+      "volume": 40,
+      "competition": 100,
+      "cpc": 0.26,
+      "isQuestion": false
+    },
+    {
+      "keyword": "5ft x 5ft trellis panels",
+      "volume": 40,
+      "competition": 100,
+      "cpc": 0.34,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
+    "6ft fence slats",
+    "6ft fence",
+    "6ft by 6ft trellis",
+    "fence boards 6ft",
+    "6ft x 6ft trellis panels",
+    "6ft garden fence",
     "5ft fence",
-    "6ft x 5ft trellis panels",
-    "trellis 5ft x 6ft",
-    "5ft fence boards",
-    "5ft x 5ft trellis panels",
-    "6ft x 5ft diamond trellis panels",
+    "trellis 6ft x 6ft",
+    "6ft fence slats b&q",
+    "6ft x 6ft fencing",
+    "6ft x 6ft lattice trellis",
+    "6ft x 6ft trellis fencing",
+    "featheredge fence panel 6ft x 6ft",
     "5ft privacy fence",
     "overlap fence panel 6ft x 5ft",
     "6ft x 5ft diamond trellis",
     "6ft x 5ft featheredge fence panel",
-    "5ft by 6ft trellis",
-    "5ft fence trellis",
-    "5ft fence with trellis",
-    "5ft fence with trellis on top"
+    "6ft x 5ft trellis panels",
+    "trellis 5ft x 6ft",
+    "expanding trellis 6ft x 6ft",
+    "6ft fence slats near me",
+    "5ft fence boards",
+    "fence boards 6ft near me",
+    "5ft x 5ft trellis panels"
   ],
   "paaQuestions": [],
   "suggestedSections": [

@@ -5,33 +5,214 @@
   "scheduledMonth": "Dec",
   "scheduledDate": "2026-12-W52",
   "status": "Backlog",
-  "priorityScore": 79.2,
+  "contentTitle": "Ultimate Mawaki Tools Guide: Features, Battery Systems & Maintenance (2026)",
   "targetKeyword": "mawaki tools",
-  "recommendedTitle": "Ultimate Mawaki Tools Guide: Features, Choosing & Maintenance",
   "intent": "Informational / Guide",
   "audience": "DIY & Professionals",
-  "metrics": {
-    "primaryVolume": 22200,
-    "totalClusterVolume": 73490,
+  "seoMetrics": {
+    "searchVolume": 22200,
+    "totalClusterVolume": 73230,
     "cpc": 0.58,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 80,
     "peakSearchMonth": "Sep"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "m tools",
+      "volume": 390,
+      "competition": 12,
+      "cpc": 0.17,
+      "isQuestion": false
+    },
+    {
+      "keyword": "power tools",
+      "volume": 9900,
+      "competition": 100,
+      "cpc": 0.72,
+      "isQuestion": false
+    },
+    {
+      "keyword": "ryobi tools uk",
+      "volume": 6600,
+      "competition": 100,
+      "cpc": 0.56,
+      "isQuestion": false
+    },
+    {
+      "keyword": "woodworking tools",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.44,
+      "isQuestion": false
+    },
+    {
+      "keyword": "einhell tools",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.21,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bricklaying tools",
+      "volume": 3600,
+      "competition": 100,
+      "cpc": 0.27,
+      "isQuestion": false
+    },
+    {
+      "keyword": "carpenters tools",
+      "volume": 2900,
+      "competition": 100,
+      "cpc": 0.34,
+      "isQuestion": false
+    },
+    {
+      "keyword": "caterpillar tools",
+      "volume": 720,
+      "competition": 66,
+      "cpc": 2.63,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mawaki power tools",
+      "volume": 2400,
+      "competition": 100,
+      "cpc": 0.63,
+      "isQuestion": false
+    },
+    {
+      "keyword": "my bosch tools",
+      "volume": 110,
+      "competition": 18,
+      "cpc": 0.49,
+      "isQuestion": false
+    },
+    {
+      "keyword": "timeless tools",
+      "volume": 90,
+      "competition": 14,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "hikoki tools",
+      "volume": 1300,
+      "competition": 100,
+      "cpc": 0.32,
+      "isQuestion": false
+    },
+    {
+      "keyword": "ryobi tools co uk",
+      "volume": 1300,
+      "competition": 100,
+      "cpc": 0.58,
+      "isQuestion": false
+    },
+    {
+      "keyword": "electronic tools",
+      "volume": 880,
+      "competition": 91,
+      "cpc": 0.26,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl tools",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.51,
+      "isQuestion": false
+    },
+    {
+      "keyword": "festool tools",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.33,
+      "isQuestion": false
+    },
+    {
+      "keyword": "workzone tools",
+      "volume": 720,
+      "competition": 98,
+      "cpc": 0.22,
+      "isQuestion": false
+    },
+    {
+      "keyword": "electricians tools",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.33,
+      "isQuestion": false
+    },
+    {
+      "keyword": "sanding tools",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.22,
+      "isQuestion": false
+    },
+    {
+      "keyword": "carlyle tools",
+      "volume": 590,
+      "competition": 97,
+      "cpc": 0.39,
+      "isQuestion": false
+    },
+    {
+      "keyword": "blacksmith tools",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 0.12,
+      "isQuestion": false
+    },
+    {
+      "keyword": "teng tools uk",
+      "volume": 480,
+      "competition": 98,
+      "cpc": 0.51,
+      "isQuestion": false
+    },
+    {
+      "keyword": "epic tools uk",
+      "volume": 110,
+      "competition": 60,
+      "cpc": 0.23,
+      "isQuestion": false
+    },
+    {
+      "keyword": "sheetrock tools",
+      "volume": 480,
+      "competition": 100,
+      "cpc": 0.47,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
+    "m tools",
     "power tools",
     "ryobi tools uk",
     "woodworking tools",
     "einhell tools",
     "bricklaying tools",
     "carpenters tools",
+    "caterpillar tools",
     "mawaki power tools",
+    "my bosch tools",
+    "timeless tools",
     "hikoki tools",
     "ryobi tools co uk",
+    "electronic tools",
     "stihl tools",
     "festool tools",
-    "electronic tools",
-    "caterpillar tools",
-    "electricians tools"
+    "workzone tools",
+    "electricians tools",
+    "sanding tools",
+    "carlyle tools",
+    "blacksmith tools",
+    "teng tools uk",
+    "epic tools uk",
+    "sheetrock tools"
   ],
   "paaQuestions": [],
   "suggestedSections": [

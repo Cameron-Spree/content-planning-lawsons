@@ -1,22 +1,193 @@
 {
   "id": "building-materials-100mm-celotex",
   "pillar": "Building Materials",
-  "weekNumber": 25,
-  "scheduledMonth": "Jun",
-  "scheduledDate": "2026-06-W25",
+  "weekNumber": 19,
+  "scheduledMonth": "May",
+  "scheduledDate": "2026-05-W19",
   "status": "Backlog",
-  "priorityScore": 71.2,
+  "contentTitle": "100mm Celotex: Trade Specifications, Sizing & Underground Installation",
   "targetKeyword": "100mm celotex",
-  "recommendedTitle": "100mm Celotex: Trade Specifications, Types & Uses Explained",
   "intent": "Informational / Guide",
   "audience": "Trade & DIY",
-  "metrics": {
-    "primaryVolume": 4400,
+  "seoMetrics": {
+    "searchVolume": 4400,
     "totalClusterVolume": 9800,
     "cpc": 0.83,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 68.1,
     "peakSearchMonth": "Sep"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "celotex insulation 100mm",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.95,
+      "isQuestion": false
+    },
+    {
+      "keyword": "insulation celotex 100mm",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.95,
+      "isQuestion": false
+    },
+    {
+      "keyword": "100mm insulation celotex",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.95,
+      "isQuestion": false
+    },
+    {
+      "keyword": "100mm pir",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 0.89,
+      "isQuestion": false
+    },
+    {
+      "keyword": "100mm blockwork",
+      "volume": 390,
+      "competition": 100,
+      "cpc": 0.51,
+      "isQuestion": false
+    },
+    {
+      "keyword": "celotex ga4100",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 1.57,
+      "isQuestion": false
+    },
+    {
+      "keyword": "celotex insulation board 100mm",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 1.1,
+      "isQuestion": false
+    },
+    {
+      "keyword": "ecotherm 100mm",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 0.83,
+      "isQuestion": false
+    },
+    {
+      "keyword": "100mm celotex ga4000",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 1.33,
+      "isQuestion": false
+    },
+    {
+      "keyword": "100mm celotex price",
+      "volume": 90,
+      "competition": 100,
+      "cpc": 0.64,
+      "isQuestion": false
+    },
+    {
+      "keyword": "100mm celotex floor insulation",
+      "volume": 90,
+      "competition": 100,
+      "cpc": 1.56,
+      "isQuestion": false
+    },
+    {
+      "keyword": "celotex 100mm 2400 x 1200",
+      "volume": 90,
+      "competition": 100,
+      "cpc": 0.92,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cheap celotex 100mm",
+      "volume": 70,
+      "competition": 99,
+      "cpc": 1.13,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cheapest celotex 100mm",
+      "volume": 70,
+      "competition": 99,
+      "cpc": 1.13,
+      "isQuestion": false
+    },
+    {
+      "keyword": "100 celotex",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 0.56,
+      "isQuestion": false
+    },
+    {
+      "keyword": "100mm celotex b&q",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 0.26,
+      "isQuestion": false
+    },
+    {
+      "keyword": "celotex boards 100mm",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 0.65,
+      "isQuestion": false
+    },
+    {
+      "keyword": "celotex 100mm b&q",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 0.26,
+      "isQuestion": false
+    },
+    {
+      "keyword": "celotex roof insulation 100mm",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "ecotherm 100mm price",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "ga4000 celotex 100mm",
+      "volume": 40,
+      "competition": 100,
+      "cpc": 1.1,
+      "isQuestion": false
+    },
+    {
+      "keyword": "celotex ga4000 insulation board 100mm",
+      "volume": 40,
+      "competition": 100,
+      "cpc": 0.79,
+      "isQuestion": false
+    },
+    {
+      "keyword": "100m celotex",
+      "volume": 40,
+      "competition": 100,
+      "cpc": 0.61,
+      "isQuestion": false
+    },
+    {
+      "keyword": "celotex sheets 100mm",
+      "volume": 30,
+      "competition": 100,
+      "cpc": 0.8,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "celotex insulation 100mm",
     "insulation celotex 100mm",
@@ -31,7 +202,17 @@
     "100mm celotex floor insulation",
     "celotex 100mm 2400 x 1200",
     "cheap celotex 100mm",
-    "100 celotex"
+    "cheapest celotex 100mm",
+    "100 celotex",
+    "100mm celotex b&q",
+    "celotex boards 100mm",
+    "celotex 100mm b&q",
+    "celotex roof insulation 100mm",
+    "ecotherm 100mm price",
+    "ga4000 celotex 100mm",
+    "celotex ga4000 insulation board 100mm",
+    "100m celotex",
+    "celotex sheets 100mm"
   ],
   "paaQuestions": [],
   "suggestedSections": [

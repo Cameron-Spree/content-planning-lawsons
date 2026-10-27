@@ -1,0 +1,50 @@
+{
+  "id": "building-materials-buy-insulation-batts-online",
+  "pillar": "Building Materials",
+  "weekNumber": 35,
+  "scheduledMonth": "Sep",
+  "scheduledDate": "2026-09-W35",
+  "status": "Backlog",
+  "contentTitle": "Buy Insulation Batts Online: Trade Specifications, Sizing & Underground Installation",
+  "targetKeyword": "buy insulation batts online",
+  "intent": "Transactional / Product Focus",
+  "audience": "Trade & DIY",
+  "seoMetrics": {
+    "searchVolume": 0,
+    "totalClusterVolume": 20,
+    "cpc": 0,
+    "difficulty": 0,
+    "difficultyLevel": "Easy to Rank",
+    "rankabilityScore": 63,
+    "peakSearchMonth": "Nov"
+  },
+  "groupedKeywords": [
+    {
+      "keyword": "buy rockwool insulation online",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "buy roof insulation online",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0,
+      "isQuestion": false
+    }
+  ],
+  "secondaryKeywords": [
+    "buy rockwool insulation online",
+    "buy roof insulation online"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is buy insulation batts online? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

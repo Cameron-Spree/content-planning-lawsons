@@ -1,0 +1,66 @@
+{
+  "id": "building-materials-knauf-multi-finish-plaster",
+  "pillar": "Building Materials",
+  "weekNumber": 33,
+  "scheduledMonth": "Aug",
+  "scheduledDate": "2026-08-W33",
+  "status": "Backlog",
+  "contentTitle": "Knauf Multi Finish Plaster: Trade Specifications, Sizing & Underground Installation",
+  "targetKeyword": "knauf multi finish plaster",
+  "intent": "Informational / Guide",
+  "audience": "Trade & DIY",
+  "seoMetrics": {
+    "searchVolume": 10,
+    "totalClusterVolume": 40,
+    "cpc": 0,
+    "difficulty": 0,
+    "difficultyLevel": "Easy to Rank",
+    "rankabilityScore": 63,
+    "peakSearchMonth": "Sep"
+  },
+  "groupedKeywords": [
+    {
+      "keyword": "knauf multi",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "knauf multi finish plaster reviews",
+      "volume": 0,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "glet multi finish",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.13,
+      "isQuestion": false
+    },
+    {
+      "keyword": "knauf multi finish plaster 25kg",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0,
+      "isQuestion": false
+    }
+  ],
+  "secondaryKeywords": [
+    "knauf multi",
+    "knauf multi finish plaster reviews",
+    "glet multi finish",
+    "knauf multi finish plaster 25kg"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is knauf multi finish plaster? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

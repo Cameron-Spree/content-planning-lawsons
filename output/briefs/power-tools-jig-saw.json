@@ -1,22 +1,193 @@
 {
   "id": "power-tools-jig-saw",
   "pillar": "Power Tools",
-  "weekNumber": 27,
+  "weekNumber": 29,
   "scheduledMonth": "Jul",
-  "scheduledDate": "2026-07-W27",
+  "scheduledDate": "2026-07-W29",
   "status": "Backlog",
-  "priorityScore": 85.8,
+  "contentTitle": "Ultimate Jig Saw Guide: Features, Battery Systems & Maintenance (2026)",
   "targetKeyword": "jig saw",
-  "recommendedTitle": "Ultimate Jig Saw Guide: Features, Choosing & Maintenance",
   "intent": "Informational / Guide",
   "audience": "DIY & Professionals",
-  "metrics": {
-    "primaryVolume": 135000,
-    "totalClusterVolume": 440170,
+  "seoMetrics": {
+    "searchVolume": 135000,
+    "totalClusterVolume": 443990,
     "cpc": 0.49,
-    "competition": 88,
+    "difficulty": 88,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 99.2,
     "peakSearchMonth": "Sep"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "circular saw",
+      "volume": 40500,
+      "competition": 100,
+      "cpc": 0.23,
+      "isQuestion": false
+    },
+    {
+      "keyword": "reciprocating saw",
+      "volume": 27100,
+      "competition": 100,
+      "cpc": 0.29,
+      "isQuestion": false
+    },
+    {
+      "keyword": "recip saw",
+      "volume": 27100,
+      "competition": 100,
+      "cpc": 0.29,
+      "isQuestion": false
+    },
+    {
+      "keyword": "table saw",
+      "volume": 22200,
+      "competition": 100,
+      "cpc": 0.38,
+      "isQuestion": false
+    },
+    {
+      "keyword": "chop saw",
+      "volume": 22200,
+      "competition": 100,
+      "cpc": 0.33,
+      "isQuestion": false
+    },
+    {
+      "keyword": "band saw",
+      "volume": 14800,
+      "competition": 100,
+      "cpc": 0.46,
+      "isQuestion": false
+    },
+    {
+      "keyword": "track saw",
+      "volume": 12100,
+      "competition": 100,
+      "cpc": 0.33,
+      "isQuestion": false
+    },
+    {
+      "keyword": "electric saw",
+      "volume": 9900,
+      "competition": 100,
+      "cpc": 0.22,
+      "isQuestion": false
+    },
+    {
+      "keyword": "plunge saw",
+      "volume": 9900,
+      "competition": 100,
+      "cpc": 0.34,
+      "isQuestion": false
+    },
+    {
+      "keyword": "saw horse",
+      "volume": 9900,
+      "competition": 100,
+      "cpc": 0.31,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl saw",
+      "volume": 9900,
+      "competition": 100,
+      "cpc": 0.85,
+      "isQuestion": false
+    },
+    {
+      "keyword": "hole saw",
+      "volume": 8100,
+      "competition": 100,
+      "cpc": 0.71,
+      "isQuestion": false
+    },
+    {
+      "keyword": "hand saw",
+      "volume": 8100,
+      "competition": 100,
+      "cpc": 0.21,
+      "isQuestion": false
+    },
+    {
+      "keyword": "jigsaw saw",
+      "volume": 5400,
+      "competition": 91,
+      "cpc": 0.18,
+      "isQuestion": false
+    },
+    {
+      "keyword": "chain saw",
+      "volume": 6600,
+      "competition": 100,
+      "cpc": 0.28,
+      "isQuestion": false
+    },
+    {
+      "keyword": "miter saw",
+      "volume": 5400,
+      "competition": 100,
+      "cpc": 0.25,
+      "isQuestion": false
+    },
+    {
+      "keyword": "skill saw",
+      "volume": 5400,
+      "competition": 100,
+      "cpc": 0.32,
+      "isQuestion": false
+    },
+    {
+      "keyword": "scroll saw",
+      "volume": 5400,
+      "competition": 100,
+      "cpc": 0.18,
+      "isQuestion": false
+    },
+    {
+      "keyword": "pruning saw",
+      "volume": 5400,
+      "competition": 100,
+      "cpc": 0.23,
+      "isQuestion": false
+    },
+    {
+      "keyword": "wood saw",
+      "volume": 5400,
+      "competition": 100,
+      "cpc": 0.21,
+      "isQuestion": false
+    },
+    {
+      "keyword": "pruner saw",
+      "volume": 5400,
+      "competition": 100,
+      "cpc": 0.23,
+      "isQuestion": false
+    },
+    {
+      "keyword": "pro saw uk",
+      "volume": 480,
+      "competition": 37,
+      "cpc": 1.51,
+      "isQuestion": false
+    },
+    {
+      "keyword": "pole saw",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.31,
+      "isQuestion": false
+    },
+    {
+      "keyword": "body saw",
+      "volume": 170,
+      "competition": 23,
+      "cpc": 0.44,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "circular saw",
     "reciprocating saw",
@@ -31,7 +202,17 @@
     "stihl saw",
     "hole saw",
     "hand saw",
-    "chain saw"
+    "jigsaw saw",
+    "chain saw",
+    "miter saw",
+    "skill saw",
+    "scroll saw",
+    "pruning saw",
+    "wood saw",
+    "pruner saw",
+    "pro saw uk",
+    "pole saw",
+    "body saw"
   ],
   "paaQuestions": [],
   "suggestedSections": [

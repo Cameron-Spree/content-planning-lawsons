@@ -5,33 +5,214 @@
   "scheduledMonth": "Jul",
   "scheduledDate": "2026-07-W27",
   "status": "Backlog",
-  "priorityScore": 110.9,
+  "contentTitle": "The Complete Guide to Boxley Timber And Fencing: Types, Board Calculations & Installation",
   "targetKeyword": "boxley timber and fencing",
-  "recommendedTitle": "The Complete Guide to Boxley Timber And Fencing: Types, Costs & Installation",
   "intent": "Informational / Guide",
   "audience": "Domestic & DIY",
-  "metrics": {
-    "primaryVolume": 880,
-    "totalClusterVolume": 2160,
+  "seoMetrics": {
+    "searchVolume": 880,
+    "totalClusterVolume": 4160,
     "cpc": 6.7,
-    "competition": 26,
+    "difficulty": 26,
+    "difficultyLevel": "Easy to Rank",
+    "rankabilityScore": 101.3,
     "peakSearchMonth": "Sep"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "kct timber and fencing supplies",
+      "volume": 90,
+      "competition": 9,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "fencing timber",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 1.07,
+      "isQuestion": false
+    },
+    {
+      "keyword": "timber fencing supplies",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 1.8,
+      "isQuestion": false
+    },
+    {
+      "keyword": "timber fencing supplies near me",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 0.84,
+      "isQuestion": false
+    },
+    {
+      "keyword": "fencing timber near me",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 0.42,
+      "isQuestion": false
+    },
+    {
+      "keyword": "timber fencing suppliers near me",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 0.84,
+      "isQuestion": false
+    },
+    {
+      "keyword": "timber fencing posts",
+      "volume": 110,
+      "competition": 99,
+      "cpc": 0.53,
+      "isQuestion": false
+    },
+    {
+      "keyword": "timber fencing post",
+      "volume": 110,
+      "competition": 99,
+      "cpc": 0.53,
+      "isQuestion": false
+    },
+    {
+      "keyword": "timber fencing near me",
+      "volume": 70,
+      "competition": 99,
+      "cpc": 1.17,
+      "isQuestion": false
+    },
+    {
+      "keyword": "fencing timber supplies near me",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 0.39,
+      "isQuestion": false
+    },
+    {
+      "keyword": "wholesale timber fencing supplies",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "tabley timber and fencing supplies",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "quality timber & fencing supplies",
+      "volume": 0,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "timber supplies for fencing",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "fencing timber merchants near me",
+      "volume": 40,
+      "competition": 100,
+      "cpc": 0.52,
+      "isQuestion": false
+    },
+    {
+      "keyword": "tafs timber fencing supplier",
+      "volume": 30,
+      "competition": 96,
+      "cpc": 2.48,
+      "isQuestion": false
+    },
+    {
+      "keyword": "timber closeboard fencing",
+      "volume": 20,
+      "competition": 85,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "timber rails for fencing",
+      "volume": 30,
+      "competition": 100,
+      "cpc": 0.25,
+      "isQuestion": false
+    },
+    {
+      "keyword": "timber fencing rails",
+      "volume": 30,
+      "competition": 100,
+      "cpc": 0.25,
+      "isQuestion": false
+    },
+    {
+      "keyword": "timber lap fencing",
+      "volume": 10,
+      "competition": 80,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "feather edge fencing timber",
+      "volume": 20,
+      "competition": 100,
+      "cpc": 0.15,
+      "isQuestion": false
+    },
+    {
+      "keyword": "feather edge timber fencing",
+      "volume": 20,
+      "competition": 100,
+      "cpc": 0.15,
+      "isQuestion": false
+    },
+    {
+      "keyword": "timber and fencing near me",
+      "volume": 10,
+      "competition": 86,
+      "cpc": 0.73,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mortice timber fencing",
+      "volume": 10,
+      "competition": 95,
+      "cpc": 0,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
+    "kct timber and fencing supplies",
+    "fencing timber",
     "timber fencing supplies",
     "timber fencing supplies near me",
     "fencing timber near me",
     "timber fencing suppliers near me",
     "timber fencing posts",
-    "kct timber and fencing supplies",
-    "fencing timber supplies near me",
+    "timber fencing post",
     "timber fencing near me",
+    "fencing timber supplies near me",
+    "wholesale timber fencing supplies",
+    "tabley timber and fencing supplies",
+    "quality timber & fencing supplies",
+    "timber supplies for fencing",
     "fencing timber merchants near me",
     "tafs timber fencing supplier",
+    "timber closeboard fencing",
     "timber rails for fencing",
     "timber fencing rails",
-    "timber closeboard fencing",
-    "timber fencing materials"
+    "timber lap fencing",
+    "feather edge fencing timber",
+    "feather edge timber fencing",
+    "timber and fencing near me",
+    "mortice timber fencing"
   ],
   "paaQuestions": [],
   "suggestedSections": [

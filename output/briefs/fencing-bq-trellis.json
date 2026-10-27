@@ -5,18 +5,189 @@
   "scheduledMonth": "Mar",
   "scheduledDate": "2026-03-W10",
   "status": "Backlog",
-  "priorityScore": 69.6,
+  "contentTitle": "The Complete Guide to B&Q Trellis: Types, Board Calculations & Installation",
   "targetKeyword": "b&q trellis",
-  "recommendedTitle": "The Complete Guide to B&Q Trellis: Types, Costs & Installation",
   "intent": "Informational / Guide",
   "audience": "Domestic & DIY",
-  "metrics": {
-    "primaryVolume": 3600,
-    "totalClusterVolume": 27540,
+  "seoMetrics": {
+    "searchVolume": 3600,
+    "totalClusterVolume": 26440,
     "cpc": 0.13,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 64.4,
     "peakSearchMonth": "May"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "trellis b&q",
+      "volume": 3600,
+      "competition": 100,
+      "cpc": 0.13,
+      "isQuestion": false
+    },
+    {
+      "keyword": "wickes trellis",
+      "volume": 2900,
+      "competition": 100,
+      "cpc": 0.11,
+      "isQuestion": false
+    },
+    {
+      "keyword": "expanding trellis",
+      "volume": 1900,
+      "competition": 100,
+      "cpc": 0.17,
+      "isQuestion": false
+    },
+    {
+      "keyword": "privacy trellis",
+      "volume": 1300,
+      "competition": 100,
+      "cpc": 0.57,
+      "isQuestion": false
+    },
+    {
+      "keyword": "slatted trellis",
+      "volume": 1300,
+      "competition": 100,
+      "cpc": 0.76,
+      "isQuestion": false
+    },
+    {
+      "keyword": "fencing and trellis",
+      "volume": 1300,
+      "competition": 100,
+      "cpc": 0.39,
+      "isQuestion": false
+    },
+    {
+      "keyword": "trellis on fencing",
+      "volume": 1300,
+      "competition": 100,
+      "cpc": 0.39,
+      "isQuestion": false
+    },
+    {
+      "keyword": "artificial trellis",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.38,
+      "isQuestion": false
+    },
+    {
+      "keyword": "b & m trellis",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.17,
+      "isQuestion": false
+    },
+    {
+      "keyword": "trellis screening",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.58,
+      "isQuestion": false
+    },
+    {
+      "keyword": "trellis and screening",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.58,
+      "isQuestion": false
+    },
+    {
+      "keyword": "trellis screwfix",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.16,
+      "isQuestion": false
+    },
+    {
+      "keyword": "trellis decoration",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.46,
+      "isQuestion": false
+    },
+    {
+      "keyword": "square trellis",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 0.51,
+      "isQuestion": false
+    },
+    {
+      "keyword": "6ft trellis",
+      "volume": 480,
+      "competition": 100,
+      "cpc": 0.52,
+      "isQuestion": false
+    },
+    {
+      "keyword": "gated trellis",
+      "volume": 480,
+      "competition": 100,
+      "cpc": 0.35,
+      "isQuestion": false
+    },
+    {
+      "keyword": "timber trellis",
+      "volume": 260,
+      "competition": 100,
+      "cpc": 0.38,
+      "isQuestion": false
+    },
+    {
+      "keyword": "5ft trellis",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 0.55,
+      "isQuestion": false
+    },
+    {
+      "keyword": "trellis narrow",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 0.19,
+      "isQuestion": false
+    },
+    {
+      "keyword": "6x4 trellis",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 0.41,
+      "isQuestion": false
+    },
+    {
+      "keyword": "trellis homebase",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 0.18,
+      "isQuestion": false
+    },
+    {
+      "keyword": "b & q fencing and trellis",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 0.14,
+      "isQuestion": false
+    },
+    {
+      "keyword": "b&q fencing trellis",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 0.14,
+      "isQuestion": false
+    },
+    {
+      "keyword": "trellis 6x4",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 0.41,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "trellis b&q",
     "wickes trellis",
@@ -31,7 +202,17 @@
     "trellis and screening",
     "trellis screwfix",
     "trellis decoration",
-    "square trellis"
+    "square trellis",
+    "6ft trellis",
+    "gated trellis",
+    "timber trellis",
+    "5ft trellis",
+    "trellis narrow",
+    "6x4 trellis",
+    "trellis homebase",
+    "b & q fencing and trellis",
+    "b&q fencing trellis",
+    "trellis 6x4"
   ],
   "paaQuestions": [],
   "suggestedSections": [

@@ -1,0 +1,82 @@
+{
+  "id": "fencing-farm-fencing-ltd",
+  "pillar": "Fencing",
+  "weekNumber": 29,
+  "scheduledMonth": "Jul",
+  "scheduledDate": "2026-07-W29",
+  "status": "Backlog",
+  "contentTitle": "The Complete Guide to Farm Fencing Ltd: Types, Board Calculations & Installation",
+  "targetKeyword": "farm fencing ltd",
+  "intent": "Informational / Guide",
+  "audience": "Domestic & DIY",
+  "seoMetrics": {
+    "searchVolume": 480,
+    "totalClusterVolume": 850,
+    "cpc": 3.97,
+    "difficulty": 34,
+    "difficultyLevel": "Easy to Rank",
+    "rankabilityScore": 89.9,
+    "peakSearchMonth": "Sep"
+  },
+  "groupedKeywords": [
+    {
+      "keyword": "farm fencing suppliers",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 0.98,
+      "isQuestion": false
+    },
+    {
+      "keyword": "farm fencing products",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 0.98,
+      "isQuestion": false
+    },
+    {
+      "keyword": "oxford fencing ltd",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "nw farm fencing supply",
+      "volume": 0,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "farm fencing materials for sale",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "farm fencing materials",
+      "volume": 10,
+      "competition": 93,
+      "cpc": 1.45,
+      "isQuestion": false
+    }
+  ],
+  "secondaryKeywords": [
+    "farm fencing suppliers",
+    "farm fencing products",
+    "oxford fencing ltd",
+    "nw farm fencing supply",
+    "farm fencing materials for sale",
+    "farm fencing materials"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is farm fencing ltd? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

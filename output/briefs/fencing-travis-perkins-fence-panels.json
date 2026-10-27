@@ -1,34 +1,114 @@
 {
   "id": "fencing-travis-perkins-fence-panels",
   "pillar": "Fencing",
-  "weekNumber": 14,
-  "scheduledMonth": "Apr",
-  "scheduledDate": "2026-04-W14",
-  "status": "Backlog",
-  "priorityScore": 61.1,
+  "weekNumber": 2,
+  "scheduledMonth": "Jan",
+  "scheduledDate": "2026-01-W2",
+  "status": "Briefing",
+  "contentTitle": "The Complete Guide to Travis Perkins Fence Panels: Types, Board Calculations & Installation",
   "targetKeyword": "travis perkins fence panels",
-  "recommendedTitle": "The Complete Guide to Travis Perkins Fence Panels: Types, Costs & Installation",
   "intent": "Informational / Guide",
   "audience": "Domestic & DIY",
-  "metrics": {
-    "primaryVolume": 1300,
+  "seoMetrics": {
+    "searchVolume": 1300,
     "totalClusterVolume": 2060,
     "cpc": 0.63,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 57.9,
     "peakSearchMonth": "Mar"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "travis perkins fencing",
+      "volume": 390,
+      "competition": 99,
+      "cpc": 0.74,
+      "isQuestion": false
+    },
+    {
+      "keyword": "travis perkins trellis",
+      "volume": 210,
+      "competition": 100,
+      "cpc": 0.42,
+      "isQuestion": false
+    },
+    {
+      "keyword": "travis perkins trellis panels",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 0.29,
+      "isQuestion": false
+    },
+    {
+      "keyword": "concrete base panels travis perkins",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "travis perkins fence post caps",
+      "volume": 10,
+      "competition": 67,
+      "cpc": 0.02,
+      "isQuestion": false
+    },
+    {
+      "keyword": "travis perkins durapost",
+      "volume": 20,
+      "competition": 92,
+      "cpc": 1.03,
+      "isQuestion": false
+    },
+    {
+      "keyword": "wooden fence posts travis perkins",
+      "volume": 10,
+      "competition": 94,
+      "cpc": 0.37,
+      "isQuestion": false
+    },
+    {
+      "keyword": "fence post caps travis perkins",
+      "volume": 10,
+      "competition": 98,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "durapost travis perkins",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.02,
+      "isQuestion": false
+    },
+    {
+      "keyword": "travis perkins fencing materials",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "travis perkins wooden fence posts",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.01,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "travis perkins fencing",
     "travis perkins trellis",
     "travis perkins trellis panels",
+    "concrete base panels travis perkins",
+    "travis perkins fence post caps",
     "travis perkins durapost",
+    "wooden fence posts travis perkins",
     "fence post caps travis perkins",
     "durapost travis perkins",
-    "concrete base panels travis perkins",
     "travis perkins fencing materials",
-    "wooden fence posts travis perkins",
-    "travis perkins wooden fence posts",
-    "travis perkins fence post caps"
+    "travis perkins wooden fence posts"
   ],
   "paaQuestions": [],
   "suggestedSections": [

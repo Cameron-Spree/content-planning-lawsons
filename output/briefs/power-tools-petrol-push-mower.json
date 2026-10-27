@@ -1,22 +1,193 @@
 {
   "id": "power-tools-petrol-push-mower",
   "pillar": "Power Tools",
-  "weekNumber": 7,
-  "scheduledMonth": "Feb",
-  "scheduledDate": "2026-02-W7",
+  "weekNumber": 22,
+  "scheduledMonth": "Jun",
+  "scheduledDate": "2026-06-W22",
   "status": "Backlog",
-  "priorityScore": 79.3,
+  "contentTitle": "Ultimate Petrol Push Mower Guide: Features, Battery Systems & Maintenance (2026)",
   "targetKeyword": "petrol push mower",
-  "recommendedTitle": "Ultimate Petrol Push Mower Guide: Features, Choosing & Maintenance",
   "intent": "Informational / Guide",
   "audience": "DIY & Professionals",
-  "metrics": {
-    "primaryVolume": 12100,
-    "totalClusterVolume": 84850,
+  "seoMetrics": {
+    "searchVolume": 12100,
+    "totalClusterVolume": 82970,
     "cpc": 0.52,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 75.1,
     "peakSearchMonth": "Apr"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "petrol motor mower",
+      "volume": 12100,
+      "competition": 100,
+      "cpc": 0.52,
+      "isQuestion": false
+    },
+    {
+      "keyword": "push mower petrol",
+      "volume": 12100,
+      "competition": 100,
+      "cpc": 0.52,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mountfield push mower",
+      "volume": 9900,
+      "competition": 100,
+      "cpc": 0.46,
+      "isQuestion": false
+    },
+    {
+      "keyword": "petrol mower",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.39,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery powered push mower",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.44,
+      "isQuestion": false
+    },
+    {
+      "keyword": "petrol mower self propelled",
+      "volume": 3600,
+      "competition": 100,
+      "cpc": 0.61,
+      "isQuestion": false
+    },
+    {
+      "keyword": "petrol mower servicing near me",
+      "volume": 140,
+      "competition": 12,
+      "cpc": 0.78,
+      "isQuestion": false
+    },
+    {
+      "keyword": "petrol mower servicing",
+      "volume": 140,
+      "competition": 15,
+      "cpc": 0.69,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mountfield petrol mower",
+      "volume": 2900,
+      "competition": 100,
+      "cpc": 0.38,
+      "isQuestion": false
+    },
+    {
+      "keyword": "best petrol mower",
+      "volume": 1600,
+      "competition": 100,
+      "cpc": 0.54,
+      "isQuestion": false
+    },
+    {
+      "keyword": "hyundai petrol mower",
+      "volume": 1300,
+      "competition": 100,
+      "cpc": 0.93,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cheap petrol mower",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.3,
+      "isQuestion": false
+    },
+    {
+      "keyword": "self propelled battery push mower",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.38,
+      "isQuestion": false
+    },
+    {
+      "keyword": "electric start petrol mower",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.51,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl petrol mower",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.43,
+      "isQuestion": false
+    },
+    {
+      "keyword": "qualcast mower petrol",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.13,
+      "isQuestion": false
+    },
+    {
+      "keyword": "rechargeable push mower",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.39,
+      "isQuestion": false
+    },
+    {
+      "keyword": "petrol mower with roller",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 0.52,
+      "isQuestion": false
+    },
+    {
+      "keyword": "honda petrol mower",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 0.42,
+      "isQuestion": false
+    },
+    {
+      "keyword": "webb petrol mower",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 0.34,
+      "isQuestion": false
+    },
+    {
+      "keyword": "petrol cylinder mower",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 0.22,
+      "isQuestion": false
+    },
+    {
+      "keyword": "petrol rotary mower with roller",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 0.52,
+      "isQuestion": false
+    },
+    {
+      "keyword": "aldi petrol mower",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 0.14,
+      "isQuestion": false
+    },
+    {
+      "keyword": "lidl petrol mower",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 0.29,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "petrol motor mower",
     "push mower petrol",
@@ -24,14 +195,24 @@
     "petrol mower",
     "battery powered push mower",
     "petrol mower self propelled",
-    "best battery push mower",
+    "petrol mower servicing near me",
+    "petrol mower servicing",
     "mountfield petrol mower",
     "best petrol mower",
     "hyundai petrol mower",
     "cheap petrol mower",
     "self propelled battery push mower",
     "electric start petrol mower",
-    "stihl petrol mower"
+    "stihl petrol mower",
+    "qualcast mower petrol",
+    "rechargeable push mower",
+    "petrol mower with roller",
+    "honda petrol mower",
+    "webb petrol mower",
+    "petrol cylinder mower",
+    "petrol rotary mower with roller",
+    "aldi petrol mower",
+    "lidl petrol mower"
   ],
   "paaQuestions": [],
   "suggestedSections": [

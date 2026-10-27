@@ -1,0 +1,42 @@
+{
+  "id": "building-materials-discount-lumber-online",
+  "pillar": "Building Materials",
+  "weekNumber": 52,
+  "scheduledMonth": "Dec",
+  "scheduledDate": "2026-12-W52",
+  "status": "Backlog",
+  "contentTitle": "Discount Lumber Online: Trade Specifications, Sizing & Underground Installation",
+  "targetKeyword": "discount lumber online",
+  "intent": "Transactional / Product Focus",
+  "audience": "Trade & DIY",
+  "seoMetrics": {
+    "searchVolume": 0,
+    "totalClusterVolume": 10,
+    "cpc": 0,
+    "difficulty": 0,
+    "difficultyLevel": "Easy to Rank",
+    "rankabilityScore": 63,
+    "peakSearchMonth": "Sep"
+  },
+  "groupedKeywords": [
+    {
+      "keyword": "cheapest lumber online",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.09,
+      "isQuestion": false
+    }
+  ],
+  "secondaryKeywords": [
+    "cheapest lumber online"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is discount lumber online? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

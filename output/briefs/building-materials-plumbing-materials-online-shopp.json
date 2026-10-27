@@ -1,0 +1,42 @@
+{
+  "id": "building-materials-plumbing-materials-online-shopp",
+  "pillar": "Building Materials",
+  "weekNumber": 48,
+  "scheduledMonth": "Dec",
+  "scheduledDate": "2026-12-W48",
+  "status": "Backlog",
+  "contentTitle": "Plumbing Materials Online Shopping: Trade Specifications, Sizing & Underground Installation",
+  "targetKeyword": "plumbing materials online shopping",
+  "intent": "Transactional / Product Focus",
+  "audience": "Trade & DIY",
+  "seoMetrics": {
+    "searchVolume": 10,
+    "totalClusterVolume": 20,
+    "cpc": 0,
+    "difficulty": 0,
+    "difficultyLevel": "Easy to Rank",
+    "rankabilityScore": 63,
+    "peakSearchMonth": "Sep"
+  },
+  "groupedKeywords": [
+    {
+      "keyword": "online plumbing materials",
+      "volume": 10,
+      "competition": 86,
+      "cpc": 0,
+      "isQuestion": false
+    }
+  ],
+  "secondaryKeywords": [
+    "online plumbing materials"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is plumbing materials online shopping? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

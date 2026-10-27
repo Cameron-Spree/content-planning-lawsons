@@ -1,22 +1,193 @@
 {
   "id": "fencing-garden-trellis-panels",
   "pillar": "Fencing",
-  "weekNumber": 35,
+  "weekNumber": 39,
   "scheduledMonth": "Sep",
-  "scheduledDate": "2026-09-W35",
+  "scheduledDate": "2026-09-W39",
   "status": "Backlog",
-  "priorityScore": 74.2,
+  "contentTitle": "The Complete Guide to Garden Trellis Panels: Types, Board Calculations & Installation",
   "targetKeyword": "garden trellis panels",
-  "recommendedTitle": "The Complete Guide to Garden Trellis Panels: Types, Costs & Installation",
   "intent": "Informational / Guide",
   "audience": "Domestic & DIY",
-  "metrics": {
-    "primaryVolume": 3600,
-    "totalClusterVolume": 41610,
+  "seoMetrics": {
+    "searchVolume": 3600,
+    "totalClusterVolume": 42160,
     "cpc": 0.38,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 65.2,
     "peakSearchMonth": "Apr"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "trellis panels garden",
+      "volume": 3600,
+      "competition": 100,
+      "cpc": 0.38,
+      "isQuestion": false
+    },
+    {
+      "keyword": "garden panels",
+      "volume": 2400,
+      "competition": 100,
+      "cpc": 0.87,
+      "isQuestion": false
+    },
+    {
+      "keyword": "trellis panels b&q",
+      "volume": 1900,
+      "competition": 100,
+      "cpc": 0.14,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bq trellis panels",
+      "volume": 1900,
+      "competition": 100,
+      "cpc": 0.14,
+      "isQuestion": false
+    },
+    {
+      "keyword": "b and q trellis panels",
+      "volume": 1900,
+      "competition": 100,
+      "cpc": 0.14,
+      "isQuestion": false
+    },
+    {
+      "keyword": "wooden trellis panels",
+      "volume": 1600,
+      "competition": 100,
+      "cpc": 0.35,
+      "isQuestion": false
+    },
+    {
+      "keyword": "garden wall panels",
+      "volume": 1600,
+      "competition": 100,
+      "cpc": 0.83,
+      "isQuestion": false
+    },
+    {
+      "keyword": "trellis panels wood",
+      "volume": 1600,
+      "competition": 100,
+      "cpc": 0.35,
+      "isQuestion": false
+    },
+    {
+      "keyword": "slatted garden trellis",
+      "volume": 1300,
+      "competition": 100,
+      "cpc": 0.76,
+      "isQuestion": false
+    },
+    {
+      "keyword": "metal trellis panels",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.43,
+      "isQuestion": false
+    },
+    {
+      "keyword": "decorative garden panels",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.66,
+      "isQuestion": false
+    },
+    {
+      "keyword": "decorative garden trellis panels",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.39,
+      "isQuestion": false
+    },
+    {
+      "keyword": "wickes trellis panels",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.14,
+      "isQuestion": false
+    },
+    {
+      "keyword": "garden wood panels",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.45,
+      "isQuestion": false
+    },
+    {
+      "keyword": "trellis panels b&m",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.17,
+      "isQuestion": false
+    },
+    {
+      "keyword": "b and m trellis panels",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.17,
+      "isQuestion": false
+    },
+    {
+      "keyword": "b&m trellis panels",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.17,
+      "isQuestion": false
+    },
+    {
+      "keyword": "slatted trellis panels",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 0.52,
+      "isQuestion": false
+    },
+    {
+      "keyword": "diamond trellis panels",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 0.54,
+      "isQuestion": false
+    },
+    {
+      "keyword": "6ft trellis panels",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 0.31,
+      "isQuestion": false
+    },
+    {
+      "keyword": "trellis panels near me",
+      "volume": 320,
+      "competition": 87,
+      "cpc": 0.34,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cheap trellis panels",
+      "volume": 480,
+      "competition": 99,
+      "cpc": 0.23,
+      "isQuestion": false
+    },
+    {
+      "keyword": "composite trellis panels",
+      "volume": 480,
+      "competition": 100,
+      "cpc": 1.12,
+      "isQuestion": false
+    },
+    {
+      "keyword": "decorative trellis panels",
+      "volume": 480,
+      "competition": 100,
+      "cpc": 0.43,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "trellis panels garden",
     "garden panels",
@@ -31,7 +202,17 @@
     "decorative garden panels",
     "decorative garden trellis panels",
     "wickes trellis panels",
-    "garden wood panels"
+    "garden wood panels",
+    "trellis panels b&m",
+    "b and m trellis panels",
+    "b&m trellis panels",
+    "slatted trellis panels",
+    "diamond trellis panels",
+    "6ft trellis panels",
+    "trellis panels near me",
+    "cheap trellis panels",
+    "composite trellis panels",
+    "decorative trellis panels"
   ],
   "paaQuestions": [],
   "suggestedSections": [

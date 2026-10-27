@@ -5,18 +5,189 @@
   "scheduledMonth": "Jun",
   "scheduledDate": "2026-06-W23",
   "status": "Backlog",
-  "priorityScore": 67.1,
+  "contentTitle": "Ultimate Lawnmowers Screwfix Guide: Features, Battery Systems & Maintenance (2026)",
   "targetKeyword": "lawnmowers screwfix",
-  "recommendedTitle": "Ultimate Lawnmowers Screwfix Guide: Features, Choosing & Maintenance",
   "intent": "Informational / Guide",
   "audience": "DIY & Professionals",
-  "metrics": {
-    "primaryVolume": 4400,
-    "totalClusterVolume": 13240,
+  "seoMetrics": {
+    "searchVolume": 4400,
+    "totalClusterVolume": 13320,
     "cpc": 0.26,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 66.4,
     "peakSearchMonth": "Apr"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "worx lawnmowers",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.67,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cordless lawnmowers",
+      "volume": 1600,
+      "competition": 100,
+      "cpc": 0.38,
+      "isQuestion": false
+    },
+    {
+      "keyword": "hyundai lawnmowers",
+      "volume": 1300,
+      "competition": 100,
+      "cpc": 0.84,
+      "isQuestion": false
+    },
+    {
+      "keyword": "hand lawnmowers",
+      "volume": 480,
+      "competition": 100,
+      "cpc": 0.17,
+      "isQuestion": false
+    },
+    {
+      "keyword": "westwood lawnmowers",
+      "volume": 390,
+      "competition": 100,
+      "cpc": 0.11,
+      "isQuestion": false
+    },
+    {
+      "keyword": "castlegarden lawnmowers",
+      "volume": 110,
+      "competition": 95,
+      "cpc": 0.15,
+      "isQuestion": false
+    },
+    {
+      "keyword": "screwfix lawnmowers cordless",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 0.28,
+      "isQuestion": false
+    },
+    {
+      "keyword": "rechargeable lawnmowers",
+      "volume": 20,
+      "competition": 91,
+      "cpc": 0.64,
+      "isQuestion": false
+    },
+    {
+      "keyword": "screwfix petrol lawnmowers self propelled",
+      "volume": 20,
+      "competition": 100,
+      "cpc": 0.07,
+      "isQuestion": false
+    },
+    {
+      "keyword": "petrol lawnmowers at screwfix",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.08,
+      "isQuestion": false
+    },
+    {
+      "keyword": "screwfix splitting maul",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 0.09,
+      "isQuestion": false
+    },
+    {
+      "keyword": "best rechargeable lawnmowers",
+      "volume": 110,
+      "competition": 100,
+      "cpc": 0.61,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bryan hynds lawnmowers",
+      "volume": 20,
+      "competition": 66,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mountfield sp42 screwfix",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "screwfix mountfield self propelled",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "screwfix mountfield sp53h",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "used riding lawnmowers for sale",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "used commercial lawnmowers",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "john deere riding lawnmowers",
+      "volume": 40,
+      "competition": 100,
+      "cpc": 0.34,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mountfield lawnmowers sp53h",
+      "volume": 40,
+      "competition": 100,
+      "cpc": 0.15,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mountfield sp41 screwfix",
+      "volume": 30,
+      "competition": 100,
+      "cpc": 0.58,
+      "isQuestion": false
+    },
+    {
+      "keyword": "splitting maul screwfix",
+      "volume": 20,
+      "competition": 91,
+      "cpc": 0.13,
+      "isQuestion": false
+    },
+    {
+      "keyword": "screwfix mountfield sp185",
+      "volume": 10,
+      "competition": 92,
+      "cpc": 0.26,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mountfield sp164 screwfix",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "worx lawnmowers",
     "cordless lawnmowers",
@@ -24,14 +195,24 @@
     "hand lawnmowers",
     "westwood lawnmowers",
     "castlegarden lawnmowers",
-    "best rechargeable lawnmowers",
     "screwfix lawnmowers cordless",
-    "screwfix petrol lawnmowers self propelled",
     "rechargeable lawnmowers",
+    "screwfix petrol lawnmowers self propelled",
     "petrol lawnmowers at screwfix",
     "screwfix splitting maul",
+    "best rechargeable lawnmowers",
+    "bryan hynds lawnmowers",
+    "mountfield sp42 screwfix",
+    "screwfix mountfield self propelled",
+    "screwfix mountfield sp53h",
+    "used riding lawnmowers for sale",
+    "used commercial lawnmowers",
+    "john deere riding lawnmowers",
     "mountfield lawnmowers sp53h",
-    "mountfield sp41 screwfix"
+    "mountfield sp41 screwfix",
+    "splitting maul screwfix",
+    "screwfix mountfield sp185",
+    "mountfield sp164 screwfix"
   ],
   "paaQuestions": [],
   "suggestedSections": [

@@ -1,37 +1,218 @@
 {
   "id": "power-tools-automated-lawnmower",
   "pillar": "Power Tools",
-  "weekNumber": 20,
-  "scheduledMonth": "May",
-  "scheduledDate": "2026-05-W20",
+  "weekNumber": 7,
+  "scheduledMonth": "Feb",
+  "scheduledDate": "2026-02-W7",
   "status": "Backlog",
-  "priorityScore": 78,
+  "contentTitle": "Ultimate Automated Lawnmower Guide: Features, Battery Systems & Maintenance (2026)",
   "targetKeyword": "automated lawnmower",
-  "recommendedTitle": "Ultimate Automated Lawnmower Guide: Features, Choosing & Maintenance",
   "intent": "Informational / Guide",
   "audience": "DIY & Professionals",
-  "metrics": {
-    "primaryVolume": 33100,
-    "totalClusterVolume": 68740,
+  "seoMetrics": {
+    "searchVolume": 33100,
+    "totalClusterVolume": 66790,
     "cpc": 0.5,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 82.9,
     "peakSearchMonth": "Apr"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "robotic lawnmower",
+      "volume": 9900,
+      "competition": 100,
+      "cpc": 0.57,
+      "isQuestion": false
+    },
+    {
+      "keyword": "lawnmower ride on",
+      "volume": 8100,
+      "competition": 100,
+      "cpc": 0.4,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cordless lawnmower",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.42,
+      "isQuestion": false
+    },
+    {
+      "keyword": "gtech lawnmower",
+      "volume": 3600,
+      "competition": 100,
+      "cpc": 0.44,
+      "isQuestion": false
+    },
+    {
+      "keyword": "g tech lawnmower",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.34,
+      "isQuestion": false
+    },
+    {
+      "keyword": "makita lawnmower",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.63,
+      "isQuestion": false
+    },
+    {
+      "keyword": "karcher lawnmower",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 0.38,
+      "isQuestion": false
+    },
+    {
+      "keyword": "lawnmower battery",
+      "volume": 390,
+      "competition": 100,
+      "cpc": 0.55,
+      "isQuestion": false
+    },
+    {
+      "keyword": "lawnmower robot",
+      "volume": 390,
+      "competition": 100,
+      "cpc": 0.49,
+      "isQuestion": false
+    },
+    {
+      "keyword": "segway lawnmower",
+      "volume": 320,
+      "competition": 100,
+      "cpc": 0.99,
+      "isQuestion": false
+    },
+    {
+      "keyword": "automatic lawnmower",
+      "volume": 210,
+      "competition": 100,
+      "cpc": 0.5,
+      "isQuestion": false
+    },
+    {
+      "keyword": "hyundai p1 lawnmower",
+      "volume": 50,
+      "competition": 78,
+      "cpc": 0.35,
+      "isQuestion": false
+    },
+    {
+      "keyword": "lightweight lawnmower",
+      "volume": 110,
+      "competition": 100,
+      "cpc": 0.37,
+      "isQuestion": false
+    },
+    {
+      "keyword": "aerotek lawnmower",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 0.16,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cheap riding lawnmower",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "springkaan lawnmower",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "terra lawnmower",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "rechargeable lawnmower",
+      "volume": 50,
+      "competition": 100,
+      "cpc": 0.44,
+      "isQuestion": false
+    },
+    {
+      "keyword": "46cm lawnmower",
+      "volume": 40,
+      "competition": 100,
+      "cpc": 0.46,
+      "isQuestion": false
+    },
+    {
+      "keyword": "luba lawnmower",
+      "volume": 20,
+      "competition": 83,
+      "cpc": 2.35,
+      "isQuestion": false
+    },
+    {
+      "keyword": "lawnmower riding",
+      "volume": 10,
+      "competition": 67,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "riding lawnmower",
+      "volume": 30,
+      "competition": 100,
+      "cpc": 0.32,
+      "isQuestion": false
+    },
+    {
+      "keyword": "lawnmower automatic",
+      "volume": 30,
+      "competition": 100,
+      "cpc": 0.35,
+      "isQuestion": false
+    },
+    {
+      "keyword": "awd lawnmower",
+      "volume": 30,
+      "competition": 100,
+      "cpc": 0.58,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "robotic lawnmower",
     "lawnmower ride on",
     "cordless lawnmower",
     "gtech lawnmower",
-    "cordless lawnmower best",
     "g tech lawnmower",
-    "best cordless lawnmower",
     "makita lawnmower",
     "karcher lawnmower",
-    "lawnmower cordless",
     "lawnmower battery",
     "lawnmower robot",
     "segway lawnmower",
-    "best robot lawnmower"
+    "automatic lawnmower",
+    "hyundai p1 lawnmower",
+    "lightweight lawnmower",
+    "aerotek lawnmower",
+    "cheap riding lawnmower",
+    "springkaan lawnmower",
+    "terra lawnmower",
+    "rechargeable lawnmower",
+    "46cm lawnmower",
+    "luba lawnmower",
+    "lawnmower riding",
+    "riding lawnmower",
+    "lawnmower automatic",
+    "awd lawnmower"
   ],
   "paaQuestions": [],
   "suggestedSections": [

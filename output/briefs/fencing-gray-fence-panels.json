@@ -1,22 +1,24 @@
 {
   "id": "fencing-gray-fence-panels",
   "pillar": "Fencing",
-  "weekNumber": 19,
+  "weekNumber": 21,
   "scheduledMonth": "May",
-  "scheduledDate": "2026-05-W19",
+  "scheduledDate": "2026-05-W21",
   "status": "Backlog",
-  "priorityScore": 56.7,
+  "contentTitle": "The Complete Guide to Gray Fence Panels: Types, Board Calculations & Installation",
   "targetKeyword": "gray fence panels",
-  "recommendedTitle": "The Complete Guide to Gray Fence Panels: Types, Costs & Installation",
   "intent": "Informational / Guide",
   "audience": "Domestic & DIY",
-  "metrics": {
-    "primaryVolume": 720,
+  "seoMetrics": {
+    "searchVolume": 720,
     "totalClusterVolume": 720,
     "cpc": 0.74,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 53.7,
     "peakSearchMonth": "Mar"
   },
+  "groupedKeywords": [],
   "secondaryKeywords": [],
   "paaQuestions": [],
   "suggestedSections": [

@@ -5,29 +5,108 @@
   "scheduledMonth": "Apr",
   "scheduledDate": "2026-04-W14",
   "status": "Backlog",
-  "priorityScore": 65.2,
+  "contentTitle": "Ultimate Milwaukee Jobsite Fan Guide: Features, Battery Systems & Maintenance (2026)",
   "targetKeyword": "milwaukee jobsite fan",
-  "recommendedTitle": "Ultimate Milwaukee Jobsite Fan Guide: Features, Choosing & Maintenance",
   "intent": "Informational / Guide",
   "audience": "Trade & Contractors",
-  "metrics": {
-    "primaryVolume": 2900,
+  "seoMetrics": {
+    "searchVolume": 2900,
     "totalClusterVolume": 7130,
     "cpc": 0.4,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 63.5,
     "peakSearchMonth": "Jun"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "jobsite fan",
+      "volume": 2900,
+      "competition": 100,
+      "cpc": 0.4,
+      "isQuestion": false
+    },
+    {
+      "keyword": "milwaukee fan m18",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.47,
+      "isQuestion": false
+    },
+    {
+      "keyword": "milwaukee 18v fan",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 0.16,
+      "isQuestion": false
+    },
+    {
+      "keyword": "milwaukee battery fan",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 0.55,
+      "isQuestion": false
+    },
+    {
+      "keyword": "milwaukee m18 fan with battery",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "milwaukee battery powered fan",
+      "volume": 20,
+      "competition": 88,
+      "cpc": 0.38,
+      "isQuestion": false
+    },
+    {
+      "keyword": "milwaukee cordless fan",
+      "volume": 30,
+      "competition": 100,
+      "cpc": 0.14,
+      "isQuestion": false
+    },
+    {
+      "keyword": "dewalt jobsite fan",
+      "volume": 30,
+      "competition": 100,
+      "cpc": 1.15,
+      "isQuestion": false
+    },
+    {
+      "keyword": "milwaukee rechargeable fan",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "greenworks 40v fan",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "worx 20v fan",
+      "volume": 10,
+      "competition": 71,
+      "cpc": 0,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "jobsite fan",
     "milwaukee fan m18",
     "milwaukee 18v fan",
     "milwaukee battery fan",
+    "milwaukee m18 fan with battery",
+    "milwaukee battery powered fan",
     "milwaukee cordless fan",
     "dewalt jobsite fan",
-    "milwaukee battery powered fan",
-    "milwaukee m18 fan with battery",
     "milwaukee rechargeable fan",
-    "best cordless jobsite fan",
     "greenworks 40v fan",
     "worx 20v fan"
   ],

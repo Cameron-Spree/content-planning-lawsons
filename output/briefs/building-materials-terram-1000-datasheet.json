@@ -1,0 +1,130 @@
+{
+  "id": "building-materials-terram-1000-datasheet",
+  "pillar": "Building Materials",
+  "weekNumber": 4,
+  "scheduledMonth": "Jan",
+  "scheduledDate": "2026-01-W4",
+  "status": "Briefing",
+  "contentTitle": "Terram 1000 Datasheet: Trade Specifications, Sizing & Underground Installation",
+  "targetKeyword": "terram 1000 datasheet",
+  "intent": "Informational / Guide",
+  "audience": "Trade & DIY",
+  "seoMetrics": {
+    "searchVolume": 50,
+    "totalClusterVolume": 1250,
+    "cpc": 1.41,
+    "difficulty": 6,
+    "difficultyLevel": "Easy to Rank",
+    "rankabilityScore": 77.1,
+    "peakSearchMonth": "Sep"
+  },
+  "groupedKeywords": [
+    {
+      "keyword": "terram 1000",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 1.41,
+      "isQuestion": false
+    },
+    {
+      "keyword": "terram 1000 geotextile",
+      "volume": 320,
+      "competition": 100,
+      "cpc": 1.46,
+      "isQuestion": false
+    },
+    {
+      "keyword": "terram 1000 mini pack",
+      "volume": 30,
+      "competition": 100,
+      "cpc": 0.79,
+      "isQuestion": false
+    },
+    {
+      "keyword": "terram 1000 price",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.33,
+      "isQuestion": false
+    },
+    {
+      "keyword": "terram 1000 equivalent",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "terram 1000 non woven geotextile",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 2.29,
+      "isQuestion": false
+    },
+    {
+      "keyword": "1000 gauge terram",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.32,
+      "isQuestion": false
+    },
+    {
+      "keyword": "terram 1000 membrane",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.59,
+      "isQuestion": false
+    },
+    {
+      "keyword": "terram 1000 near me",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.91,
+      "isQuestion": false
+    },
+    {
+      "keyword": "terram 1000 roll size",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.08,
+      "isQuestion": false
+    },
+    {
+      "keyword": "terram ground cover",
+      "volume": 30,
+      "competition": 100,
+      "cpc": 0.8,
+      "isQuestion": false
+    },
+    {
+      "keyword": "terram mini pack",
+      "volume": 30,
+      "competition": 100,
+      "cpc": 0.38,
+      "isQuestion": false
+    }
+  ],
+  "secondaryKeywords": [
+    "terram 1000",
+    "terram 1000 geotextile",
+    "terram 1000 mini pack",
+    "terram 1000 price",
+    "terram 1000 equivalent",
+    "terram 1000 non woven geotextile",
+    "1000 gauge terram",
+    "terram 1000 membrane",
+    "terram 1000 near me",
+    "terram 1000 roll size",
+    "terram ground cover",
+    "terram mini pack"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is terram 1000 datasheet? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

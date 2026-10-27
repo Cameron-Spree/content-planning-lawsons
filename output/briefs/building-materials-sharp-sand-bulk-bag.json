@@ -1,22 +1,193 @@
 {
   "id": "building-materials-sharp-sand-bulk-bag",
   "pillar": "Building Materials",
-  "weekNumber": 17,
-  "scheduledMonth": "Apr",
-  "scheduledDate": "2026-04-W17",
+  "weekNumber": 12,
+  "scheduledMonth": "Mar",
+  "scheduledDate": "2026-03-W12",
   "status": "Backlog",
-  "priorityScore": 78.9,
+  "contentTitle": "Sharp Sand Bulk Bag: Trade Specifications, Sizing & Underground Installation",
   "targetKeyword": "sharp sand bulk bag",
-  "recommendedTitle": "Sharp Sand Bulk Bag: Trade Specifications, Types & Uses Explained",
   "intent": "Transactional / Product Focus",
   "audience": "Trade & Contractors",
-  "metrics": {
-    "primaryVolume": 5400,
-    "totalClusterVolume": 22340,
+  "seoMetrics": {
+    "searchVolume": 5400,
+    "totalClusterVolume": 22350,
     "cpc": 1.17,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 70.7,
     "peakSearchMonth": "Sep"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "ballast bulk bag",
+      "volume": 2400,
+      "competition": 100,
+      "cpc": 1.04,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bulk bag sand",
+      "volume": 1300,
+      "competition": 100,
+      "cpc": 0.85,
+      "isQuestion": false
+    },
+    {
+      "keyword": "ton bag of sand",
+      "volume": 1300,
+      "competition": 100,
+      "cpc": 0.52,
+      "isQuestion": false
+    },
+    {
+      "keyword": "sharp sand bags",
+      "volume": 1300,
+      "competition": 100,
+      "cpc": 0.28,
+      "isQuestion": false
+    },
+    {
+      "keyword": "building sand bulk bag",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.79,
+      "isQuestion": false
+    },
+    {
+      "keyword": "sharp sand ton bag",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.91,
+      "isQuestion": false
+    },
+    {
+      "keyword": "sharp sand 1 tonne",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.9,
+      "isQuestion": false
+    },
+    {
+      "keyword": "ton bag of sharp sand",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.91,
+      "isQuestion": false
+    },
+    {
+      "keyword": "type 1 bulk bag",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 1.25,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bulk bag of type 1",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 1.25,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bulk sharp sand",
+      "volume": 390,
+      "competition": 100,
+      "cpc": 1.38,
+      "isQuestion": false
+    },
+    {
+      "keyword": "sharp sand bulk bag near me",
+      "volume": 390,
+      "competition": 100,
+      "cpc": 0.86,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mot1 bulk bag",
+      "volume": 390,
+      "competition": 100,
+      "cpc": 0.98,
+      "isQuestion": false
+    },
+    {
+      "keyword": "sharp sand tonne",
+      "volume": 390,
+      "competition": 100,
+      "cpc": 0.79,
+      "isQuestion": false
+    },
+    {
+      "keyword": "sharp sand jumbo bag",
+      "volume": 320,
+      "competition": 100,
+      "cpc": 1.05,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mot bulk bag",
+      "volume": 320,
+      "competition": 100,
+      "cpc": 1.06,
+      "isQuestion": false
+    },
+    {
+      "keyword": "grit sand bulk bag",
+      "volume": 320,
+      "competition": 100,
+      "cpc": 0.83,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bulk bag grit sand",
+      "volume": 320,
+      "competition": 100,
+      "cpc": 0.83,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bulk bag of grit sand",
+      "volume": 320,
+      "competition": 100,
+      "cpc": 0.83,
+      "isQuestion": false
+    },
+    {
+      "keyword": "1 ton bag of sand",
+      "volume": 260,
+      "competition": 100,
+      "cpc": 0.49,
+      "isQuestion": false
+    },
+    {
+      "keyword": "jumbo bag sand",
+      "volume": 210,
+      "competition": 100,
+      "cpc": 0.69,
+      "isQuestion": false
+    },
+    {
+      "keyword": "sharp sand delivery",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 1.93,
+      "isQuestion": false
+    },
+    {
+      "keyword": "wickes sharp sand bulk bag",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 0.26,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bulk bag sharp sand wickes",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 0.26,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "ballast bulk bag",
     "bulk bag sand",
@@ -31,7 +202,17 @@
     "bulk sharp sand",
     "sharp sand bulk bag near me",
     "mot1 bulk bag",
-    "sharp sand tonne"
+    "sharp sand tonne",
+    "sharp sand jumbo bag",
+    "mot bulk bag",
+    "grit sand bulk bag",
+    "bulk bag grit sand",
+    "bulk bag of grit sand",
+    "1 ton bag of sand",
+    "jumbo bag sand",
+    "sharp sand delivery",
+    "wickes sharp sand bulk bag",
+    "bulk bag sharp sand wickes"
   ],
   "paaQuestions": [],
   "suggestedSections": [

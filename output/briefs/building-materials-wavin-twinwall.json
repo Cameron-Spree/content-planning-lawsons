@@ -1,0 +1,82 @@
+{
+  "id": "building-materials-wavin-twinwall",
+  "pillar": "Building Materials",
+  "weekNumber": 26,
+  "scheduledMonth": "Jun",
+  "scheduledDate": "2026-06-W26",
+  "status": "Backlog",
+  "contentTitle": "Wavin Twinwall: Trade Specifications, Sizing & Underground Installation",
+  "targetKeyword": "wavin twinwall",
+  "intent": "Informational / Guide",
+  "audience": "Trade & Contractors",
+  "seoMetrics": {
+    "searchVolume": 20,
+    "totalClusterVolume": 770,
+    "cpc": 0,
+    "difficulty": 8,
+    "difficultyLevel": "Easy to Rank",
+    "rankabilityScore": 64.8,
+    "peakSearchMonth": "Sep"
+  },
+  "groupedKeywords": [
+    {
+      "keyword": "twinwall pipes",
+      "volume": 390,
+      "competition": 100,
+      "cpc": 0.79,
+      "isQuestion": false
+    },
+    {
+      "keyword": "twinwall pipe",
+      "volume": 320,
+      "competition": 100,
+      "cpc": 1.16,
+      "isQuestion": false
+    },
+    {
+      "keyword": "osma twinwall",
+      "volume": 10,
+      "competition": 33,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "ridgidrain twinwall",
+      "volume": 10,
+      "competition": 64,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "naylor twinwall",
+      "volume": 10,
+      "competition": 66,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "twinwall piping",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0,
+      "isQuestion": false
+    }
+  ],
+  "secondaryKeywords": [
+    "twinwall pipes",
+    "twinwall pipe",
+    "osma twinwall",
+    "ridgidrain twinwall",
+    "naylor twinwall",
+    "twinwall piping"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is wavin twinwall? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

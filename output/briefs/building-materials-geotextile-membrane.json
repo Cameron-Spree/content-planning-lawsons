@@ -1,37 +1,218 @@
 {
   "id": "building-materials-geotextile-membrane",
   "pillar": "Building Materials",
-  "weekNumber": 20,
-  "scheduledMonth": "May",
-  "scheduledDate": "2026-05-W20",
+  "weekNumber": 15,
+  "scheduledMonth": "Apr",
+  "scheduledDate": "2026-04-W15",
   "status": "Backlog",
-  "priorityScore": 76.5,
+  "contentTitle": "Geotextile Membrane: Trade Specifications, Sizing & Underground Installation",
   "targetKeyword": "geotextile membrane",
-  "recommendedTitle": "Geotextile Membrane: Trade Specifications, Types & Uses Explained",
   "intent": "Informational / Guide",
   "audience": "Trade & DIY",
-  "metrics": {
-    "primaryVolume": 5400,
-    "totalClusterVolume": 24970,
+  "seoMetrics": {
+    "searchVolume": 5400,
+    "totalClusterVolume": 25010,
     "cpc": 0.87,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 69.8,
     "peakSearchMonth": "Sep"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "geotech membrane",
+      "volume": 5400,
+      "competition": 100,
+      "cpc": 0.87,
+      "isQuestion": false
+    },
+    {
+      "keyword": "geotex membrane",
+      "volume": 5400,
+      "competition": 100,
+      "cpc": 0.87,
+      "isQuestion": false
+    },
+    {
+      "keyword": "terram membrane",
+      "volume": 2400,
+      "competition": 100,
+      "cpc": 0.82,
+      "isQuestion": false
+    },
+    {
+      "keyword": "non woven geotextile membrane",
+      "volume": 1600,
+      "competition": 100,
+      "cpc": 0.75,
+      "isQuestion": false
+    },
+    {
+      "keyword": "membrane for driveways",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.62,
+      "isQuestion": false
+    },
+    {
+      "keyword": "geotextile membrane screwfix",
+      "volume": 480,
+      "competition": 99,
+      "cpc": 0.33,
+      "isQuestion": false
+    },
+    {
+      "keyword": "geotextile weed membrane",
+      "volume": 480,
+      "competition": 100,
+      "cpc": 0.81,
+      "isQuestion": false
+    },
+    {
+      "keyword": "terram geotextile",
+      "volume": 260,
+      "competition": 100,
+      "cpc": 1.65,
+      "isQuestion": false
+    },
+    {
+      "keyword": "woven geotextile membrane",
+      "volume": 260,
+      "competition": 100,
+      "cpc": 0.66,
+      "isQuestion": false
+    },
+    {
+      "keyword": "soakaway membrane",
+      "volume": 260,
+      "competition": 100,
+      "cpc": 0.59,
+      "isQuestion": false
+    },
+    {
+      "keyword": "geotextile membrane for driveways",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 0.78,
+      "isQuestion": false
+    },
+    {
+      "keyword": "heavy duty geotextile membrane",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 0.72,
+      "isQuestion": false
+    },
+    {
+      "keyword": "terram t1000 non woven geotextile membrane",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 2.24,
+      "isQuestion": false
+    },
+    {
+      "keyword": "terram geotextile membrane",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 1.26,
+      "isQuestion": false
+    },
+    {
+      "keyword": "permeable geotextile membrane",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 0.71,
+      "isQuestion": false
+    },
+    {
+      "keyword": "drivetex membrane",
+      "volume": 90,
+      "competition": 100,
+      "cpc": 0.5,
+      "isQuestion": false
+    },
+    {
+      "keyword": "terram 1000 geotextile membrane",
+      "volume": 90,
+      "competition": 100,
+      "cpc": 1.52,
+      "isQuestion": false
+    },
+    {
+      "keyword": "geotextile membrane for soakaway",
+      "volume": 90,
+      "competition": 100,
+      "cpc": 0.78,
+      "isQuestion": false
+    },
+    {
+      "keyword": "non woven geotextile membrane screwfix",
+      "volume": 90,
+      "competition": 100,
+      "cpc": 0.31,
+      "isQuestion": false
+    },
+    {
+      "keyword": "geotextile membrane for patio",
+      "volume": 90,
+      "competition": 100,
+      "cpc": 0.92,
+      "isQuestion": false
+    },
+    {
+      "keyword": "geotextile membrane terram 1000",
+      "volume": 90,
+      "competition": 100,
+      "cpc": 1.52,
+      "isQuestion": false
+    },
+    {
+      "keyword": "geotextile membrane wickes",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 0.34,
+      "isQuestion": false
+    },
+    {
+      "keyword": "wickes geotextile membrane",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 0.34,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bidim a4 geotextile membrane",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "geotech membrane",
     "geotex membrane",
     "terram membrane",
     "non woven geotextile membrane",
     "membrane for driveways",
-    "geotextile weed membrane",
     "geotextile membrane screwfix",
+    "geotextile weed membrane",
     "terram geotextile",
     "woven geotextile membrane",
     "soakaway membrane",
     "geotextile membrane for driveways",
     "heavy duty geotextile membrane",
     "terram t1000 non woven geotextile membrane",
-    "terram geotextile membrane"
+    "terram geotextile membrane",
+    "permeable geotextile membrane",
+    "drivetex membrane",
+    "terram 1000 geotextile membrane",
+    "geotextile membrane for soakaway",
+    "non woven geotextile membrane screwfix",
+    "geotextile membrane for patio",
+    "geotextile membrane terram 1000",
+    "geotextile membrane wickes",
+    "wickes geotextile membrane",
+    "bidim a4 geotextile membrane"
   ],
   "paaQuestions": [],
   "suggestedSections": [

@@ -1,0 +1,58 @@
+{
+  "id": "building-materials-essex-groundwork-supplies-limit",
+  "pillar": "Building Materials",
+  "weekNumber": 27,
+  "scheduledMonth": "Jul",
+  "scheduledDate": "2026-07-W27",
+  "status": "Backlog",
+  "contentTitle": "Essex Groundwork Supplies Limited: Trade Specifications, Sizing & Underground Installation",
+  "targetKeyword": "essex groundwork supplies limited",
+  "intent": "Transactional / Product Focus",
+  "audience": "Trade & DIY",
+  "seoMetrics": {
+    "searchVolume": 170,
+    "totalClusterVolume": 250,
+    "cpc": 0,
+    "difficulty": 5,
+    "difficultyLevel": "Easy to Rank",
+    "rankabilityScore": 82.9,
+    "peakSearchMonth": "Sep"
+  },
+  "groupedKeywords": [
+    {
+      "keyword": "lemon groundwork supplies",
+      "volume": 50,
+      "competition": 6,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "independent groundwork supplies",
+      "volume": 20,
+      "competition": 1,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "groundwork supplies near me",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 1.8,
+      "isQuestion": false
+    }
+  ],
+  "secondaryKeywords": [
+    "lemon groundwork supplies",
+    "independent groundwork supplies",
+    "groundwork supplies near me"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is essex groundwork supplies limited? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

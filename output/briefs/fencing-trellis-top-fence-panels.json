@@ -1,37 +1,90 @@
 {
   "id": "fencing-trellis-top-fence-panels",
   "pillar": "Fencing",
-  "weekNumber": 11,
-  "scheduledMonth": "Mar",
-  "scheduledDate": "2026-03-W11",
+  "weekNumber": 46,
+  "scheduledMonth": "Nov",
+  "scheduledDate": "2026-11-W46",
   "status": "Backlog",
-  "priorityScore": 63.7,
+  "contentTitle": "Best Trellis Top Fence Panels Compared: Buying Guide & Buyer's Checklist (2026)",
   "targetKeyword": "trellis top fence panels",
-  "recommendedTitle": "Best Trellis Top Fence Panels: Buying Guide & Comparisons (2026)",
   "intent": "Commercial / Buying Guide",
   "audience": "Domestic & DIY",
-  "metrics": {
-    "primaryVolume": 1300,
-    "totalClusterVolume": 5540,
+  "seoMetrics": {
+    "searchVolume": 1300,
+    "totalClusterVolume": 1560,
     "cpc": 0.38,
-    "competition": 100,
-    "peakSearchMonth": "May"
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 57.2,
+    "peakSearchMonth": "Apr"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "arch top trellis panels",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 0.39,
+      "isQuestion": false
+    },
+    {
+      "keyword": "trellis panels on top of a wall",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 0.37,
+      "isQuestion": false
+    },
+    {
+      "keyword": "top trellis panels",
+      "volume": 50,
+      "competition": 100,
+      "cpc": 0.79,
+      "isQuestion": false
+    },
+    {
+      "keyword": "round top trellis panels",
+      "volume": 20,
+      "competition": 100,
+      "cpc": 0.18,
+      "isQuestion": false
+    },
+    {
+      "keyword": "trellis panels curved top",
+      "volume": 20,
+      "competition": 100,
+      "cpc": 0.22,
+      "isQuestion": false
+    },
+    {
+      "keyword": "dome top trellis panels",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 1.28,
+      "isQuestion": false
+    },
+    {
+      "keyword": "top of wall trellis panels",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.06,
+      "isQuestion": false
+    },
+    {
+      "keyword": "trellis panels for top of wall",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.32,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
-    "privacy trellis for top of fence",
-    "fence top privacy trellis",
-    "privacy trellis on top of fence",
-    "attaching trellis to fence",
-    "wooden fence trellis",
-    "privacy fence with trellis",
-    "privacy trellis for fence",
-    "fence extensions trellis",
-    "fence trellis privacy",
-    "privacy fence trellis",
-    "trellis for privacy fence",
-    "trellis for wooden fence",
-    "trellis wooden fence",
-    "expandable trellis fence"
+    "arch top trellis panels",
+    "trellis panels on top of a wall",
+    "top trellis panels",
+    "round top trellis panels",
+    "trellis panels curved top",
+    "dome top trellis panels",
+    "top of wall trellis panels",
+    "trellis panels for top of wall"
   ],
   "paaQuestions": [],
   "suggestedSections": [

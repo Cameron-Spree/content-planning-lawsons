@@ -1,0 +1,50 @@
+{
+  "id": "power-tools-longham-machinery",
+  "pillar": "Power Tools",
+  "weekNumber": 41,
+  "scheduledMonth": "Oct",
+  "scheduledDate": "2026-10-W41",
+  "status": "Backlog",
+  "contentTitle": "Ultimate Longham Machinery Guide: Features, Battery Systems & Maintenance (2026)",
+  "targetKeyword": "longham machinery",
+  "intent": "Informational / Guide",
+  "audience": "DIY & Professionals",
+  "seoMetrics": {
+    "searchVolume": 590,
+    "totalClusterVolume": 920,
+    "cpc": 3.58,
+    "difficulty": 23,
+    "difficultyLevel": "Easy to Rank",
+    "rankabilityScore": 95.3,
+    "peakSearchMonth": "Sep"
+  },
+  "groupedKeywords": [
+    {
+      "keyword": "grass machinery",
+      "volume": 320,
+      "competition": 100,
+      "cpc": 0.21,
+      "isQuestion": false
+    },
+    {
+      "keyword": "groundcare machinery near me",
+      "volume": 10,
+      "competition": 7,
+      "cpc": 0,
+      "isQuestion": false
+    }
+  ],
+  "secondaryKeywords": [
+    "grass machinery",
+    "groundcare machinery near me"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is longham machinery? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

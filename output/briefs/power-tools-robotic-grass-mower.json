@@ -1,22 +1,193 @@
 {
   "id": "power-tools-robotic-grass-mower",
   "pillar": "Power Tools",
-  "weekNumber": 5,
+  "weekNumber": 6,
   "scheduledMonth": "Feb",
-  "scheduledDate": "2026-02-W5",
+  "scheduledDate": "2026-02-W6",
   "status": "Backlog",
-  "priorityScore": 84.9,
+  "contentTitle": "Robotic Grass Mower: Complete Step-by-Step UK Trade Guide",
   "targetKeyword": "robotic grass mower",
-  "recommendedTitle": "Robotic Grass Mower: Complete Step-by-Step Guide",
   "intent": "Informational / How-To",
   "audience": "DIY & Professionals",
-  "metrics": {
-    "primaryVolume": 33100,
-    "totalClusterVolume": 144900,
+  "seoMetrics": {
+    "searchVolume": 33100,
+    "totalClusterVolume": 144980,
     "cpc": 0.5,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 86.9,
     "peakSearchMonth": "Apr"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "cordless grass mower",
+      "volume": 22200,
+      "competition": 100,
+      "cpc": 0.36,
+      "isQuestion": false
+    },
+    {
+      "keyword": "grass mower cordless",
+      "volume": 22200,
+      "competition": 100,
+      "cpc": 0.36,
+      "isQuestion": false
+    },
+    {
+      "keyword": "petrol grass mower",
+      "volume": 12100,
+      "competition": 100,
+      "cpc": 0.52,
+      "isQuestion": false
+    },
+    {
+      "keyword": "grass mower petrol",
+      "volume": 12100,
+      "competition": 100,
+      "cpc": 0.52,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery grass mower",
+      "volume": 12100,
+      "competition": 100,
+      "cpc": 0.43,
+      "isQuestion": false
+    },
+    {
+      "keyword": "automower robotic mower",
+      "volume": 9900,
+      "competition": 100,
+      "cpc": 0.57,
+      "isQuestion": false
+    },
+    {
+      "keyword": "robotic mower",
+      "volume": 8100,
+      "competition": 100,
+      "cpc": 0.66,
+      "isQuestion": false
+    },
+    {
+      "keyword": "kress robotic mower",
+      "volume": 3600,
+      "competition": 100,
+      "cpc": 0.82,
+      "isQuestion": false
+    },
+    {
+      "keyword": "best electric grass mower",
+      "volume": 1600,
+      "competition": 100,
+      "cpc": 0.57,
+      "isQuestion": false
+    },
+    {
+      "keyword": "grass mower tractor",
+      "volume": 1300,
+      "competition": 100,
+      "cpc": 0.49,
+      "isQuestion": false
+    },
+    {
+      "keyword": "worx robotic lawn mower",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.81,
+      "isQuestion": false
+    },
+    {
+      "keyword": "worx landroid robotic lawn mower",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.81,
+      "isQuestion": false
+    },
+    {
+      "keyword": "worx robotic mower",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.81,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cutting wet grass with petrol mower",
+      "volume": 20,
+      "competition": 4,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "husqvarna robotic lawn mower",
+      "volume": 480,
+      "competition": 100,
+      "cpc": 0.99,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cheapest robotic lawn mower",
+      "volume": 480,
+      "competition": 100,
+      "cpc": 0.19,
+      "isQuestion": false
+    },
+    {
+      "keyword": "ambrogio robotic lawn mower",
+      "volume": 10,
+      "competition": 14,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "robotic lawn mower for large lawns",
+      "volume": 210,
+      "competition": 100,
+      "cpc": 0.93,
+      "isQuestion": false
+    },
+    {
+      "keyword": "robotic electric lawn mower",
+      "volume": 210,
+      "competition": 100,
+      "cpc": 0.48,
+      "isQuestion": false
+    },
+    {
+      "keyword": "amazon robotic lawn mower",
+      "volume": 210,
+      "competition": 100,
+      "cpc": 0.36,
+      "isQuestion": false
+    },
+    {
+      "keyword": "robotic mower services",
+      "volume": 10,
+      "competition": 18,
+      "cpc": 18.99,
+      "isQuestion": false
+    },
+    {
+      "keyword": "robomow robotic lawn mower",
+      "volume": 170,
+      "competition": 99,
+      "cpc": 0.32,
+      "isQuestion": false
+    },
+    {
+      "keyword": "commercial robotic lawn mower",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 0.86,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bosch robotic lawn mower",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 0.38,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "cordless grass mower",
     "grass mower cordless",
@@ -31,7 +202,17 @@
     "worx robotic lawn mower",
     "worx landroid robotic lawn mower",
     "worx robotic mower",
-    "husqvarna robotic lawn mower"
+    "cutting wet grass with petrol mower",
+    "husqvarna robotic lawn mower",
+    "cheapest robotic lawn mower",
+    "ambrogio robotic lawn mower",
+    "robotic lawn mower for large lawns",
+    "robotic electric lawn mower",
+    "amazon robotic lawn mower",
+    "robotic mower services",
+    "robomow robotic lawn mower",
+    "commercial robotic lawn mower",
+    "bosch robotic lawn mower"
   ],
   "paaQuestions": [
     "petrol for lawn mower where to buy",

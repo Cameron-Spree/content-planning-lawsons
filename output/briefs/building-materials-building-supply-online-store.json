@@ -1,0 +1,32 @@
+{
+  "id": "building-materials-building-supply-online-store",
+  "pillar": "Building Materials",
+  "weekNumber": 22,
+  "scheduledMonth": "Jun",
+  "scheduledDate": "2026-06-W22",
+  "status": "Backlog",
+  "contentTitle": "Building Supply Online Store: Complete Step-by-Step UK Trade Guide",
+  "targetKeyword": "building supply online store",
+  "intent": "Informational / How-To",
+  "audience": "Trade & DIY",
+  "seoMetrics": {
+    "searchVolume": 10,
+    "totalClusterVolume": 10,
+    "cpc": 0,
+    "difficulty": 0,
+    "difficultyLevel": "Easy to Rank",
+    "rankabilityScore": 63,
+    "peakSearchMonth": "Aug"
+  },
+  "groupedKeywords": [],
+  "secondaryKeywords": [],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is building supply online store? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

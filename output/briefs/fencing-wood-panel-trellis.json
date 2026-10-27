@@ -1,37 +1,218 @@
 {
   "id": "fencing-wood-panel-trellis",
   "pillar": "Fencing",
-  "weekNumber": 45,
-  "scheduledMonth": "Nov",
-  "scheduledDate": "2026-11-W45",
+  "weekNumber": 42,
+  "scheduledMonth": "Oct",
+  "scheduledDate": "2026-10-W42",
   "status": "Backlog",
-  "priorityScore": 62.1,
+  "contentTitle": "The Complete Guide to Wood Panel Trellis: Types, Board Calculations & Installation",
   "targetKeyword": "wood panel trellis",
-  "recommendedTitle": "The Complete Guide to Wood Panel Trellis: Types, Costs & Installation",
   "intent": "Informational / Guide",
   "audience": "Domestic & DIY",
-  "metrics": {
-    "primaryVolume": 1600,
-    "totalClusterVolume": 4260,
+  "seoMetrics": {
+    "searchVolume": 1600,
+    "totalClusterVolume": 4250,
     "cpc": 0.35,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 58.7,
     "peakSearchMonth": "Apr"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "metal panel trellis",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.43,
+      "isQuestion": false
+    },
+    {
+      "keyword": "expanding wood trellis",
+      "volume": 210,
+      "competition": 100,
+      "cpc": 0.16,
+      "isQuestion": false
+    },
+    {
+      "keyword": "curved trellis panel",
+      "volume": 210,
+      "competition": 100,
+      "cpc": 0.36,
+      "isQuestion": false
+    },
+    {
+      "keyword": "wall panel trellis",
+      "volume": 210,
+      "competition": 100,
+      "cpc": 0.32,
+      "isQuestion": false
+    },
+    {
+      "keyword": "fan trellis panel",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 0.27,
+      "isQuestion": false
+    },
+    {
+      "keyword": "b&q square trellis panel",
+      "volume": 10,
+      "competition": 29,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "freestanding trellis panel",
+      "volume": 90,
+      "competition": 100,
+      "cpc": 0.45,
+      "isQuestion": false
+    },
+    {
+      "keyword": "gate wood panel",
+      "volume": 90,
+      "competition": 100,
+      "cpc": 0.44,
+      "isQuestion": false
+    },
+    {
+      "keyword": "2 panel folding trellis",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "wood lattice panel trellis",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "vinyl lattice panel trellis",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stock panel trellis",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "pergola top wood lattice panel trellis",
+      "volume": 0,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "remesh panel trellis",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "lap trellis panel",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "gardman framed willow trellis panel",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "dip treated trellis panel",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "diy wood lattice trellis",
+      "volume": 0,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "contemporary slatted trellis panel",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "blooma trellis panel",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cedar wood lattice panel trellis",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "6ft wood trellis panel privacy fence",
+      "volume": 0,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "4x8 wood trellis",
+      "volume": 0,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "two panel folding trellis",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "metal panel trellis",
     "expanding wood trellis",
     "curved trellis panel",
     "wall panel trellis",
     "fan trellis panel",
+    "b&q square trellis panel",
     "freestanding trellis panel",
     "gate wood panel",
-    "curved top trellis panel",
-    "trellis panel with planter",
-    "wickes wood trellis",
-    "6ft x 3ft diamond trellis panel",
-    "cedar trellis panel",
-    "thin trellis panel",
-    "180 x 180 trellis panel"
+    "2 panel folding trellis",
+    "wood lattice panel trellis",
+    "vinyl lattice panel trellis",
+    "stock panel trellis",
+    "pergola top wood lattice panel trellis",
+    "remesh panel trellis",
+    "lap trellis panel",
+    "gardman framed willow trellis panel",
+    "dip treated trellis panel",
+    "diy wood lattice trellis",
+    "contemporary slatted trellis panel",
+    "blooma trellis panel",
+    "cedar wood lattice panel trellis",
+    "6ft wood trellis panel privacy fence",
+    "4x8 wood trellis",
+    "two panel folding trellis"
   ],
   "paaQuestions": [],
   "suggestedSections": [

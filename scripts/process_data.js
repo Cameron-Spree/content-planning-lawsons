@@ -1,6 +1,7 @@
 /**
  * Master Pipeline Runner
- * Processes ~48k raw keywords into a balanced 52-week, 3-articles/week Content Calendar.
+ * Processes ~48k raw keywords into a balanced 52-week, 3-articles/week Content Calendar,
+ * complete with editorial content titles, grouped semantic keywords, and difficulty/rankability scores.
  */
 
 const fs = require('fs');
@@ -38,12 +39,13 @@ function ensureDir(dir) {
 }
 
 function runPipeline() {
-  console.log('🚀 Starting Keyword-to-Content Calendar Pipeline...\n');
+  console.log('🚀 Starting Enhanced Keyword-to-Content Calendar Pipeline...\n');
   ensureDir(OUTPUT_DIR);
   ensureDir(BRIEFS_DIR);
   ensureDir(PUBLIC_DATA_DIR);
 
   const pillarSchedules = {};
+  const pillarCandidates = {};
 
   DATASETS.forEach(ds => {
     console.log(`📂 Ingesting ${ds.pillar}...`);
@@ -62,21 +64,22 @@ function runPipeline() {
       k.audience = classifyAudience(k.keyword, ds.pillar);
     });
 
-    console.log(`   Clustering topics for ${ds.pillar}...`);
+    console.log(`   Clustering topics & grouping semantic keywords for ${ds.pillar}...`);
     const clusters = clusterKeywords(rawKeywords, ds.pillar, 52);
-    console.log(`   Formed ${clusters.length} candidate topic clusters.`);
+    console.log(`   Formed ${clusters.length} topic clusters.`);
 
-    // Enrich clusters with intent and recommended titles
+    // Enrich clusters with intent, audience, and editorial titles
     clusters.forEach(c => {
       c.intent = classifyIntent(c.primaryKeyword, (c.paaQuestions || []).length > 0);
       c.audience = classifyAudience(c.primaryKeyword, ds.pillar);
-      c.recommendedTitle = generateTitle(c.primaryKeyword, c.intent, ds.pillar);
+      c.recommendedTitle = generateTitle(c.primaryKeyword, c.intent, ds.pillar, c.audience);
     });
 
-    // Schedule across 52 weeks
-    console.log(`   Scheduling 52-week editorial calendar for ${ds.pillar}...`);
-    const schedule = schedulePillar52Weeks(clusters, ds.pillar);
-    pillarSchedules[ds.pillar] = schedule;
+    // Schedule 52 weeks and prioritize by rankability / ease of ranking
+    console.log(`   Calculating difficulty, rankability & 52-week seasonality for ${ds.pillar}...`);
+    const { scheduled, allCandidates } = schedulePillar52Weeks(clusters, ds.pillar);
+    pillarSchedules[ds.pillar] = scheduled;
+    pillarCandidates[ds.pillar] = allCandidates;
     console.log(`   ✅ Finished scheduling 52 weeks for ${ds.pillar}.\n`);
   });
 
@@ -114,20 +117,22 @@ function runPipeline() {
       scheduledMonth: item.scheduledMonth,
       scheduledDate: item.scheduledDate,
       status: item.status || 'Briefing',
-      priorityScore: item.priorityScore,
+      contentTitle: item.recommendedTitle,
       targetKeyword: item.primaryKeyword,
-      recommendedTitle: item.recommendedTitle,
       intent: item.intent,
       audience: item.audience,
-      metrics: {
-        primaryVolume: item.primaryVolume,
+      seoMetrics: {
+        searchVolume: item.primaryVolume,
         totalClusterVolume: item.totalVolume,
         cpc: item.cpc,
-        competition: item.competition,
+        difficulty: item.difficulty,
+        difficultyLevel: item.difficultyLevel,
+        rankabilityScore: item.rankabilityScore,
         peakSearchMonth: item.peakMonth
       },
-      secondaryKeywords: item.secondaryKeywords,
-      paaQuestions: item.paaQuestions,
+      groupedKeywords: item.groupedKeywords || [],
+      secondaryKeywords: item.secondaryKeywords || [],
+      paaQuestions: item.paaQuestions || [],
       suggestedSections: [
         'Zero-Click Fast Answer / Key Takeaways',
         `What is ${item.primaryKeyword}? Overview & Specifications`,
@@ -145,9 +150,8 @@ function runPipeline() {
     );
   });
 
-  // Write Master JSON & CSV
-  const masterJsonPath = path.join(OUTPUT_DIR, 'content_calendar_master.json');
-  fs.writeFileSync(masterJsonPath, JSON.stringify({
+  // Export calendar JSON (including allCandidates for the monthly Tinder / Decision deck)
+  const fullPayload = {
     metadata: {
       generatedAt: new Date().toISOString(),
       cadence: '3 articles per week (1 Fencing, 1 Power Tools, 1 Building Materials)',
@@ -156,17 +160,17 @@ function runPipeline() {
       pillars: ['Fencing', 'Power Tools', 'Building Materials']
     },
     weeks: weeksData,
-    articles: masterCalendar
-  }, null, 2), 'utf8');
+    articles: masterCalendar,
+    candidates: pillarCandidates
+  };
+
+  const masterJsonPath = path.join(OUTPUT_DIR, 'content_calendar_master.json');
+  fs.writeFileSync(masterJsonPath, JSON.stringify(fullPayload, null, 2), 'utf8');
 
   // Copy to public/data for frontend consumption
   fs.writeFileSync(
     path.join(PUBLIC_DATA_DIR, 'calendar.json'),
-    JSON.stringify({
-      generatedAt: new Date().toISOString(),
-      articles: masterCalendar,
-      weeks: weeksData
-    }, null, 2),
+    JSON.stringify(fullPayload, null, 2),
     'utf8'
   );
 
@@ -175,16 +179,19 @@ function runPipeline() {
     'Week',
     'Month',
     'Pillar',
+    'Content Title',
     'Target Keyword',
-    'Recommended Title',
-    'Intent',
-    'Audience',
+    'Difficulty Level',
+    'Difficulty (Comp 0-100)',
+    'Rankability Score',
     'Search Volume',
+    'Total Cluster Volume',
+    'Grouped Keywords Count',
     'CPC (GBP)',
     'Peak Month',
-    'PAA Question Count',
-    'Status',
-    'Priority Score'
+    'Intent',
+    'Audience',
+    'Status'
   ];
 
   const csvRows = [csvHeaders.join(',')];
@@ -194,27 +201,31 @@ function runPipeline() {
       item.weekNumber,
       `"${item.scheduledMonth}"`,
       `"${item.pillar}"`,
-      `"${item.primaryKeyword.replace(/"/g, '""')}"`,
       `"${(item.recommendedTitle || '').replace(/"/g, '""')}"`,
-      `"${item.intent}"`,
-      `"${item.audience}"`,
+      `"${item.primaryKeyword.replace(/"/g, '""')}"`,
+      `"${item.difficultyLevel}"`,
+      item.difficulty,
+      item.rankabilityScore,
       item.primaryVolume,
+      item.totalVolume,
+      (item.groupedKeywords || []).length,
       item.cpc,
       `"${item.peakMonth}"`,
-      (item.paaQuestions || []).length,
-      `"${item.status || 'Briefing'}"`,
-      item.priorityScore
+      `"${item.intent}"`,
+      `"${item.audience}"`,
+      `"${item.status || 'Briefing'}"`
     ];
     csvRows.push(row.join(','));
   });
 
   const masterCsvPath = path.join(OUTPUT_DIR, 'content_calendar_master.csv');
   fs.writeFileSync(masterCsvPath, csvRows.join('\n'), 'utf8');
+  fs.copyFileSync(masterCsvPath, path.join(ROOT_DIR, 'public', 'content_calendar_master.csv'));
 
   console.log(`\n🎉 Pipeline completed successfully!`);
   console.log(`📁 Master JSON: ${masterJsonPath}`);
   console.log(`📁 Master CSV:  ${masterCsvPath}`);
-  console.log(`📁 Briefs:      ${BRIEFS_DIR} (${masterCalendar.length} briefs ready for Content Generator)`);
+  console.log(`📁 Briefs:      ${BRIEFS_DIR} (${masterCalendar.length} briefs ready)`);
 }
 
 runPipeline();

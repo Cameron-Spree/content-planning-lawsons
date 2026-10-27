@@ -1,0 +1,50 @@
+{
+  "id": "building-materials-online-metal-roofing",
+  "pillar": "Building Materials",
+  "weekNumber": 39,
+  "scheduledMonth": "Sep",
+  "scheduledDate": "2026-09-W39",
+  "status": "Backlog",
+  "contentTitle": "Online Metal Roofing: Trade Specifications, Sizing & Underground Installation",
+  "targetKeyword": "online metal roofing",
+  "intent": "Transactional / Product Focus",
+  "audience": "Trade & DIY",
+  "seoMetrics": {
+    "searchVolume": 10,
+    "totalClusterVolume": 40,
+    "cpc": 0,
+    "difficulty": 0,
+    "difficultyLevel": "Easy to Rank",
+    "rankabilityScore": 63,
+    "peakSearchMonth": "Sep"
+  },
+  "groupedKeywords": [
+    {
+      "keyword": "metal supply online",
+      "volume": 10,
+      "competition": 72,
+      "cpc": 2.15,
+      "isQuestion": false
+    },
+    {
+      "keyword": "online roofing",
+      "volume": 20,
+      "competition": 100,
+      "cpc": 7.06,
+      "isQuestion": false
+    }
+  ],
+  "secondaryKeywords": [
+    "metal supply online",
+    "online roofing"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is online metal roofing? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

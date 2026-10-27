@@ -1,0 +1,58 @@
+{
+  "id": "building-materials-terram-garden-sheeting",
+  "pillar": "Building Materials",
+  "weekNumber": 7,
+  "scheduledMonth": "Feb",
+  "scheduledDate": "2026-02-W7",
+  "status": "Backlog",
+  "contentTitle": "Everything You Need to Know About Terram Garden Sheeting: Uses, Calculations & Sizing",
+  "targetKeyword": "terram garden sheeting",
+  "intent": "Informational / Guide",
+  "audience": "Domestic & DIY",
+  "seoMetrics": {
+    "searchVolume": 10,
+    "totalClusterVolume": 120,
+    "cpc": 0,
+    "difficulty": 0,
+    "difficultyLevel": "Easy to Rank",
+    "rankabilityScore": 63,
+    "peakSearchMonth": "Apr"
+  },
+  "groupedKeywords": [
+    {
+      "keyword": "garden terram",
+      "volume": 50,
+      "competition": 100,
+      "cpc": 0.33,
+      "isQuestion": false
+    },
+    {
+      "keyword": "terram garden",
+      "volume": 50,
+      "competition": 100,
+      "cpc": 0.33,
+      "isQuestion": false
+    },
+    {
+      "keyword": "terram for garden",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.45,
+      "isQuestion": false
+    }
+  ],
+  "secondaryKeywords": [
+    "garden terram",
+    "terram garden",
+    "terram for garden"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is terram garden sheeting? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

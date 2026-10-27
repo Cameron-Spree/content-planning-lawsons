@@ -1,68 +1,56 @@
 # Lawsons Automated Content Planning & Editorial Calendar
 
-Automated semantic clustering, seasonal schedule optimization, and Kanban management for **~48,000 raw keyword queries** across three primary e-commerce pillars:
+Automated semantic clustering, keyword difficulty/rankability optimization, and interactive editorial decision workflows for **~48,000 raw keyword queries** across three primary e-commerce pillars:
 - 🌿 **Fencing** (~11,700 keywords)
 - ⚡ **Power Tools** (~34,000 keywords)
 - 🧱 **Building Materials** (~2,200 keywords)
 
 ---
 
-## Key Features
+## What's New
 
-1. **Exact 3 Articles / Week Cadence (156 Articles / Year)**:
-   - Every single week is strictly balanced with **1 Fencing**, **1 Power Tools**, and **1 Building Materials** article.
-   - Prevents content overload and maintains balanced growth across all three departments.
+1. **🔥 Monthly "Decision Deck" (Tinder-Style Approval)**:
+   - Review articles month-by-month with instant **Yes (Approve)** or **No (Skip & Swap)** card controls.
+   - Use keyboard shortcuts (`[Y]` or `[→]` to approve, `[N]` or `[←]` to skip).
+   - Shows candidate queue and dynamically manages the monthly production schedule.
 
-2. **Automated Seasonality Scheduling**:
-   - Analyzes 12-month search trends from the raw CSV data.
-   - Automatically backdates publication dates **6 to 8 weeks ahead of peak search demand** so content matures and ranks on Google before the seasonal surge.
+2. **🟢 Difficulty & Rankability Recommendations ("Ones That Would Rank")**:
+   - Every topic is classified by competition:
+     - `🟢 Easy to Rank` (Low Competition: 0–35): Low-hanging fruit for quick ranking wins.
+     - `🟡 Moderate` (36–65).
+     - `🔴 Challenging` (66–100).
+   - Algorithmic **Rankability Score** prioritizes low-competition queries with healthy search volume so the business captures page 1 rankings rapidly.
+   - Filter and sort the entire calendar by "Best Rankability First".
 
-3. **Anti-Cannibalization Topic Clustering**:
-   - Compresses 48k noisy queries into 156 high-impact cluster briefs.
-   - Designates primary head target, secondary variations, and embeds People Also Ask (PAA) questions.
-   - Classifies search intent (`Informational`, `Commercial`, `Transactional`) and audience (`Domestic & DIY` vs `Trade & Contractors`).
+3. **📝 Editorial Content Titles & Grouped Keywords**:
+   - Each topic receives a high-converting, click-worthy **Content Title** (e.g. `Best Cordless Lawn Mowers (2026): Trade Reviews & Buying Guide`).
+   - Semantically related search queries are grouped together under that title with individual search volumes, competition levels, and CPCs (e.g. 5–25 related keywords per title).
+   - Eliminates keyword cannibalization and equips content writers with a clear secondary keyword checklist.
 
-4. **Vercel-Ready Web Dashboard**:
-   - **Interactive Kanban Board**: `Briefing / Backlog`, `Drafting`, `In Review`, `Scheduled`, `Published` with drag-and-drop state persistence.
-   - **52-Week Roadmap**: Week-by-week and month-by-month grid showing the 3 slots per week.
-   - **Brief Inspector Modal**: Full outline architecture, PAA questions, and one-click JSON payload copy.
-   - **One-Click Export**: Instant CSV and JSON calendar export.
+4. **Exact 3 Articles / Week Cadence (156 Articles / Year)**:
+   - Balanced with 1 Fencing, 1 Power Tools, and 1 Building Materials per week.
+   - Seasonally scheduled 6 to 8 weeks ahead of Google peak search spikes.
 
-5. **Direct Integration with Lawsons Blog Creation Engine**:
-   - Exported JSON briefs match the ingestion schemas of `Blog Creation Tool`.
+5. **3 Flexible Views**:
+   - **Decision Deck**: Fast monthly swipe/review card deck.
+   - **Kanban Board**: Drag-and-drop workflow across *Briefing*, *Drafting*, *In Review*, *Scheduled*, *Published*.
+   - **52-Week Roadmap**: Month-by-month calendar view with 3 slots per week.
 
 ---
 
 ## Quick Start
 
-### 1. Run the Pipeline (CLI / Double-click)
-To re-process the CSV files and regenerate the calendar:
+### Re-process Data
 ```bash
 node scripts/process_data.js
 ```
-*(On Windows, you can also simply double-click `run_pipeline.bat`)*
 
-### 2. View Locally
-Start a lightweight static server:
+### Local Dev Server
 ```bash
 npm start
 ```
-Open **[http://localhost:3002](http://localhost:3002)** in your browser.
+Runs at [http://localhost:3002](http://localhost:3002).
 
-### 3. Deploy to Vercel
-This repository is configured for **Zero-Config Vercel Deployment**:
-1. Push this repository to GitHub/GitLab.
-2. In your [Vercel Dashboard](https://vercel.com), click **Add New Project** and select this repo.
-3. Deploy! Vercel will automatically serve:
-   - The interactive frontend from `/public`
-   - The serverless calendar data endpoint at `/api/calendar`
-
----
-
-## Output Structure
-
-- `output/content_calendar_master.csv`: 52-week spreadsheet for editorial planning.
-- `output/content_calendar_master.json`: Machine-readable master calendar.
-- `output/briefs/<id>.json`: 156 individual, generator-ready brief files.
-- `public/content_calendar_master.csv`: Downloadable calendar from the web dashboard.
-- `run_batch_generator.js`: Batch runner to feed briefs into your `Blog Creation Tool`.
+### Zero-Config Vercel Deployment
+Connected directly to GitHub repository: **[Cameron-Spree/content-planning-lawsons](https://github.com/Cameron-Spree/content-planning-lawsons)**.
+Deploy by connecting the repo in Vercel.

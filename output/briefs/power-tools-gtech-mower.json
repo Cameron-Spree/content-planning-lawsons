@@ -1,0 +1,226 @@
+{
+  "id": "power-tools-gtech-mower",
+  "pillar": "Power Tools",
+  "weekNumber": 24,
+  "scheduledMonth": "Jun",
+  "scheduledDate": "2026-06-W24",
+  "status": "Backlog",
+  "contentTitle": "Ultimate Gtech Mower Guide: Features, Battery Systems & Maintenance (2026)",
+  "targetKeyword": "gtech mower",
+  "intent": "Informational / Guide",
+  "audience": "DIY & Professionals",
+  "seoMetrics": {
+    "searchVolume": 3600,
+    "totalClusterVolume": 14840,
+    "cpc": 0.44,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 65.3,
+    "peakSearchMonth": "Apr"
+  },
+  "groupedKeywords": [
+    {
+      "keyword": "sit on mower",
+      "volume": 3600,
+      "competition": 100,
+      "cpc": 0.43,
+      "isQuestion": false
+    },
+    {
+      "keyword": "gtech battery lawn mower",
+      "volume": 1300,
+      "competition": 100,
+      "cpc": 0.34,
+      "isQuestion": false
+    },
+    {
+      "keyword": "gtech mower battery",
+      "volume": 1300,
+      "competition": 100,
+      "cpc": 0.34,
+      "isQuestion": false
+    },
+    {
+      "keyword": "tractor mower",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.33,
+      "isQuestion": false
+    },
+    {
+      "keyword": "hyundai mower",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.78,
+      "isQuestion": false
+    },
+    {
+      "keyword": "gtech cordless mower",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.42,
+      "isQuestion": false
+    },
+    {
+      "keyword": "standing mower",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 0.36,
+      "isQuestion": false
+    },
+    {
+      "keyword": "etesia mower",
+      "volume": 480,
+      "competition": 100,
+      "cpc": 0.31,
+      "isQuestion": false
+    },
+    {
+      "keyword": "george's mower",
+      "volume": 10,
+      "competition": 5,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "countax mower",
+      "volume": 260,
+      "competition": 100,
+      "cpc": 0.11,
+      "isQuestion": false
+    },
+    {
+      "keyword": "gtech compact mower",
+      "volume": 10,
+      "competition": 16,
+      "cpc": 0.06,
+      "isQuestion": false
+    },
+    {
+      "keyword": "g tech mower",
+      "volume": 210,
+      "competition": 100,
+      "cpc": 0.44,
+      "isQuestion": false
+    },
+    {
+      "keyword": "triple mower",
+      "volume": 70,
+      "competition": 75,
+      "cpc": 0.06,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mower place near me",
+      "volume": 10,
+      "competition": 23,
+      "cpc": 0.47,
+      "isQuestion": false
+    },
+    {
+      "keyword": "landroid mower",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 0.52,
+      "isQuestion": false
+    },
+    {
+      "keyword": "jd riding mower",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 0.48,
+      "isQuestion": false
+    },
+    {
+      "keyword": "professional mower",
+      "volume": 110,
+      "competition": 96,
+      "cpc": 0.36,
+      "isQuestion": false
+    },
+    {
+      "keyword": "rechargeable mower",
+      "volume": 110,
+      "competition": 100,
+      "cpc": 0.47,
+      "isQuestion": false
+    },
+    {
+      "keyword": "recharge mower",
+      "volume": 110,
+      "competition": 100,
+      "cpc": 0.47,
+      "isQuestion": false
+    },
+    {
+      "keyword": "tb200 mower",
+      "volume": 10,
+      "competition": 38,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "earthquake mower",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "riding mower cost",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mower places near me",
+      "volume": 10,
+      "competition": 50,
+      "cpc": 0.23,
+      "isQuestion": false
+    },
+    {
+      "keyword": "gtech robot lawn mower",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    }
+  ],
+  "secondaryKeywords": [
+    "sit on mower",
+    "gtech battery lawn mower",
+    "gtech mower battery",
+    "tractor mower",
+    "hyundai mower",
+    "gtech cordless mower",
+    "standing mower",
+    "etesia mower",
+    "george's mower",
+    "countax mower",
+    "gtech compact mower",
+    "g tech mower",
+    "triple mower",
+    "mower place near me",
+    "landroid mower",
+    "jd riding mower",
+    "professional mower",
+    "rechargeable mower",
+    "recharge mower",
+    "tb200 mower",
+    "earthquake mower",
+    "riding mower cost",
+    "mower places near me",
+    "gtech robot lawn mower"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is gtech mower? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

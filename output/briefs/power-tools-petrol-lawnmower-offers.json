@@ -5,19 +5,191 @@
   "scheduledMonth": "Jan",
   "scheduledDate": "2026-01-W2",
   "status": "Briefing",
-  "priorityScore": 77.7,
+  "contentTitle": "Ultimate Petrol Lawnmower Offers Guide: Features, Battery Systems & Maintenance (2026)",
   "targetKeyword": "petrol lawnmower offers",
-  "recommendedTitle": "Ultimate Petrol Lawnmower Offers Guide: Features, Choosing & Maintenance",
   "intent": "Informational / Guide",
   "audience": "DIY & Professionals",
-  "metrics": {
-    "primaryVolume": 14800,
-    "totalClusterVolume": 64050,
+  "seoMetrics": {
+    "searchVolume": 14800,
+    "totalClusterVolume": 65890,
     "cpc": 0.5,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 76.6,
     "peakSearchMonth": "Mar"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "petrol lawnmower servicing near me",
+      "volume": 260,
+      "competition": 11,
+      "cpc": 1.1,
+      "isQuestion": false
+    },
+    {
+      "keyword": "self propelled petrol lawnmower",
+      "volume": 3600,
+      "competition": 100,
+      "cpc": 0.61,
+      "isQuestion": false
+    },
+    {
+      "keyword": "petrol self propelled lawnmower",
+      "volume": 3600,
+      "competition": 100,
+      "cpc": 0.61,
+      "isQuestion": false
+    },
+    {
+      "keyword": "lawnmower petrol self propelled",
+      "volume": 3600,
+      "competition": 100,
+      "cpc": 0.61,
+      "isQuestion": false
+    },
+    {
+      "keyword": "self propelled petrol lawnmower offers",
+      "volume": 3600,
+      "competition": 100,
+      "cpc": 0.61,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mountfield petrol lawnmower",
+      "volume": 2900,
+      "competition": 100,
+      "cpc": 0.38,
+      "isQuestion": false
+    },
+    {
+      "keyword": "honda petrol lawnmower",
+      "volume": 1600,
+      "competition": 100,
+      "cpc": 0.37,
+      "isQuestion": false
+    },
+    {
+      "keyword": "best lawnmower petrol",
+      "volume": 1600,
+      "competition": 100,
+      "cpc": 0.54,
+      "isQuestion": false
+    },
+    {
+      "keyword": "petrol lawnmower best",
+      "volume": 1600,
+      "competition": 100,
+      "cpc": 0.54,
+      "isQuestion": false
+    },
+    {
+      "keyword": "honda lawnmower petrol",
+      "volume": 1600,
+      "competition": 100,
+      "cpc": 0.37,
+      "isQuestion": false
+    },
+    {
+      "keyword": "hyundai petrol lawnmower",
+      "volume": 1300,
+      "competition": 100,
+      "cpc": 0.93,
+      "isQuestion": false
+    },
+    {
+      "keyword": "petrol lawnmower with roller",
+      "volume": 1300,
+      "competition": 100,
+      "cpc": 0.49,
+      "isQuestion": false
+    },
+    {
+      "keyword": "hyundai lawnmower petrol",
+      "volume": 1300,
+      "competition": 100,
+      "cpc": 0.93,
+      "isQuestion": false
+    },
+    {
+      "keyword": "petrol lawnmower hyundai",
+      "volume": 1300,
+      "competition": 100,
+      "cpc": 0.93,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cheap petrol lawnmower",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.3,
+      "isQuestion": false
+    },
+    {
+      "keyword": "screwfix petrol lawnmower",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.23,
+      "isQuestion": false
+    },
+    {
+      "keyword": "screwfix lawnmower petrol",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.23,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cheapest petrol lawnmower",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.3,
+      "isQuestion": false
+    },
+    {
+      "keyword": "petrol lawnmower clearance",
+      "volume": 880,
+      "competition": 99,
+      "cpc": 0.27,
+      "isQuestion": false
+    },
+    {
+      "keyword": "argos petrol lawnmower",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.33,
+      "isQuestion": false
+    },
+    {
+      "keyword": "qualcast petrol lawnmower",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.13,
+      "isQuestion": false
+    },
+    {
+      "keyword": "petrol lawnmower electric start",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.51,
+      "isQuestion": false
+    },
+    {
+      "keyword": "petrol lawnmower with electric start",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.51,
+      "isQuestion": false
+    },
+    {
+      "keyword": "lawnmower petrol",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.47,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
+    "petrol lawnmower servicing near me",
     "self propelled petrol lawnmower",
     "petrol self propelled lawnmower",
     "lawnmower petrol self propelled",
@@ -31,7 +203,16 @@
     "petrol lawnmower with roller",
     "hyundai lawnmower petrol",
     "petrol lawnmower hyundai",
-    "cheap petrol lawnmower"
+    "cheap petrol lawnmower",
+    "screwfix petrol lawnmower",
+    "screwfix lawnmower petrol",
+    "cheapest petrol lawnmower",
+    "petrol lawnmower clearance",
+    "argos petrol lawnmower",
+    "qualcast petrol lawnmower",
+    "petrol lawnmower electric start",
+    "petrol lawnmower with electric start",
+    "lawnmower petrol"
   ],
   "paaQuestions": [],
   "suggestedSections": [

@@ -1,0 +1,226 @@
+{
+  "id": "power-tools-uk-drills",
+  "pillar": "Power Tools",
+  "weekNumber": 28,
+  "scheduledMonth": "Jul",
+  "scheduledDate": "2026-07-W28",
+  "status": "Backlog",
+  "contentTitle": "Ultimate Uk Drills Guide: Features, Battery Systems & Maintenance (2026)",
+  "targetKeyword": "uk drills",
+  "intent": "Informational / Guide",
+  "audience": "DIY & Professionals",
+  "seoMetrics": {
+    "searchVolume": 8100,
+    "totalClusterVolume": 22650,
+    "cpc": 0.25,
+    "difficulty": 31,
+    "difficultyLevel": "Easy to Rank",
+    "rankabilityScore": 102.2,
+    "peakSearchMonth": "Sep"
+  },
+  "groupedKeywords": [
+    {
+      "keyword": "electric drills",
+      "volume": 5400,
+      "competition": 100,
+      "cpc": 0.29,
+      "isQuestion": false
+    },
+    {
+      "keyword": "screwfix drills",
+      "volume": 3600,
+      "competition": 100,
+      "cpc": 0.21,
+      "isQuestion": false
+    },
+    {
+      "keyword": "drills for sale",
+      "volume": 1600,
+      "competition": 100,
+      "cpc": 0.3,
+      "isQuestion": false
+    },
+    {
+      "keyword": "drills uk",
+      "volume": 390,
+      "competition": 90,
+      "cpc": 0.47,
+      "isQuestion": false
+    },
+    {
+      "keyword": "titan drills uk",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bosch drills uk",
+      "volume": 40,
+      "competition": 99,
+      "cpc": 0.85,
+      "isQuestion": false
+    },
+    {
+      "keyword": "ryobi drills uk",
+      "volume": 30,
+      "competition": 100,
+      "cpc": 0.42,
+      "isQuestion": false
+    },
+    {
+      "keyword": "milwaukee drills uk",
+      "volume": 30,
+      "competition": 100,
+      "cpc": 1.21,
+      "isQuestion": false
+    },
+    {
+      "keyword": "diamond drills uk",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "drills ebay uk",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.15,
+      "isQuestion": false
+    },
+    {
+      "keyword": "ebay uk drills",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.34,
+      "isQuestion": false
+    },
+    {
+      "keyword": "uk drills ebay",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.34,
+      "isQuestion": false
+    },
+    {
+      "keyword": "wolf drills uk",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.11,
+      "isQuestion": false
+    },
+    {
+      "keyword": "rotary hammer drills",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.28,
+      "isQuestion": false
+    },
+    {
+      "keyword": "best drills for home use",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.47,
+      "isQuestion": false
+    },
+    {
+      "keyword": "dewalt drills for sale",
+      "volume": 260,
+      "competition": 100,
+      "cpc": 0.34,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cordless drills for sale",
+      "volume": 260,
+      "competition": 100,
+      "cpc": 0.24,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery drills for sale",
+      "volume": 210,
+      "competition": 100,
+      "cpc": 0.24,
+      "isQuestion": false
+    },
+    {
+      "keyword": "electric drills for sale",
+      "volume": 210,
+      "competition": 100,
+      "cpc": 0.28,
+      "isQuestion": false
+    },
+    {
+      "keyword": "makita drills for sale",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 0.45,
+      "isQuestion": false
+    },
+    {
+      "keyword": "power drills for sale",
+      "volume": 110,
+      "competition": 98,
+      "cpc": 0.25,
+      "isQuestion": false
+    },
+    {
+      "keyword": "top rated power drills",
+      "volume": 110,
+      "competition": 100,
+      "cpc": 0.52,
+      "isQuestion": false
+    },
+    {
+      "keyword": "pillar drills for sale uk",
+      "volume": 50,
+      "competition": 79,
+      "cpc": 0.35,
+      "isQuestion": false
+    },
+    {
+      "keyword": "milwaukee drills for sale",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 0.63,
+      "isQuestion": false
+    }
+  ],
+  "secondaryKeywords": [
+    "electric drills",
+    "screwfix drills",
+    "drills for sale",
+    "drills uk",
+    "titan drills uk",
+    "bosch drills uk",
+    "ryobi drills uk",
+    "milwaukee drills uk",
+    "diamond drills uk",
+    "drills ebay uk",
+    "ebay uk drills",
+    "uk drills ebay",
+    "wolf drills uk",
+    "rotary hammer drills",
+    "best drills for home use",
+    "dewalt drills for sale",
+    "cordless drills for sale",
+    "battery drills for sale",
+    "electric drills for sale",
+    "makita drills for sale",
+    "power drills for sale",
+    "top rated power drills",
+    "pillar drills for sale uk",
+    "milwaukee drills for sale"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is uk drills? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

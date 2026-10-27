@@ -1,28 +1,198 @@
 {
   "id": "power-tools-strimmers",
   "pillar": "Power Tools",
-  "weekNumber": 13,
+  "weekNumber": 10,
   "scheduledMonth": "Mar",
-  "scheduledDate": "2026-03-W13",
+  "scheduledDate": "2026-03-W10",
   "status": "Backlog",
-  "priorityScore": 74.9,
+  "contentTitle": "Ultimate Strimmers Guide: Features, Battery Systems & Maintenance (2026)",
   "targetKeyword": "strimmers",
-  "recommendedTitle": "Ultimate Strimmers Guide: Features, Choosing & Maintenance",
   "intent": "Informational / Guide",
   "audience": "DIY & Professionals",
-  "metrics": {
-    "primaryVolume": 33100,
-    "totalClusterVolume": 60080,
+  "seoMetrics": {
+    "searchVolume": 33100,
+    "totalClusterVolume": 58290,
     "cpc": 0.26,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 82.1,
     "peakSearchMonth": "May"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "blade strimmers",
+      "volume": 6600,
+      "competition": 100,
+      "cpc": 0.23,
+      "isQuestion": false
+    },
+    {
+      "keyword": "lawn strimmers",
+      "volume": 5400,
+      "competition": 100,
+      "cpc": 0.21,
+      "isQuestion": false
+    },
+    {
+      "keyword": "milwaukee strimmers",
+      "volume": 2900,
+      "competition": 100,
+      "cpc": 0.57,
+      "isQuestion": false
+    },
+    {
+      "keyword": "worx strimmers",
+      "volume": 1600,
+      "competition": 100,
+      "cpc": 0.79,
+      "isQuestion": false
+    },
+    {
+      "keyword": "husqvarna strimmers",
+      "volume": 1300,
+      "competition": 100,
+      "cpc": 0.37,
+      "isQuestion": false
+    },
+    {
+      "keyword": "echo strimmers",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.46,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cord for strimmers",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.2,
+      "isQuestion": false
+    },
+    {
+      "keyword": "honda strimmers",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.35,
+      "isQuestion": false
+    },
+    {
+      "keyword": "industrial strimmers",
+      "volume": 480,
+      "competition": 100,
+      "cpc": 0.48,
+      "isQuestion": false
+    },
+    {
+      "keyword": "4 stroke strimmers",
+      "volume": 480,
+      "competition": 100,
+      "cpc": 0.3,
+      "isQuestion": false
+    },
+    {
+      "keyword": "metal strimmers",
+      "volume": 480,
+      "competition": 100,
+      "cpc": 0.24,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery strimmers b&q",
+      "volume": 320,
+      "competition": 100,
+      "cpc": 0.13,
+      "isQuestion": false
+    },
+    {
+      "keyword": "petrol strimmers near me",
+      "volume": 260,
+      "competition": 100,
+      "cpc": 0.3,
+      "isQuestion": false
+    },
+    {
+      "keyword": "tanaka strimmers",
+      "volume": 210,
+      "competition": 100,
+      "cpc": 0.22,
+      "isQuestion": false
+    },
+    {
+      "keyword": "brush strimmers",
+      "volume": 210,
+      "competition": 100,
+      "cpc": 0.39,
+      "isQuestion": false
+    },
+    {
+      "keyword": "2 stroke strimmers",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 0.47,
+      "isQuestion": false
+    },
+    {
+      "keyword": "efco strimmers",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 0.11,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stanley strimmers",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 0.22,
+      "isQuestion": false
+    },
+    {
+      "keyword": "strimmers near me",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 0.21,
+      "isQuestion": false
+    },
+    {
+      "keyword": "hire strimmers near me",
+      "volume": 50,
+      "competition": 71,
+      "cpc": 0.28,
+      "isQuestion": false
+    },
+    {
+      "keyword": "backpack strimmers",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 0.41,
+      "isQuestion": false
+    },
+    {
+      "keyword": "maruyama strimmers",
+      "volume": 110,
+      "competition": 98,
+      "cpc": 0.13,
+      "isQuestion": false
+    },
+    {
+      "keyword": "strimmers for hire near me",
+      "volume": 30,
+      "competition": 63,
+      "cpc": 0.46,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mac strimmers",
+      "volume": 110,
+      "competition": 99,
+      "cpc": 0.12,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "blade strimmers",
     "lawn strimmers",
     "milwaukee strimmers",
     "worx strimmers",
-    "best strimmers cordless",
     "husqvarna strimmers",
     "echo strimmers",
     "cord for strimmers",
@@ -31,7 +201,18 @@
     "4 stroke strimmers",
     "metal strimmers",
     "battery strimmers b&q",
-    "petrol strimmers near me"
+    "petrol strimmers near me",
+    "tanaka strimmers",
+    "brush strimmers",
+    "2 stroke strimmers",
+    "efco strimmers",
+    "stanley strimmers",
+    "strimmers near me",
+    "hire strimmers near me",
+    "backpack strimmers",
+    "maruyama strimmers",
+    "strimmers for hire near me",
+    "mac strimmers"
   ],
   "paaQuestions": [],
   "suggestedSections": [

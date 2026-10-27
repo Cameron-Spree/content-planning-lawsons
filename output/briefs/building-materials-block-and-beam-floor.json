@@ -1,37 +1,218 @@
 {
   "id": "building-materials-block-and-beam-floor",
   "pillar": "Building Materials",
-  "weekNumber": 36,
-  "scheduledMonth": "Sep",
-  "scheduledDate": "2026-09-W36",
+  "weekNumber": 11,
+  "scheduledMonth": "Mar",
+  "scheduledDate": "2026-03-W11",
   "status": "Backlog",
-  "priorityScore": 69.1,
+  "contentTitle": "Block And Beam Floor: Trade Specifications, Sizing & Underground Installation",
   "targetKeyword": "block and beam floor",
-  "recommendedTitle": "Block And Beam Floor: Trade Specifications, Types & Uses Explained",
   "intent": "Informational / Guide",
   "audience": "Trade & DIY",
-  "metrics": {
-    "primaryVolume": 5400,
-    "totalClusterVolume": 26410,
+  "seoMetrics": {
+    "searchVolume": 5400,
+    "totalClusterVolume": 26400,
     "cpc": 0.37,
-    "competition": 82,
+    "difficulty": 82,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 76.4,
     "peakSearchMonth": "Sep"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "block & beam floor",
+      "volume": 5400,
+      "competition": 82,
+      "cpc": 0.37,
+      "isQuestion": false
+    },
+    {
+      "keyword": "blocks for beam and block floor",
+      "volume": 5400,
+      "competition": 82,
+      "cpc": 0.37,
+      "isQuestion": false
+    },
+    {
+      "keyword": "blocks for block and beam floor",
+      "volume": 5400,
+      "competition": 82,
+      "cpc": 0.37,
+      "isQuestion": false
+    },
+    {
+      "keyword": "beam and block foundations",
+      "volume": 170,
+      "competition": 15,
+      "cpc": 2.22,
+      "isQuestion": false
+    },
+    {
+      "keyword": "beam and pot floor",
+      "volume": 140,
+      "competition": 23,
+      "cpc": 0.33,
+      "isQuestion": false
+    },
+    {
+      "keyword": "beam and block",
+      "volume": 1900,
+      "competition": 94,
+      "cpc": 0.32,
+      "isQuestion": false
+    },
+    {
+      "keyword": "beam and block suspended floor",
+      "volume": 90,
+      "competition": 16,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "beam and block first floor",
+      "volume": 30,
+      "competition": 1,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "block and beam first floor",
+      "volume": 30,
+      "competition": 1,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "beam and block floor bison",
+      "volume": 30,
+      "competition": 6,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "beam and block sizes",
+      "volume": 210,
+      "competition": 63,
+      "cpc": 0.14,
+      "isQuestion": false
+    },
+    {
+      "keyword": "block and beam floor installation",
+      "volume": 40,
+      "competition": 20,
+      "cpc": 1.08,
+      "isQuestion": false
+    },
+    {
+      "keyword": "beam and block garage floor",
+      "volume": 30,
+      "competition": 13,
+      "cpc": 0.46,
+      "isQuestion": false
+    },
+    {
+      "keyword": "milbank beam and block floor",
+      "volume": 30,
+      "competition": 13,
+      "cpc": 0.33,
+      "isQuestion": false
+    },
+    {
+      "keyword": "beam and block floor dimensions",
+      "volume": 50,
+      "competition": 29,
+      "cpc": 0.07,
+      "isQuestion": false
+    },
+    {
+      "keyword": "block and beam floor dimensions",
+      "volume": 50,
+      "competition": 29,
+      "cpc": 0.07,
+      "isQuestion": false
+    },
+    {
+      "keyword": "beam and block floor sizes",
+      "volume": 50,
+      "competition": 29,
+      "cpc": 0.07,
+      "isQuestion": false
+    },
+    {
+      "keyword": "block and beam floor cost per m2",
+      "volume": 140,
+      "competition": 59,
+      "cpc": 0.41,
+      "isQuestion": false
+    },
+    {
+      "keyword": "beam and block floor design",
+      "volume": 50,
+      "competition": 32,
+      "cpc": 4.53,
+      "isQuestion": false
+    },
+    {
+      "keyword": "grouting block and beam floor",
+      "volume": 10,
+      "competition": 7,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "precast beam and block floor",
+      "volume": 20,
+      "competition": 31,
+      "cpc": 2.83,
+      "isQuestion": false
+    },
+    {
+      "keyword": "block and beam infill blocks",
+      "volume": 30,
+      "competition": 52,
+      "cpc": 0.14,
+      "isQuestion": false
+    },
+    {
+      "keyword": "infill blocks for block and beam",
+      "volume": 30,
+      "competition": 52,
+      "cpc": 0.14,
+      "isQuestion": false
+    },
+    {
+      "keyword": "block and beam suppliers",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 4.18,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "block & beam floor",
     "blocks for beam and block floor",
     "blocks for block and beam floor",
-    "beam and block",
-    "beam and block sizes",
-    "block and beam suppliers",
-    "block and beam manufacturers",
     "beam and block foundations",
-    "block & beam suppliers",
-    "concrete beam and block",
-    "concrete block and beam floor",
     "beam and pot floor",
+    "beam and block",
+    "beam and block suspended floor",
+    "beam and block first floor",
+    "block and beam first floor",
+    "beam and block floor bison",
+    "beam and block sizes",
+    "block and beam floor installation",
+    "beam and block garage floor",
+    "milbank beam and block floor",
+    "beam and block floor dimensions",
+    "block and beam floor dimensions",
+    "beam and block floor sizes",
     "block and beam floor cost per m2",
-    "concrete beam block"
+    "beam and block floor design",
+    "grouting block and beam floor",
+    "precast beam and block floor",
+    "block and beam infill blocks",
+    "infill blocks for block and beam",
+    "block and beam suppliers"
   ],
   "paaQuestions": [],
   "suggestedSections": [

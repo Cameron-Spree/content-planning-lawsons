@@ -1,0 +1,50 @@
+{
+  "id": "fencing-fence-cladding",
+  "pillar": "Fencing",
+  "weekNumber": 51,
+  "scheduledMonth": "Dec",
+  "scheduledDate": "2026-12-W51",
+  "status": "Backlog",
+  "contentTitle": "The Complete Guide to Fence Cladding: Types, Board Calculations & Installation",
+  "targetKeyword": "fence cladding",
+  "intent": "Informational / Guide",
+  "audience": "Domestic & DIY",
+  "seoMetrics": {
+    "searchVolume": 880,
+    "totalClusterVolume": 1000,
+    "cpc": 0.87,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 55.6,
+    "peakSearchMonth": "Apr"
+  },
+  "groupedKeywords": [
+    {
+      "keyword": "garden fence cladding",
+      "volume": 110,
+      "competition": 100,
+      "cpc": 0.58,
+      "isQuestion": false
+    },
+    {
+      "keyword": "feather edge fence cladding",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.19,
+      "isQuestion": false
+    }
+  ],
+  "secondaryKeywords": [
+    "garden fence cladding",
+    "feather edge fence cladding"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is fence cladding? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

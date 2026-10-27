@@ -1,0 +1,226 @@
+{
+  "id": "power-tools-tool-shops",
+  "pillar": "Power Tools",
+  "weekNumber": 42,
+  "scheduledMonth": "Oct",
+  "scheduledDate": "2026-10-W42",
+  "status": "Backlog",
+  "contentTitle": "Ultimate Tool Shops Guide: Features, Battery Systems & Maintenance (2026)",
+  "targetKeyword": "tool shops",
+  "intent": "Informational / Guide",
+  "audience": "DIY & Professionals",
+  "seoMetrics": {
+    "searchVolume": 8100,
+    "totalClusterVolume": 80040,
+    "cpc": 0.58,
+    "difficulty": 58,
+    "difficultyLevel": "Moderate",
+    "rankabilityScore": 91,
+    "peakSearchMonth": "Sep"
+  },
+  "groupedKeywords": [
+    {
+      "keyword": "tool sharpening near me",
+      "volume": 590,
+      "competition": 10,
+      "cpc": 0.52,
+      "isQuestion": false
+    },
+    {
+      "keyword": "jigsaw tool",
+      "volume": 12100,
+      "competition": 100,
+      "cpc": 0.22,
+      "isQuestion": false
+    },
+    {
+      "keyword": "makita tool",
+      "volume": 9900,
+      "competition": 100,
+      "cpc": 0.42,
+      "isQuestion": false
+    },
+    {
+      "keyword": "router tool",
+      "volume": 8100,
+      "competition": 100,
+      "cpc": 0.19,
+      "isQuestion": false
+    },
+    {
+      "keyword": "oscillating tool",
+      "volume": 6600,
+      "competition": 100,
+      "cpc": 0.28,
+      "isQuestion": false
+    },
+    {
+      "keyword": "plumbing tool",
+      "volume": 6600,
+      "competition": 100,
+      "cpc": 0.25,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mattock tool",
+      "volume": 3600,
+      "competition": 100,
+      "cpc": 0.15,
+      "isQuestion": false
+    },
+    {
+      "keyword": "rotary tool",
+      "volume": 2900,
+      "competition": 100,
+      "cpc": 0.21,
+      "isQuestion": false
+    },
+    {
+      "keyword": "grinder tool",
+      "volume": 2900,
+      "competition": 100,
+      "cpc": 0.31,
+      "isQuestion": false
+    },
+    {
+      "keyword": "scriber tool",
+      "volume": 2400,
+      "competition": 100,
+      "cpc": 0.21,
+      "isQuestion": false
+    },
+    {
+      "keyword": "scribing tool",
+      "volume": 1900,
+      "competition": 100,
+      "cpc": 0.19,
+      "isQuestion": false
+    },
+    {
+      "keyword": "level tool",
+      "volume": 1900,
+      "competition": 100,
+      "cpc": 0.3,
+      "isQuestion": false
+    },
+    {
+      "keyword": "planer tool",
+      "volume": 1600,
+      "competition": 100,
+      "cpc": 0.24,
+      "isQuestion": false
+    },
+    {
+      "keyword": "joiner tool",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.46,
+      "isQuestion": false
+    },
+    {
+      "keyword": "tamping tool",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.23,
+      "isQuestion": false
+    },
+    {
+      "keyword": "lathe tool",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.42,
+      "isQuestion": false
+    },
+    {
+      "keyword": "reamer tool",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.25,
+      "isQuestion": false
+    },
+    {
+      "keyword": "pry tool",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.27,
+      "isQuestion": false
+    },
+    {
+      "keyword": "threader tool",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.23,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mandrel tool",
+      "volume": 480,
+      "competition": 89,
+      "cpc": 1.41,
+      "isQuestion": false
+    },
+    {
+      "keyword": "tool brands uk",
+      "volume": 110,
+      "competition": 51,
+      "cpc": 1.46,
+      "isQuestion": false
+    },
+    {
+      "keyword": "knurling tool",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 0.37,
+      "isQuestion": false
+    },
+    {
+      "keyword": "uk tool companies",
+      "volume": 110,
+      "competition": 59,
+      "cpc": 2.62,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bevel tool",
+      "volume": 480,
+      "competition": 100,
+      "cpc": 0.22,
+      "isQuestion": false
+    }
+  ],
+  "secondaryKeywords": [
+    "tool sharpening near me",
+    "jigsaw tool",
+    "makita tool",
+    "router tool",
+    "oscillating tool",
+    "plumbing tool",
+    "mattock tool",
+    "rotary tool",
+    "grinder tool",
+    "scriber tool",
+    "scribing tool",
+    "level tool",
+    "planer tool",
+    "joiner tool",
+    "tamping tool",
+    "lathe tool",
+    "reamer tool",
+    "pry tool",
+    "threader tool",
+    "mandrel tool",
+    "tool brands uk",
+    "knurling tool",
+    "uk tool companies",
+    "bevel tool"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is tool shops? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

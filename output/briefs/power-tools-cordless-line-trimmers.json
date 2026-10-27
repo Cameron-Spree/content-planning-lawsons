@@ -1,37 +1,218 @@
 {
   "id": "power-tools-cordless-line-trimmers",
   "pillar": "Power Tools",
-  "weekNumber": 42,
-  "scheduledMonth": "Oct",
-  "scheduledDate": "2026-10-W42",
+  "weekNumber": 33,
+  "scheduledMonth": "Aug",
+  "scheduledDate": "2026-08-W33",
   "status": "Backlog",
-  "priorityScore": 63.4,
+  "contentTitle": "Ultimate Cordless Line Trimmers Guide: Features, Battery Systems & Maintenance (2026)",
   "targetKeyword": "cordless line trimmers",
-  "recommendedTitle": "Ultimate Cordless Line Trimmers Guide: Features, Choosing & Maintenance",
   "intent": "Informational / Guide",
   "audience": "DIY & Professionals",
-  "metrics": {
-    "primaryVolume": 5400,
-    "totalClusterVolume": 6820,
+  "seoMetrics": {
+    "searchVolume": 5400,
+    "totalClusterVolume": 6740,
     "cpc": 0.24,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 67.9,
     "peakSearchMonth": "May"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "cordless edge trimmers",
+      "volume": 260,
+      "competition": 100,
+      "cpc": 0.23,
+      "isQuestion": false
+    },
+    {
+      "keyword": "yard trimmers cordless",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cordless high reach hedge trimmers",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "best cordless string trimmers 2022",
+      "volume": 0,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "top 5 cordless weed trimmers",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "compare cordless string trimmers",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "compare cordless weed trimmers",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cordless strimmer with blades not line",
+      "volume": 50,
+      "competition": 100,
+      "cpc": 0.26,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cordless line trimmers reviews",
+      "volume": 30,
+      "competition": 100,
+      "cpc": 0.1,
+      "isQuestion": false
+    },
+    {
+      "keyword": "reviews on cordless string trimmers",
+      "volume": 30,
+      "competition": 100,
+      "cpc": 0.1,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bosch garden trimmers cordless",
+      "volume": 20,
+      "competition": 100,
+      "cpc": 0.19,
+      "isQuestion": false
+    },
+    {
+      "keyword": "garden edge trimmers cordless",
+      "volume": 20,
+      "competition": 100,
+      "cpc": 0.21,
+      "isQuestion": false
+    },
+    {
+      "keyword": "argos cordless extendable hedge trimmers",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.09,
+      "isQuestion": false
+    },
+    {
+      "keyword": "top cordless string trimmers",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "worx cordless strimmer line",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.29,
+      "isQuestion": false
+    },
+    {
+      "keyword": "top 10 cordless string trimmers",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.15,
+      "isQuestion": false
+    },
+    {
+      "keyword": "top cordless weed trimmers",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "weed trimmers",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.2,
+      "isQuestion": false
+    },
+    {
+      "keyword": "pole trimmers for sale",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "automower x line",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "greenworks attachment capable string trimmers",
+      "volume": 0,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "yard trimmers without string",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "best pole trimmers",
+      "volume": 40,
+      "competition": 100,
+      "cpc": 0.5,
+      "isQuestion": false
+    },
+    {
+      "keyword": "echo pole trimmers",
+      "volume": 30,
+      "competition": 100,
+      "cpc": 0.48,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "cordless edge trimmers",
+    "yard trimmers cordless",
+    "cordless high reach hedge trimmers",
+    "best cordless string trimmers 2022",
+    "top 5 cordless weed trimmers",
+    "compare cordless string trimmers",
+    "compare cordless weed trimmers",
     "cordless strimmer with blades not line",
     "cordless line trimmers reviews",
     "reviews on cordless string trimmers",
     "bosch garden trimmers cordless",
     "garden edge trimmers cordless",
-    "yard trimmers cordless",
     "argos cordless extendable hedge trimmers",
-    "cordless high reach hedge trimmers",
-    "top 5 cordless weed trimmers",
     "top cordless string trimmers",
     "worx cordless strimmer line",
-    "compare cordless string trimmers",
-    "compare cordless weed trimmers"
+    "top 10 cordless string trimmers",
+    "top cordless weed trimmers",
+    "weed trimmers",
+    "pole trimmers for sale",
+    "automower x line",
+    "greenworks attachment capable string trimmers",
+    "yard trimmers without string",
+    "best pole trimmers",
+    "echo pole trimmers"
   ],
   "paaQuestions": [],
   "suggestedSections": [

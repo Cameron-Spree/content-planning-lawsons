@@ -1,0 +1,194 @@
+{
+  "id": "building-materials-precast-concrete-ground-beams",
+  "pillar": "Building Materials",
+  "weekNumber": 16,
+  "scheduledMonth": "Apr",
+  "scheduledDate": "2026-04-W16",
+  "status": "Backlog",
+  "contentTitle": "Precast Concrete Ground Beams: Trade Specifications, Sizing & Underground Installation",
+  "targetKeyword": "precast concrete ground beams",
+  "intent": "Informational / Guide",
+  "audience": "Trade & DIY",
+  "seoMetrics": {
+    "searchVolume": 50,
+    "totalClusterVolume": 1240,
+    "cpc": 2.05,
+    "difficulty": 27,
+    "difficultyLevel": "Easy to Rank",
+    "rankabilityScore": 69.6,
+    "peakSearchMonth": "Sep"
+  },
+  "groupedKeywords": [
+    {
+      "keyword": "precast ground beams",
+      "volume": 50,
+      "competition": 27,
+      "cpc": 2.05,
+      "isQuestion": false
+    },
+    {
+      "keyword": "reinforced concrete ground beams",
+      "volume": 20,
+      "competition": 4,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "concrete floor beams",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 0.32,
+      "isQuestion": false
+    },
+    {
+      "keyword": "precast concrete lintels",
+      "volume": 260,
+      "competition": 100,
+      "cpc": 0.44,
+      "isQuestion": false
+    },
+    {
+      "keyword": "suspended concrete floor beams",
+      "volume": 10,
+      "competition": 14,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "milbank precast concrete planks",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "precast concrete floor beams prices",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "concrete ground beam",
+      "volume": 40,
+      "competition": 96,
+      "cpc": 1.46,
+      "isQuestion": false
+    },
+    {
+      "keyword": "supreme concrete beams",
+      "volume": 10,
+      "competition": 60,
+      "cpc": 0.38,
+      "isQuestion": false
+    },
+    {
+      "keyword": "concrete floor beams 3m",
+      "volume": 30,
+      "competition": 100,
+      "cpc": 0.17,
+      "isQuestion": false
+    },
+    {
+      "keyword": "concrete floor beams near me",
+      "volume": 30,
+      "competition": 100,
+      "cpc": 0.31,
+      "isQuestion": false
+    },
+    {
+      "keyword": "concrete floor beams 5m",
+      "volume": 30,
+      "competition": 100,
+      "cpc": 0.36,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bison concrete beams",
+      "volume": 20,
+      "competition": 92,
+      "cpc": 0.27,
+      "isQuestion": false
+    },
+    {
+      "keyword": "precast floor beams",
+      "volume": 20,
+      "competition": 99,
+      "cpc": 0.19,
+      "isQuestion": false
+    },
+    {
+      "keyword": "6m concrete floor beams",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.1,
+      "isQuestion": false
+    },
+    {
+      "keyword": "concrete beams near me",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.08,
+      "isQuestion": false
+    },
+    {
+      "keyword": "concrete floor beams 3.6 m",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "concrete floor beams 4m",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.34,
+      "isQuestion": false
+    },
+    {
+      "keyword": "concrete floor t beams",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.27,
+      "isQuestion": false
+    },
+    {
+      "keyword": "floor concrete beams",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.2,
+      "isQuestion": false
+    }
+  ],
+  "secondaryKeywords": [
+    "precast ground beams",
+    "reinforced concrete ground beams",
+    "concrete floor beams",
+    "precast concrete lintels",
+    "suspended concrete floor beams",
+    "milbank precast concrete planks",
+    "precast concrete floor beams prices",
+    "concrete ground beam",
+    "supreme concrete beams",
+    "concrete floor beams 3m",
+    "concrete floor beams near me",
+    "concrete floor beams 5m",
+    "bison concrete beams",
+    "precast floor beams",
+    "6m concrete floor beams",
+    "concrete beams near me",
+    "concrete floor beams 3.6 m",
+    "concrete floor beams 4m",
+    "concrete floor t beams",
+    "floor concrete beams"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is precast concrete ground beams? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

@@ -1,22 +1,32 @@
 {
   "id": "fencing-cheap-fence-panels-6x6",
   "pillar": "Fencing",
-  "weekNumber": 31,
+  "weekNumber": 32,
   "scheduledMonth": "Aug",
-  "scheduledDate": "2026-08-W31",
+  "scheduledDate": "2026-08-W32",
   "status": "Backlog",
-  "priorityScore": 53,
+  "contentTitle": "The Complete Guide to Cheap Fence Panels 6x6: Types, Board Calculations & Installation",
   "targetKeyword": "cheap fence panels 6x6",
-  "recommendedTitle": "The Complete Guide to Cheap Fence Panels 6x6: Types, Costs & Installation",
   "intent": "Transactional / Product Focus",
   "audience": "Domestic & DIY",
-  "metrics": {
-    "primaryVolume": 590,
+  "seoMetrics": {
+    "searchVolume": 590,
     "totalClusterVolume": 600,
     "cpc": 0.47,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 51.3,
     "peakSearchMonth": "Mar"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "6x6 dog kennel panels",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 3.79,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "6x6 dog kennel panels"
   ],

@@ -1,0 +1,226 @@
+{
+  "id": "power-tools-chainsaws",
+  "pillar": "Power Tools",
+  "weekNumber": 47,
+  "scheduledMonth": "Nov",
+  "scheduledDate": "2026-11-W47",
+  "status": "Backlog",
+  "contentTitle": "Ultimate Chainsaws Guide: Features, Battery Systems & Maintenance (2026)",
+  "targetKeyword": "chainsaws",
+  "intent": "Informational / Guide",
+  "audience": "DIY & Professionals",
+  "seoMetrics": {
+    "searchVolume": 33100,
+    "totalClusterVolume": 61100,
+    "cpc": 0.31,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 82.3,
+    "peakSearchMonth": "Sep"
+  },
+  "groupedKeywords": [
+    {
+      "keyword": "stihl chainsaws",
+      "volume": 14800,
+      "competition": 100,
+      "cpc": 0.48,
+      "isQuestion": false
+    },
+    {
+      "keyword": "petrol chainsaws",
+      "volume": 6600,
+      "competition": 100,
+      "cpc": 0.38,
+      "isQuestion": false
+    },
+    {
+      "keyword": "chainsaws for sale",
+      "volume": 2400,
+      "competition": 100,
+      "cpc": 0.36,
+      "isQuestion": false
+    },
+    {
+      "keyword": "chainsaws for sale near me",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.52,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cheap chainsaws",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 0.17,
+      "isQuestion": false
+    },
+    {
+      "keyword": "small chainsaws uk",
+      "volume": 260,
+      "competition": 100,
+      "cpc": 0.23,
+      "isQuestion": false
+    },
+    {
+      "keyword": "chainsaws sale",
+      "volume": 210,
+      "competition": 100,
+      "cpc": 0.25,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl chainsaws near me",
+      "volume": 170,
+      "competition": 95,
+      "cpc": 0.49,
+      "isQuestion": false
+    },
+    {
+      "keyword": "commercial chainsaws",
+      "volume": 20,
+      "competition": 100,
+      "cpc": 1.05,
+      "isQuestion": false
+    },
+    {
+      "keyword": "best mini chainsaws",
+      "volume": 390,
+      "competition": 100,
+      "cpc": 0.36,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl chainsaws for sale",
+      "volume": 320,
+      "competition": 100,
+      "cpc": 0.37,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery chainsaws for sale",
+      "volume": 320,
+      "competition": 100,
+      "cpc": 0.27,
+      "isQuestion": false
+    },
+    {
+      "keyword": "used chainsaws for sale",
+      "volume": 210,
+      "competition": 100,
+      "cpc": 0.12,
+      "isQuestion": false
+    },
+    {
+      "keyword": "petrol chainsaws for sale near me",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 0.62,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl chainsaws for sale on ebay",
+      "volume": 20,
+      "competition": 42,
+      "cpc": 0.09,
+      "isQuestion": false
+    },
+    {
+      "keyword": "used stihl chainsaws for sale near me",
+      "volume": 10,
+      "competition": 33,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery chainsaws amazon",
+      "volume": 110,
+      "competition": 99,
+      "cpc": 0.18,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cordless chainsaws for sale",
+      "volume": 110,
+      "competition": 100,
+      "cpc": 0.21,
+      "isQuestion": false
+    },
+    {
+      "keyword": "petrol chainsaws at argos",
+      "volume": 90,
+      "competition": 100,
+      "cpc": 0.22,
+      "isQuestion": false
+    },
+    {
+      "keyword": "the best battery powered chainsaws",
+      "volume": 10,
+      "competition": 43,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "second hand stihl chainsaws for sale",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 0.13,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl chainsaws price list",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl chainsaws for sale online",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "best battery chainsaws 2022",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    }
+  ],
+  "secondaryKeywords": [
+    "stihl chainsaws",
+    "petrol chainsaws",
+    "chainsaws for sale",
+    "chainsaws for sale near me",
+    "cheap chainsaws",
+    "small chainsaws uk",
+    "chainsaws sale",
+    "stihl chainsaws near me",
+    "commercial chainsaws",
+    "best mini chainsaws",
+    "stihl chainsaws for sale",
+    "battery chainsaws for sale",
+    "used chainsaws for sale",
+    "petrol chainsaws for sale near me",
+    "stihl chainsaws for sale on ebay",
+    "used stihl chainsaws for sale near me",
+    "battery chainsaws amazon",
+    "cordless chainsaws for sale",
+    "petrol chainsaws at argos",
+    "the best battery powered chainsaws",
+    "second hand stihl chainsaws for sale",
+    "stihl chainsaws price list",
+    "stihl chainsaws for sale online",
+    "best battery chainsaws 2022"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is chainsaws? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

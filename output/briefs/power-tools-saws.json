@@ -1,0 +1,226 @@
+{
+  "id": "power-tools-saws",
+  "pillar": "Power Tools",
+  "weekNumber": 30,
+  "scheduledMonth": "Jul",
+  "scheduledDate": "2026-07-W30",
+  "status": "Backlog",
+  "contentTitle": "Ultimate Saws Guide: Features, Battery Systems & Maintenance (2026)",
+  "targetKeyword": "saws",
+  "intent": "Informational / Guide",
+  "audience": "DIY & Professionals",
+  "seoMetrics": {
+    "searchVolume": 49500,
+    "totalClusterVolume": 57830,
+    "cpc": 0.2,
+    "difficulty": 74,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 96.8,
+    "peakSearchMonth": "Sep"
+  },
+  "groupedKeywords": [
+    {
+      "keyword": "saws uk limited",
+      "volume": 140,
+      "competition": 13,
+      "cpc": 1.52,
+      "isQuestion": false
+    },
+    {
+      "keyword": "saws uk",
+      "volume": 320,
+      "competition": 48,
+      "cpc": 1.19,
+      "isQuestion": false
+    },
+    {
+      "keyword": "ryobi saws",
+      "volume": 1300,
+      "competition": 100,
+      "cpc": 0.45,
+      "isQuestion": false
+    },
+    {
+      "keyword": "logs and saws uk",
+      "volume": 90,
+      "competition": 29,
+      "cpc": 0.61,
+      "isQuestion": false
+    },
+    {
+      "keyword": "jig saws",
+      "volume": 320,
+      "competition": 99,
+      "cpc": 0.33,
+      "isQuestion": false
+    },
+    {
+      "keyword": "pruning saws uk",
+      "volume": 260,
+      "competition": 100,
+      "cpc": 0.32,
+      "isQuestion": false
+    },
+    {
+      "keyword": "chain saws uk",
+      "volume": 210,
+      "competition": 100,
+      "cpc": 0.35,
+      "isQuestion": false
+    },
+    {
+      "keyword": "japanese saws uk",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 0.73,
+      "isQuestion": false
+    },
+    {
+      "keyword": "power saws uk",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 0.42,
+      "isQuestion": false
+    },
+    {
+      "keyword": "echo saws uk",
+      "volume": 10,
+      "competition": 36,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stanley saws uk",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bench saws uk",
+      "volume": 50,
+      "competition": 100,
+      "cpc": 0.3,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bosch saws uk",
+      "volume": 10,
+      "competition": 57,
+      "cpc": 1.01,
+      "isQuestion": false
+    },
+    {
+      "keyword": "list of saws",
+      "volume": 10,
+      "competition": 62,
+      "cpc": 0.78,
+      "isQuestion": false
+    },
+    {
+      "keyword": "greenworks saws",
+      "volume": 30,
+      "competition": 98,
+      "cpc": 0.79,
+      "isQuestion": false
+    },
+    {
+      "keyword": "evolution saws uk",
+      "volume": 20,
+      "competition": 93,
+      "cpc": 1.08,
+      "isQuestion": false
+    },
+    {
+      "keyword": "kasto saws uk",
+      "volume": 10,
+      "competition": 86,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "alligator saws uk",
+      "volume": 10,
+      "competition": 99,
+      "cpc": 1.18,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bahco saws uk",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.27,
+      "isQuestion": false
+    },
+    {
+      "keyword": "irwin saws uk",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.62,
+      "isQuestion": false
+    },
+    {
+      "keyword": "site saws uk",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.73,
+      "isQuestion": false
+    },
+    {
+      "keyword": "price of pole saws",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl pole saws",
+      "volume": 1600,
+      "competition": 100,
+      "cpc": 0.45,
+      "isQuestion": false
+    },
+    {
+      "keyword": "dewalt battery operated saws",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.28,
+      "isQuestion": false
+    }
+  ],
+  "secondaryKeywords": [
+    "saws uk limited",
+    "saws uk",
+    "ryobi saws",
+    "logs and saws uk",
+    "jig saws",
+    "pruning saws uk",
+    "chain saws uk",
+    "japanese saws uk",
+    "power saws uk",
+    "echo saws uk",
+    "stanley saws uk",
+    "bench saws uk",
+    "bosch saws uk",
+    "list of saws",
+    "greenworks saws",
+    "evolution saws uk",
+    "kasto saws uk",
+    "alligator saws uk",
+    "bahco saws uk",
+    "irwin saws uk",
+    "site saws uk",
+    "price of pole saws",
+    "stihl pole saws",
+    "dewalt battery operated saws"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is saws? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

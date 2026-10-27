@@ -1,37 +1,218 @@
 {
   "id": "fencing-post-crete",
   "pillar": "Fencing",
-  "weekNumber": 38,
-  "scheduledMonth": "Sep",
-  "scheduledDate": "2026-09-W38",
+  "weekNumber": 8,
+  "scheduledMonth": "Feb",
+  "scheduledDate": "2026-02-W8",
   "status": "Backlog",
-  "priorityScore": 68.4,
+  "contentTitle": "The Complete Guide to Post Crete: Types, Board Calculations & Installation",
   "targetKeyword": "post crete",
-  "recommendedTitle": "The Complete Guide to Post Crete: Types, Costs & Installation",
   "intent": "Informational / Guide",
   "audience": "Domestic & DIY",
-  "metrics": {
-    "primaryVolume": 9900,
+  "seoMetrics": {
+    "searchVolume": 9900,
     "totalClusterVolume": 14030,
     "cpc": 0.36,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 73,
     "peakSearchMonth": "Apr"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "post capping",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.28,
+      "isQuestion": false
+    },
+    {
+      "keyword": "post cement",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.22,
+      "isQuestion": false
+    },
+    {
+      "keyword": "post crete near me",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 0.24,
+      "isQuestion": false
+    },
+    {
+      "keyword": "4 * 4 post caps",
+      "volume": 40,
+      "competition": 0,
+      "cpc": 0.24,
+      "isQuestion": false
+    },
+    {
+      "keyword": "wickes post crete",
+      "volume": 210,
+      "competition": 96,
+      "cpc": 0.07,
+      "isQuestion": false
+    },
+    {
+      "keyword": "post toppers",
+      "volume": 210,
+      "competition": 100,
+      "cpc": 0.2,
+      "isQuestion": false
+    },
+    {
+      "keyword": "spur post",
+      "volume": 210,
+      "competition": 100,
+      "cpc": 0.14,
+      "isQuestion": false
+    },
+    {
+      "keyword": "post crete wickes",
+      "volume": 170,
+      "competition": 99,
+      "cpc": 0.07,
+      "isQuestion": false
+    },
+    {
+      "keyword": "screwfix post crete",
+      "volume": 140,
+      "competition": 95,
+      "cpc": 0.06,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bq post crete",
+      "volume": 110,
+      "competition": 99,
+      "cpc": 0.09,
+      "isQuestion": false
+    },
+    {
+      "keyword": "post crete price",
+      "volume": 110,
+      "competition": 100,
+      "cpc": 0.39,
+      "isQuestion": false
+    },
+    {
+      "keyword": "post finials",
+      "volume": 90,
+      "competition": 100,
+      "cpc": 0.21,
+      "isQuestion": false
+    },
+    {
+      "keyword": "blue circle post crete",
+      "volume": 90,
+      "competition": 100,
+      "cpc": 0.39,
+      "isQuestion": false
+    },
+    {
+      "keyword": "fence post crete",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 0.32,
+      "isQuestion": false
+    },
+    {
+      "keyword": "3 5 8 post caps",
+      "volume": 0,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "4 x 6 post caps",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "5.5 x 5.5 post caps",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "4.5 x 4.5 post caps",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "2 7 8 post caps",
+      "volume": 0,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "2 3 8 post cap",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "finial of a post",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cheap post caps",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "post caps for 4x4 wood post",
+      "volume": 50,
+      "competition": 100,
+      "cpc": 0.33,
+      "isQuestion": false
+    },
+    {
+      "keyword": "b&q post caps",
+      "volume": 40,
+      "competition": 96,
+      "cpc": 0.07,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "post capping",
     "post cement",
     "post crete near me",
+    "4 * 4 post caps",
+    "wickes post crete",
     "post toppers",
     "spur post",
-    "wickes post crete",
     "post crete wickes",
     "screwfix post crete",
-    "post crete price",
     "bq post crete",
+    "post crete price",
     "post finials",
     "blue circle post crete",
     "fence post crete",
-    "post caps for 4x4 wood post"
+    "3 5 8 post caps",
+    "4 x 6 post caps",
+    "5.5 x 5.5 post caps",
+    "4.5 x 4.5 post caps",
+    "2 7 8 post caps",
+    "2 3 8 post cap",
+    "finial of a post",
+    "cheap post caps",
+    "post caps for 4x4 wood post",
+    "b&q post caps"
   ],
   "paaQuestions": [],
   "suggestedSections": [

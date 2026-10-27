@@ -1,23 +1,35 @@
 {
   "id": "fencing-buy-fence-panels",
   "pillar": "Fencing",
-  "weekNumber": 15,
-  "scheduledMonth": "Apr",
-  "scheduledDate": "2026-04-W15",
+  "weekNumber": 22,
+  "scheduledMonth": "Jun",
+  "scheduledDate": "2026-06-W22",
   "status": "Backlog",
-  "priorityScore": 61,
+  "contentTitle": "The Complete Guide to Buy Fence Panels: Types, Board Calculations & Installation",
   "targetKeyword": "buy fence panels",
-  "recommendedTitle": "The Complete Guide to Buy Fence Panels: Types, Costs & Installation",
   "intent": "Transactional / Product Focus",
   "audience": "Domestic & DIY",
-  "metrics": {
-    "primaryVolume": 590,
-    "totalClusterVolume": 590,
+  "seoMetrics": {
+    "searchVolume": 590,
+    "totalClusterVolume": 600,
     "cpc": 1.27,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 53.7,
     "peakSearchMonth": "Mar"
   },
-  "secondaryKeywords": [],
+  "groupedKeywords": [
+    {
+      "keyword": "buy fence capping",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0,
+      "isQuestion": false
+    }
+  ],
+  "secondaryKeywords": [
+    "buy fence capping"
+  ],
   "paaQuestions": [],
   "suggestedSections": [
     "Zero-Click Fast Answer / Key Takeaways",

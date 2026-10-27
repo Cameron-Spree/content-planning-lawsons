@@ -5,18 +5,189 @@
   "scheduledMonth": "Mar",
   "scheduledDate": "2026-03-W9",
   "status": "Backlog",
-  "priorityScore": 74.9,
+  "contentTitle": "The Complete Guide to Garden Screening: Types, Board Calculations & Installation",
   "targetKeyword": "garden screening",
-  "recommendedTitle": "The Complete Guide to Garden Screening: Types, Costs & Installation",
   "intent": "Informational / Guide",
   "audience": "Domestic & DIY",
-  "metrics": {
-    "primaryVolume": 14800,
+  "seoMetrics": {
+    "searchVolume": 14800,
     "totalClusterVolume": 36600,
     "cpc": 0.51,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 76.6,
     "peakSearchMonth": "May"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "garden privacy screening",
+      "volume": 9900,
+      "competition": 100,
+      "cpc": 0.37,
+      "isQuestion": false
+    },
+    {
+      "keyword": "metal garden screening",
+      "volume": 1600,
+      "competition": 100,
+      "cpc": 0.58,
+      "isQuestion": false
+    },
+    {
+      "keyword": "garden fence screening",
+      "volume": 1300,
+      "competition": 100,
+      "cpc": 0.47,
+      "isQuestion": false
+    },
+    {
+      "keyword": "decorative garden screening",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.84,
+      "isQuestion": false
+    },
+    {
+      "keyword": "garden screening panels",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.55,
+      "isQuestion": false
+    },
+    {
+      "keyword": "garden screening rolls",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 0.5,
+      "isQuestion": false
+    },
+    {
+      "keyword": "garden screening b&q",
+      "volume": 480,
+      "competition": 100,
+      "cpc": 0.19,
+      "isQuestion": false
+    },
+    {
+      "keyword": "the range garden screening",
+      "volume": 390,
+      "competition": 99,
+      "cpc": 0.14,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bamboo garden screening",
+      "volume": 390,
+      "competition": 100,
+      "cpc": 0.47,
+      "isQuestion": false
+    },
+    {
+      "keyword": "artificial garden screening",
+      "volume": 390,
+      "competition": 100,
+      "cpc": 0.34,
+      "isQuestion": false
+    },
+    {
+      "keyword": "willow garden screening",
+      "volume": 390,
+      "competition": 100,
+      "cpc": 0.63,
+      "isQuestion": false
+    },
+    {
+      "keyword": "garden artificial screening",
+      "volume": 390,
+      "competition": 100,
+      "cpc": 0.34,
+      "isQuestion": false
+    },
+    {
+      "keyword": "b&m garden screening",
+      "volume": 390,
+      "competition": 100,
+      "cpc": 0.44,
+      "isQuestion": false
+    },
+    {
+      "keyword": "b and m garden screening",
+      "volume": 390,
+      "competition": 100,
+      "cpc": 0.44,
+      "isQuestion": false
+    },
+    {
+      "keyword": "b&m garden trellises",
+      "volume": 390,
+      "competition": 100,
+      "cpc": 0.1,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cheap garden screening",
+      "volume": 320,
+      "competition": 100,
+      "cpc": 0.32,
+      "isQuestion": false
+    },
+    {
+      "keyword": "garden wall screening",
+      "volume": 320,
+      "competition": 100,
+      "cpc": 0.73,
+      "isQuestion": false
+    },
+    {
+      "keyword": "garden screening cheap",
+      "volume": 320,
+      "competition": 100,
+      "cpc": 0.32,
+      "isQuestion": false
+    },
+    {
+      "keyword": "garden trellis screening",
+      "volume": 260,
+      "competition": 100,
+      "cpc": 0.87,
+      "isQuestion": false
+    },
+    {
+      "keyword": "garden screening and trellis",
+      "volume": 260,
+      "competition": 100,
+      "cpc": 0.87,
+      "isQuestion": false
+    },
+    {
+      "keyword": "slat screening",
+      "volume": 260,
+      "competition": 100,
+      "cpc": 0.63,
+      "isQuestion": false
+    },
+    {
+      "keyword": "pvc garden screening",
+      "volume": 210,
+      "competition": 100,
+      "cpc": 0.47,
+      "isQuestion": false
+    },
+    {
+      "keyword": "willow screening 4m x 2m",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 1.08,
+      "isQuestion": false
+    },
+    {
+      "keyword": "wickes garden screening",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 0.18,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "garden privacy screening",
     "metal garden screening",
@@ -25,13 +196,23 @@
     "garden screening panels",
     "garden screening rolls",
     "garden screening b&q",
+    "the range garden screening",
     "bamboo garden screening",
     "artificial garden screening",
     "willow garden screening",
-    "the range garden screening",
     "garden artificial screening",
     "b&m garden screening",
-    "b and m garden screening"
+    "b and m garden screening",
+    "b&m garden trellises",
+    "cheap garden screening",
+    "garden wall screening",
+    "garden screening cheap",
+    "garden trellis screening",
+    "garden screening and trellis",
+    "slat screening",
+    "pvc garden screening",
+    "willow screening 4m x 2m",
+    "wickes garden screening"
   ],
   "paaQuestions": [],
   "suggestedSections": [

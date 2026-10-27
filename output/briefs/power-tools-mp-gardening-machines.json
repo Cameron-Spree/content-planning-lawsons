@@ -1,0 +1,82 @@
+{
+  "id": "power-tools-mp-gardening-machines",
+  "pillar": "Power Tools",
+  "weekNumber": 27,
+  "scheduledMonth": "Jul",
+  "scheduledDate": "2026-07-W27",
+  "status": "Backlog",
+  "contentTitle": "Ultimate Mp Gardening Machines Guide: Features, Battery Systems & Maintenance (2026)",
+  "targetKeyword": "mp gardening machines",
+  "intent": "Informational / Guide",
+  "audience": "Domestic & DIY",
+  "seoMetrics": {
+    "searchVolume": 320,
+    "totalClusterVolume": 440,
+    "cpc": 5.65,
+    "difficulty": 6,
+    "difficultyLevel": "Easy to Rank",
+    "rankabilityScore": 102.4,
+    "peakSearchMonth": "Sep"
+  },
+  "groupedKeywords": [
+    {
+      "keyword": "lawn machines",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 0.18,
+      "isQuestion": false
+    },
+    {
+      "keyword": "the garden machines",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "gardening machines equipment",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.41,
+      "isQuestion": false
+    },
+    {
+      "keyword": "yard machines tiller",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mtd yard machines tiller",
+      "volume": 10,
+      "competition": 71,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "vegetable planting machines",
+      "volume": 10,
+      "competition": 90,
+      "cpc": 0.24,
+      "isQuestion": false
+    }
+  ],
+  "secondaryKeywords": [
+    "lawn machines",
+    "the garden machines",
+    "gardening machines equipment",
+    "yard machines tiller",
+    "mtd yard machines tiller",
+    "vegetable planting machines"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is mp gardening machines? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

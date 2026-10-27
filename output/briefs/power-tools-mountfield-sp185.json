@@ -1,37 +1,218 @@
 {
   "id": "power-tools-mountfield-sp185",
   "pillar": "Power Tools",
-  "weekNumber": 18,
+  "weekNumber": 19,
   "scheduledMonth": "May",
-  "scheduledDate": "2026-05-W18",
+  "scheduledDate": "2026-05-W19",
   "status": "Backlog",
-  "priorityScore": 66.5,
+  "contentTitle": "Ultimate Mountfield Sp185 Guide: Features, Battery Systems & Maintenance (2026)",
   "targetKeyword": "mountfield sp185",
-  "recommendedTitle": "Ultimate Mountfield Sp185 Guide: Features, Choosing & Maintenance",
   "intent": "Informational / Guide",
   "audience": "DIY & Professionals",
-  "metrics": {
-    "primaryVolume": 1900,
-    "totalClusterVolume": 9040,
+  "seoMetrics": {
+    "searchVolume": 1900,
+    "totalClusterVolume": 9150,
     "cpc": 0.4,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 60.2,
     "peakSearchMonth": "Mar"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "mountfield sp53",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.68,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mountfield hp164",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 0.18,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mountfield hp185",
+      "volume": 480,
+      "competition": 100,
+      "cpc": 0.39,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mountfield sp41",
+      "volume": 480,
+      "competition": 100,
+      "cpc": 0.3,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mountfield sp46",
+      "volume": 320,
+      "competition": 100,
+      "cpc": 0.72,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mountfield hw531pd",
+      "volume": 70,
+      "competition": 64,
+      "cpc": 2.32,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mountfield sp185 46cm 139cc self propelled rotary petrol lawn mower",
+      "volume": 260,
+      "competition": 100,
+      "cpc": 0.56,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mountfield sp42",
+      "volume": 260,
+      "competition": 100,
+      "cpc": 0.4,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mountfield hp41",
+      "volume": 260,
+      "competition": 100,
+      "cpc": 0.51,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mountfield s421r pd",
+      "volume": 260,
+      "competition": 100,
+      "cpc": 0.42,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mountfield 827m",
+      "volume": 260,
+      "competition": 100,
+      "cpc": 0.55,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mountfield st120",
+      "volume": 170,
+      "competition": 92,
+      "cpc": 0.18,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mountfield 827h",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 0.26,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mountfield sp185 petrol lawnmower",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 0.28,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mountfield rotavator",
+      "volume": 140,
+      "competition": 95,
+      "cpc": 0.11,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mountfield electress 38",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 0.43,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mountfield hp42",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 0.62,
+      "isQuestion": false
+    },
+    {
+      "keyword": "sp53h mountfield",
+      "volume": 110,
+      "competition": 100,
+      "cpc": 0.27,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mountfield hw531 pd",
+      "volume": 110,
+      "competition": 100,
+      "cpc": 1.14,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mountfield st140",
+      "volume": 110,
+      "competition": 100,
+      "cpc": 0.25,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mountfield mhj2424",
+      "volume": 110,
+      "competition": 100,
+      "cpc": 0.12,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mountfield empress 16",
+      "volume": 90,
+      "competition": 95,
+      "cpc": 0.08,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mountfield freedom 48",
+      "volume": 50,
+      "competition": 80,
+      "cpc": 0.11,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mountfield hp414",
+      "volume": 90,
+      "competition": 98,
+      "cpc": 0.09,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "mountfield sp53",
     "mountfield hp164",
     "mountfield hp185",
     "mountfield sp41",
     "mountfield sp46",
+    "mountfield hw531pd",
     "mountfield sp185 46cm 139cc self propelled rotary petrol lawn mower",
     "mountfield sp42",
     "mountfield hp41",
     "mountfield s421r pd",
     "mountfield 827m",
+    "mountfield st120",
     "mountfield 827h",
     "mountfield sp185 petrol lawnmower",
-    "mountfield st120",
-    "mountfield electress 38"
+    "mountfield rotavator",
+    "mountfield electress 38",
+    "mountfield hp42",
+    "sp53h mountfield",
+    "mountfield hw531 pd",
+    "mountfield st140",
+    "mountfield mhj2424",
+    "mountfield empress 16",
+    "mountfield freedom 48",
+    "mountfield hp414"
   ],
   "paaQuestions": [],
   "suggestedSections": [

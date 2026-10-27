@@ -5,18 +5,28 @@
   "scheduledMonth": "Jan",
   "scheduledDate": "2026-01-W4",
   "status": "Briefing",
-  "priorityScore": 62.2,
+  "contentTitle": "The Complete Guide to Wpc Fence Panels: Types, Board Calculations & Installation",
   "targetKeyword": "wpc fence panels",
-  "recommendedTitle": "The Complete Guide to Wpc Fence Panels: Types, Costs & Installation",
   "intent": "Informational / Guide",
   "audience": "Domestic & DIY",
-  "metrics": {
-    "primaryVolume": 880,
+  "seoMetrics": {
+    "searchVolume": 880,
     "totalClusterVolume": 890,
     "cpc": 1.18,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 56.5,
     "peakSearchMonth": "Mar"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "wpc louver panels price",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "wpc louver panels price"
   ],

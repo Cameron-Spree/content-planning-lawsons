@@ -1,35 +1,79 @@
 {
   "id": "building-materials-postcrete-how-much-per-post",
   "pillar": "Building Materials",
-  "weekNumber": 7,
+  "weekNumber": 5,
   "scheduledMonth": "Feb",
-  "scheduledDate": "2026-02-W7",
+  "scheduledDate": "2026-02-W5",
   "status": "Backlog",
-  "priorityScore": 47.4,
+  "contentTitle": "Postcrete How Much Per Post: Complete Step-by-Step UK Trade Guide",
   "targetKeyword": "postcrete how much per post",
-  "recommendedTitle": "Postcrete How Much Per Post: Complete Step-by-Step Guide",
   "intent": "Informational / How-To",
   "audience": "Trade & DIY",
-  "metrics": {
-    "primaryVolume": 480,
+  "seoMetrics": {
+    "searchVolume": 480,
     "totalClusterVolume": 600,
     "cpc": 0.36,
-    "competition": 40,
+    "difficulty": 40,
+    "difficultyLevel": "Moderate",
+    "rankabilityScore": 82.3,
     "peakSearchMonth": "Apr"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "postcrete how many bags per post",
+      "volume": 40,
+      "competition": 37,
+      "cpc": 0,
+      "isQuestion": true
+    },
+    {
+      "keyword": "postcrete how many posts per bag",
+      "volume": 10,
+      "competition": 14,
+      "cpc": 0,
+      "isQuestion": true
+    },
+    {
+      "keyword": "postcrete per post",
+      "volume": 30,
+      "competition": 92,
+      "cpc": 0.37,
+      "isQuestion": false
+    },
+    {
+      "keyword": "postcrete bags per post",
+      "volume": 20,
+      "competition": 95,
+      "cpc": 0.55,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bags of postcrete per post",
+      "volume": 10,
+      "competition": 95,
+      "cpc": 0.09,
+      "isQuestion": false
+    },
+    {
+      "keyword": "postcrete price per bag",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.1,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "postcrete how many bags per post",
+    "postcrete how many posts per bag",
     "postcrete per post",
     "postcrete bags per post",
     "bags of postcrete per post",
-    "postcrete how many bags",
-    "postcrete price per bag",
-    "gib price per sheet"
+    "postcrete price per bag"
   ],
   "paaQuestions": [
     "postcrete how much per post",
     "postcrete how many bags per post",
-    "postcrete how many bags"
+    "postcrete how many posts per bag"
   ],
   "suggestedSections": [
     "Zero-Click Fast Answer / Key Takeaways",

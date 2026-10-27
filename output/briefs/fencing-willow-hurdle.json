@@ -1,22 +1,39 @@
 {
   "id": "fencing-willow-hurdle",
   "pillar": "Fencing",
-  "weekNumber": 2,
-  "scheduledMonth": "Jan",
-  "scheduledDate": "2026-01-W2",
-  "status": "Briefing",
-  "priorityScore": 64.5,
+  "weekNumber": 19,
+  "scheduledMonth": "May",
+  "scheduledDate": "2026-05-W19",
+  "status": "Backlog",
+  "contentTitle": "The Complete Guide to Willow Hurdle: Types, Board Calculations & Installation",
   "targetKeyword": "willow hurdle",
-  "recommendedTitle": "The Complete Guide to Willow Hurdle: Types, Costs & Installation",
   "intent": "Informational / Guide",
   "audience": "Domestic & DIY",
-  "metrics": {
-    "primaryVolume": 590,
+  "seoMetrics": {
+    "searchVolume": 590,
     "totalClusterVolume": 810,
     "cpc": 1.46,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 54.3,
     "peakSearchMonth": "Mar"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "willow hurdle fencing",
+      "volume": 210,
+      "competition": 98,
+      "cpc": 0.98,
+      "isQuestion": false
+    },
+    {
+      "keyword": "willow hurdle fencing near me",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 1.36,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "willow hurdle fencing",
     "willow hurdle fencing near me"

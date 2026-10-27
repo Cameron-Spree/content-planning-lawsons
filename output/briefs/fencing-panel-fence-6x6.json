@@ -5,33 +5,214 @@
   "scheduledMonth": "Sep",
   "scheduledDate": "2026-09-W36",
   "status": "Backlog",
-  "priorityScore": 72.3,
+  "contentTitle": "The Complete Guide to Panel Fence 6x6: Types, Board Calculations & Installation",
   "targetKeyword": "panel fence 6x6",
-  "recommendedTitle": "The Complete Guide to Panel Fence 6x6: Types, Costs & Installation",
   "intent": "Informational / Guide",
   "audience": "Domestic & DIY",
-  "metrics": {
-    "primaryVolume": 6600,
-    "totalClusterVolume": 18280,
+  "seoMetrics": {
+    "searchVolume": 6600,
+    "totalClusterVolume": 17940,
     "cpc": 0.62,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 70.6,
     "peakSearchMonth": "Apr"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "closeboard panel fence",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.98,
+      "isQuestion": false
+    },
+    {
+      "keyword": "fence panel prices",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.51,
+      "isQuestion": false
+    },
+    {
+      "keyword": "8ft fence panel",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.45,
+      "isQuestion": false
+    },
+    {
+      "keyword": "6 foot fence panel",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.46,
+      "isQuestion": false
+    },
+    {
+      "keyword": "fence panel with gate",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.63,
+      "isQuestion": false
+    },
+    {
+      "keyword": "fence panel installation cost",
+      "volume": 170,
+      "competition": 65,
+      "cpc": 0.94,
+      "isQuestion": false
+    },
+    {
+      "keyword": "3 ft fence panel",
+      "volume": 390,
+      "competition": 100,
+      "cpc": 0.36,
+      "isQuestion": false
+    },
+    {
+      "keyword": "b and q 6x6 fence panel",
+      "volume": 390,
+      "competition": 100,
+      "cpc": 0.29,
+      "isQuestion": false
+    },
+    {
+      "keyword": "single slatted fence panel",
+      "volume": 260,
+      "competition": 100,
+      "cpc": 1.02,
+      "isQuestion": false
+    },
+    {
+      "keyword": "narrow fence panel",
+      "volume": 260,
+      "competition": 100,
+      "cpc": 0.22,
+      "isQuestion": false
+    },
+    {
+      "keyword": "6x6 trellis panel",
+      "volume": 210,
+      "competition": 100,
+      "cpc": 0.64,
+      "isQuestion": false
+    },
+    {
+      "keyword": "standard fence panel",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 0.34,
+      "isQuestion": false
+    },
+    {
+      "keyword": "omega lattice top fence panel",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 1.22,
+      "isQuestion": false
+    },
+    {
+      "keyword": "fence panel slightly too wide",
+      "volume": 20,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "europa prague fence panel",
+      "volume": 110,
+      "competition": 100,
+      "cpc": 0.58,
+      "isQuestion": false
+    },
+    {
+      "keyword": "panacea fence panel",
+      "volume": 110,
+      "competition": 100,
+      "cpc": 0.52,
+      "isQuestion": false
+    },
+    {
+      "keyword": "fence panel boards",
+      "volume": 110,
+      "competition": 100,
+      "cpc": 0.19,
+      "isQuestion": false
+    },
+    {
+      "keyword": "fence panel styles",
+      "volume": 110,
+      "competition": 100,
+      "cpc": 0.38,
+      "isQuestion": false
+    },
+    {
+      "keyword": "fence panel with gate built in",
+      "volume": 110,
+      "competition": 100,
+      "cpc": 0.76,
+      "isQuestion": false
+    },
+    {
+      "keyword": "fence panel replacement cost",
+      "volume": 50,
+      "competition": 79,
+      "cpc": 1.32,
+      "isQuestion": false
+    },
+    {
+      "keyword": "fence panel supplies",
+      "volume": 90,
+      "competition": 95,
+      "cpc": 1.48,
+      "isQuestion": false
+    },
+    {
+      "keyword": "6x6 overlap fence panel",
+      "volume": 90,
+      "competition": 100,
+      "cpc": 0.69,
+      "isQuestion": false
+    },
+    {
+      "keyword": "contemporary double slatted fence panel",
+      "volume": 90,
+      "competition": 100,
+      "cpc": 1.25,
+      "isQuestion": false
+    },
+    {
+      "keyword": "square horizontal fence panel",
+      "volume": 90,
+      "competition": 100,
+      "cpc": 1,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "closeboard panel fence",
     "fence panel prices",
     "8ft fence panel",
     "6 foot fence panel",
     "fence panel with gate",
+    "fence panel installation cost",
     "3 ft fence panel",
     "b and q 6x6 fence panel",
     "single slatted fence panel",
     "narrow fence panel",
     "6x6 trellis panel",
-    "fence panel installation cost",
     "standard fence panel",
     "omega lattice top fence panel",
-    "europa prague fence panel"
+    "fence panel slightly too wide",
+    "europa prague fence panel",
+    "panacea fence panel",
+    "fence panel boards",
+    "fence panel styles",
+    "fence panel with gate built in",
+    "fence panel replacement cost",
+    "fence panel supplies",
+    "6x6 overlap fence panel",
+    "contemporary double slatted fence panel",
+    "square horizontal fence panel"
   ],
   "paaQuestions": [],
   "suggestedSections": [

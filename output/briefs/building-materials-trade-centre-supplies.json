@@ -1,0 +1,32 @@
+{
+  "id": "building-materials-trade-centre-supplies",
+  "pillar": "Building Materials",
+  "weekNumber": 29,
+  "scheduledMonth": "Jul",
+  "scheduledDate": "2026-07-W29",
+  "status": "Backlog",
+  "contentTitle": "Trade Centre Supplies: Trade Specifications, Sizing & Underground Installation",
+  "targetKeyword": "trade centre supplies",
+  "intent": "Transactional / Product Focus",
+  "audience": "Trade & Contractors",
+  "seoMetrics": {
+    "searchVolume": 90,
+    "totalClusterVolume": 90,
+    "cpc": 0,
+    "difficulty": 1,
+    "difficultyLevel": "Easy to Rank",
+    "rankabilityScore": 79.7,
+    "peakSearchMonth": "Sep"
+  },
+  "groupedKeywords": [],
+  "secondaryKeywords": [],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is trade centre supplies? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

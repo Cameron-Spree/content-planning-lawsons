@@ -1,22 +1,193 @@
 {
   "id": "building-materials-mot-type-1",
   "pillar": "Building Materials",
-  "weekNumber": 5,
+  "weekNumber": 6,
   "scheduledMonth": "Feb",
-  "scheduledDate": "2026-02-W5",
+  "scheduledDate": "2026-02-W6",
   "status": "Backlog",
-  "priorityScore": 78.4,
+  "contentTitle": "Mot Type 1: Complete Step-by-Step UK Trade Guide",
   "targetKeyword": "mot type 1",
-  "recommendedTitle": "Mot Type 1: Complete Step-by-Step Guide",
   "intent": "Informational / How-To",
   "audience": "Trade & Contractors",
-  "metrics": {
-    "primaryVolume": 9900,
-    "totalClusterVolume": 23820,
+  "seoMetrics": {
+    "searchVolume": 9900,
+    "totalClusterVolume": 23940,
     "cpc": 0.94,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 76.7,
     "peakSearchMonth": "Apr"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "type 1 mot sub base",
+      "volume": 6600,
+      "competition": 100,
+      "cpc": 0.79,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mot type 1 bulk bag",
+      "volume": 1300,
+      "competition": 100,
+      "cpc": 1.2,
+      "isQuestion": false
+    },
+    {
+      "keyword": "type 1 mot bulk bag",
+      "volume": 1300,
+      "competition": 100,
+      "cpc": 1.2,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mot type 1 price per tonne near me",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 1,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mot type 1 25kg bags",
+      "volume": 480,
+      "competition": 100,
+      "cpc": 0.39,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bags of mot",
+      "volume": 390,
+      "competition": 100,
+      "cpc": 0.49,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mot type 1 what is it",
+      "volume": 10,
+      "competition": 17,
+      "cpc": 0,
+      "isQuestion": true
+    },
+    {
+      "keyword": "mot type 1 bags",
+      "volume": 210,
+      "competition": 100,
+      "cpc": 0.38,
+      "isQuestion": false
+    },
+    {
+      "keyword": "1 tonne mot type 1",
+      "volume": 210,
+      "competition": 100,
+      "cpc": 0.99,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mot type 1 sub base bulk bag",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 1.7,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mot type 1 bulk bag near me",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 0.82,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mot type 1 tonne bag",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 1.15,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mot type",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 0.63,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bag of mot type 1",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 0.28,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mot type 1 delivery",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 2.38,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bulk mot type 1",
+      "volume": 110,
+      "competition": 100,
+      "cpc": 1.3,
+      "isQuestion": false
+    },
+    {
+      "keyword": "type 1 mot bags",
+      "volume": 110,
+      "competition": 100,
+      "cpc": 0.66,
+      "isQuestion": false
+    },
+    {
+      "keyword": "tonne bag of mot type 1",
+      "volume": 110,
+      "competition": 100,
+      "cpc": 0.69,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mot 1 bag",
+      "volume": 110,
+      "competition": 100,
+      "cpc": 0.6,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bulk bag of mot type 1",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 0.71,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mot type 1 25kg bags near me",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 0.27,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mot type 1 small bags",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 0.17,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bulk bag type 1 mot",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 0.8,
+      "isQuestion": false
+    },
+    {
+      "keyword": "small bags of mot type 1",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 0.17,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "type 1 mot sub base",
     "mot type 1 bulk bag",
@@ -24,6 +195,7 @@
     "mot type 1 price per tonne near me",
     "mot type 1 25kg bags",
     "bags of mot",
+    "mot type 1 what is it",
     "mot type 1 bags",
     "1 tonne mot type 1",
     "mot type 1 sub base bulk bag",
@@ -31,7 +203,16 @@
     "mot type 1 tonne bag",
     "mot type",
     "bag of mot type 1",
-    "mot type 1 delivery"
+    "mot type 1 delivery",
+    "bulk mot type 1",
+    "type 1 mot bags",
+    "tonne bag of mot type 1",
+    "mot 1 bag",
+    "bulk bag of mot type 1",
+    "mot type 1 25kg bags near me",
+    "mot type 1 small bags",
+    "bulk bag type 1 mot",
+    "small bags of mot type 1"
   ],
   "paaQuestions": [
     "mot type 1 what is it"

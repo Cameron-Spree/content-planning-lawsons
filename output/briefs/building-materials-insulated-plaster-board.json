@@ -1,37 +1,106 @@
 {
   "id": "building-materials-insulated-plaster-board",
   "pillar": "Building Materials",
-  "weekNumber": 24,
-  "scheduledMonth": "Jun",
-  "scheduledDate": "2026-06-W24",
+  "weekNumber": 30,
+  "scheduledMonth": "Jul",
+  "scheduledDate": "2026-07-W30",
   "status": "Backlog",
-  "priorityScore": 71.2,
+  "contentTitle": "Insulated Plaster Board: Trade Specifications, Sizing & Underground Installation",
   "targetKeyword": "insulated plaster board",
-  "recommendedTitle": "Insulated Plaster Board: Trade Specifications, Types & Uses Explained",
   "intent": "Informational / Guide",
   "audience": "Trade & DIY",
-  "metrics": {
-    "primaryVolume": 18100,
-    "totalClusterVolume": 19090,
+  "seoMetrics": {
+    "searchVolume": 18100,
+    "totalClusterVolume": 19070,
     "cpc": 0.48,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 78.1,
     "peakSearchMonth": "Sep"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "insulation backed plaster board",
+      "volume": 480,
+      "competition": 100,
+      "cpc": 0.5,
+      "isQuestion": false
+    },
+    {
+      "keyword": "plaster board width",
+      "volume": 210,
+      "competition": 85,
+      "cpc": 0.2,
+      "isQuestion": false
+    },
+    {
+      "keyword": "insulated plaster board sizes",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 0.79,
+      "isQuestion": false
+    },
+    {
+      "keyword": "8 x 4 plaster board",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "sheet of plaster board",
+      "volume": 40,
+      "competition": 100,
+      "cpc": 0.15,
+      "isQuestion": false
+    },
+    {
+      "keyword": "plaster board sheet size",
+      "volume": 40,
+      "competition": 100,
+      "cpc": 0.11,
+      "isQuestion": false
+    },
+    {
+      "keyword": "plaster ceiling board size",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.08,
+      "isQuestion": false
+    },
+    {
+      "keyword": "eps insulated beam and block floor system",
+      "volume": 20,
+      "competition": 84,
+      "cpc": 1.31,
+      "isQuestion": false
+    },
+    {
+      "keyword": "gypsum board ceiling dimensions",
+      "volume": 10,
+      "competition": 77,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "insulated beam and block floor system",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 1.83,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "insulation backed plaster board",
     "plaster board width",
     "insulated plaster board sizes",
+    "8 x 4 plaster board",
     "sheet of plaster board",
     "plaster board sheet size",
-    "8 x 4 plaster board",
     "plaster ceiling board size",
-    "knauf multi finish plaster",
-    "insulated beam and block floor system",
-    "knauf multi finish plaster 25kg",
-    "gibson board size",
-    "gyproc board size",
+    "eps insulated beam and block floor system",
     "gypsum board ceiling dimensions",
-    "gib board sheets"
+    "insulated beam and block floor system"
   ],
   "paaQuestions": [],
   "suggestedSections": [

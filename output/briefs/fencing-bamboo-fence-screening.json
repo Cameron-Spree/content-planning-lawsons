@@ -1,22 +1,193 @@
 {
   "id": "fencing-bamboo-fence-screening",
   "pillar": "Fencing",
-  "weekNumber": 40,
+  "weekNumber": 41,
   "scheduledMonth": "Oct",
-  "scheduledDate": "2026-10-W40",
+  "scheduledDate": "2026-10-W41",
   "status": "Backlog",
-  "priorityScore": 64.9,
+  "contentTitle": "The Complete Guide to Bamboo Fence Screening: Types, Board Calculations & Installation",
   "targetKeyword": "bamboo fence screening",
-  "recommendedTitle": "The Complete Guide to Bamboo Fence Screening: Types, Costs & Installation",
   "intent": "Informational / Guide",
   "audience": "Domestic & DIY",
-  "metrics": {
-    "primaryVolume": 1600,
-    "totalClusterVolume": 5290,
+  "seoMetrics": {
+    "searchVolume": 1600,
+    "totalClusterVolume": 5260,
     "cpc": 0.52,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 59.2,
     "peakSearchMonth": "Apr"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "bamboo screening for gardens",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.51,
+      "isQuestion": false
+    },
+    {
+      "keyword": "artificial fence screening",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 0.37,
+      "isQuestion": false
+    },
+    {
+      "keyword": "privacy fence screening",
+      "volume": 480,
+      "competition": 100,
+      "cpc": 0.41,
+      "isQuestion": false
+    },
+    {
+      "keyword": "pvc fence screening",
+      "volume": 210,
+      "competition": 100,
+      "cpc": 0.49,
+      "isQuestion": false
+    },
+    {
+      "keyword": "reed fence screening",
+      "volume": 170,
+      "competition": 99,
+      "cpc": 0.36,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bamboo slat screening",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 0.53,
+      "isQuestion": false
+    },
+    {
+      "keyword": "screening bamboo slat",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 0.53,
+      "isQuestion": false
+    },
+    {
+      "keyword": "slat bamboo screening",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 0.53,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bamboo reed screening",
+      "volume": 90,
+      "competition": 100,
+      "cpc": 0.25,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bamboo screening panels",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 0.41,
+      "isQuestion": false
+    },
+    {
+      "keyword": "plastic fence screening",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 0.27,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bamboo cane screening",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 0.58,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bamboo fence material",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "mgp bamboo slat fence",
+      "volume": 0,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "gardman bamboo slat screening",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bamboo slat fencing screening",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bamboo slat rolled fence",
+      "volume": 0,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bamboo slat screening 1.5 m",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bamboo slat screening 2m",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bamboo slat screening 4m x 1.8 m",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bamboo slat screening 4m x 1m",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bamboo slat screening b&q",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bamboo slat screening homebase",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cheap fence screening",
+      "volume": 50,
+      "competition": 100,
+      "cpc": 0.51,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "bamboo screening for gardens",
     "artificial fence screening",
@@ -30,8 +201,18 @@
     "bamboo screening panels",
     "plastic fence screening",
     "bamboo cane screening",
-    "cheap fence screening",
-    "bamboo screening near me"
+    "bamboo fence material",
+    "mgp bamboo slat fence",
+    "gardman bamboo slat screening",
+    "bamboo slat fencing screening",
+    "bamboo slat rolled fence",
+    "bamboo slat screening 1.5 m",
+    "bamboo slat screening 2m",
+    "bamboo slat screening 4m x 1.8 m",
+    "bamboo slat screening 4m x 1m",
+    "bamboo slat screening b&q",
+    "bamboo slat screening homebase",
+    "cheap fence screening"
   ],
   "paaQuestions": [],
   "suggestedSections": [

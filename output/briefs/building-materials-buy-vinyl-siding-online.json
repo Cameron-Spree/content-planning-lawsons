@@ -1,0 +1,50 @@
+{
+  "id": "building-materials-buy-vinyl-siding-online",
+  "pillar": "Building Materials",
+  "weekNumber": 38,
+  "scheduledMonth": "Sep",
+  "scheduledDate": "2026-09-W38",
+  "status": "Backlog",
+  "contentTitle": "Buy Vinyl Siding Online: Trade Specifications, Sizing & Underground Installation",
+  "targetKeyword": "buy vinyl siding online",
+  "intent": "Transactional / Product Focus",
+  "audience": "Trade & DIY",
+  "seoMetrics": {
+    "searchVolume": 0,
+    "totalClusterVolume": 30,
+    "cpc": 0,
+    "difficulty": 0,
+    "difficultyLevel": "Easy to Rank",
+    "rankabilityScore": 63,
+    "peakSearchMonth": "Sep"
+  },
+  "groupedKeywords": [
+    {
+      "keyword": "online vinyl siding suppliers",
+      "volume": 0,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "buy hardboard",
+      "volume": 30,
+      "competition": 100,
+      "cpc": 0.11,
+      "isQuestion": false
+    }
+  ],
+  "secondaryKeywords": [
+    "online vinyl siding suppliers",
+    "buy hardboard"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is buy vinyl siding online? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "building-materials-construction-material-online-bu",
+  "pillar": "Building Materials",
+  "weekNumber": 1,
+  "scheduledMonth": "Jan",
+  "scheduledDate": "2026-01-W1",
+  "status": "Briefing",
+  "contentTitle": "Construction Material Online Buy: Trade Specifications, Sizing & Underground Installation",
+  "targetKeyword": "construction material online buy",
+  "intent": "Transactional / Product Focus",
+  "audience": "Trade & DIY",
+  "seoMetrics": {
+    "searchVolume": 0,
+    "totalClusterVolume": 40,
+    "cpc": 0,
+    "difficulty": 0,
+    "difficultyLevel": "Easy to Rank",
+    "rankabilityScore": 63,
+    "peakSearchMonth": "Mar"
+  },
+  "groupedKeywords": [
+    {
+      "keyword": "construction material online purchase",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "home construction material online",
+      "volume": 0,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "online construction material supply",
+      "volume": 0,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "buy construction material online",
+      "volume": 30,
+      "competition": 100,
+      "cpc": 3.34,
+      "isQuestion": false
+    }
+  ],
+  "secondaryKeywords": [
+    "construction material online purchase",
+    "home construction material online",
+    "online construction material supply",
+    "buy construction material online"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is construction material online buy? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

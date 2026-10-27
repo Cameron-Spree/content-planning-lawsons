@@ -1,0 +1,32 @@
+{
+  "id": "building-materials-hardware-material-online",
+  "pillar": "Building Materials",
+  "weekNumber": 14,
+  "scheduledMonth": "Apr",
+  "scheduledDate": "2026-04-W14",
+  "status": "Backlog",
+  "contentTitle": "Hardware Material Online: Trade Specifications, Sizing & Underground Installation",
+  "targetKeyword": "hardware material online",
+  "intent": "Transactional / Product Focus",
+  "audience": "Trade & DIY",
+  "seoMetrics": {
+    "searchVolume": 10,
+    "totalClusterVolume": 10,
+    "cpc": 0,
+    "difficulty": 0,
+    "difficultyLevel": "Easy to Rank",
+    "rankabilityScore": 63,
+    "peakSearchMonth": "Jun"
+  },
+  "groupedKeywords": [],
+  "secondaryKeywords": [],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is hardware material online? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

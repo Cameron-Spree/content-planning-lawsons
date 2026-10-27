@@ -1,0 +1,50 @@
+{
+  "id": "building-materials-thinnest-drywall-sheets",
+  "pillar": "Building Materials",
+  "weekNumber": 36,
+  "scheduledMonth": "Sep",
+  "scheduledDate": "2026-09-W36",
+  "status": "Backlog",
+  "contentTitle": "Thinnest Drywall Sheets: Trade Specifications, Sizing & Underground Installation",
+  "targetKeyword": "thinnest drywall sheets",
+  "intent": "Informational / Guide",
+  "audience": "Trade & DIY",
+  "seoMetrics": {
+    "searchVolume": 10,
+    "totalClusterVolume": 20,
+    "cpc": 0,
+    "difficulty": 0,
+    "difficultyLevel": "Easy to Rank",
+    "rankabilityScore": 63,
+    "peakSearchMonth": "Nov"
+  },
+  "groupedKeywords": [
+    {
+      "keyword": "thinnest sheet of drywall",
+      "volume": 0,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "thinnest drywall size",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    }
+  ],
+  "secondaryKeywords": [
+    "thinnest sheet of drywall",
+    "thinnest drywall size"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is thinnest drywall sheets? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

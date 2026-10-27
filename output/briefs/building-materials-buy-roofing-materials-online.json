@@ -1,0 +1,42 @@
+{
+  "id": "building-materials-buy-roofing-materials-online",
+  "pillar": "Building Materials",
+  "weekNumber": 42,
+  "scheduledMonth": "Oct",
+  "scheduledDate": "2026-10-W42",
+  "status": "Backlog",
+  "contentTitle": "Buy Roofing Materials Online: Trade Specifications, Sizing & Underground Installation",
+  "targetKeyword": "buy roofing materials online",
+  "intent": "Transactional / Product Focus",
+  "audience": "Trade & DIY",
+  "seoMetrics": {
+    "searchVolume": 10,
+    "totalClusterVolume": 20,
+    "cpc": 0,
+    "difficulty": 0,
+    "difficultyLevel": "Easy to Rank",
+    "rankabilityScore": 63,
+    "peakSearchMonth": "Sep"
+  },
+  "groupedKeywords": [
+    {
+      "keyword": "roofing materials online",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 2.05,
+      "isQuestion": false
+    }
+  ],
+  "secondaryKeywords": [
+    "roofing materials online"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is buy roofing materials online? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

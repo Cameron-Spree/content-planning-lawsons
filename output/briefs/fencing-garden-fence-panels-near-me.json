@@ -1,22 +1,32 @@
 {
   "id": "fencing-garden-fence-panels-near-me",
   "pillar": "Fencing",
-  "weekNumber": 25,
-  "scheduledMonth": "Jun",
-  "scheduledDate": "2026-06-W25",
+  "weekNumber": 35,
+  "scheduledMonth": "Sep",
+  "scheduledDate": "2026-09-W35",
   "status": "Backlog",
-  "priorityScore": 54.2,
+  "contentTitle": "The Complete Guide to Garden Fence Panels Near Me: Types, Board Calculations & Installation",
   "targetKeyword": "garden fence panels near me",
-  "recommendedTitle": "The Complete Guide to Garden Fence Panels Near Me: Types, Costs & Installation",
   "intent": "Informational / Guide",
   "audience": "Domestic & DIY",
-  "metrics": {
-    "primaryVolume": 480,
+  "seoMetrics": {
+    "searchVolume": 480,
     "totalClusterVolume": 490,
     "cpc": 0.69,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 50.3,
     "peakSearchMonth": "Mar"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "amagabeli decorative garden fence",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "amagabeli decorative garden fence"
   ],

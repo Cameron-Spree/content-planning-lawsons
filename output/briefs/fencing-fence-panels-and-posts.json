@@ -1,22 +1,24 @@
 {
   "id": "fencing-fence-panels-and-posts",
   "pillar": "Fencing",
-  "weekNumber": 17,
+  "weekNumber": 14,
   "scheduledMonth": "Apr",
-  "scheduledDate": "2026-04-W17",
+  "scheduledDate": "2026-04-W14",
   "status": "Backlog",
-  "priorityScore": 58.1,
+  "contentTitle": "Fence Panels And Posts: Complete Step-by-Step UK Trade Guide",
   "targetKeyword": "fence panels and posts",
-  "recommendedTitle": "Fence Panels And Posts: Complete Step-by-Step Guide",
   "intent": "Informational / How-To",
   "audience": "Domestic & DIY",
-  "metrics": {
-    "primaryVolume": 1000,
+  "seoMetrics": {
+    "searchVolume": 1000,
     "totalClusterVolume": 1000,
     "cpc": 0.71,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 56.1,
     "peakSearchMonth": "Mar"
   },
+  "groupedKeywords": [],
   "secondaryKeywords": [],
   "paaQuestions": [],
   "suggestedSections": [

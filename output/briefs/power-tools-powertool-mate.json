@@ -1,0 +1,66 @@
+{
+  "id": "power-tools-powertool-mate",
+  "pillar": "Power Tools",
+  "weekNumber": 49,
+  "scheduledMonth": "Dec",
+  "scheduledDate": "2026-12-W49",
+  "status": "Backlog",
+  "contentTitle": "Ultimate Powertool Mate Guide: Features, Battery Systems & Maintenance (2026)",
+  "targetKeyword": "powertool mate",
+  "intent": "Informational / Guide",
+  "audience": "DIY & Professionals",
+  "seoMetrics": {
+    "searchVolume": 33100,
+    "totalClusterVolume": 33850,
+    "cpc": 0.27,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 82.2,
+    "peakSearchMonth": "Sep"
+  },
+  "groupedKeywords": [
+    {
+      "keyword": "powertool",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 0.95,
+      "isQuestion": false
+    },
+    {
+      "keyword": "powertool world uk",
+      "volume": 110,
+      "competition": 99,
+      "cpc": 0.77,
+      "isQuestion": false
+    },
+    {
+      "keyword": "powertool world co uk",
+      "volume": 40,
+      "competition": 95,
+      "cpc": 0.46,
+      "isQuestion": false
+    },
+    {
+      "keyword": "powertool supplies co uk",
+      "volume": 10,
+      "competition": 76,
+      "cpc": 0,
+      "isQuestion": false
+    }
+  ],
+  "secondaryKeywords": [
+    "powertool",
+    "powertool world uk",
+    "powertool world co uk",
+    "powertool supplies co uk"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is powertool mate? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

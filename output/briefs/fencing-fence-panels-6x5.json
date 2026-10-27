@@ -1,22 +1,24 @@
 {
   "id": "fencing-fence-panels-6x5",
   "pillar": "Fencing",
-  "weekNumber": 26,
-  "scheduledMonth": "Jun",
-  "scheduledDate": "2026-06-W26",
+  "weekNumber": 34,
+  "scheduledMonth": "Aug",
+  "scheduledDate": "2026-08-W34",
   "status": "Backlog",
-  "priorityScore": 53.9,
+  "contentTitle": "The Complete Guide to Fence Panels 6x5: Types, Board Calculations & Installation",
   "targetKeyword": "fence panels 6x5",
-  "recommendedTitle": "The Complete Guide to Fence Panels 6x5: Types, Costs & Installation",
   "intent": "Informational / Guide",
   "audience": "Domestic & DIY",
-  "metrics": {
-    "primaryVolume": 480,
+  "seoMetrics": {
+    "searchVolume": 480,
     "totalClusterVolume": 480,
     "cpc": 0.67,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 50.3,
     "peakSearchMonth": "Mar"
   },
+  "groupedKeywords": [],
   "secondaryKeywords": [],
   "paaQuestions": [],
   "suggestedSections": [

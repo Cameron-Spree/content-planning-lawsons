@@ -1,22 +1,193 @@
 {
   "id": "power-tools-bosch-cordless-strimmer",
   "pillar": "Power Tools",
-  "weekNumber": 35,
+  "weekNumber": 38,
   "scheduledMonth": "Sep",
-  "scheduledDate": "2026-09-W35",
+  "scheduledDate": "2026-09-W38",
   "status": "Backlog",
-  "priorityScore": 72.9,
+  "contentTitle": "Ultimate Bosch Cordless Strimmer Guide: Features, Battery Systems & Maintenance (2026)",
   "targetKeyword": "bosch cordless strimmer",
-  "recommendedTitle": "Ultimate Bosch Cordless Strimmer Guide: Features, Choosing & Maintenance",
   "intent": "Informational / Guide",
   "audience": "DIY & Professionals",
-  "metrics": {
-    "primaryVolume": 2400,
-    "totalClusterVolume": 40200,
+  "seoMetrics": {
+    "searchVolume": 2400,
+    "totalClusterVolume": 37940,
     "cpc": 0.26,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 61.6,
     "peakSearchMonth": "May"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "bosch cordless grass strimmer",
+      "volume": 2400,
+      "competition": 100,
+      "cpc": 0.26,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bosch battery powered strimmer",
+      "volume": 2400,
+      "competition": 100,
+      "cpc": 0.26,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bosch rechargeable strimmer",
+      "volume": 2400,
+      "competition": 100,
+      "cpc": 0.26,
+      "isQuestion": false
+    },
+    {
+      "keyword": "strimmer bosch cordless",
+      "volume": 2400,
+      "competition": 100,
+      "cpc": 0.26,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cordless strimmer with battery and charger",
+      "volume": 1900,
+      "competition": 100,
+      "cpc": 0.26,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bosch cordless drill",
+      "volume": 1600,
+      "competition": 100,
+      "cpc": 0.31,
+      "isQuestion": false
+    },
+    {
+      "keyword": "argos cordless strimmer",
+      "volume": 1600,
+      "competition": 100,
+      "cpc": 0.13,
+      "isQuestion": false
+    },
+    {
+      "keyword": "makita cordless strimmer",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.4,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cordless strimmer b&q",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.11,
+      "isQuestion": false
+    },
+    {
+      "keyword": "b and q cordless strimmer",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.11,
+      "isQuestion": false
+    },
+    {
+      "keyword": "b&q cordless strimmer",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.11,
+      "isQuestion": false
+    },
+    {
+      "keyword": "ryobi cordless strimmer",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.41,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bosch cordless screwdriver",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.22,
+      "isQuestion": false
+    },
+    {
+      "keyword": "electric strimmer cordless",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 0.32,
+      "isQuestion": false
+    },
+    {
+      "keyword": "screwfix cordless strimmer",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.15,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cordless strimmer with blades",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 0.26,
+      "isQuestion": false
+    },
+    {
+      "keyword": "flymo cordless strimmer",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 0.22,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cordless strimmer blades",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 0.26,
+      "isQuestion": false
+    },
+    {
+      "keyword": "amazon cordless strimmer",
+      "volume": 390,
+      "competition": 92,
+      "cpc": 0.13,
+      "isQuestion": false
+    },
+    {
+      "keyword": "black and decker cordless strimmer",
+      "volume": 480,
+      "competition": 100,
+      "cpc": 0.19,
+      "isQuestion": false
+    },
+    {
+      "keyword": "einhell cordless strimmer",
+      "volume": 480,
+      "competition": 100,
+      "cpc": 0.14,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bosch battery strimmer",
+      "volume": 480,
+      "competition": 100,
+      "cpc": 0.27,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery bosch strimmer",
+      "volume": 480,
+      "competition": 100,
+      "cpc": 0.27,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery strimmer bosch",
+      "volume": 480,
+      "competition": 100,
+      "cpc": 0.27,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "bosch cordless grass strimmer",
     "bosch battery powered strimmer",
@@ -24,14 +195,24 @@
     "strimmer bosch cordless",
     "cordless strimmer with battery and charger",
     "bosch cordless drill",
-    "best cordless strimmer",
-    "best strimmer cordless",
     "argos cordless strimmer",
     "makita cordless strimmer",
     "cordless strimmer b&q",
     "b and q cordless strimmer",
     "b&q cordless strimmer",
-    "ryobi cordless strimmer"
+    "ryobi cordless strimmer",
+    "bosch cordless screwdriver",
+    "electric strimmer cordless",
+    "screwfix cordless strimmer",
+    "cordless strimmer with blades",
+    "flymo cordless strimmer",
+    "cordless strimmer blades",
+    "amazon cordless strimmer",
+    "black and decker cordless strimmer",
+    "einhell cordless strimmer",
+    "bosch battery strimmer",
+    "battery bosch strimmer",
+    "battery strimmer bosch"
   ],
   "paaQuestions": [],
   "suggestedSections": [

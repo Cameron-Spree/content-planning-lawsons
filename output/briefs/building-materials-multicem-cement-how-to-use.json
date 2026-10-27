@@ -1,0 +1,44 @@
+{
+  "id": "building-materials-multicem-cement-how-to-use",
+  "pillar": "Building Materials",
+  "weekNumber": 25,
+  "scheduledMonth": "Jun",
+  "scheduledDate": "2026-06-W25",
+  "status": "Backlog",
+  "contentTitle": "Multicem Cement How To Use: Complete Step-by-Step UK Trade Guide",
+  "targetKeyword": "multicem cement how to use",
+  "intent": "Informational / How-To",
+  "audience": "Trade & DIY",
+  "seoMetrics": {
+    "searchVolume": 10,
+    "totalClusterVolume": 20,
+    "cpc": 0,
+    "difficulty": 0,
+    "difficultyLevel": "Easy to Rank",
+    "rankabilityScore": 65,
+    "peakSearchMonth": "Sep"
+  },
+  "groupedKeywords": [
+    {
+      "keyword": "multicem cement with added workability",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0,
+      "isQuestion": false
+    }
+  ],
+  "secondaryKeywords": [
+    "multicem cement with added workability"
+  ],
+  "paaQuestions": [
+    "multicem cement how to use"
+  ],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is multicem cement how to use? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

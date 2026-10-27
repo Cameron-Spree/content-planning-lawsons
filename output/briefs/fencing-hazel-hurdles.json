@@ -1,22 +1,88 @@
 {
   "id": "fencing-hazel-hurdles",
   "pillar": "Fencing",
-  "weekNumber": 5,
-  "scheduledMonth": "Feb",
-  "scheduledDate": "2026-02-W5",
+  "weekNumber": 37,
+  "scheduledMonth": "Sep",
+  "scheduledDate": "2026-09-W37",
   "status": "Backlog",
-  "priorityScore": 91.1,
+  "contentTitle": "The Complete Guide to Hazel Hurdles: Types, Board Calculations & Installation",
   "targetKeyword": "hazel hurdles",
-  "recommendedTitle": "The Complete Guide to Hazel Hurdles: Types, Costs & Installation",
   "intent": "Informational / Guide",
   "audience": "Domestic & DIY",
-  "metrics": {
-    "primaryVolume": 1600,
+  "seoMetrics": {
+    "searchVolume": 1600,
     "totalClusterVolume": 2320,
     "cpc": 3.57,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 68.4,
     "peakSearchMonth": "Apr"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "hazel hurdles near me",
+      "volume": 210,
+      "competition": 99,
+      "cpc": 1.5,
+      "isQuestion": false
+    },
+    {
+      "keyword": "hazel hurdles 6ft",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 3.38,
+      "isQuestion": false
+    },
+    {
+      "keyword": "hazel hurdles 3ft",
+      "volume": 90,
+      "competition": 100,
+      "cpc": 2.52,
+      "isQuestion": false
+    },
+    {
+      "keyword": "hazel hurdles 4ft",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 1.51,
+      "isQuestion": false
+    },
+    {
+      "keyword": "wattle hurdles",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 2.52,
+      "isQuestion": false
+    },
+    {
+      "keyword": "wicker hurdles",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 0.82,
+      "isQuestion": false
+    },
+    {
+      "keyword": "willow hurdles near me",
+      "volume": 50,
+      "competition": 100,
+      "cpc": 0.74,
+      "isQuestion": false
+    },
+    {
+      "keyword": "hazel hurdles 5ft",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 4.5,
+      "isQuestion": false
+    },
+    {
+      "keyword": "split chestnut hurdles",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 2.48,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "hazel hurdles near me",
     "hazel hurdles 6ft",

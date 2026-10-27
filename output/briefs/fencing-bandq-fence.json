@@ -1,0 +1,32 @@
+{
+  "id": "fencing-bandq-fence",
+  "pillar": "Fencing",
+  "weekNumber": 47,
+  "scheduledMonth": "Nov",
+  "scheduledDate": "2026-11-W47",
+  "status": "Backlog",
+  "contentTitle": "The Complete Guide to Bandq Fence: Types, Board Calculations & Installation",
+  "targetKeyword": "bandq fence",
+  "intent": "Informational / Guide",
+  "audience": "Domestic & DIY",
+  "seoMetrics": {
+    "searchVolume": 1300,
+    "totalClusterVolume": 1300,
+    "cpc": 0.13,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 56.4,
+    "peakSearchMonth": "Apr"
+  },
+  "groupedKeywords": [],
+  "secondaryKeywords": [],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is bandq fence? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

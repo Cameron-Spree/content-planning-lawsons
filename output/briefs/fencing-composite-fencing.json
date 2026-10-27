@@ -1,41 +1,220 @@
 {
   "id": "fencing-composite-fencing",
   "pillar": "Fencing",
-  "weekNumber": 28,
+  "weekNumber": 30,
   "scheduledMonth": "Jul",
-  "scheduledDate": "2026-07-W28",
+  "scheduledDate": "2026-07-W30",
   "status": "Backlog",
-  "priorityScore": 101.4,
+  "contentTitle": "Contractor's Guide to Composite Fencing: Specifications, Installation & Spacing",
   "targetKeyword": "composite fencing",
-  "recommendedTitle": "Composite Fencing: Complete Step-by-Step Guide",
-  "intent": "Informational / How-To",
+  "intent": "Informational / Guide",
   "audience": "Trade & Contractors",
-  "metrics": {
-    "primaryVolume": 14800,
-    "totalClusterVolume": 60200,
+  "seoMetrics": {
+    "searchVolume": 14800,
+    "totalClusterVolume": 51350,
     "cpc": 2.75,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 83.3,
     "peakSearchMonth": "Sep"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "fencing materials near me",
+      "volume": 5400,
+      "competition": 100,
+      "cpc": 1.08,
+      "isQuestion": false
+    },
+    {
+      "keyword": "fencing products near me",
+      "volume": 5400,
+      "competition": 100,
+      "cpc": 1.08,
+      "isQuestion": false
+    },
+    {
+      "keyword": "av fencing",
+      "volume": 5400,
+      "competition": 100,
+      "cpc": 0.77,
+      "isQuestion": false
+    },
+    {
+      "keyword": "slat fencing",
+      "volume": 2900,
+      "competition": 100,
+      "cpc": 0.43,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stock fencing",
+      "volume": 2400,
+      "competition": 100,
+      "cpc": 0.64,
+      "isQuestion": false
+    },
+    {
+      "keyword": "composite fencing panels",
+      "volume": 1900,
+      "competition": 100,
+      "cpc": 2.43,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cothi fencing",
+      "volume": 50,
+      "competition": 10,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "composite fencing near me",
+      "volume": 1300,
+      "competition": 100,
+      "cpc": 1.95,
+      "isQuestion": false
+    },
+    {
+      "keyword": "featherboard fencing",
+      "volume": 1300,
+      "competition": 100,
+      "cpc": 0.42,
+      "isQuestion": false
+    },
+    {
+      "keyword": "grangewood fencing near me",
+      "volume": 90,
+      "competition": 32,
+      "cpc": 0.43,
+      "isQuestion": false
+    },
+    {
+      "keyword": "composite fencing and gates",
+      "volume": 880,
+      "competition": 100,
+      "cpc": 1.88,
+      "isQuestion": false
+    },
+    {
+      "keyword": "fencing materials",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 1.11,
+      "isQuestion": false
+    },
+    {
+      "keyword": "wickes composite fencing",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 1.36,
+      "isQuestion": false
+    },
+    {
+      "keyword": "concrete fencing",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 0.73,
+      "isQuestion": false
+    },
+    {
+      "keyword": "composite fencing panels b&q",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 0.64,
+      "isQuestion": false
+    },
+    {
+      "keyword": "fencing rolls",
+      "volume": 480,
+      "competition": 100,
+      "cpc": 0.43,
+      "isQuestion": false
+    },
+    {
+      "keyword": "b&q composite fencing",
+      "volume": 320,
+      "competition": 100,
+      "cpc": 0.86,
+      "isQuestion": false
+    },
+    {
+      "keyword": "lattice fencing",
+      "volume": 320,
+      "competition": 100,
+      "cpc": 0.33,
+      "isQuestion": false
+    },
+    {
+      "keyword": "eurocell composite fencing",
+      "volume": 320,
+      "competition": 100,
+      "cpc": 1.55,
+      "isQuestion": false
+    },
+    {
+      "keyword": "composite fencing b&q",
+      "volume": 320,
+      "competition": 100,
+      "cpc": 0.86,
+      "isQuestion": false
+    },
+    {
+      "keyword": "composite fencing cost",
+      "volume": 320,
+      "competition": 100,
+      "cpc": 1.71,
+      "isQuestion": false
+    },
+    {
+      "keyword": "shiplap fencing",
+      "volume": 320,
+      "competition": 100,
+      "cpc": 0.32,
+      "isQuestion": false
+    },
+    {
+      "keyword": "composite fencing prices",
+      "volume": 320,
+      "competition": 100,
+      "cpc": 1.71,
+      "isQuestion": false
+    },
+    {
+      "keyword": "perimeter fencing",
+      "volume": 260,
+      "competition": 98,
+      "cpc": 3.1,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
-    "fencing supplies near me",
     "fencing materials near me",
     "fencing products near me",
     "av fencing",
-    "fencing supplies",
     "slat fencing",
     "stock fencing",
     "composite fencing panels",
+    "cothi fencing",
     "composite fencing near me",
     "featherboard fencing",
-    "fencing timber",
+    "grangewood fencing near me",
     "composite fencing and gates",
     "fencing materials",
-    "wickes composite fencing"
+    "wickes composite fencing",
+    "concrete fencing",
+    "composite fencing panels b&q",
+    "fencing rolls",
+    "b&q composite fencing",
+    "lattice fencing",
+    "eurocell composite fencing",
+    "composite fencing b&q",
+    "composite fencing cost",
+    "shiplap fencing",
+    "composite fencing prices",
+    "perimeter fencing"
   ],
-  "paaQuestions": [
-    "feather edge fencing which way round"
-  ],
+  "paaQuestions": [],
   "suggestedSections": [
     "Zero-Click Fast Answer / Key Takeaways",
     "What is composite fencing? Overview & Specifications",

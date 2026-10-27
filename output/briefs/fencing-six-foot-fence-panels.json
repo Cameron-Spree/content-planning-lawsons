@@ -1,37 +1,218 @@
 {
   "id": "fencing-six-foot-fence-panels",
   "pillar": "Fencing",
-  "weekNumber": 52,
-  "scheduledMonth": "Dec",
-  "scheduledDate": "2026-12-W52",
+  "weekNumber": 44,
+  "scheduledMonth": "Nov",
+  "scheduledDate": "2026-11-W44",
   "status": "Backlog",
-  "priorityScore": 61.1,
+  "contentTitle": "The Complete Guide to Six Foot Fence Panels: Types, Board Calculations & Installation",
   "targetKeyword": "six foot fence panels",
-  "recommendedTitle": "The Complete Guide to Six Foot Fence Panels: Types, Costs & Installation",
   "intent": "Informational / Guide",
   "audience": "Domestic & DIY",
-  "metrics": {
-    "primaryVolume": 1300,
-    "totalClusterVolume": 2310,
+  "seoMetrics": {
+    "searchVolume": 1300,
+    "totalClusterVolume": 2320,
     "cpc": 0.57,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 57.8,
     "peakSearchMonth": "Apr"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "3 foot fence",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 0.21,
+      "isQuestion": false
+    },
+    {
+      "keyword": "6 foot by 6 foot trellis",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 0.41,
+      "isQuestion": false
+    },
+    {
+      "keyword": "6 foot fence pickets",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 0.31,
+      "isQuestion": false
+    },
+    {
+      "keyword": "6 foot fence boards",
+      "volume": 110,
+      "competition": 99,
+      "cpc": 0.27,
+      "isQuestion": false
+    },
+    {
+      "keyword": "6 foot fence slats",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 0.26,
+      "isQuestion": false
+    },
+    {
+      "keyword": "4 foot vinyl fence",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "8 foot vinyl fence",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "4 foot privacy fence",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "7 foot privacy fence",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "4 foot tall fence",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "6 foot x 3 foot trellis",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "6 foot garden fence",
+      "volume": 50,
+      "competition": 100,
+      "cpc": 0.25,
+      "isQuestion": false
+    },
+    {
+      "keyword": "8 foot privacy fence",
+      "volume": 10,
+      "competition": 67,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "3 foot garden fence",
+      "volume": 30,
+      "competition": 100,
+      "cpc": 0.39,
+      "isQuestion": false
+    },
+    {
+      "keyword": "8 foot fence boards",
+      "volume": 30,
+      "competition": 100,
+      "cpc": 0.27,
+      "isQuestion": false
+    },
+    {
+      "keyword": "6 foot privacy fence",
+      "volume": 20,
+      "competition": 99,
+      "cpc": 0.2,
+      "isQuestion": false
+    },
+    {
+      "keyword": "6 foot metal fence",
+      "volume": 20,
+      "competition": 100,
+      "cpc": 0.92,
+      "isQuestion": false
+    },
+    {
+      "keyword": "4 foot garden fence",
+      "volume": 20,
+      "competition": 100,
+      "cpc": 1.03,
+      "isQuestion": false
+    },
+    {
+      "keyword": "2 foot garden fence",
+      "volume": 20,
+      "competition": 100,
+      "cpc": 0.13,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cost of 8 foot privacy fence",
+      "volume": 10,
+      "competition": 86,
+      "cpc": 2.05,
+      "isQuestion": false
+    },
+    {
+      "keyword": "3 foot vinyl fence",
+      "volume": 10,
+      "competition": 99,
+      "cpc": 0.09,
+      "isQuestion": false
+    },
+    {
+      "keyword": "6 foot wooden fence",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.11,
+      "isQuestion": false
+    },
+    {
+      "keyword": "8 foot tall fence",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 1.46,
+      "isQuestion": false
+    },
+    {
+      "keyword": "3 foot metal fence",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.16,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "3 foot fence",
     "6 foot by 6 foot trellis",
     "6 foot fence pickets",
     "6 foot fence boards",
     "6 foot fence slats",
+    "4 foot vinyl fence",
+    "8 foot vinyl fence",
+    "4 foot privacy fence",
+    "7 foot privacy fence",
+    "4 foot tall fence",
+    "6 foot x 3 foot trellis",
     "6 foot garden fence",
+    "8 foot privacy fence",
     "3 foot garden fence",
     "8 foot fence boards",
     "6 foot privacy fence",
     "6 foot metal fence",
     "4 foot garden fence",
     "2 foot garden fence",
-    "8 foot privacy fence",
-    "4 foot vinyl fence"
+    "cost of 8 foot privacy fence",
+    "3 foot vinyl fence",
+    "6 foot wooden fence",
+    "8 foot tall fence",
+    "3 foot metal fence"
   ],
   "paaQuestions": [],
   "suggestedSections": [

@@ -1,13 +1,13 @@
 /**
  * Semantic Topic Clustering Engine
- * Groups ~48k raw keywords into high-impact topic clusters with primary head,
- * secondary variations, and PAA questions.
+ * Groups ~48k raw keywords into high-impact topic clusters with rich content titles,
+ * primary target, grouped similar keywords with individual metrics, and PAA questions.
  */
 
 const STOPWORDS = new Set([
   'in', 'on', 'at', 'for', 'the', 'and', 'of', 'to', 'a', 'an', 'near', 'me',
-  'uk', 'with', 'from', 'by', 'as', 'into', 'around', 'about', 'best', 'top',
-  'cheap', 'online', 'free', 'cost', 'price'
+  'uk', 'with', 'from', 'by', 'as', 'into', 'around', 'about', 'cheap',
+  'online', 'free', 'cost', 'price'
 ]);
 
 function getTokens(str) {
@@ -24,27 +24,53 @@ function slugify(text) {
     .replace(/\s+/g, '-');
 }
 
-function generateTitle(primaryKeyword, intent, pillar) {
-  const cap = primaryKeyword.replace(/\b\w/g, l => l.toUpperCase());
+/**
+ * Generate high-converting, professional UK trade and merchant editorial titles.
+ */
+function generateTitle(primaryKeyword, intent, pillar, audience) {
+  const cleanKw = primaryKeyword.trim();
+  const cap = cleanKw.replace(/\b\w/g, l => l.toUpperCase());
+  const year = 2026;
 
-  if (intent.includes('Commercial')) {
-    return `Best ${cap}: Buying Guide & Comparisons (${new Date().getFullYear()})`;
+  if (intent.includes('Commercial') || cleanKw.includes('best') || cleanKw.includes('vs') || cleanKw.includes('review')) {
+    if (pillar === 'Power Tools') {
+      return `Best ${cap} (${year}): Trade Reviews & Buying Guide`;
+    }
+    return `Best ${cap} Compared: Buying Guide & Buyer's Checklist (${year})`;
   }
-  if (intent.includes('How-To') || primaryKeyword.startsWith('how ') || primaryKeyword.startsWith('what ')) {
-    return `${cap}: Complete Step-by-Step Guide`;
+
+  if (intent.includes('How-To') || cleanKw.startsWith('how ') || cleanKw.startsWith('what ') || cleanKw.startsWith('which ')) {
+    return `${cap}: Complete Step-by-Step UK Trade Guide`;
   }
-  if (pillar === 'Building Materials') {
-    return `${cap}: Trade Specifications, Types & Uses Explained`;
+
+  if (pillar === 'Fencing') {
+    if (audience.includes('Trade')) {
+      return `Contractor's Guide to ${cap}: Specifications, Installation & Spacing`;
+    }
+    return `The Complete Guide to ${cap}: Types, Board Calculations & Installation`;
   }
+
   if (pillar === 'Power Tools') {
-    return `Ultimate ${cap} Guide: Features, Choosing & Maintenance`;
+    return `Ultimate ${cap} Guide: Features, Battery Systems & Maintenance (${year})`;
   }
-  return `The Complete Guide to ${cap}: Types, Costs & Installation`;
+
+  if (pillar === 'Building Materials') {
+    if (audience.includes('Trade')) {
+      return `${cap}: Trade Specifications, Sizing & Underground Installation`;
+    }
+    return `Everything You Need to Know About ${cap}: Uses, Calculations & Sizing`;
+  }
+
+  return `The Complete UK Guide to ${cap}: Costs, Types & Installation (${year})`;
 }
 
 function clusterKeywords(keywordsList, pillarName, targetClusterCount = 52) {
-  // Sort by search volume descending so high-volume terms form cluster seed heads
-  const sorted = [...keywordsList].sort((a, b) => (b.volume || 0) - (a.volume || 0));
+  // Sort primarily by a combination of volume and rankability (giving lower competition terms high visibility)
+  const sorted = [...keywordsList].sort((a, b) => {
+    const scoreA = (Math.log10(Math.max(a.volume || 10, 10)) * 25) + ((100 - (a.competition || 50)) * 0.4);
+    const scoreB = (Math.log10(Math.max(b.volume || 10, 10)) * 25) + ((100 - (b.competition || 50)) * 0.4);
+    return scoreB - scoreA;
+  });
 
   const clusters = [];
   const assigned = new Set();
@@ -62,12 +88,10 @@ function clusterKeywords(keywordsList, pillarName, targetClusterCount = 52) {
 
     for (const cluster of clusters) {
       const seedTokens = cluster.seedTokens;
-      // Calculate token intersection
       const intersection = tokens.filter(t => seedTokens.has(t));
       const overlapScore = intersection.length / Math.min(tokens.length, seedTokens.size);
 
-      // Require meaningful semantic match (at least 2 matching tokens or complete subset)
-      if ((intersection.length >= 2 || (intersection.length === 1 && seedTokens.size <= 2 && tokens.length <= 2)) && overlapScore > 0.45) {
+      if ((intersection.length >= 2 || (intersection.length === 1 && seedTokens.size <= 2 && tokens.length <= 2)) && overlapScore > 0.42) {
         if (overlapScore > highestOverlap) {
           highestOverlap = overlapScore;
           bestCluster = cluster;
@@ -75,7 +99,7 @@ function clusterKeywords(keywordsList, pillarName, targetClusterCount = 52) {
       }
     }
 
-    if (bestCluster && bestCluster.keywords.length < 50) {
+    if (bestCluster && bestCluster.keywords.length < 60) {
       bestCluster.keywords.push(item);
       bestCluster.totalVolume += item.volume;
       if (item.isQuestion && bestCluster.paaQuestions.length < 10) {
@@ -119,7 +143,7 @@ function clusterKeywords(keywordsList, pillarName, targetClusterCount = 52) {
             cluster.paaQuestions.push(item.displayKeyword);
           }
         }
-        if (cluster.keywords.length < 25) {
+        if (cluster.keywords.length < 35) {
           cluster.keywords.push(item);
           cluster.totalVolume += item.volume;
         }
@@ -129,9 +153,9 @@ function clusterKeywords(keywordsList, pillarName, targetClusterCount = 52) {
     }
   }
 
-  // Finalize clusters
+  // Finalize clusters with grouped similar keywords
   const finalized = clusters.map(c => {
-    // Determine cluster peak month from monthly aggregate
+    // Determine cluster peak month
     const monthTotals = {};
     c.keywords.forEach(kw => {
       Object.entries(kw.monthlyVolume || {}).forEach(([mName, vol]) => {
@@ -149,10 +173,19 @@ function clusterKeywords(keywordsList, pillarName, targetClusterCount = 52) {
       }
     });
 
-    const secondaries = c.keywords
-      .slice(1, 15)
-      .map(k => k.displayKeyword)
-      .filter(k => k.toLowerCase() !== c.primaryKeyword.toLowerCase());
+    // Group similar keywords (excluding the exact primary head)
+    const groupedKeywords = c.keywords
+      .slice(1, 25)
+      .map(k => ({
+        keyword: k.displayKeyword,
+        volume: k.volume,
+        competition: k.competition,
+        cpc: k.cpc,
+        isQuestion: k.isQuestion
+      }))
+      .filter(k => k.keyword.toLowerCase() !== c.primaryKeyword.toLowerCase());
+
+    const secondaryList = groupedKeywords.map(k => k.keyword);
 
     return {
       id: c.id,
@@ -164,7 +197,8 @@ function clusterKeywords(keywordsList, pillarName, targetClusterCount = 52) {
       competition: c.competition,
       peakMonth,
       monthTotals,
-      secondaryKeywords: secondaries,
+      groupedKeywords,
+      secondaryKeywords: secondaryList,
       paaQuestions: c.paaQuestions,
       clusterSize: c.keywords.length
     };

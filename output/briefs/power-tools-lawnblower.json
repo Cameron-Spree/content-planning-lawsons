@@ -5,18 +5,20 @@
   "scheduledMonth": "Aug",
   "scheduledDate": "2026-08-W31",
   "status": "Backlog",
-  "priorityScore": 72.2,
+  "contentTitle": "Ultimate Lawnblower Guide: Features, Battery Systems & Maintenance (2026)",
   "targetKeyword": "lawnblower",
-  "recommendedTitle": "Ultimate Lawnblower Guide: Features, Choosing & Maintenance",
   "intent": "Informational / Guide",
   "audience": "DIY & Professionals",
-  "metrics": {
-    "primaryVolume": 27100,
+  "seoMetrics": {
+    "searchVolume": 27100,
     "totalClusterVolume": 27100,
     "cpc": 0.4,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 81,
     "peakSearchMonth": "Oct"
   },
+  "groupedKeywords": [],
   "secondaryKeywords": [],
   "paaQuestions": [],
   "suggestedSections": [

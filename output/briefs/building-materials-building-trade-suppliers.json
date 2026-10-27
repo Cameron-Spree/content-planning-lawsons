@@ -1,26 +1,42 @@
 {
   "id": "building-materials-building-trade-suppliers",
   "pillar": "Building Materials",
-  "weekNumber": 32,
+  "weekNumber": 31,
   "scheduledMonth": "Aug",
-  "scheduledDate": "2026-08-W32",
+  "scheduledDate": "2026-08-W31",
   "status": "Backlog",
-  "priorityScore": 66.5,
+  "contentTitle": "Building Trade Suppliers: Complete Step-by-Step UK Trade Guide",
   "targetKeyword": "building trade suppliers",
-  "recommendedTitle": "Building Trade Suppliers: Complete Step-by-Step Guide",
   "intent": "Informational / How-To",
   "audience": "Trade & Contractors",
-  "metrics": {
-    "primaryVolume": 30,
+  "seoMetrics": {
+    "searchVolume": 30,
     "totalClusterVolume": 50,
     "cpc": 3.68,
-    "competition": 62,
+    "difficulty": 62,
+    "difficultyLevel": "Moderate",
+    "rankabilityScore": 54.7,
     "peakSearchMonth": "Oct"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "trade building products",
+      "volume": 10,
+      "competition": 75,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "building material suppliers online",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 22.13,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
-    "building material suppliers online",
     "trade building products",
-    "online vinyl siding suppliers"
+    "building material suppliers online"
   ],
   "paaQuestions": [],
   "suggestedSections": [

@@ -1,0 +1,58 @@
+{
+  "id": "building-materials-100-mm-paver-block-price",
+  "pillar": "Building Materials",
+  "weekNumber": 18,
+  "scheduledMonth": "May",
+  "scheduledDate": "2026-05-W18",
+  "status": "Backlog",
+  "contentTitle": "100 Mm Paver Block Price: Trade Specifications, Sizing & Underground Installation",
+  "targetKeyword": "100 mm paver block price",
+  "intent": "Transactional / Product Focus",
+  "audience": "Trade & DIY",
+  "seoMetrics": {
+    "searchVolume": 10,
+    "totalClusterVolume": 50,
+    "cpc": 0,
+    "difficulty": 0,
+    "difficultyLevel": "Easy to Rank",
+    "rankabilityScore": 63,
+    "peakSearchMonth": "Jul"
+  },
+  "groupedKeywords": [
+    {
+      "keyword": "marshalls driveway block paving charcoal 200 x 100 x 50mm",
+      "volume": 20,
+      "competition": 100,
+      "cpc": 1.44,
+      "isQuestion": false
+    },
+    {
+      "keyword": "100 mm paver block",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.04,
+      "isQuestion": false
+    },
+    {
+      "keyword": "marshalls driveway block paving brindle 200 x 100 x 50mm",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0.52,
+      "isQuestion": false
+    }
+  ],
+  "secondaryKeywords": [
+    "marshalls driveway block paving charcoal 200 x 100 x 50mm",
+    "100 mm paver block",
+    "marshalls driveway block paving brindle 200 x 100 x 50mm"
+  ],
+  "paaQuestions": [],
+  "suggestedSections": [
+    "Zero-Click Fast Answer / Key Takeaways",
+    "What is 100 mm paver block price? Overview & Specifications",
+    "Step-by-Step Installation / Best Practice",
+    "Common Problems, Costs & Material Calculations",
+    "Frequently Asked Questions (PAA Spine)",
+    "Internal Links to Relevant Products & Categories"
+  ]
+}

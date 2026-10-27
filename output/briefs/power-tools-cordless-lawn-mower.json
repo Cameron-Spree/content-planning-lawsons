@@ -1,22 +1,193 @@
 {
   "id": "power-tools-cordless-lawn-mower",
   "pillar": "Power Tools",
-  "weekNumber": 6,
+  "weekNumber": 8,
   "scheduledMonth": "Feb",
-  "scheduledDate": "2026-02-W6",
+  "scheduledDate": "2026-02-W8",
   "status": "Backlog",
-  "priorityScore": 83.9,
+  "contentTitle": "Ultimate Cordless Lawn Mower Guide: Features, Battery Systems & Maintenance (2026)",
   "targetKeyword": "cordless lawn mower",
-  "recommendedTitle": "Ultimate Cordless Lawn Mower Guide: Features, Choosing & Maintenance",
   "intent": "Informational / Guide",
   "audience": "DIY & Professionals",
-  "metrics": {
-    "primaryVolume": 22200,
-    "totalClusterVolume": 279100,
+  "seoMetrics": {
+    "searchVolume": 22200,
+    "totalClusterVolume": 297870,
     "cpc": 0.36,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 79.3,
     "peakSearchMonth": "Apr"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "cordless push mower",
+      "volume": 22200,
+      "competition": 100,
+      "cpc": 0.36,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cordless lawn",
+      "volume": 22200,
+      "competition": 100,
+      "cpc": 0.36,
+      "isQuestion": false
+    },
+    {
+      "keyword": "ryobi lawn mower",
+      "volume": 14800,
+      "competition": 100,
+      "cpc": 0.57,
+      "isQuestion": false
+    },
+    {
+      "keyword": "electric lawn mower",
+      "volume": 12100,
+      "competition": 100,
+      "cpc": 0.37,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery lawn mower",
+      "volume": 12100,
+      "competition": 100,
+      "cpc": 0.43,
+      "isQuestion": false
+    },
+    {
+      "keyword": "electric battery lawn mower",
+      "volume": 12100,
+      "competition": 100,
+      "cpc": 0.43,
+      "isQuestion": false
+    },
+    {
+      "keyword": "lawn mower sales",
+      "volume": 6600,
+      "competition": 100,
+      "cpc": 0.28,
+      "isQuestion": false
+    },
+    {
+      "keyword": "lawn trimmer cordless",
+      "volume": 5400,
+      "competition": 100,
+      "cpc": 0.24,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery powered lawn mower",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.44,
+      "isQuestion": false
+    },
+    {
+      "keyword": "worx lawn mower",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.67,
+      "isQuestion": false
+    },
+    {
+      "keyword": "remote control lawn mower",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.27,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cordless mower",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.42,
+      "isQuestion": false
+    },
+    {
+      "keyword": "remote lawn mower",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.27,
+      "isQuestion": false
+    },
+    {
+      "keyword": "ryobi cordless lawn mower",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.49,
+      "isQuestion": false
+    },
+    {
+      "keyword": "ryobi battery lawn mower",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.49,
+      "isQuestion": false
+    },
+    {
+      "keyword": "worx cordless lawn mower",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.67,
+      "isQuestion": false
+    },
+    {
+      "keyword": "worx battery lawn mower",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.67,
+      "isQuestion": false
+    },
+    {
+      "keyword": "ryobi cordless mower",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.49,
+      "isQuestion": false
+    },
+    {
+      "keyword": "ryobi battery powered lawn mower",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.49,
+      "isQuestion": false
+    },
+    {
+      "keyword": "ryobi battery operated lawn mower",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.49,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cordless lawn blower",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.37,
+      "isQuestion": false
+    },
+    {
+      "keyword": "ryobi rechargeable lawn mower",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.49,
+      "isQuestion": false
+    },
+    {
+      "keyword": "ryobi cordless push mower",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.49,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery cordless lawn mower",
+      "volume": 4400,
+      "competition": 100,
+      "cpc": 0.44,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "cordless push mower",
     "cordless lawn",
@@ -31,7 +202,17 @@
     "remote control lawn mower",
     "cordless mower",
     "remote lawn mower",
-    "ryobi cordless lawn mower"
+    "ryobi cordless lawn mower",
+    "ryobi battery lawn mower",
+    "worx cordless lawn mower",
+    "worx battery lawn mower",
+    "ryobi cordless mower",
+    "ryobi battery powered lawn mower",
+    "ryobi battery operated lawn mower",
+    "cordless lawn blower",
+    "ryobi rechargeable lawn mower",
+    "ryobi cordless push mower",
+    "battery cordless lawn mower"
   ],
   "paaQuestions": [],
   "suggestedSections": [

@@ -1,22 +1,24 @@
 {
   "id": "fencing-6-ft-fence-panels",
   "pillar": "Fencing",
-  "weekNumber": 21,
-  "scheduledMonth": "May",
-  "scheduledDate": "2026-05-W21",
+  "weekNumber": 16,
+  "scheduledMonth": "Apr",
+  "scheduledDate": "2026-04-W16",
   "status": "Backlog",
-  "priorityScore": 54.9,
+  "contentTitle": "The Complete Guide to 6 Ft Fence Panels: Types, Board Calculations & Installation",
   "targetKeyword": "6 ft fence panels",
-  "recommendedTitle": "The Complete Guide to 6 Ft Fence Panels: Types, Costs & Installation",
   "intent": "Informational / Guide",
   "audience": "Domestic & DIY",
-  "metrics": {
-    "primaryVolume": 880,
+  "seoMetrics": {
+    "searchVolume": 880,
     "totalClusterVolume": 880,
     "cpc": 0.46,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 54.4,
     "peakSearchMonth": "Mar"
   },
+  "groupedKeywords": [],
   "secondaryKeywords": [],
   "paaQuestions": [],
   "suggestedSections": [

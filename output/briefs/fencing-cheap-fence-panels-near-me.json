@@ -1,22 +1,24 @@
 {
   "id": "fencing-cheap-fence-panels-near-me",
   "pillar": "Fencing",
-  "weekNumber": 22,
-  "scheduledMonth": "Jun",
-  "scheduledDate": "2026-06-W22",
+  "weekNumber": 17,
+  "scheduledMonth": "Apr",
+  "scheduledDate": "2026-04-W17",
   "status": "Backlog",
-  "priorityScore": 54.9,
+  "contentTitle": "The Complete Guide to Cheap Fence Panels Near Me: Types, Board Calculations & Installation",
   "targetKeyword": "cheap fence panels near me",
-  "recommendedTitle": "The Complete Guide to Cheap Fence Panels Near Me: Types, Costs & Installation",
   "intent": "Transactional / Product Focus",
   "audience": "Domestic & DIY",
-  "metrics": {
-    "primaryVolume": 880,
+  "seoMetrics": {
+    "searchVolume": 880,
     "totalClusterVolume": 880,
     "cpc": 0.46,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 54.4,
     "peakSearchMonth": "Mar"
   },
+  "groupedKeywords": [],
   "secondaryKeywords": [],
   "paaQuestions": [],
   "suggestedSections": [

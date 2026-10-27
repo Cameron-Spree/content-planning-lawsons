@@ -1,22 +1,193 @@
 {
   "id": "power-tools-robot-grass-cutter",
   "pillar": "Power Tools",
-  "weekNumber": 10,
+  "weekNumber": 9,
   "scheduledMonth": "Mar",
-  "scheduledDate": "2026-03-W10",
+  "scheduledDate": "2026-03-W9",
   "status": "Backlog",
-  "priorityScore": 81.6,
+  "contentTitle": "Ultimate Robot Grass Cutter Guide: Features, Battery Systems & Maintenance (2026)",
   "targetKeyword": "robot grass cutter",
-  "recommendedTitle": "Ultimate Robot Grass Cutter Guide: Features, Choosing & Maintenance",
   "intent": "Informational / Guide",
   "audience": "DIY & Professionals",
-  "metrics": {
-    "primaryVolume": 33100,
-    "totalClusterVolume": 136640,
+  "seoMetrics": {
+    "searchVolume": 33100,
+    "totalClusterVolume": 136730,
     "cpc": 0.5,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 82.9,
     "peakSearchMonth": "May"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "grass mower robot",
+      "volume": 33100,
+      "competition": 100,
+      "cpc": 0.5,
+      "isQuestion": false
+    },
+    {
+      "keyword": "robot lawn cutter",
+      "volume": 33100,
+      "competition": 100,
+      "cpc": 0.5,
+      "isQuestion": false
+    },
+    {
+      "keyword": "grass robot mower",
+      "volume": 33100,
+      "competition": 100,
+      "cpc": 0.5,
+      "isQuestion": false
+    },
+    {
+      "keyword": "ride on grass cutter",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.53,
+      "isQuestion": false
+    },
+    {
+      "keyword": "commercial grass cutter",
+      "volume": 480,
+      "competition": 100,
+      "cpc": 0.7,
+      "isQuestion": false
+    },
+    {
+      "keyword": "cordless grass cutter",
+      "volume": 390,
+      "competition": 100,
+      "cpc": 0.25,
+      "isQuestion": false
+    },
+    {
+      "keyword": "wireless grass cutter",
+      "volume": 390,
+      "competition": 100,
+      "cpc": 0.25,
+      "isQuestion": false
+    },
+    {
+      "keyword": "tractor grass cutter",
+      "volume": 260,
+      "competition": 99,
+      "cpc": 0.33,
+      "isQuestion": false
+    },
+    {
+      "keyword": "hand held grass cutter",
+      "volume": 260,
+      "competition": 100,
+      "cpc": 0.19,
+      "isQuestion": false
+    },
+    {
+      "keyword": "remote controlled grass cutter",
+      "volume": 260,
+      "competition": 100,
+      "cpc": 0.3,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery grass cutter",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 0.22,
+      "isQuestion": false
+    },
+    {
+      "keyword": "grass cutter with battery",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 0.22,
+      "isQuestion": false
+    },
+    {
+      "keyword": "irobot grass cutter",
+      "volume": 10,
+      "competition": 29,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bosch grass cutter cordless",
+      "volume": 90,
+      "competition": 100,
+      "cpc": 0.24,
+      "isQuestion": false
+    },
+    {
+      "keyword": "battery operated grass cutter",
+      "volume": 70,
+      "competition": 99,
+      "cpc": 0.3,
+      "isQuestion": false
+    },
+    {
+      "keyword": "grass cutter battery operated",
+      "volume": 70,
+      "competition": 99,
+      "cpc": 0.3,
+      "isQuestion": false
+    },
+    {
+      "keyword": "bosch cordless grass cutter",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 0.24,
+      "isQuestion": false
+    },
+    {
+      "keyword": "grass cutter petrol machine price",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "grass robot mower cheap",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "best robot grass mower 2021",
+      "volume": 0,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "grass robot lawnmower",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "i robot grass cutter",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "black and decker cordless grass cutter",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "keelat cordless grass cutter",
+      "volume": 0,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "grass mower robot",
     "robot lawn cutter",
@@ -25,13 +196,23 @@
     "commercial grass cutter",
     "cordless grass cutter",
     "wireless grass cutter",
-    "hand held grass cutter",
     "tractor grass cutter",
+    "hand held grass cutter",
     "remote controlled grass cutter",
     "battery grass cutter",
     "grass cutter with battery",
+    "irobot grass cutter",
     "bosch grass cutter cordless",
-    "battery operated grass cutter"
+    "battery operated grass cutter",
+    "grass cutter battery operated",
+    "bosch cordless grass cutter",
+    "grass cutter petrol machine price",
+    "grass robot mower cheap",
+    "best robot grass mower 2021",
+    "grass robot lawnmower",
+    "i robot grass cutter",
+    "black and decker cordless grass cutter",
+    "keelat cordless grass cutter"
   ],
   "paaQuestions": [],
   "suggestedSections": [

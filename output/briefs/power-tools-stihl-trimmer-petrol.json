@@ -1,22 +1,193 @@
 {
   "id": "power-tools-stihl-trimmer-petrol",
   "pillar": "Power Tools",
-  "weekNumber": 38,
-  "scheduledMonth": "Sep",
-  "scheduledDate": "2026-09-W38",
+  "weekNumber": 34,
+  "scheduledMonth": "Aug",
+  "scheduledDate": "2026-08-W34",
   "status": "Backlog",
-  "priorityScore": 69.3,
+  "contentTitle": "Ultimate Stihl Trimmer Petrol Guide: Features, Battery Systems & Maintenance (2026)",
   "targetKeyword": "stihl trimmer petrol",
-  "recommendedTitle": "Ultimate Stihl Trimmer Petrol Guide: Features, Choosing & Maintenance",
   "intent": "Informational / Guide",
   "audience": "DIY & Professionals",
-  "metrics": {
-    "primaryVolume": 4400,
+  "seoMetrics": {
+    "searchVolume": 4400,
     "totalClusterVolume": 10700,
     "cpc": 0.59,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 67.4,
     "peakSearchMonth": "May"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "stihl petrol chainsaws",
+      "volume": 1600,
+      "competition": 100,
+      "cpc": 0.54,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl battery trimmer",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.46,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl battery string trimmer",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.46,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl battery line trimmer",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.46,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl battery lawn trimmer",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.46,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl battery powered line trimmer",
+      "volume": 720,
+      "competition": 100,
+      "cpc": 0.37,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl petrol",
+      "volume": 170,
+      "competition": 100,
+      "cpc": 0.56,
+      "isQuestion": false
+    },
+    {
+      "keyword": "petrol edge trimmer",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 0.3,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl petrol can",
+      "volume": 140,
+      "competition": 100,
+      "cpc": 0.45,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl petrol hedge cutter",
+      "volume": 110,
+      "competition": 99,
+      "cpc": 0.81,
+      "isQuestion": false
+    },
+    {
+      "keyword": "garden trimmer petrol",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 0.24,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl battery trimmer amazon",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl petrol chainsaws ms 170",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl petrol chainsaws ms 170 domestic use",
+      "volume": 0,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl ht101 31cc 2 stroke telescopic petrol pole pruner",
+      "volume": 0,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl ht131 36cc 2 stroke petrol telescopic pole pruner",
+      "volume": 0,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl hedger petrol",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl trimmer hl 94",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl line trimmer battery",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl fsa 57 string trimmer",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl weed trimmer battery",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl fsa 45 battery trimmer",
+      "volume": 10,
+      "competition": 50,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl fsa60r string trimmer",
+      "volume": 0,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "stihl trimmer blades fsa 45",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
     "stihl petrol chainsaws",
     "stihl battery trimmer",
@@ -29,9 +200,19 @@
     "stihl petrol can",
     "stihl petrol hedge cutter",
     "garden trimmer petrol",
-    "petrol pole trimmer",
-    "stihl petrol strimmers for sale near me",
-    "stihl fsa 45 trimmer"
+    "stihl battery trimmer amazon",
+    "stihl petrol chainsaws ms 170",
+    "stihl petrol chainsaws ms 170 domestic use",
+    "stihl ht101 31cc 2 stroke telescopic petrol pole pruner",
+    "stihl ht131 36cc 2 stroke petrol telescopic pole pruner",
+    "stihl hedger petrol",
+    "stihl trimmer hl 94",
+    "stihl line trimmer battery",
+    "stihl fsa 57 string trimmer",
+    "stihl weed trimmer battery",
+    "stihl fsa 45 battery trimmer",
+    "stihl fsa60r string trimmer",
+    "stihl trimmer blades fsa 45"
   ],
   "paaQuestions": [],
   "suggestedSections": [

@@ -1,37 +1,218 @@
 {
   "id": "power-tools-flymo-cordless-lawn-mower",
   "pillar": "Power Tools",
-  "weekNumber": 33,
-  "scheduledMonth": "Aug",
-  "scheduledDate": "2026-08-W33",
+  "weekNumber": 26,
+  "scheduledMonth": "Jun",
+  "scheduledDate": "2026-06-W26",
   "status": "Backlog",
-  "priorityScore": 57.8,
+  "contentTitle": "Ultimate Flymo Cordless Lawn Mower Guide: Features, Battery Systems & Maintenance (2026)",
   "targetKeyword": "flymo cordless lawn mower",
-  "recommendedTitle": "Ultimate Flymo Cordless Lawn Mower Guide: Features, Choosing & Maintenance",
   "intent": "Informational / Guide",
   "audience": "DIY & Professionals",
-  "metrics": {
-    "primaryVolume": 1900,
-    "totalClusterVolume": 2100,
+  "seoMetrics": {
+    "searchVolume": 1900,
+    "totalClusterVolume": 6970,
     "cpc": 0.29,
-    "competition": 100,
+    "difficulty": 100,
+    "difficultyLevel": "Challenging",
+    "rankabilityScore": 59.9,
     "peakSearchMonth": "Apr"
   },
+  "groupedKeywords": [
+    {
+      "keyword": "flymo battery lawn mower",
+      "volume": 1900,
+      "competition": 100,
+      "cpc": 0.29,
+      "isQuestion": false
+    },
+    {
+      "keyword": "flymo automatic lawn mower",
+      "volume": 1000,
+      "competition": 100,
+      "cpc": 0.36,
+      "isQuestion": false
+    },
+    {
+      "keyword": "flymo cordless strimmers",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 0.22,
+      "isQuestion": false
+    },
+    {
+      "keyword": "electric lawn mower flymo",
+      "volume": 590,
+      "competition": 100,
+      "cpc": 0.31,
+      "isQuestion": false
+    },
+    {
+      "keyword": "flymo robotic lawn mower troubleshooting",
+      "volume": 10,
+      "competition": 5,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "flymo chevron 420 gl petrol lawn mower",
+      "volume": 10,
+      "competition": 25,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "flymo easilife 200 robotic lawn mower",
+      "volume": 20,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "flymo easistore 340r cordless",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 0.42,
+      "isQuestion": false
+    },
+    {
+      "keyword": "flymo easistore cordless",
+      "volume": 70,
+      "competition": 100,
+      "cpc": 0.35,
+      "isQuestion": false
+    },
+    {
+      "keyword": "flymo 4 stroke mower",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "flymo xl500 petrol hover lawn mower",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "best flymo electric lawn mower",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "flymo 1200r automatic robotic lawn mower",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "flymo contour cordless 20v",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "flymo contour cordless 20v battery",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "flymo contour cordless 20v li",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "flymo contour cordless 20v li battery",
+      "volume": 10,
+      "competition": 0,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "flymo chevron petrol lawn mower",
+      "volume": 10,
+      "competition": 67,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "flymo 2 stroke hover mower",
+      "volume": 10,
+      "competition": 69,
+      "cpc": 0.02,
+      "isQuestion": false
+    },
+    {
+      "keyword": "flymo easilife 150 go robotic lawn mower",
+      "volume": 30,
+      "competition": 100,
+      "cpc": 0.15,
+      "isQuestion": false
+    },
+    {
+      "keyword": "flymo easilife go robotic lawn mower",
+      "volume": 30,
+      "competition": 100,
+      "cpc": 0.11,
+      "isQuestion": false
+    },
+    {
+      "keyword": "flymo electrolux petrol lawn mower",
+      "volume": 10,
+      "competition": 76,
+      "cpc": 0,
+      "isQuestion": false
+    },
+    {
+      "keyword": "flymo easilife 350 robotic lawn mower",
+      "volume": 20,
+      "competition": 99,
+      "cpc": 0.22,
+      "isQuestion": false
+    },
+    {
+      "keyword": "flymo husqvarna petrol lawn mower",
+      "volume": 10,
+      "competition": 100,
+      "cpc": 0,
+      "isQuestion": false
+    }
+  ],
   "secondaryKeywords": [
+    "flymo battery lawn mower",
+    "flymo automatic lawn mower",
+    "flymo cordless strimmers",
+    "electric lawn mower flymo",
+    "flymo robotic lawn mower troubleshooting",
+    "flymo chevron 420 gl petrol lawn mower",
+    "flymo easilife 200 robotic lawn mower",
+    "flymo easistore 340r cordless",
+    "flymo easistore cordless",
+    "flymo 4 stroke mower",
+    "flymo xl500 petrol hover lawn mower",
+    "best flymo electric lawn mower",
+    "flymo 1200r automatic robotic lawn mower",
+    "flymo contour cordless 20v",
+    "flymo contour cordless 20v battery",
+    "flymo contour cordless 20v li",
+    "flymo contour cordless 20v li battery",
+    "flymo chevron petrol lawn mower",
+    "flymo 2 stroke hover mower",
     "flymo easilife 150 go robotic lawn mower",
     "flymo easilife go robotic lawn mower",
-    "flymo easilife 350 robotic lawn mower",
-    "flymo easilife 200 robotic lawn mower",
-    "flymo chevron 420 gl petrol lawn mower",
-    "flymo chevron petrol lawn mower",
     "flymo electrolux petrol lawn mower",
-    "flymo husqvarna petrol lawn mower",
-    "flymo xl500 petrol hover lawn mower",
-    "flymo easilife 500 go robotic lawn mower",
-    "flymo easilife 500 robotic lawn mower",
-    "flymo 1200 r lithium ion robotic lawn mower",
-    "flymo robotic lawn mower troubleshooting",
-    "flymo self cutting lawn mower"
+    "flymo easilife 350 robotic lawn mower",
+    "flymo husqvarna petrol lawn mower"
   ],
   "paaQuestions": [],
   "suggestedSections": [
