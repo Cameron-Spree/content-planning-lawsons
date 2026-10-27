@@ -9,6 +9,10 @@
   "targetKeyword": "floor sander hire london uk",
   "intent": "Transactional / Product Focus",
   "audience": "DIY & Professionals",
+  "overlapCheck": {
+    "overlapStatus": "Net-New Opportunity",
+    "matchedBlog": null
+  },
   "seoMetrics": {
     "searchVolume": 320,
     "totalClusterVolume": 1030,

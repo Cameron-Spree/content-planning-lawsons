@@ -9,6 +9,10 @@
   "targetKeyword": "plaster ceiling thickness",
   "intent": "Informational / Guide",
   "audience": "Trade & DIY",
+  "overlapCheck": {
+    "overlapStatus": "Net-New Opportunity",
+    "matchedBlog": null
+  },
   "seoMetrics": {
     "searchVolume": 320,
     "totalClusterVolume": 340,

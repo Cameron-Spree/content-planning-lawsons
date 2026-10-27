@@ -9,6 +9,10 @@
   "targetKeyword": "discount lumber online",
   "intent": "Transactional / Product Focus",
   "audience": "Trade & DIY",
+  "overlapCheck": {
+    "overlapStatus": "Net-New Opportunity",
+    "matchedBlog": null
+  },
   "seoMetrics": {
     "searchVolume": 0,
     "totalClusterVolume": 10,

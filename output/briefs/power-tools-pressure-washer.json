@@ -9,6 +9,10 @@
   "targetKeyword": "pressure washer",
   "intent": "Informational / Guide",
   "audience": "DIY & Professionals",
+  "overlapCheck": {
+    "overlapStatus": "Net-New Opportunity",
+    "matchedBlog": null
+  },
   "seoMetrics": {
     "searchVolume": 60500,
     "totalClusterVolume": 248750,

@@ -9,6 +9,10 @@
   "targetKeyword": "top cordless mowers",
   "intent": "Commercial / Buying Guide",
   "audience": "DIY & Professionals",
+  "overlapCheck": {
+    "overlapStatus": "Net-New Opportunity",
+    "matchedBlog": null
+  },
   "seoMetrics": {
     "searchVolume": 3600,
     "totalClusterVolume": 7210,

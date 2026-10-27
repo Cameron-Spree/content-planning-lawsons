@@ -9,6 +9,23 @@
   "targetKeyword": "hazel hurdles",
   "intent": "Informational / Guide",
   "audience": "Domestic & DIY",
+  "overlapCheck": {
+    "overlapStatus": "Direct Live Match",
+    "matchedBlog": {
+      "id": "865",
+      "title": "What are Willow Hurdles and Hazel Hurdles?",
+      "urlKey": "what-are-willow-hurdles-and-hazel-hurdles",
+      "liveUrl": "https://www.lawsons.co.uk/blog/what-are-willow-hurdles-and-hazel-hurdles",
+      "category": "Fencing",
+      "publishedStatus": "Published",
+      "matchedTokens": [
+        "hazel",
+        "hurdles"
+      ],
+      "similarityScore": 40,
+      "recommendation": "Refresh existing live blog URL rather than publishing a cannibalizing duplicate"
+    }
+  },
   "seoMetrics": {
     "searchVolume": 1600,
     "totalClusterVolume": 2320,

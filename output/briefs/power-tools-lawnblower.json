@@ -9,6 +9,10 @@
   "targetKeyword": "lawnblower",
   "intent": "Informational / Guide",
   "audience": "DIY & Professionals",
+  "overlapCheck": {
+    "overlapStatus": "Net-New Opportunity",
+    "matchedBlog": null
+  },
   "seoMetrics": {
     "searchVolume": 27100,
     "totalClusterVolume": 27100,

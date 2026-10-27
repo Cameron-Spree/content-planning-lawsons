@@ -9,6 +9,23 @@
   "targetKeyword": "fence panels and posts",
   "intent": "Informational / How-To",
   "audience": "Domestic & DIY",
+  "overlapCheck": {
+    "overlapStatus": "Direct Live Match",
+    "matchedBlog": {
+      "id": "960",
+      "title": "How to Set Fence Posts",
+      "urlKey": "how-to-set-fence-posts",
+      "liveUrl": "https://www.lawsons.co.uk/blog/how-to-set-fence-posts",
+      "category": "",
+      "publishedStatus": "Published",
+      "matchedTokens": [
+        "fence",
+        "posts"
+      ],
+      "similarityScore": 50,
+      "recommendation": "Refresh existing live blog URL rather than publishing a cannibalizing duplicate"
+    }
+  },
   "seoMetrics": {
     "searchVolume": 1000,
     "totalClusterVolume": 1000,

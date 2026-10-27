@@ -9,6 +9,10 @@
   "targetKeyword": "knauf multi finish plaster",
   "intent": "Informational / Guide",
   "audience": "Trade & DIY",
+  "overlapCheck": {
+    "overlapStatus": "Net-New Opportunity",
+    "matchedBlog": null
+  },
   "seoMetrics": {
     "searchVolume": 10,
     "totalClusterVolume": 40,

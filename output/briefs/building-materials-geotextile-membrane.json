@@ -9,6 +9,23 @@
   "targetKeyword": "geotextile membrane",
   "intent": "Informational / Guide",
   "audience": "Trade & DIY",
+  "overlapCheck": {
+    "overlapStatus": "Direct Live Match",
+    "matchedBlog": {
+      "id": "912",
+      "title": "Geotextile Membrane: The Battle Against Weeds is Won",
+      "urlKey": "geotextile-membrane-the-battle-against-weeds-is-won",
+      "liveUrl": "https://www.lawsons.co.uk/blog/geotextile-membrane-the-battle-against-weeds-is-won",
+      "category": "",
+      "publishedStatus": "Published",
+      "matchedTokens": [
+        "geotextile",
+        "membrane"
+      ],
+      "similarityScore": 30.8,
+      "recommendation": "Refresh existing live blog URL rather than publishing a cannibalizing duplicate"
+    }
+  },
   "seoMetrics": {
     "searchVolume": 5400,
     "totalClusterVolume": 25010,

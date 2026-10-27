@@ -9,6 +9,10 @@
   "targetKeyword": "wavin twinwall",
   "intent": "Informational / Guide",
   "audience": "Trade & Contractors",
+  "overlapCheck": {
+    "overlapStatus": "Net-New Opportunity",
+    "matchedBlog": null
+  },
   "seoMetrics": {
     "searchVolume": 20,
     "totalClusterVolume": 770,

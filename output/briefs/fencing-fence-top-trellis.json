@@ -9,6 +9,23 @@
   "targetKeyword": "fence top trellis",
   "intent": "Commercial / Buying Guide",
   "audience": "Domestic & DIY",
+  "overlapCheck": {
+    "overlapStatus": "Direct Live Match",
+    "matchedBlog": {
+      "id": "41",
+      "title": "How to Install Trellis to a Fence or Wall",
+      "urlKey": "how-to-install-trellis-to-a-fence-or-wall",
+      "liveUrl": "https://www.lawsons.co.uk/blog/how-to-install-trellis-to-a-fence-or-wall",
+      "category": "Fencing",
+      "publishedStatus": "Published",
+      "matchedTokens": [
+        "fence",
+        "trellis"
+      ],
+      "similarityScore": 40,
+      "recommendation": "Refresh existing live blog URL rather than publishing a cannibalizing duplicate"
+    }
+  },
   "seoMetrics": {
     "searchVolume": 4400,
     "totalClusterVolume": 21030,

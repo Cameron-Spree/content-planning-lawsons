@@ -9,6 +9,24 @@
   "targetKeyword": "concrete fence posts",
   "intent": "Informational / How-To",
   "audience": "Domestic & DIY",
+  "overlapCheck": {
+    "overlapStatus": "Direct Live Match",
+    "matchedBlog": {
+      "id": "1154",
+      "title": "Concrete vs Timber Fence Posts",
+      "urlKey": "concrete-vs-timber-fence-posts",
+      "liveUrl": "https://www.lawsons.co.uk/blog/concrete-vs-timber-fence-posts",
+      "category": "Fencing",
+      "publishedStatus": "Disabled",
+      "matchedTokens": [
+        "concrete",
+        "fence",
+        "posts"
+      ],
+      "similarityScore": 66.7,
+      "recommendation": "Refresh existing live blog URL rather than publishing a cannibalizing duplicate"
+    }
+  },
   "seoMetrics": {
     "searchVolume": 22200,
     "totalClusterVolume": 74960,

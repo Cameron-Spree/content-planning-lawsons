@@ -9,6 +9,10 @@
   "targetKeyword": "electric lawn equipment",
   "intent": "Informational / Guide",
   "audience": "DIY & Professionals",
+  "overlapCheck": {
+    "overlapStatus": "Net-New Opportunity",
+    "matchedBlog": null
+  },
   "seoMetrics": {
     "searchVolume": 12100,
     "totalClusterVolume": 45260,

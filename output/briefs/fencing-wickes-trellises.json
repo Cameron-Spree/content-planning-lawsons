@@ -9,6 +9,10 @@
   "targetKeyword": "wickes trellises",
   "intent": "Informational / Guide",
   "audience": "Domestic & DIY",
+  "overlapCheck": {
+    "overlapStatus": "Net-New Opportunity",
+    "matchedBlog": null
+  },
   "seoMetrics": {
     "searchVolume": 2900,
     "totalClusterVolume": 3130,

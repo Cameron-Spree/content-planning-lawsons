@@ -9,6 +9,10 @@
   "targetKeyword": "independent groundworks supplies ltd",
   "intent": "Transactional / Product Focus",
   "audience": "Trade & Contractors",
+  "overlapCheck": {
+    "overlapStatus": "Net-New Opportunity",
+    "matchedBlog": null
+  },
   "seoMetrics": {
     "searchVolume": 140,
     "totalClusterVolume": 160,

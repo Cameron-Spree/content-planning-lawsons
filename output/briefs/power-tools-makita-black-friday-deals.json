@@ -9,6 +9,10 @@
   "targetKeyword": "makita black friday deals",
   "intent": "Informational / Guide",
   "audience": "DIY & Professionals",
+  "overlapCheck": {
+    "overlapStatus": "Net-New Opportunity",
+    "matchedBlog": null
+  },
   "seoMetrics": {
     "searchVolume": 390,
     "totalClusterVolume": 3420,

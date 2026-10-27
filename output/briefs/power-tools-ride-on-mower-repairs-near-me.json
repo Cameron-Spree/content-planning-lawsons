@@ -9,6 +9,10 @@
   "targetKeyword": "ride on mower repairs near me",
   "intent": "Informational / How-To",
   "audience": "DIY & Professionals",
+  "overlapCheck": {
+    "overlapStatus": "Net-New Opportunity",
+    "matchedBlog": null
+  },
   "seoMetrics": {
     "searchVolume": 260,
     "totalClusterVolume": 20240,

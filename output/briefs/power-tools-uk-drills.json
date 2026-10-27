@@ -9,6 +9,10 @@
   "targetKeyword": "uk drills",
   "intent": "Informational / Guide",
   "audience": "DIY & Professionals",
+  "overlapCheck": {
+    "overlapStatus": "Net-New Opportunity",
+    "matchedBlog": null
+  },
   "seoMetrics": {
     "searchVolume": 8100,
     "totalClusterVolume": 22650,

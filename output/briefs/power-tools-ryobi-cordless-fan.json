@@ -9,6 +9,10 @@
   "targetKeyword": "ryobi cordless fan",
   "intent": "Informational / Guide",
   "audience": "DIY & Professionals",
+  "overlapCheck": {
+    "overlapStatus": "Net-New Opportunity",
+    "matchedBlog": null
+  },
   "seoMetrics": {
     "searchVolume": 1900,
     "totalClusterVolume": 7200,

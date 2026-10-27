@@ -9,6 +9,10 @@
   "targetKeyword": "drill",
   "intent": "Informational / Guide",
   "audience": "DIY & Professionals",
+  "overlapCheck": {
+    "overlapStatus": "Net-New Opportunity",
+    "matchedBlog": null
+  },
   "seoMetrics": {
     "searchVolume": 33100,
     "totalClusterVolume": 270400,

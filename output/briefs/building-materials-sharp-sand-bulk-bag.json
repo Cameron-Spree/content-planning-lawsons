@@ -9,6 +9,10 @@
   "targetKeyword": "sharp sand bulk bag",
   "intent": "Transactional / Product Focus",
   "audience": "Trade & Contractors",
+  "overlapCheck": {
+    "overlapStatus": "Net-New Opportunity",
+    "matchedBlog": null
+  },
   "seoMetrics": {
     "searchVolume": 5400,
     "totalClusterVolume": 22350,

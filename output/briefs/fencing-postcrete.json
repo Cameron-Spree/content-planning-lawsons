@@ -9,6 +9,10 @@
   "targetKeyword": "postcrete",
   "intent": "Informational / Guide",
   "audience": "Domestic & DIY",
+  "overlapCheck": {
+    "overlapStatus": "Net-New Opportunity",
+    "matchedBlog": null
+  },
   "seoMetrics": {
     "searchVolume": 18100,
     "totalClusterVolume": 26630,

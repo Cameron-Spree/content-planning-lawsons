@@ -9,6 +9,10 @@
   "targetKeyword": "cordless line trimmers",
   "intent": "Informational / Guide",
   "audience": "DIY & Professionals",
+  "overlapCheck": {
+    "overlapStatus": "Net-New Opportunity",
+    "matchedBlog": null
+  },
   "seoMetrics": {
     "searchVolume": 5400,
     "totalClusterVolume": 6740,

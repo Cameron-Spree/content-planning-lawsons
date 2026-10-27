@@ -9,6 +9,10 @@
   "targetKeyword": "milwaukee jobsite fan",
   "intent": "Informational / Guide",
   "audience": "Trade & Contractors",
+  "overlapCheck": {
+    "overlapStatus": "Net-New Opportunity",
+    "matchedBlog": null
+  },
   "seoMetrics": {
     "searchVolume": 2900,
     "totalClusterVolume": 7130,

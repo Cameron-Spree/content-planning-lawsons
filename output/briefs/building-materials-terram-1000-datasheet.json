@@ -9,6 +9,10 @@
   "targetKeyword": "terram 1000 datasheet",
   "intent": "Informational / Guide",
   "audience": "Trade & DIY",
+  "overlapCheck": {
+    "overlapStatus": "Net-New Opportunity",
+    "matchedBlog": null
+  },
   "seoMetrics": {
     "searchVolume": 50,
     "totalClusterVolume": 1250,

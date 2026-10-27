@@ -9,6 +9,10 @@
   "targetKeyword": "mp gardening machines",
   "intent": "Informational / Guide",
   "audience": "Domestic & DIY",
+  "overlapCheck": {
+    "overlapStatus": "Net-New Opportunity",
+    "matchedBlog": null
+  },
   "seoMetrics": {
     "searchVolume": 320,
     "totalClusterVolume": 440,

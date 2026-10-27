@@ -9,6 +9,23 @@
   "targetKeyword": "6 ft fence panels",
   "intent": "Informational / Guide",
   "audience": "Domestic & DIY",
+  "overlapCheck": {
+    "overlapStatus": "Direct Live Match",
+    "matchedBlog": {
+      "id": "975",
+      "title": "How to Erect Garden Fence Panels",
+      "urlKey": "how-to-erect-garden-fence-panels",
+      "liveUrl": "https://www.lawsons.co.uk/blog/how-to-erect-garden-fence-panels",
+      "category": "",
+      "publishedStatus": "Published",
+      "matchedTokens": [
+        "fence",
+        "panels"
+      ],
+      "similarityScore": 40,
+      "recommendation": "Refresh existing live blog URL rather than publishing a cannibalizing duplicate"
+    }
+  },
   "seoMetrics": {
     "searchVolume": 880,
     "totalClusterVolume": 880,

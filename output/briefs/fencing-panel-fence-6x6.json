@@ -9,6 +9,23 @@
   "targetKeyword": "panel fence 6x6",
   "intent": "Informational / Guide",
   "audience": "Domestic & DIY",
+  "overlapCheck": {
+    "overlapStatus": "Direct Live Match",
+    "matchedBlog": {
+      "id": "969",
+      "title": "​How Do I Replace a Fence Panel?",
+      "urlKey": "how-do-i-replace-a-fence-panel",
+      "liveUrl": "https://www.lawsons.co.uk/blog/how-do-i-replace-a-fence-panel",
+      "category": "",
+      "publishedStatus": "Published",
+      "matchedTokens": [
+        "panel",
+        "fence"
+      ],
+      "similarityScore": 40,
+      "recommendation": "Refresh existing live blog URL rather than publishing a cannibalizing duplicate"
+    }
+  },
   "seoMetrics": {
     "searchVolume": 6600,
     "totalClusterVolume": 17940,

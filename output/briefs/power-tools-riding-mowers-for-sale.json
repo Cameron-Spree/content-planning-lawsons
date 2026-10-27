@@ -9,6 +9,10 @@
   "targetKeyword": "riding mowers for sale",
   "intent": "Transactional / Product Focus",
   "audience": "DIY & Professionals",
+  "overlapCheck": {
+    "overlapStatus": "Net-New Opportunity",
+    "matchedBlog": null
+  },
   "seoMetrics": {
     "searchVolume": 2400,
     "totalClusterVolume": 17240,

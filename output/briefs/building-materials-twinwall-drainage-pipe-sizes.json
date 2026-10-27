@@ -9,6 +9,10 @@
   "targetKeyword": "twinwall drainage pipe sizes",
   "intent": "Informational / Guide",
   "audience": "Trade & Contractors",
+  "overlapCheck": {
+    "overlapStatus": "Net-New Opportunity",
+    "matchedBlog": null
+  },
   "seoMetrics": {
     "searchVolume": 0,
     "totalClusterVolume": 30,

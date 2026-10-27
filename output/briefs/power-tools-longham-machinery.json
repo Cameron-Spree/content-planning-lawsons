@@ -9,6 +9,10 @@
   "targetKeyword": "longham machinery",
   "intent": "Informational / Guide",
   "audience": "DIY & Professionals",
+  "overlapCheck": {
+    "overlapStatus": "Net-New Opportunity",
+    "matchedBlog": null
+  },
   "seoMetrics": {
     "searchVolume": 590,
     "totalClusterVolume": 920,

@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Lawsons Content Engine & Topic Clusters</title>
+  <title>Lawsons Content Engine & Editorial Planner</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -13,13 +13,13 @@
       <div class="brand-icon">📐</div>
       <div>
         <h1>Lawsons Content Engine & Editorial Planner</h1>
-        <p>Topic Clustering, Difficulty & Seasonality (3 Articles / Week)</p>
+        <p>Topic Clustering, Live Cannibalization Check & Seasonality</p>
       </div>
     </div>
     <div class="stats-bar">
       <div class="stat-pill">
-        <span class="val" id="stat-total-articles">156</span>
-        <span class="lbl">Articles Planned</span>
+        <span class="val" id="stat-total-articles">0 / 156</span>
+        <span class="lbl">Approved Slots</span>
       </div>
       <div class="stat-pill">
         <span class="val">3 / Week</span>
@@ -31,7 +31,7 @@
       </div>
       <div class="stat-pill">
         <span class="val" id="stat-total-vol">--</span>
-        <span class="lbl">Monthly Search Vol</span>
+        <span class="lbl">Approved Search Vol</span>
       </div>
     </div>
   </header>
@@ -41,15 +41,15 @@
     <div class="controls-left">
       <div class="view-toggle">
         <button class="view-btn active" id="btn-view-tinder" onclick="switchView('tinder')">🔥 Decision Deck (Yes/No)</button>
-        <button class="view-btn" id="btn-view-kanban" onclick="switchView('kanban')">📋 Kanban Board</button>
         <button class="view-btn" id="btn-view-calendar" onclick="switchView('calendar')">📅 52-Week Roadmap</button>
+        <button class="view-btn" id="btn-view-kanban" onclick="switchView('kanban')">📋 Kanban Board</button>
       </div>
 
-      <select class="filter-select" id="filter-pillar" onchange="applyFilters()">
-        <option value="all">All Pillars</option>
-        <option value="Fencing">Fencing</option>
-        <option value="Power Tools">Power Tools</option>
-        <option value="Building Materials">Building Materials</option>
+      <!-- Overlap Filter against 370 Live Blogs -->
+      <select class="filter-select" id="filter-overlap" onchange="applyFilters()">
+        <option value="net-new">🟢 Net-New Opportunities Only (0% Overlap)</option>
+        <option value="all">All Topics (New + Refreshes)</option>
+        <option value="overlap">🔄 Live Blog Matches (Refresh Potential)</option>
       </select>
 
       <select class="filter-select" id="filter-difficulty" onchange="applyFilters()">

@@ -1,7 +1,7 @@
 /**
  * Master Pipeline Runner
  * Processes ~48k raw keywords into a balanced 52-week, 3-articles/week Content Calendar,
- * complete with editorial content titles, grouped semantic keywords, and difficulty/rankability scores.
+ * cross-referenced against the 370 currently live Lawsons blogs to eliminate content crossover.
  */
 
 const fs = require('fs');
@@ -11,11 +11,13 @@ const { parseKeywordsCSV } = require('../engine/csvParser');
 const { classifyIntent, classifyAudience } = require('../engine/intentClassifier');
 const { clusterKeywords, generateTitle } = require('../engine/clusteringEngine');
 const { schedulePillar52Weeks } = require('../engine/seasonalityEngine');
+const { OverlapDetector } = require('../engine/overlapDetector');
 
 const ROOT_DIR = path.resolve(__dirname, '..');
 const OUTPUT_DIR = path.join(ROOT_DIR, 'output');
 const BRIEFS_DIR = path.join(OUTPUT_DIR, 'briefs');
 const PUBLIC_DATA_DIR = path.join(ROOT_DIR, 'public', 'data');
+const EXISTING_BLOGS_FILE = path.join(ROOT_DIR, 'data', 'existing_lawsons_blogs.json');
 
 const DATASETS = [
   {
@@ -39,16 +41,20 @@ function ensureDir(dir) {
 }
 
 function runPipeline() {
-  console.log('🚀 Starting Enhanced Keyword-to-Content Calendar Pipeline...\n');
+  console.log('🚀 Starting Cannibalization-Free Keyword Planning Pipeline...\n');
   ensureDir(OUTPUT_DIR);
   ensureDir(BRIEFS_DIR);
   ensureDir(PUBLIC_DATA_DIR);
+
+  // Initialize Overlap Detector against 370 live Lawsons blogs
+  const detector = new OverlapDetector(EXISTING_BLOGS_FILE);
+  console.log(`🔎 Loaded ${detector.existingBlogs.length} live Lawsons blog URLs for crossover detection.`);
 
   const pillarSchedules = {};
   const pillarCandidates = {};
 
   DATASETS.forEach(ds => {
-    console.log(`📂 Ingesting ${ds.pillar}...`);
+    console.log(`\n📂 Ingesting ${ds.pillar}...`);
     if (!fs.existsSync(ds.file)) {
       console.error(`❌ File not found: ${ds.file}`);
       return;
@@ -66,21 +72,31 @@ function runPipeline() {
 
     console.log(`   Clustering topics & grouping semantic keywords for ${ds.pillar}...`);
     const clusters = clusterKeywords(rawKeywords, ds.pillar, 52);
-    console.log(`   Formed ${clusters.length} topic clusters.`);
 
-    // Enrich clusters with intent, audience, and editorial titles
+    // Cross-reference every cluster against live Lawsons blogs
+    let liveMatchCount = 0;
     clusters.forEach(c => {
       c.intent = classifyIntent(c.primaryKeyword, (c.paaQuestions || []).length > 0);
       c.audience = classifyAudience(c.primaryKeyword, ds.pillar);
       c.recommendedTitle = generateTitle(c.primaryKeyword, c.intent, ds.pillar, c.audience);
+
+      const overlapCheck = detector.checkOverlap(c.primaryKeyword, c.recommendedTitle);
+      c.overlapStatus = overlapCheck.overlapStatus;
+      c.matchedBlog = overlapCheck.matchedBlog;
+
+      if (c.overlapStatus === 'Direct Live Match') {
+        liveMatchCount++;
+      }
     });
 
-    // Schedule 52 weeks and prioritize by rankability / ease of ranking
-    console.log(`   Calculating difficulty, rankability & 52-week seasonality for ${ds.pillar}...`);
+    console.log(`   Formed ${clusters.length} topic clusters (${liveMatchCount} match existing live blogs, ${clusters.length - liveMatchCount} 100% net-new).`);
+
+    // Schedule 52 weeks and prioritize by rankability & net-new opportunity
+    console.log(`   Scheduling 52-week editorial calendar for ${ds.pillar}...`);
     const { scheduled, allCandidates } = schedulePillar52Weeks(clusters, ds.pillar);
     pillarSchedules[ds.pillar] = scheduled;
     pillarCandidates[ds.pillar] = allCandidates;
-    console.log(`   ✅ Finished scheduling 52 weeks for ${ds.pillar}.\n`);
+    console.log(`   ✅ Finished scheduling 52 weeks for ${ds.pillar}.`);
   });
 
   // Interleave the pillars: Week 1..52, each week has [Fencing, Power Tools, Building Materials]
@@ -105,7 +121,7 @@ function runPipeline() {
     if (materialsItem) masterCalendar.push(materialsItem);
   }
 
-  console.log(`📊 Total Scheduled Articles: ${masterCalendar.length} (3 articles/week × 52 weeks)`);
+  console.log(`\n📊 Total Candidate Articles: ${masterCalendar.length} (3 articles/week × 52 weeks)`);
 
   // Write individual JSON briefs
   console.log(`📝 Writing ${masterCalendar.length} article briefs to ${BRIEFS_DIR}...`);
@@ -121,6 +137,10 @@ function runPipeline() {
       targetKeyword: item.primaryKeyword,
       intent: item.intent,
       audience: item.audience,
+      overlapCheck: {
+        overlapStatus: item.overlapStatus || 'Net-New Opportunity',
+        matchedBlog: item.matchedBlog || null
+      },
       seoMetrics: {
         searchVolume: item.primaryVolume,
         totalClusterVolume: item.totalVolume,
@@ -150,14 +170,15 @@ function runPipeline() {
     );
   });
 
-  // Export calendar JSON (including allCandidates for the monthly Tinder / Decision deck)
+  // Export calendar JSON
   const fullPayload = {
     metadata: {
       generatedAt: new Date().toISOString(),
       cadence: '3 articles per week (1 Fencing, 1 Power Tools, 1 Building Materials)',
       totalWeeks: 52,
       totalArticles: masterCalendar.length,
-      pillars: ['Fencing', 'Power Tools', 'Building Materials']
+      pillars: ['Fencing', 'Power Tools', 'Building Materials'],
+      liveBlogsIndexed: detector.existingBlogs.length
     },
     weeks: weeksData,
     articles: masterCalendar,
@@ -181,6 +202,9 @@ function runPipeline() {
     'Pillar',
     'Content Title',
     'Target Keyword',
+    'Overlap Status',
+    'Matched Live Blog Title',
+    'Matched Live URL',
     'Difficulty Level',
     'Difficulty (Comp 0-100)',
     'Rankability Score',
@@ -197,12 +221,18 @@ function runPipeline() {
   const csvRows = [csvHeaders.join(',')];
 
   masterCalendar.forEach(item => {
+    const matchedTitle = item.matchedBlog ? item.matchedBlog.title : 'None (100% Net-New)';
+    const matchedUrl = item.matchedBlog ? item.matchedBlog.liveUrl : '';
+
     const row = [
       item.weekNumber,
       `"${item.scheduledMonth}"`,
       `"${item.pillar}"`,
       `"${(item.recommendedTitle || '').replace(/"/g, '""')}"`,
       `"${item.primaryKeyword.replace(/"/g, '""')}"`,
+      `"${item.overlapStatus || 'Net-New Opportunity'}"`,
+      `"${matchedTitle.replace(/"/g, '""')}"`,
+      `"${matchedUrl}"`,
       `"${item.difficultyLevel}"`,
       item.difficulty,
       item.rankabilityScore,

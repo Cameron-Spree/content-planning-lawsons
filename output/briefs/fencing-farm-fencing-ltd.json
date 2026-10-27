@@ -9,6 +9,10 @@
   "targetKeyword": "farm fencing ltd",
   "intent": "Informational / Guide",
   "audience": "Domestic & DIY",
+  "overlapCheck": {
+    "overlapStatus": "Net-New Opportunity",
+    "matchedBlog": null
+  },
   "seoMetrics": {
     "searchVolume": 480,
     "totalClusterVolume": 850,

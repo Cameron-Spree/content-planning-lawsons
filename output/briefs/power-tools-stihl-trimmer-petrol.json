@@ -9,6 +9,10 @@
   "targetKeyword": "stihl trimmer petrol",
   "intent": "Informational / Guide",
   "audience": "DIY & Professionals",
+  "overlapCheck": {
+    "overlapStatus": "Net-New Opportunity",
+    "matchedBlog": null
+  },
   "seoMetrics": {
     "searchVolume": 4400,
     "totalClusterVolume": 10700,

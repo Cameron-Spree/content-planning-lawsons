@@ -9,6 +9,23 @@
   "targetKeyword": "boxley timber and fencing",
   "intent": "Informational / Guide",
   "audience": "Domestic & DIY",
+  "overlapCheck": {
+    "overlapStatus": "Direct Live Match",
+    "matchedBlog": {
+      "id": "179",
+      "title": "What Are The Pros And Cons For Timber Fencing",
+      "urlKey": "what-are-the-pros-and-cons-for-timber-fencing",
+      "liveUrl": "https://www.lawsons.co.uk/blog/what-are-the-pros-and-cons-for-timber-fencing",
+      "category": "Fencing",
+      "publishedStatus": "Published",
+      "matchedTokens": [
+        "timber",
+        "fencing"
+      ],
+      "similarityScore": 33.3,
+      "recommendation": "Refresh existing live blog URL rather than publishing a cannibalizing duplicate"
+    }
+  },
   "seoMetrics": {
     "searchVolume": 880,
     "totalClusterVolume": 4160,

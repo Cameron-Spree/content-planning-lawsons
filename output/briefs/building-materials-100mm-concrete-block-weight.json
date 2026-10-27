@@ -9,6 +9,10 @@
   "targetKeyword": "100mm concrete block weight",
   "intent": "Informational / Guide",
   "audience": "Trade & DIY",
+  "overlapCheck": {
+    "overlapStatus": "Net-New Opportunity",
+    "matchedBlog": null
+  },
   "seoMetrics": {
     "searchVolume": 50,
     "totalClusterVolume": 2440,

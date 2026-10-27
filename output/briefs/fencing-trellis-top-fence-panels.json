@@ -9,6 +9,23 @@
   "targetKeyword": "trellis top fence panels",
   "intent": "Commercial / Buying Guide",
   "audience": "Domestic & DIY",
+  "overlapCheck": {
+    "overlapStatus": "Direct Live Match",
+    "matchedBlog": {
+      "id": "263",
+      "title": "How To Install Trellis Panels",
+      "urlKey": "how-to-install-trellis-panels",
+      "liveUrl": "https://www.lawsons.co.uk/blog/how-to-install-trellis-panels",
+      "category": "Fencing",
+      "publishedStatus": "Published",
+      "matchedTokens": [
+        "trellis",
+        "panels"
+      ],
+      "similarityScore": 40,
+      "recommendation": "Refresh existing live blog URL rather than publishing a cannibalizing duplicate"
+    }
+  },
   "seoMetrics": {
     "searchVolume": 1300,
     "totalClusterVolume": 1560,

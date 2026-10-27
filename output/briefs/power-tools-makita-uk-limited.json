@@ -9,6 +9,10 @@
   "targetKeyword": "makita uk limited",
   "intent": "Informational / Guide",
   "audience": "DIY & Professionals",
+  "overlapCheck": {
+    "overlapStatus": "Net-New Opportunity",
+    "matchedBlog": null
+  },
   "seoMetrics": {
     "searchVolume": 1000,
     "totalClusterVolume": 81880,

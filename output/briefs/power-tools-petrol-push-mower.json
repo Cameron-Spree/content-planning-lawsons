@@ -9,6 +9,10 @@
   "targetKeyword": "petrol push mower",
   "intent": "Informational / Guide",
   "audience": "DIY & Professionals",
+  "overlapCheck": {
+    "overlapStatus": "Net-New Opportunity",
+    "matchedBlog": null
+  },
   "seoMetrics": {
     "searchVolume": 12100,
     "totalClusterVolume": 82970,

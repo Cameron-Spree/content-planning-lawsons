@@ -9,6 +9,10 @@
   "targetKeyword": "robotic grass mower",
   "intent": "Informational / How-To",
   "audience": "DIY & Professionals",
+  "overlapCheck": {
+    "overlapStatus": "Net-New Opportunity",
+    "matchedBlog": null
+  },
   "seoMetrics": {
     "searchVolume": 33100,
     "totalClusterVolume": 144980,

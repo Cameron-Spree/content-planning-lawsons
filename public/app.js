@@ -1,6 +1,7 @@
 /**
  * Lawsons Content Engine & Editorial Planner
- * Interactive Decision Deck with Editable Titles & Dynamic Live 52-Week Roadmap
+ * Interactive Decision Deck with Live Blog Overlap / Cannibalization Detection,
+ * Editable Titles, and Live 52-Week Roadmap
  */
 
 let allArticles = [];
@@ -62,7 +63,7 @@ async function loadData() {
     allWeeks = data.weeks || [];
     allCandidates = data.candidates || {};
 
-    // Load saved approved roadmap from localStorage (starts empty if none)
+    // Load saved approved roadmap from localStorage
     const saved = localStorage.getItem('lawsons_approved_roadmap');
     if (saved) {
       try {
@@ -136,8 +137,8 @@ function updateStats() {
 function switchView(view) {
   currentView = view;
   document.getElementById('btn-view-tinder').classList.toggle('active', view === 'tinder');
-  document.getElementById('btn-view-kanban').classList.toggle('active', view === 'kanban');
   document.getElementById('btn-view-calendar').classList.toggle('active', view === 'calendar');
+  document.getElementById('btn-view-kanban').classList.toggle('active', view === 'kanban');
 
   if (view === 'tinder') {
     initTinderDeck();
@@ -165,6 +166,7 @@ function render() {
 
 /* ==================== TINDER DECISION DECK ==================== */
 function initTinderDeck() {
+  const overlapFilter = document.getElementById('filter-overlap').value;
   const diffFilter = document.getElementById('filter-difficulty').value;
   const sortBy = document.getElementById('sort-by').value;
   const searchKw = (document.getElementById('search-kw').value || '').toLowerCase().trim();
@@ -172,7 +174,6 @@ function initTinderDeck() {
   // Candidate pool for the active pillar
   let candidates = allCandidates[tinderPillar] || allArticles.filter(a => a.pillar === tinderPillar);
 
-  // Filter candidates whose target month matches or have seasonal relevance
   let deck = candidates.filter(c => {
     // Exclude already approved articles
     let isAlreadyApproved = false;
@@ -183,7 +184,12 @@ function initTinderDeck() {
     });
     if (isAlreadyApproved) return false;
 
+    // Overlap / Cannibalization Filter
+    if (overlapFilter === 'net-new' && c.overlapStatus === 'Direct Live Match') return false;
+    if (overlapFilter === 'overlap' && c.overlapStatus !== 'Direct Live Match') return false;
+
     if (diffFilter !== 'all' && c.difficultyLevel !== diffFilter) return false;
+
     if (searchKw) {
       const matchPrimary = (c.primaryKeyword || '').toLowerCase().includes(searchKw);
       const matchTitle = (c.recommendedTitle || '').toLowerCase().includes(searchKw);
@@ -219,7 +225,7 @@ function setTinderPillar(p) {
 
 function renderTinderView(container) {
   const monthWeeks = MONTH_WEEKS[tinderMonth] || [1, 2, 3, 4];
-  const quotaPerPillar = monthWeeks.length; // e.g. 4 or 5
+  const quotaPerPillar = monthWeeks.length;
   const approvedInPillar = getPillarApprovedInMonth(tinderPillar, tinderMonth);
   const currentCard = tinderDeck[tinderIndex];
 
@@ -287,11 +293,11 @@ function renderTinderView(container) {
       <div class="tinder-card" style="text-align:center; padding: 3.5rem 2rem;">
         <h2>🔍 No More Candidates Matching Filters</h2>
         <p style="color:var(--text-muted); margin-top:0.75rem;">
-          Try adjusting difficulty or search filters to view more topics.
+          Try adjusting difficulty, cannibalization, or search filters to view more topics.
         </p>
         <div style="margin-top:1.5rem; display:flex; justify-content:center; gap:1rem;">
-          <button class="btn-action btn-secondary" onclick="document.getElementById('filter-difficulty').value='all'; applyFilters();">
-            Reset Filters
+          <button class="btn-action btn-secondary" onclick="document.getElementById('filter-overlap').value='all'; document.getElementById('filter-difficulty').value='all'; applyFilters();">
+            Reset All Filters
           </button>
         </div>
       </div>
@@ -299,17 +305,38 @@ function renderTinderView(container) {
   } else {
     const pillarClass = currentCard.pillar === 'Fencing' ? 'badge-fencing' : currentCard.pillar === 'Power Tools' ? 'badge-power-tools' : 'badge-building-materials';
     const diffClass = currentCard.difficultyLevel === 'Easy to Rank' ? 'diff-easy' : currentCard.difficultyLevel === 'Moderate' ? 'diff-moderate' : 'diff-hard';
+    const isLiveMatch = currentCard.overlapStatus === 'Direct Live Match';
 
     html += `
       <div class="tinder-card" id="active-card">
         <div class="tinder-top-row">
-          <span class="pillar-badge ${pillarClass}">${currentCard.pillar}</span>
-          <span class="diff-badge ${diffClass}">
-            ${currentCard.difficultyLevel === 'Easy to Rank' ? '🟢' : currentCard.difficultyLevel === 'Moderate' ? '🟡' : '🔴'}
-            ${currentCard.difficultyLevel} (Comp: ${currentCard.difficulty || 0}/100)
-          </span>
+          <div style="display:flex; gap:0.5rem; align-items:center; flex-wrap:wrap;">
+            <span class="pillar-badge ${pillarClass}">${currentCard.pillar}</span>
+            <span class="diff-badge ${diffClass}">
+              ${currentCard.difficultyLevel === 'Easy to Rank' ? '🟢' : currentCard.difficultyLevel === 'Moderate' ? '🟡' : '🔴'}
+              ${currentCard.difficultyLevel} (Comp: ${currentCard.difficulty || 0}/100)
+            </span>
+            <span class="overlap-badge ${isLiveMatch ? 'overlap-match' : 'overlap-new'}">
+              ${isLiveMatch ? '🔄 Live Blog Match' : '🟢 Net-New (No Live Overlap)'}
+            </span>
+          </div>
           <span class="week-tag">Next Slot: Week ${getNextOpenWeek(tinderPillar, tinderMonth)}</span>
         </div>
+
+        <!-- Overlap Alert Box if matched with live Lawsons blog -->
+        ${isLiveMatch && currentCard.matchedBlog ? `
+          <div class="overlap-notice-box">
+            <span style="font-size:1.15rem;">⚠️</span>
+            <div>
+              <strong>Matches Live Blog:</strong> "${escapeHtml(currentCard.matchedBlog.title)}"
+              <br/>
+              <span style="font-size:0.75rem; color:#cbd5e1;">
+                Live URL: <a href="${escapeHtml(currentCard.matchedBlog.liveUrl)}" target="_blank" class="overlap-link">/blog/${escapeHtml(currentCard.matchedBlog.urlKey)}</a> &bull;
+                Approve only if refreshing/modernizing the live URL rather than creating a duplicate.
+              </span>
+            </div>
+          </div>
+        ` : ''}
 
         <!-- Editable Content Title -->
         <div class="title-edit-container">
@@ -434,7 +461,6 @@ function handleTinderDecision(approved) {
   const currentCard = tinderDeck[tinderIndex];
 
   if (approved) {
-    // Read current title from input if present
     const inputEl = document.getElementById('card-title-input');
     if (inputEl && inputEl.value.trim().length > 0) {
       currentCard.recommendedTitle = inputEl.value.trim();
@@ -442,7 +468,6 @@ function handleTinderDecision(approved) {
 
     cardEl.classList.add('swipe-right');
 
-    // Assign to next open week in this month
     const targetWeek = getNextOpenWeek(tinderPillar, tinderMonth);
     if (!approvedRoadmap[targetWeek]) {
       approvedRoadmap[targetWeek] = {};
@@ -509,14 +534,14 @@ function jumpToDecisionDeck(month, pillar) {
 function renderCalendar(container) {
   let html = `
     <div class="calendar-view">
-      <div style="display:flex; justify-content:space-between; align-items:center; background:var(--bg-secondary); padding:0.85rem 1.25rem; border-radius:10px; border:1px solid var(--border-color);">
+      <div style="display:flex; justify-content:space-between; align-items:center; background:var(--bg-secondary); padding:0.85rem 1.25rem; border-radius:10px; border:1px solid var(--border-color); flex-wrap:wrap; gap:0.75rem;">
         <div>
           <strong style="color:#38bdf8; font-size:1.1rem;">52-Week Editorial Roadmap</strong>
           <span style="color:var(--text-muted); font-size:0.85rem; margin-left:0.5rem;">
             (${getApprovedCount()} / 156 Approved Slots Filled)
           </span>
         </div>
-        <div style="display:flex; gap:0.65rem;">
+        <div style="display:flex; gap:0.65rem; flex-wrap:wrap;">
           <button class="btn-action" style="padding:0.4rem 0.8rem; font-size:0.8rem;" onclick="switchView('tinder')">
             🔥 Open Decision Deck to Fill Slots
           </button>
@@ -608,7 +633,6 @@ function renderSlotCard(a, slotClass, weekNum, pillar) {
 
 /* ==================== KANBAN BOARD VIEW ==================== */
 function renderKanban(container) {
-  // Collect all approved articles
   const approvedList = [];
   Object.values(approvedRoadmap).forEach(weekObj => {
     if (weekObj) {
@@ -752,7 +776,6 @@ function autoFillRoadmap() {
 
 /* ==================== MODAL ==================== */
 function openBriefModal(id) {
-  // Look in approved or allArticles
   let a = null;
   Object.values(approvedRoadmap).forEach(wObj => {
     if (wObj) {
@@ -768,6 +791,8 @@ function openBriefModal(id) {
   document.getElementById('modal-title').textContent = `${a.pillar}: ${a.recommendedTitle || a.primaryKeyword}`;
 
   const diffClass = a.difficultyLevel === 'Easy to Rank' ? 'diff-easy' : a.difficultyLevel === 'Moderate' ? 'diff-moderate' : 'diff-hard';
+  const isLiveMatch = a.overlapStatus === 'Direct Live Match' || (a.overlapCheck && a.overlapCheck.overlapStatus === 'Direct Live Match');
+  const matchedBlog = a.matchedBlog || (a.overlapCheck ? a.overlapCheck.matchedBlog : null);
 
   const body = document.getElementById('modal-body');
   body.innerHTML = `
@@ -791,6 +816,26 @@ function openBriefModal(id) {
         <div class="m-val">${(a.primaryVolume || 0).toLocaleString()} / £${(a.cpc || 0).toFixed(2)}</div>
       </div>
     </div>
+
+    <!-- Live Blog Match Alert in Modal -->
+    ${isLiveMatch && matchedBlog ? `
+      <div class="overlap-notice-box">
+        <span style="font-size:1.25rem;">⚠️</span>
+        <div>
+          <strong>Existing Live Lawsons Blog Detected:</strong> "${escapeHtml(matchedBlog.title)}"
+          <div style="margin-top:0.35rem; font-size:0.78rem;">
+            URL: <a href="${escapeHtml(matchedBlog.liveUrl)}" target="_blank" class="overlap-link">${escapeHtml(matchedBlog.liveUrl)}</a>
+          </div>
+          <div style="margin-top:0.25rem; font-size:0.75rem; color:#cbd5e1;">
+            Recommendation: Rather than publishing a competing duplicate post, update this live URL with the attached PAA questions and sub-topics.
+          </div>
+        </div>
+      </div>
+    ` : `
+      <div style="background:rgba(16,185,129,0.1); border:1px solid rgba(16,185,129,0.3); border-radius:8px; padding:0.6rem 0.85rem; font-size:0.8rem; color:#34d399; display:flex; align-items:center; gap:0.5rem;">
+        <span>🟢</span> <strong>100% Net-New Content Opportunity</strong>: No overlapping blog currently exists on the Lawsons website.
+      </div>
+    `}
 
     <div>
       <div class="brief-section-title">Approved Content Title</div>
@@ -860,6 +905,8 @@ function copyBriefPayload() {
     intent: selectedBrief.intent,
     difficulty: selectedBrief.difficulty,
     difficultyLevel: selectedBrief.difficultyLevel,
+    overlapStatus: selectedBrief.overlapStatus,
+    matchedLiveBlog: selectedBrief.matchedBlog,
     groupedKeywords: selectedBrief.groupedKeywords || [],
     secondaryKeywords: selectedBrief.secondaryKeywords || [],
     paaQuestions: selectedBrief.paaQuestions || [],
@@ -886,16 +933,19 @@ function exportCSV() {
   const listToExport = approvedList.length > 0 ? approvedList : allArticles;
 
   const rows = [
-    ['Week', 'Month', 'Pillar', 'Content Title', 'Target Keyword', 'Difficulty Level', 'Difficulty', 'Rankability Score', 'Volume', 'CPC', 'Status']
+    ['Week', 'Month', 'Pillar', 'Content Title', 'Target Keyword', 'Overlap Status', 'Matched Live Blog', 'Difficulty Level', 'Difficulty', 'Rankability Score', 'Volume', 'CPC', 'Status']
   ];
 
   listToExport.forEach(a => {
+    const liveTitle = a.matchedBlog ? a.matchedBlog.title : 'None (100% Net-New)';
     rows.push([
       a.weekNumber,
       `"${a.scheduledMonth}"`,
       `"${a.pillar}"`,
       `"${(a.recommendedTitle || '').replace(/"/g, '""')}"`,
       `"${(a.primaryKeyword || '').replace(/"/g, '""')}"`,
+      `"${a.overlapStatus || 'Net-New Opportunity'}"`,
+      `"${liveTitle.replace(/"/g, '""')}"`,
       `"${a.difficultyLevel}"`,
       a.difficulty,
       a.rankabilityScore,

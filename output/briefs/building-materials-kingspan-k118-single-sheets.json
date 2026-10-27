@@ -9,6 +9,10 @@
   "targetKeyword": "kingspan k118 single sheets",
   "intent": "Informational / Guide",
   "audience": "Trade & DIY",
+  "overlapCheck": {
+    "overlapStatus": "Net-New Opportunity",
+    "matchedBlog": null
+  },
   "seoMetrics": {
     "searchVolume": 10,
     "totalClusterVolume": 10,

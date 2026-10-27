@@ -9,6 +9,24 @@
   "targetKeyword": "garden trellis panels",
   "intent": "Informational / Guide",
   "audience": "Domestic & DIY",
+  "overlapCheck": {
+    "overlapStatus": "Direct Live Match",
+    "matchedBlog": {
+      "id": "248",
+      "title": "Enhance Your Garden With Trellis Panels",
+      "urlKey": "how-to-enhance-your-garden-with-trellis-panels",
+      "liveUrl": "https://www.lawsons.co.uk/blog/how-to-enhance-your-garden-with-trellis-panels",
+      "category": "",
+      "publishedStatus": "Published",
+      "matchedTokens": [
+        "garden",
+        "trellis",
+        "panels"
+      ],
+      "similarityScore": 50,
+      "recommendation": "Refresh existing live blog URL rather than publishing a cannibalizing duplicate"
+    }
+  },
   "seoMetrics": {
     "searchVolume": 3600,
     "totalClusterVolume": 42160,

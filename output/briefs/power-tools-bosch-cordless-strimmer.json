@@ -9,6 +9,10 @@
   "targetKeyword": "bosch cordless strimmer",
   "intent": "Informational / Guide",
   "audience": "DIY & Professionals",
+  "overlapCheck": {
+    "overlapStatus": "Net-New Opportunity",
+    "matchedBlog": null
+  },
   "seoMetrics": {
     "searchVolume": 2400,
     "totalClusterVolume": 37940,

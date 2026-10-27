@@ -9,6 +9,10 @@
   "targetKeyword": "mot 1 sub base",
   "intent": "Informational / Guide",
   "audience": "Trade & Contractors",
+  "overlapCheck": {
+    "overlapStatus": "Net-New Opportunity",
+    "matchedBlog": null
+  },
   "seoMetrics": {
     "searchVolume": 1600,
     "totalClusterVolume": 3100,

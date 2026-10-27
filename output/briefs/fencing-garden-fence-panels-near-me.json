@@ -9,6 +9,24 @@
   "targetKeyword": "garden fence panels near me",
   "intent": "Informational / Guide",
   "audience": "Domestic & DIY",
+  "overlapCheck": {
+    "overlapStatus": "Direct Live Match",
+    "matchedBlog": {
+      "id": "975",
+      "title": "How to Erect Garden Fence Panels",
+      "urlKey": "how-to-erect-garden-fence-panels",
+      "liveUrl": "https://www.lawsons.co.uk/blog/how-to-erect-garden-fence-panels",
+      "category": "",
+      "publishedStatus": "Published",
+      "matchedTokens": [
+        "garden",
+        "fence",
+        "panels"
+      ],
+      "similarityScore": 54.5,
+      "recommendation": "Refresh existing live blog URL rather than publishing a cannibalizing duplicate"
+    }
+  },
   "seoMetrics": {
     "searchVolume": 480,
     "totalClusterVolume": 490,

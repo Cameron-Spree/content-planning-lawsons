@@ -9,6 +9,10 @@
   "targetKeyword": "six foot fence panels",
   "intent": "Informational / Guide",
   "audience": "Domestic & DIY",
+  "overlapCheck": {
+    "overlapStatus": "Net-New Opportunity",
+    "matchedBlog": null
+  },
   "seoMetrics": {
     "searchVolume": 1300,
     "totalClusterVolume": 2320,
